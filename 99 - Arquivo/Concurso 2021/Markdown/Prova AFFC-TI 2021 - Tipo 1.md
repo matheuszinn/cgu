@@ -524,27 +524,30 @@ Observe o código a seguir.
 
 ```
 <!DOCTYPE html>
-```
-
-
-<html> <head>
-
-
-```
+<html>
+<head>
 <script
 src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js">
-```
-
-
 </script>
-
-
-```
 <script>
+//Inserir código aqui
+</script>
+</head>
+<body>
+<h3>Lorem Ipsum</h3>
+<div>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+<p>Pellentesque ut nunc elit. Nullam rutrum nibh placerat.</p>
+</div>
+<p>Fusce rutrum, lacus in laoreet egestas, ex lacus laoreet quam</p>
+<p>Vestibulum ante ipsum primis in posuere cubilia curae</p>
+<button>Remover</button>
+</body>
+</html>
 ```
 
 
-//Inserir código aqui </script> </head> <body> <h3>Lorem Ipsum</h3> <div> Lorem ipsum dolor sit amet, consectetur adipiscing elit. <p>Pellentesque ut nunc elit. Nullam rutrum nibh placerat.</p> </div> <p>Fusce rutrum, lacus in laoreet egestas, ex lacus laoreet quam</p> <p>Vestibulum ante ipsum primis in posuere cubilia curae</p> <button>Remover</button> </body> </html> Para adicionar ao botão o comportamento de remover apenas os elementos-filhos e o conteúdo do elemento div, pode-se utilizar o seguinte trecho de código no elemento script:
+Para adicionar ao botão o comportamento de remover apenas os elementos-filhos e o conteúdo do elemento div, pode-se utilizar o seguinte trecho de código no elemento script:
 
 - **(A)** $(document).ready(function(){ $("button").click(function(){ $("div").empty(); }); });
 - **(B)** $(document).ready(function(){ $("button").click( $("div").clear()); });
@@ -658,7 +661,13 @@ delete from XPTO
 truncate table XPTO
 insert into XPTO (C2) values ('F')
 truncate table XPTO
+```
+
+
 Após a execução desse script, o resultado exibido pelo comando
+
+
+```
 select max(C1) from XPTO
 ```
 
@@ -673,15 +682,7 @@ select max(C1) from XPTO
 
 ### Questão 59
 
-Sobre o MongoDB v5.0, considere as afirmativas a seguir. I. Todos os documentos de uma coleção (collection) devem possuir o mesmo número de campos (fields). II. Um campo presente em diferentes documentos de uma collection pode ter diferentes tipos de dados ao longo dos documentos. III. MongoDB oferece a capacidade de validar esquemas durante
-
-
-```
-operações de inserção (insertion) e atualização (update).
-```
-
-
-Está correto o que se afirma em:
+Sobre o MongoDB v5.0, considere as afirmativas a seguir. I. Todos os documentos de uma coleção (collection) devem possuir o mesmo número de campos (fields). II. Um campo presente em diferentes documentos de uma collection pode ter diferentes tipos de dados ao longo dos documentos. III. MongoDB oferece a capacidade de validar esquemas durante operações de inserção (insertion) e atualização (update). Está correto o que se afirma em:
 
 - **(A)** somente I;
 - **(B)** somente III;
