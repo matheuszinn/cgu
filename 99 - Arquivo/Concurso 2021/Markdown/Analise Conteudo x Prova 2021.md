@@ -1,13 +1,85 @@
-# Análise — Conteúdo Pragmático × Prova 2021
+# Análise — Conteúdo Pragmático × Provas 2021
 
-> Mapeamento entre os tópicos do *Conteúdo Pragmático Prova 2021* e o que efetivamente **caiu na prova** (AFFC-TI 2021, 80 questões objetivas, FGV).
-> Os 4 tipos de prova (1 a 4) contêm **o mesmo conjunto de 80 questões**, apenas com ordem/alternativas embaralhadas — a análise abaixo vale para todos.
+> Mapeamento entre os tópicos do *Conteúdo Pragmático Prova 2021* e o que efetivamente **caiu nas provas** (AFFC 2021, FGV).
+> Foram analisadas as provas de **Conhecimentos Básicos** (manhã: 30 questões objetivas + discursiva) e de **Conhecimentos Específicos** (tarde/AFFC-TI: 80 questões objetivas).
+> Em cada bloco, os 4 tipos de prova (1 a 4) contêm **o mesmo conjunto de questões**, apenas com ordem/alternativas embaralhadas — a análise abaixo vale para todos.
 
 ---
 
 ## 1. Resumo geral
 
-Das grandes áreas listadas no conteúdo pragmático, a prova **cobriu somente a parte de Conhecimentos Específicos**. As áreas de **Língua Portuguesa**, **Língua Inglesa** e **Administração Pública e Políticas Públicas** **não caíram** nesta prova (são cobradas na prova objetiva de conhecimentos gerais/básicos).
+O conteúdo pragmático está dividido em **4 grandes blocos**. As provas cobriram **todos eles**, mas em provas distintas:
+
+| Área do conteúdo | Prova em que caiu | Qtd. questões | % do bloco |
+|------|------|:---:|:---:|
+| Língua Portuguesa | Conhecimentos Básicos (manhã) | 15 | 50% da manhã |
+| Língua Inglesa | Conhecimentos Básicos (manhã) | 5 | 16,7% da manhã |
+| Administração Pública e Políticas Públicas | Conhecimentos Básicos (manhã) | 10 | 33,3% da manhã |
+| Conhecimentos Específicos (Direito + TI) | Conhecimentos Específicos (tarde) | 80 | 100% da tarde |
+
+> **Prova discursiva (manhã):** 1 dissertação (orçamento público / LRF, 50 pts) + 1 questão discursiva (licitações — Lei 8.666/1993 e 14.133/2021, 20 pts).
+
+---
+
+## 2. Prova de Conhecimentos Básicos (manhã)
+
+### 2.1 Língua Portuguesa (15 questões — Q1 a Q15)
+
+| Questão | Assunto cobrado | Tópico do conteúdo |
+|:---:|------|------|
+| 1 | Recursos argumentativos (tese, exemplo) | Interpretação / compreensão de texto |
+| 2 | Argumentação (vontade × entendimento) | Interpretação / compreensão de texto |
+| 3 | Intimidação e persuasão no discurso | Interpretação / compreensão de texto |
+| 4 | Tipologia textual (narrativo, argumentativo) | Modos de organização discursiva |
+| 5 | Estrutura argumentativa (tese e argumentos) | Exposição argumentativa |
+| 6 | Técnicas de apoio às ideias (estratégias) | Compreensão de texto |
+| 7 | Texto expositivo (objetividade, informação) | Exposição informativa |
+| 8 | Narração — elementos do texto narrativo | Narração |
+| 9 | Conectores lógicos (relações semânticas) | Estruturas linguísticas / coerência |
+| 10 | Interpretação de texto jornalístico | Interpretação / compreensão de texto |
+| 11 | Tese e argumento (relação lógica) | Exposição argumentativa |
+| 12 | Interpretação de crônica | Interpretação de texto |
+| 13 | Interpretação de texto sociológico | Interpretação de texto |
+| 14 | Comparação entre textos | Compreensão de texto |
+| 15 | Texto descritivo | Descrição |
+
+### 2.2 Língua Inglesa (5 questões — Q16 a Q20)
+
+| Questão | Assunto cobrado | Tópico do conteúdo |
+|:---:|------|------|
+| 16 | Compreensão geral de texto (título, inferência) | Estratégias de leitura |
+| 17 | Verdadeiro/Falso sobre informações específicas | Reconhecimento de informações específicas |
+| 18 | Vocabulário em contexto (analogia/metáfora) | Palavras em contexto / percepção de metáfora |
+| 19 | Localização de informação específica | Reconhecimento de informações específicas |
+| 20 | Vocabulário — significado de expressões | Sinonímia / palavras mais frequentes |
+
+### 2.3 Administração Pública e Políticas Públicas (10 questões — Q21 a Q30)
+
+| Questão | Assunto cobrado | Tópico do conteúdo |
+|:---:|------|------|
+| 21 | Wicked problems (problemas públicos) | Políticas públicas |
+| 22 | Conselhos de gestão e participação social | Processos participativos de gestão pública |
+| 23 | Política Nacional de Governo Aberto (Decreto 10.160/2019) | Governo Aberto |
+| 24 | Estratégia de Governo Digital (Decreto 10.332/2020) | Governo Digital |
+| 25 | Controles sobre o corpo burocrático | Papel das instituições nas políticas públicas |
+| 26 | Planejamento e execução de políticas públicas | Ciclo das políticas públicas |
+| 27 | PDCA (planejamento orientado a resultados) | Planejamento nas organizações públicas (PDCA) |
+| 28 | Gestão por resultados (eficiência, eficácia, accountability) | Gestão por resultados |
+| 29 | Corrupção na formulação de políticas públicas | Corrupção e políticas públicas |
+| 30 | Ferramentas de políticas públicas (instituições) | Papel das instituições nas políticas públicas |
+
+### 2.4 Prova Discursiva
+
+| Item | Assunto | Valor |
+|------|------|:---:|
+| Dissertação | Orçamento público: PPA/LDO/LOA, orçamento impositivo, princípios orçamentários, emendas constitucionais, LRF (limites/controle), sistema de controle interno | 50 pts |
+| Discursiva | Licitações: taxa de administração (Lei 8.666/1993) e dispensa de licitação (Lei 14.133/2021) | 20 pts |
+
+---
+
+## 3. Prova de Conhecimentos Específicos (tarde / AFFC-TI)
+
+### 3.1 Distribuição por área
 
 | Área | Qtd. questões | % da prova |
 |------|:---:|:---:|
@@ -23,11 +95,7 @@ Das grandes áreas listadas no conteúdo pragmático, a prova **cobriu somente a
 | Segurança da Informação | 8 | 10,0% |
 | **Total** | **80** | **100%** |
 
----
-
-## 2. Mapeamento questão a questão (Tipo 1)
-
-### 2.1 Direito Constitucional (10 questões)
+### 3.2 Direito Constitucional (10 questões)
 
 | Questão | Assunto cobrado | Tópico do conteúdo |
 |:---:|------|------|
@@ -42,7 +110,7 @@ Das grandes áreas listadas no conteúdo pragmático, a prova **cobriu somente a
 | 9 | Objeção de consciência (atividade de interesse coletivo) | Direitos e garantias fundamentais |
 | 10 | Anistia e indulto (competência legislativa) | Poder Legislativo |
 
-### 2.2 Direito Administrativo (10 questões)
+### 3.3 Direito Administrativo (14 questões)
 
 | Questão | Assunto cobrado | Tópico do conteúdo |
 |:---:|------|------|
@@ -61,7 +129,7 @@ Das grandes áreas listadas no conteúdo pragmático, a prova **cobriu somente a
 | 23 | Indicação para Diretoria de agência reguladora (Lei nº 9.986/2000) | Organização administrativa |
 | 24 | Controle da Administração — cadastro de inadimplentes (STF) | Controle da Administração |
 
-### 2.3 Administração Financeira e Orçamentária (5 questões)
+### 3.4 Administração Financeira e Orçamentária (5 questões)
 
 | Questão | Assunto cobrado | Tópico do conteúdo |
 |:---:|------|------|
@@ -71,7 +139,7 @@ Das grandes áreas listadas no conteúdo pragmático, a prova **cobriu somente a
 | 28 | Despesa total com pessoal (limites) | Lei de Responsabilidade Fiscal |
 | 29 | Estágios da receita pública | Estágios da Receita |
 
-### 2.4 Fundamentos de Auditoria Governamental (6 questões)
+### 3.5 Fundamentos de Auditoria Governamental (6 questões)
 
 | Questão | Assunto cobrado | Tópico do conteúdo |
 |:---:|------|------|
@@ -82,7 +150,7 @@ Das grandes áreas listadas no conteúdo pragmático, a prova **cobriu somente a
 | 34 | Modelo de 3 linhas de defesa | MOT 2017 |
 | 35 | Inobservância de diretrizes do referencial técnico | MOT 2017 |
 
-### 2.5 CGU — Organização, Competências e Sistemas Estruturantes (5 questões)
+### 3.6 CGU — Organização, Competências e Sistemas Estruturantes (5 questões)
 
 | Questão | Assunto cobrado | Tópico do conteúdo |
 |:---:|------|------|
@@ -92,7 +160,7 @@ Das grandes áreas listadas no conteúdo pragmático, a prova **cobriu somente a
 | 39 | Avocação de PAD pelo Ministro da CGU | Decreto nº 5.480/2005 |
 | 40 | Competência da CGU em licitação irregular (PAR) | Sistemas estruturantes |
 
-### 2.6 Ciência de Dados (8 questões)
+### 3.7 Ciência de Dados (8 questões)
 
 | Questão | Assunto cobrado | Tópico do conteúdo |
 |:---:|------|------|
@@ -105,7 +173,7 @@ Das grandes áreas listadas no conteúdo pragmático, a prova **cobriu somente a
 | 47 | Regressão linear — valor residual | Técnicas de regressão |
 | 48 | PLN — Word embedding, análise léxica | Processamento de linguagem natural |
 
-### 2.7 Desenvolvimento de Sistemas (8 questões)
+### 3.8 Desenvolvimento de Sistemas (8 questões)
 
 | Questão | Assunto cobrado | Tópico do conteúdo |
 |:---:|------|------|
@@ -118,7 +186,7 @@ Das grandes áreas listadas no conteúdo pragmático, a prova **cobriu somente a
 | 55 | Scrum — Meta da Sprint | Metodologias ágeis |
 | 56 | Testes baseados em experiência | Testes de software |
 
-### 2.8 Bancos de Dados (8 questões)
+### 3.9 Bancos de Dados (8 questões)
 
 | Questão | Assunto cobrado | Tópico do conteúdo |
 |:---:|------|------|
@@ -131,7 +199,7 @@ Das grandes áreas listadas no conteúdo pragmático, a prova **cobriu somente a
 | 63 | DAMA-DMBOK — Data Stewards | Governança de dados |
 | 64 | Propriedades ACID (atomicidade, isolamento, durabilidade) | Bancos de dados relacionais |
 
-### 2.9 Infraestrutura Tecnológica (8 questões)
+### 3.10 Infraestrutura Tecnológica (8 questões)
 
 | Questão | Assunto cobrado | Tópico do conteúdo |
 |:---:|------|------|
@@ -144,7 +212,7 @@ Das grandes áreas listadas no conteúdo pragmático, a prova **cobriu somente a
 | 71 | ITIL v4 — dimensões | Gestão de Serviços (ITIL v4) |
 | 72 | DevOps — infraestrutura como código (API em nuvem) | DevOps e DevSecOps |
 
-### 2.10 Segurança da Informação (8 questões)
+### 3.11 Segurança da Informação (8 questões)
 
 | Questão | Assunto cobrado | Tópico do conteúdo |
 |:---:|------|------|
@@ -159,21 +227,22 @@ Das grandes áreas listadas no conteúdo pragmático, a prova **cobriu somente a
 
 ---
 
-## 3. O que NÃO caiu na prova
+## 4. Cobertura do conteúdo pragmático
 
-- **Língua Portuguesa** — nenhuma questão (bloco de conhecimentos gerais).
-- **Língua Inglesa** — nenhuma questão (bloco de conhecimentos gerais).
-- **Administração Pública e Políticas Públicas** — nenhuma questão (bloco de conhecimentos gerais).
+Com as duas provas analisadas (manhã + tarde), **todo o conteúdo pragmático foi efetivamente cobrado** — nenhum dos 4 grandes blocos ficou sem questões:
 
-> Observação: estes blocos compõem a prova de **conhecimentos gerais/básicos** (período da manhã), que não está entre os arquivos analisados (prova de conhecimentos específicos — período da tarde).
+- **Língua Portuguesa** → caiu na manhã (interpretação, tipologia, argumentação).
+- **Língua Inglesa** → caiu na manhã (leitura, vocabulário, inferência).
+- **Administração Pública e Políticas Públicas** → caiu na manhã (ciclo de PP, participação social, governo aberto/digital, PDCA, gestão por resultados, corrupção).
+- **Conhecimentos Específicos** → caiu na tarde (Direito Constitucional/Administrativo, AFO, Auditoria, CGU e as 5 áreas de TI).
 
 ---
 
-## 4. Observações úteis para estudo
+## 5. Observações úteis para estudo
 
-1. **Peso equilibrado entre as áreas técnicas**: as 5 áreas de TI (Ciência de Dados, Desenvolvimento, Bancos, Infraestrutura, Segurança) respondem por 40 das 80 questões (8 cada = 10% da prova).
-2. **Direito concentrado**: Direito Constitucional + Direito Administrativo somam 24 questões (30%). Dentro de Direito Administrativo, os destaques foram *agentes públicos*, *processo administrativo*, *licitações*, *ética pública* e *controle*.
-3. **Forte presença de legislação específica**: Decreto 8.777/2016, Lei 14.133/2021, LGPD, Lei 8.112, Decreto 5.480/2005, IN GSI 1/2020, NC 21/IN01, IN SGD/ME 1/2019.
-4. **Ciência de Dados prioriza fundamentos**: classificação, regressão, métricas (matriz de confusão) e Python — mais do que Big Data avançado.
-5. **Auditoria focada no MOT 2017**: tipo de avaliação, testes de controle, 3 linhas de defesa e papéis da equipe.
-6. **A prova não cobrou** vários subtópicos listados no conteúdo (ex.: visão computacional, deep learning, redução de dimensionalidade, Scala, R, TensorFlow, BPMN, CSS, data warehouse multidimensional, contratos de TI na IN ME 40/2020, protocolos SIP/H323 detalhados, Zabbix 5, Zero Trust, DLP). Isso indica que o edital é mais amplo do que o que efetivamente caiu — mas o **conteúdo pragmático é um bom filtro de prioridade**.
+1. **Duas provas, pesos diferentes**: a manhã (conhecimentos básicos) tem 30 questões com forte peso de Língua Portuguesa (50%) e Administração Pública (33%); a tarde (conhecimentos específicos) tem 80 questões concentradas em Direito e TI.
+2. **Direito concentrado (tarde)**: Direito Constitucional + Direito Administrativo somam 24 questões (30%). Destaques: *agentes públicos*, *processo administrativo*, *licitações*, *ética pública* e *controle*.
+3. **Áreas de TI equilibradas (tarde)**: Ciência de Dados, Desenvolvimento, Bancos, Infraestrutura e Segurança respondem por 40 das 80 questões (8 cada).
+4. **Forte presença de legislação específica**: Decreto 8.777/2016, Lei 14.133/2021, LGPD, Lei 8.112, Decreto 5.480/2005, IN GSI 1/2020, NC 21/IN01, IN SGD/ME 1/2019, Decreto 10.160/2019, Decreto 10.332/2020.
+5. **A prova discursiva complementa o objetivo**: orçamento público/LRF (dissertação) e licitações (discursiva) — temas que também são cobrados em Direito/Orçamento na parte objetiva.
+6. **O conteúdo pragmático é um bom filtro de prioridade**: vários subtópicos listados (ex.: visão computacional, deep learning, redução de dimensionalidade, Scala, R, TensorFlow, BPMN, CSS, Zero Trust, DLP, protocolos SIP/H323 detalhados) não caíram — mas o edital é mais amplo que o que efetivamente apareceu.
