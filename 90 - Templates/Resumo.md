@@ -2,7 +2,7 @@
 tipo: resumo
 disciplina: "<% tp.system.prompt("Disciplina", "Direito Administrativo") %>"
 tema: "<% tp.system.prompt("Assunto geral (ex: Licitações)", "") %>"
-status: germinar
+status: novo
 data: "<% tp.date.now("YYYY-MM-DD") %>"
 tags:
   - resumo

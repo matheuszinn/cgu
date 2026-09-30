@@ -33,7 +33,7 @@ Para instalar plugins da comunidade, o modo de plugins restrito precisa estar de
 ## 3. Convenções
 
 - **Frontmatter (YAML)** em toda nota: `tipo`, `disciplina`, `tema`, `status`, `data`, `tags`
-- **Status**: `germinar` (novo) → `plantar` (em desenvolvimento) → `colher` (dominado)
+- **Status**: `novo` (acabou de criar) → `estudando` (em desenvolvimento) → `dominado` (revisado e dominado)
 - **Tags principais**: `#nota`, `#resumo`, `#flashcard`, `#questão`, `#pendente`, `#moc`
 - **`disciplina`** deve ter exatamente o mesmo nome do MOC (ex: `Direito Administrativo`) — é isso que conecta nota ↔ MOC via Dataview
 
@@ -44,7 +44,7 @@ Para instalar plugins da comunidade, o modo de plugins restrito precisa estar de
 3. **Flashcards**: pontos-chave viram flashcards (`Q::`/`A::`) e o Spaced Repetition agenda revisões
 4. **Questões**: resolver questões antigas e registrar erros com tag `#pendente`
 5. **Kanban**: mover tópicos do edital entre colunas conforme evolui
-6. **Revisar**: usar a Home e os MOCs para revisar e atualizar o `status` para `colher`
+6. **Revisar**: usar a Home e os MOCs para revisar e atualizar o `status` para `dominado`
 
 ## 5. Backups (Obsidian Git)
 

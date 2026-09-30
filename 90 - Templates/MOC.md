@@ -1,7 +1,7 @@
 ---
 tipo: moc
 disciplina: "<% tp.system.prompt("Disciplina", "Direito Administrativo") %>"
-status: germinar
+status: novo
 data: "<% tp.date.now("YYYY-MM-DD") %>"
 tags:
   - moc
