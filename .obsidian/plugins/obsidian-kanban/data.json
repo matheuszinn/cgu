@@ -1,0 +1,6 @@
+{
+  "new-card-insertion-method": "append",
+  "show-checkboxes": false,
+  "link-date-to-daily-note": false,
+  "date-display-format": "YYYY-MM-DD"
+}
