@@ -197,11 +197,9 @@ The extract that refers specifically to a clash that cannot be avoided is:
 
 ### Questão 20
 
-```
+```md
 The function of the extract “whereas an auditor is required to
 remain independent” (fifth paragraph) is to bring out a(n):
-
-
 ```
 
 - **(A)** gross misunderstanding;
