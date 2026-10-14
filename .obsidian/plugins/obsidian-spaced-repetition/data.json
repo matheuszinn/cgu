@@ -46,8 +46,8 @@
     "initiallyExpandAllSubdecksInTree": true,
     "showContextInCards": true,
     "showIntervalInReviewButtons": true,
-    "flashcardHeightPercentage": 60,
-    "flashcardWidthPercentage": 60,
+    "flashcardHeightPercentage": 60.05398110661269,
+    "flashcardWidthPercentage": 60.02928257686676,
     "flashcardHeightPercentageMobile": 100,
     "flashcardWidthPercentageMobile": 100,
     "flashcardAgainText": "Again",
@@ -80,7 +80,7 @@
     "burySiblingsCards": false,
     "flushToAnki": false
   },
-  "buryDate": "2026-10-01",
+  "buryDate": "2026-10-14",
   "buryList": [],
   "historyDeck": null,
   "scheduleData": {

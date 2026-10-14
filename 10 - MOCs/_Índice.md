@@ -2,23 +2,40 @@
 tipo: índice
 tags:
   - moc
+  - cgu-2026
 ---
 
 # Índice de Disciplinas (MOCs)
 
-> Quando souber o conteúdo do edital, crie um MOC por disciplina usando o template `MOC.md` (comando do Templater). Os painéis Dataview dentro dele listam notas, resumos, flashcards e questões automaticamente.
+> Conteúdo programático do **Edital nº 1/2026 – CGU – AFFC** organizado em MOCs.
+> Alvo: **Cargo 4 – TI / Desenvolvimento de Sistemas**. Texto integral: [[Ed_1_2026_CGU_Abertura]].
 
-## Como criar um MOC
+## Conhecimentos básicos
 
-1. Pressione `Ctrl/Cmd + P` e procure por "Templater: Insert template"
-2. Escolha `MOC.md`, informe a disciplina (ex: "Direito Administrativo")
-3. Cole no topo os itens do edital daquela matéria
-4. Quando criar notas/resumos, preencha `disciplina` com o mesmo nome
+- [[Estado, Democracia, Direitos e Ciência Política]]
+- [[Sociedade Brasileira, Desigualdades, Diversidade e Desenvolvimento]]
+- [[Ética Pública e Responsabilidade Profissional]]
+- [[Administração Pública e Fundamentos de Políticas Públicas]]
 
-## Disciplinas
+## Conhecimentos complementares
+
+- [[Fundamentos de Governança, Riscos e Integridade Pública e Privada]]
+- [[Fundamentos de Transparência, Ouvidoria e Participação Social]]
+- [[Fundamentos de Direito Público Aplicado, Controle e Responsabilização]]
+- [[Fundamentos de Evidências, Dados e Inteligência Artificial]]
+- [[Fundamentos de Auditoria Governamental e Atuação Integrada da CGU]]
+
+## Conhecimentos específicos — Desenvolvimento de Sistemas
+
+- [[Engenharia de Software e Programação]]
+- [[Arquitetura e Integração de Sistemas]]
+- [[Persistência, Integração e Proteção de Dados]]
+- [[Desenvolvimento Seguro, Qualidade e Gestão da Entrega]]
+
+## Todas as disciplinas (automático)
 
 ```dataview
-TABLE status AS "Status"
+TABLE status AS "Status", data AS "Criado"
 FROM "10 - MOCs"
 WHERE tipo = "moc"
 SORT file.name ASC

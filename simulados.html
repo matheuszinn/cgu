@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Simulados — CGU 2026 (AFFC / Desenvolvimento de Sistemas)</title>
+  <style>
+    :root {
+      --bg: #f5f6f8;
+      --card: #ffffff;
+      --ink: #1f2933;
+      --muted: #64748b;
+      --line: #e2e8f0;
+      --brand: #1e5aa8;
+      --ok: #16a34a;
+      --ok-bg: #e8f7ee;
+      --err: #dc2626;
+      --err-bg: #fdeaea;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--ink);
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+      line-height: 1.5;
+    }
+    header {
+      background: var(--brand);
+      color: #fff;
+      padding: 20px 16px;
+    }
+    header .wrap { max-width: 860px; margin: 0 auto; }
+    header h1 { margin: 0 0 4px; font-size: 1.35rem; }
+    header p { margin: 0; opacity: .9; font-size: .9rem; }
+    main { max-width: 860px; margin: 0 auto; padding: 18px 16px 60px; }
+    .toolbar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      align-items: center;
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      padding: 12px 14px;
+      margin-bottom: 14px;
+    }
+    .file-btn {
+      background: var(--brand);
+      color: #fff;
+      border: none;
+      border-radius: 8px;
+      padding: 9px 14px;
+      font-size: .92rem;
+      cursor: pointer;
+    }
+    .file-btn:hover { filter: brightness(1.08); }
+    input[type="file"] { display: none; }
+    select, .ghost {
+      border: 1px solid var(--line);
+      background: #fff;
+      border-radius: 8px;
+      padding: 8px 10px;
+      font-size: .9rem;
+      color: var(--ink);
+      cursor: pointer;
+    }
+    .score { margin-left: auto; font-weight: 600; color: var(--brand); font-size: .95rem; }
+    .hint { color: var(--muted); font-size: .88rem; }
+    .drop {
+      border: 2px dashed var(--line);
+      border-radius: 10px;
+      padding: 26px 16px;
+      text-align: center;
+      color: var(--muted);
+      background: #fff;
+    }
+    .drop.over { border-color: var(--brand); color: var(--brand); background: #eef4fc; }
+    section.prova { margin-top: 22px; }
+    section.prova h2 {
+      font-size: 1.1rem;
+      margin: 0 0 2px;
+      border-left: 4px solid var(--brand);
+      padding-left: 10px;
+    }
+    section.prova .tema { color: var(--muted); font-size: .85rem; margin: 0 0 12px 14px; }
+    .question {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      padding: 14px 16px;
+      margin-bottom: 14px;
+    }
+    .qnum { font-size: .78rem; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); }
+    .qtext { font-weight: 600; margin: 4px 0 12px; }
+    .options { display: flex; flex-direction: column; gap: 8px; }
+    .opt {
+      text-align: left;
+      background: #fff;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 10px 12px;
+      font: inherit;
+      color: inherit;
+      cursor: pointer;
+      display: flex;
+      gap: 8px;
+      transition: background .12s, border-color .12s;
+    }
+    .opt:hover:not(:disabled) { background: #eef4fc; border-color: #bcd3ef; }
+    .opt:disabled { cursor: default; }
+    .opt .letter { font-weight: 700; color: var(--brand); }
+    .opt.correct { background: var(--ok-bg); border-color: var(--ok); }
+    .opt.correct .letter { color: var(--ok); }
+    .opt.wrong { background: var(--err-bg); border-color: var(--err); }
+    .opt.wrong .letter { color: var(--err); }
+    .explain {
+      margin-top: 12px;
+      border-radius: 8px;
+      padding: 10px 12px;
+      font-size: .92rem;
+      display: none;
+    }
+    .explain.acerto { background: var(--ok-bg); border: 1px solid var(--ok); }
+    .explain.erro { background: var(--err-bg); border: 1px solid var(--err); }
+    .explain strong { display: block; margin-bottom: 6px; }
+    .explain p { margin: 0; }
+    footer { text-align: center; color: var(--muted); font-size: .8rem; padding: 20px 0; }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="wrap">
+      <h1>Simulados — CGU 2026 · AFFC / Desenvolvimento de Sistemas</h1>
+      <p>Escolha o arquivo JSON, responda as questões e veja na hora se acertou — com a explicação da resposta correta.</p>
+    </div>
+  </header>
+
+  <main>
+    <div class="toolbar">
+      <label class="file-btn" for="file">📂 Escolher JSON</label>
+      <input type="file" id="file" accept=".json,application/json" />
+      <select id="filter" disabled>
+        <option value="__all__">Todas as provas</option>
+      </select>
+      <button class="ghost" id="reset" disabled>↺ Reiniciar</button>
+      <span class="score" id="score"></span>
+    </div>
+
+    <div id="drop" class="drop">
+      Nenhuma prova carregada.<br />
+      Clique em <strong>Escolher JSON</strong> (ou arraste o arquivo <code>provas_computacao_cgu_2026.json</code> aqui).
+      <p class="hint">Dica: o arquivo deve estar no mesmo computador; o navegador não consegue abrir arquivos da pasta sem você selecioná-los.</p>
+    </div>
+
+    <div id="app"></div>
+    <footer>Estudo pessoal — Edital nº 1/2026 – CGU – AFFC.</footer>
+  </main>
+
+  <script>
+    const fileInput = document.getElementById("file");
+    const filter = document.getElementById("filter");
+    const resetBtn = document.getElementById("reset");
+    const scoreEl = document.getElementById("score");
+    const app = document.getElementById("app");
+    const drop = document.getElementById("drop");
+    let dataset = null;
+
+    function el(tag, cls, text) {
+      const e = document.createElement(tag);
+      if (cls) e.className = cls;
+      if (text != null) e.textContent = text;
+      return e;
+    }
+
+    function updateScore() {
+      let answered = 0, correct = 0;
+      document.querySelectorAll(".question").forEach((c) => {
+        if (c.offsetParent === null) return; // oculto pelo filtro
+        if (c.dataset.done === "1") {
+          answered++;
+          if (c.dataset.correct === "1") correct++;
+        }
+      });
+      scoreEl.textContent = answered
+        ? `Acertos: ${correct} de ${answered} respondida(s)`
+        : "";
+    }
+
+    function answer(btn, q, card, expEl, letter) {
+      if (card.dataset.done === "1") return;
+      card.dataset.done = "1";
+      const certa = q.resposta_certa;
+      const acertou = letter === certa;
+      card.dataset.correct = acertou ? "1" : "0";
+
+      card.querySelectorAll(".opt").forEach((b) => {
+        b.disabled = true;
+        const L = b.dataset.letter;
+        if (L === certa) b.classList.add("correct");
+        if (L === letter && !acertou) b.classList.add("wrong");
+      });
+
+      expEl.style.display = "block";
+      expEl.classList.add(acertou ? "acerto" : "erro");
+      expEl.appendChild(
+        el("strong", null,
+          (acertou ? "✔ Você acertou! " : "✘ Você errou. ") +
+          "Resposta correta: " + certa + ") " + q.respostas[certa])
+      );
+      expEl.appendChild(el("p", null, q.explicacao || "Sem explicação cadastrada."));
+      updateScore();
+    }
+
+    function renderProva(prova) {
+      const sec = el("section", "prova");
+      sec.dataset.moc = prova.moc;
+      sec.appendChild(el("h2", null, prova.moc));
+      if (prova.tema) sec.appendChild(el("p", "tema", prova.tema));
+
+      prova.questoes.forEach((q) => {
+        const card = el("div", "question");
+        card.appendChild(el("div", "qnum", "Questão " + q.numero));
+        card.appendChild(el("div", "qtext", q.questao));
+
+        const opts = el("div", "options");
+        const exp = el("div", "explain");
+        ["A", "B", "C", "D", "E"].forEach((L) => {
+          if (q.respostas[L] == null) return;
+          const b = el("button", "opt");
+          b.type = "button";
+          b.dataset.letter = L;
+          b.appendChild(el("span", "letter", L + ")"));
+          b.appendChild(el("span", "otext", q.respostas[L]));
+          b.addEventListener("click", () => answer(b, q, card, exp, L));
+          opts.appendChild(b);
+        });
+        card.appendChild(opts);
+        card.appendChild(exp);
+        sec.appendChild(card);
+      });
+      return sec;
+    }
+
+    function render(data) {
+      dataset = data;
+      app.innerHTML = "";
+      filter.innerHTML = '<option value="__all__">Todas as provas</option>';
+      (data.provas || []).forEach((p, i) => {
+        app.appendChild(renderProva(p));
+        const o = document.createElement("option");
+        o.value = p.moc;
+        o.textContent = p.moc;
+        filter.appendChild(o);
+      });
+      filter.disabled = false;
+      resetBtn.disabled = false;
+      drop.style.display = "none";
+      updateScore();
+    }
+
+    function reset() {
+      if (dataset) render(dataset);
+      filter.value = "__all__";
+    }
+
+    function loadText(text) {
+      try {
+        const data = JSON.parse(text);
+        if (!data.provas) throw new Error("O JSON não contém a chave 'provas'.");
+        render(data);
+      } catch (e) {
+        alert("Não foi possível ler o JSON: " + e.message);
+      }
+    }
+
+    fileInput.addEventListener("change", (ev) => {
+      const f = ev.target.files[0];
+      if (!f) return;
+      const reader = new FileReader();
+      reader.onload = () => loadText(reader.result);
+      reader.readAsText(f, "utf-8");
+    });
+
+    filter.addEventListener("change", () => {
+      const v = filter.value;
+      document.querySelectorAll("section.prova").forEach((s) => {
+        s.style.display = (v === "__all__" || s.dataset.moc === v) ? "" : "none";
+      });
+      updateScore();
+    });
+
+    resetBtn.addEventListener("click", reset);
+
+    // drag and drop
+    ["dragover", "dragenter"].forEach((t) =>
+      drop.addEventListener(t, (e) => { e.preventDefault(); drop.classList.add("over"); })
+    );
+    ["dragleave", "drop"].forEach((t) =>
+      drop.addEventListener(t, () => drop.classList.remove("over"))
+    );
+    drop.addEventListener("drop", (e) => {
+      e.preventDefault();
+      const f = e.dataTransfer.files[0];
+      if (f) {
+        const reader = new FileReader();
+        reader.onload = () => loadText(reader.result);
+        reader.readAsText(f, "utf-8");
+      }
+    });
+
+    // Tentativa de carregar automaticamente quando servido via http(s)
+    fetch("provas_computacao_cgu_2026.json")
+      .then((r) => (r.ok ? r.text() : Promise.reject(new Error("não encontrado"))))
+      .then(loadText)
+      .catch(() => { /* abrindo via file:// — use o seletor de arquivo */ });
+  </script>
+</body>
+</html>

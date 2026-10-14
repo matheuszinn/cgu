@@ -9,8 +9,8 @@ tags:
 
 # <% tp.file.title %>
 
-Q:: <% tp.file.cursor() %>
-
-A::
+<% tp.file.cursor() %>
+?
+Resposta
 
 <!--SR:!<% tp.date.now("YYYY-MM-DD") %>,1,250-->

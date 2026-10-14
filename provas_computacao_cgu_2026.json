@@ -1,0 +1,577 @@
+{
+  "titulo": "Provas de Computação — CGU 2026 (AFFC — Desenvolvimento de Sistemas)",
+  "descricao": "Provas de múltipla escolha (A a E) do Cargo 4 (TI / Desenvolvimento de Sistemas) do Edital nº 1/2026 – CGU – AFFC. Alternativas com extensão e nível de detalhe equivalentes; os distratores contêm erros sutis. Cada questão traz gabarito e explicação.",
+  "fonte": "Ed_1_2026_CGU_Abertura.md",
+  "provas": [
+    {
+      "moc": "Engenharia de Software e Programação",
+      "tema": "Requisitos, programação Java, estruturas de dados, concorrência, interfaces e manutenção",
+      "questoes": [
+        {
+          "numero": 1,
+          "questao": "Sobre a classificação e o papel dos requisitos de software, assinale a alternativa correta.",
+          "respostas": {
+            "A": "Requisitos funcionais definem os serviços e comportamentos do sistema; não funcionais definem atributos de qualidade e restrições.",
+            "B": "Requisitos funcionais definem os atributos de qualidade do sistema; não funcionais definem as funcionalidades e regras de negócio.",
+            "C": "Requisitos funcionais definem as funcionalidades do sistema; não funcionais tratam apenas das regras de negócio do domínio.",
+            "D": "Requisitos não funcionais definem atributos de qualidade, porém só podem ser verificados após a implantação da aplicação.",
+            "E": "Requisitos funcionais e não funcionais delimitam o escopo, sem influenciar arquitetura, testes ou critérios de aceitação."
+          },
+          "resposta_certa": "A",
+          "explicacao": "Funcionais definem o que o sistema faz (serviços/comportamentos); não funcionais definem qualidade e restrições (desempenho, segurança, usabilidade), influenciando arquitetura, testes e aceitação."
+        },
+        {
+          "numero": 2,
+          "questao": "Sobre o encapsulamento em Java, é correto afirmar que:",
+          "respostas": {
+            "A": "Declarar os atributos como públicos e acessá-los diretamente, permitindo que qualquer classe imponha as invariantes.",
+            "B": "Tornar todos os métodos privados, de modo que apenas a própria classe consiga herdar suas operações e seu estado.",
+            "C": "Expor o estado interno via atributos protegidos, para que as subclasses o alterem livremente sem métodos de acesso.",
+            "D": "Substituir o acesso a atributos por variáveis globais, reduzindo o acoplamento entre os objetos do sistema.",
+            "E": "Ocultar o estado interno com atributos privados e expor operações que o manipulam, preservando invariantes da classe."
+          },
+          "resposta_certa": "E",
+          "explicacao": "Encapsular é proteger o estado (atributos privados) e expor operações controladas, preservando invariantes. Atributos públicos/protegidos ou variáveis globais enfraquecem o encapsulamento."
+        },
+        {
+          "numero": 3,
+          "questao": "A respeito de sobrecarga e sobrescrita de métodos em Java, assinale a alternativa correta.",
+          "respostas": {
+            "A": "A sobrecarga redefine um método herdado com a mesma assinatura; a sobrescrita cria variantes com parâmetros distintos.",
+            "B": "A sobrecarga cria métodos de mesmo nome com assinaturas distintas; a sobrescrita reimplementa um método herdado.",
+            "C": "A sobrecarga ocorre entre classes da mesma hierarquia; a sobrescrita ocorre apenas dentro de uma única classe.",
+            "D": "A sobrecarga e a sobrescrita exigem métodos estáticos, pois a escolha do método ocorre em tempo de compilação.",
+            "E": "A sobrecarga é resolvida em tempo de execução pelo tipo real; a sobrescrita, em compilação, pelo tipo declarado."
+          },
+          "resposta_certa": "B",
+          "explicacao": "Sobrecarga: mesmo nome, assinaturas diferentes (resolvida em compilação). Sobrescrita: redefinição de método herdado com assinatura compatível (polimorfismo em tempo de execução)."
+        },
+        {
+          "numero": 4,
+          "questao": "Sobre igualdade de objetos em Java, é correto afirmar que:",
+          "respostas": {
+            "A": "O operador == compara o conteúdo lógico dos objetos; equals() compara as referências de memória apontadas pelas variáveis do programa.",
+            "B": "O operador == e equals() sempre comparam o mesmo conteúdo, independentemente de a classe ser final ou não.",
+            "C": "Sobrescrever equals() dispensa hashCode(), pois o contrato de igualdade não se aplica a coleções baseadas em hash.",
+            "D": "equals() compara apenas as referências dos objetos e não pode ser sobrescrito em classes que não sejam declaradas finais.",
+            "E": "O operador == compara referências; equals() pode ser sobrescrito para comparar conteúdo, exigindo coerência com hashCode()."
+          },
+          "resposta_certa": "E",
+          "explicacao": "== compara referências. equals() pode ser sobrescrito para igualdade lógica e, por contrato, objetos iguais devem ter o mesmo hashCode (relevante em coleções baseadas em hash)."
+        },
+        {
+          "numero": 5,
+          "questao": "A respeito da imutabilidade de String em Java, assinale a alternativa correta.",
+          "respostas": {
+            "A": "É imutável, mas a concatenação reutiliza o mesmo buffer interno, sem criar objetos nem custo relevante.",
+            "B": "É mutável, e por isso pode ser alterada no lugar e compartilhada com segurança entre múltiplas threads.",
+            "C": "É imutável, o que impede seu uso como chave em coleções baseadas em hash e como parâmetro de métodos.",
+            "D": "É imutável: cada concatenação cria novo objeto, e em repetições intensas convém usar StringBuilder.",
+            "E": "É imutável apenas quando declarada final; caso contrário, seu conteúdo pode ser alterado diretamente em memória."
+          },
+          "resposta_certa": "D",
+          "explicacao": "String é imutável: operações que parecem alterá-la criam novos objetos, tornando StringBuilder preferível em laços. A imutabilidade favorece uso como chave em coleções."
+        },
+        {
+          "numero": 6,
+          "questao": "Sobre o tratamento de exceções em Java, é correto afirmar que:",
+          "respostas": {
+            "A": "Verificadas derivam de RuntimeException e dispensam declaração; não verificadas exigem try/catch obrigatório em todos os casos.",
+            "B": "Verificadas são checadas na compilação e exigem tratamento ou declaração; não verificadas derivam de RuntimeException.",
+            "C": "Verificadas e não verificadas são tratadas igualmente pelo compilador, que exige captura explícita de ambas.",
+            "D": "Não verificadas representam condições recuperáveis esperadas; verificadas representam erros de programação.",
+            "E": "O bloco finally é executado apenas quando não há exceção, e as verificadas herdam diretamente da classe Error."
+          },
+          "resposta_certa": "B",
+          "explicacao": "Checked exceptions são verificadas em compilação (tratar ou declarar); unchecked herdam de RuntimeException e indicam defeitos de programação. finally executa com ou sem exceção; Error é hierarquia distinta."
+        },
+        {
+          "numero": 7,
+          "questao": "Comparando ArrayList e LinkedList quanto à complexidade das operações, é correto afirmar que:",
+          "respostas": {
+            "A": "ArrayList tem acesso indexado O(1) e inserção no meio O(1); LinkedList tem acesso indexado O(n) e inserção O(n).",
+            "B": "ArrayList e LinkedList oferecem acesso indexado O(1), diferenciando-se apenas pelo consumo de memória.",
+            "C": "ArrayList tem acesso indexado O(n) e inserção O(1); LinkedList tem acesso indexado O(1) e inserção O(n).",
+            "D": "ArrayList tem acesso indexado O(1) e inserção no meio O(n); LinkedList insere e remove nas extremidades em O(1).",
+            "E": "Ambas implementam acesso indexado O(log n), por utilizarem árvores balanceadas internamente em sua estrutura."
+          },
+          "resposta_certa": "D",
+          "explicacao": "ArrayList (array redimensionável): acesso O(1), inserção/remoção no meio O(n). LinkedList (nós encadeados): extremidades O(1), acesso indexado O(n)."
+        },
+        {
+          "numero": 8,
+          "questao": "Sobre o uso de genéricos em Java, assinale a alternativa correta.",
+          "respostas": {
+            "A": "Oferecem segurança de tipos em compilação e dispensam casts, mas o type erasure remove os parâmetros de tipo em runtime.",
+            "B": "Oferecem segurança de tipos em tempo de execução, preservando os parâmetros de tipo na JVM graças ao type erasure.",
+            "C": "Oferecem segurança de tipos apenas em execução, eliminando a necessidade de conversões explícitas de tipo.",
+            "D": "Mantêm os parâmetros de tipo disponíveis na JVM, permitindo acessá-los por reflexão em todos os casos de uso.",
+            "E": "Impedem o uso de coleções com elementos de tipos variados, exigindo duplicar classes para cada tipo de dado utilizado."
+          },
+          "resposta_certa": "A",
+          "explicacao": "Genéricos garantem checagem de tipos em compilação e evitam casts. Em Java, o type erasure remove os parâmetros de tipo em runtime, que não ficam disponíveis na JVM."
+        },
+        {
+          "numero": 9,
+          "questao": "Qual padrão de projeto restringe a instanciação de uma classe a um único objeto e fornece um ponto global de acesso a ele, sendo útil para recursos compartilhados, como configurações?",
+          "respostas": {
+            "A": "Prototype",
+            "B": "Factory Method",
+            "C": "Singleton",
+            "D": "Observer",
+            "E": "Adapter"
+          },
+          "resposta_certa": "C",
+          "explicacao": "Singleton garante instância única e ponto de acesso global. Prototype clona objetos; Factory Method delega a criação a subclasses; Observer notifica dependentes; Adapter adapta interfaces."
+        },
+        {
+          "numero": 10,
+          "questao": "Sobre concorrência em Java, é correto afirmar que uma condição de corrida:",
+          "respostas": {
+            "A": "ocorre quando threads acessam estado compartilhado sem sincronização, tornando o resultado dependente do escalonamento.",
+            "B": "ocorre quando threads acessam apenas estado local, sendo eliminada automaticamente pela JVM e pelo coletor de lixo.",
+            "C": "ocorre quando há sincronização excessiva, sendo mitigada pela remoção de bloqueios e pelo aumento do estado compartilhado.",
+            "D": "ocorre somente em programas de thread única, pois depende da leitura de estado local sem qualquer compartilhamento.",
+            "E": "é resolvida apenas aumentando a prioridade das threads, sem a necessidade de sincronização ou de bloqueios."
+          },
+          "resposta_certa": "A",
+          "explicacao": "A condição de corrida surge quando o resultado depende da ordem/timing de acesso concorrente a estado compartilhado sem sincronização. Locks/synchronized e imutabilidade reduzem o risco."
+        },
+        {
+          "numero": 11,
+          "questao": "Sobre o desenvolvimento de interfaces com JavaScript e Vue.js, assinale a alternativa correta.",
+          "respostas": {
+            "A": "A reatividade atualiza a interface quando o estado muda; props fluem do filho ao pai e eventos do pai ao filho.",
+            "B": "A reatividade exige recarregar a página; props e eventos são formas equivalentes de comunicação em qualquer direção.",
+            "C": "A reatividade atualiza a interface quando o estado muda; props fluem do pai ao filho e eventos do filho ao pai.",
+            "D": "O Vue não permite compor a interface em componentes, exigindo páginas monolíticas com estado global compartilhado.",
+            "E": "No Vue, o filho altera diretamente o estado do pai por meio de props, sem a necessidade de emitir eventos."
+          },
+          "resposta_certa": "C",
+          "explicacao": "A reatividade do Vue reflete mudanças de estado na tela. O fluxo é unidirecional: pai→filho por props e filho→pai por eventos, favorecendo componentes reutilizáveis."
+        }
+      ]
+    },
+    {
+      "moc": "Arquitetura e Integração de Sistemas",
+      "tema": "Estilos arquiteturais, Spring/Spring Boot, APIs REST, identidade, mensageria, IA e confiabilidade",
+      "questoes": [
+        {
+          "numero": 1,
+          "questao": "Sobre monolitos, microsserviços e arquiteturas orientadas a eventos, assinale a alternativa correta.",
+          "respostas": {
+            "A": "Microsserviços favorecem autonomia de times e implantação independente, mas elevam a complexidade de rede e de consistência.",
+            "B": "Microsserviços favorecem autonomia de times e implantação independente, eliminando a necessidade de observar a consistência.",
+            "C": "Monolitos impedem a modularização interna e não podem ter fronteiras bem definidas entre seus módulos implantáveis.",
+            "D": "Garantem menor latência total que qualquer monolito, pois cada chamada ocorre localmente ao processo do serviço.",
+            "E": "Arquiteturas orientadas a eventos dispensam mensagens e baseiam-se em chamadas síncronas e bloqueantes entre serviços."
+          },
+          "resposta_certa": "A",
+          "explicacao": "Microsserviços trazem autonomia e implantação independente, mas aumentam a complexidade distribuída (rede, consistência, observabilidade). Monolitos podem ser modularizados; arquiteturas orientadas a eventos usam mensagens/eventos."
+        },
+        {
+          "numero": 2,
+          "questao": "No contexto do Spring Framework, inversão de controle (IoC) e injeção de dependências (DI) significam que:",
+          "respostas": {
+            "A": "A classe instancia suas dependências com new, mantendo o controle explícito da criação e um baixo acoplamento.",
+            "B": "O contêiner cria e injeta as dependências, reduzindo o acoplamento e facilitando testes e substituição de implementações.",
+            "C": "As dependências são resolvidas por herança múltipla, eliminando interfaces e a configuração de componentes do sistema.",
+            "D": "A classe consulta um localizador global em execução, acoplando-se ao contêiner para obter todas as suas dependências de execução.",
+            "E": "A classe mantém o controle da criação, o que impede a substituição de dependências por mocks em testes automatizados."
+          },
+          "resposta_certa": "B",
+          "explicacao": "IoC delega ao contêiner o controle da criação/ciclo de vida; DI fornece as dependências. Isso reduz acoplamento e facilita testes. Criar com new ou usar localizador de serviços aumenta o acoplamento."
+        },
+        {
+          "numero": 3,
+          "questao": "Sobre APIs REST, assinale a alternativa correta.",
+          "respostas": {
+            "A": "REST é stateful: o servidor mantém o estado de sessão entre requisições, o que facilita a escalabilidade horizontal.",
+            "B": "REST define que os recursos sejam identificados por verbos e as ações por substantivos nas URIs das chamadas.",
+            "C": "REST é stateless: cada requisição contém as informações necessárias e o servidor não mantém sessão entre chamadas.",
+            "D": "REST exige que todas as operações usem POST e que os códigos de status HTTP sejam sempre 200 em caso de sucesso.",
+            "E": "REST permite manter estado no servidor, desde que os recursos sejam identificados por substantivos nas URIs."
+          },
+          "resposta_certa": "C",
+          "explicacao": "REST é stateless: requisição autocontida, sem sessão no servidor. Recursos são substantivos (URIs); ações, verbos HTTP; códigos de status indicam o resultado."
+        },
+        {
+          "numero": 4,
+          "questao": "Sobre o versionamento e a evolução de APIs REST, é correto afirmar que:",
+          "respostas": {
+            "A": "Mudanças incompatíveis devem ser introduzidas sem versionamento, pois os clientes antigos se adaptam automaticamente.",
+            "B": "O versionamento permite aplicar mudanças incompatíveis sem comunicação, bastando atualizar a documentação depois da entrega.",
+            "C": "Contratos de API não precisam ser estáveis nem documentados, pois REST dispensa qualquer formalização de contratos e de interface.",
+            "D": "Versionamento e contratos permitem evoluir preservando compatibilidade, com migração planejada para mudanças incompatíveis.",
+            "E": "A evolução de contratos nunca afeta consumidores, pois a serialização de dados é sempre retrocompatível."
+          },
+          "resposta_certa": "D",
+          "explicacao": "Versionar e definir contratos permite evoluir sem quebrar consumidores; mudanças incompatíveis exigem estratégia controlada (nova versão, transição, migração) e comunicação."
+        },
+        {
+          "numero": 5,
+          "questao": "Sobre OAuth 2.0 e OpenID Connect (OIDC), é correto afirmar que:",
+          "respostas": {
+            "A": "OAuth 2.0 trata da autenticação de usuários, e o OpenID Connect trata da autorização delegada sobre o primeiro.",
+            "B": "OAuth 2.0 e OpenID Connect são sinônimos, ambos voltados à autenticação federada de usuários em aplicações.",
+            "C": "OAuth 2.0 trata da autorização delegada, e o OpenID Connect acrescenta autenticação sobre ele, com o ID token.",
+            "D": "OpenID Connect substitui o OAuth 2.0 e dispensa tokens de acesso, concentrando-se na emissão de identidade.",
+            "E": "OAuth 2.0 exige que o servidor de recursos mantenha o estado de sessão do usuário entre as requisições."
+          },
+          "resposta_certa": "C",
+          "explicacao": "OAuth 2.0 trata da autorização delegada; OIDC é construído sobre ele e adiciona autenticação federada e identidade por meio do ID token."
+        },
+        {
+          "numero": 6,
+          "questao": "Sobre tokens JWT (JSON Web Token), assinale a alternativa correta.",
+          "respostas": {
+            "A": "Tem cabeçalho, payload e assinatura; o payload é cifrado, ocultando o conteúdo, e a assinatura é opcional.",
+            "B": "Tem apenas o payload assinado; cabeçalho e assinatura são gerados no servidor e não precisam ser verificados.",
+            "C": "É sempre cifrado por padrão, e seus claims não podem incluir expiração, sendo validado apenas pela assinatura.",
+            "D": "Dispensa a validação de assinatura quando transmitido sob HTTPS, já que o canal protege a integridade.",
+            "E": "Tem cabeçalho, payload e assinatura; o payload é codificado (não cifrado) e a assinatura deve ser validada."
+          },
+          "resposta_certa": "E",
+          "explicacao": "JWT tem cabeçalho, payload e assinatura. O payload é apenas codificado em base64url (não cifrado) e não deve conter segredos. A assinatura precisa ser validada; expiração é um claim comum."
+        },
+        {
+          "numero": 7,
+          "questao": "Em integrações entre sistemas, o conceito de idempotência é importante porque:",
+          "respostas": {
+            "A": "garante que requisições diferentes com dados distintos produzam o mesmo efeito final, independentemente do conteúdo.",
+            "B": "aplica-se apenas a operações de leitura, não sendo relevante para operações de escrita que alteram o estado.",
+            "C": "elimina a necessidade de consistência e de tratamento de falhas em sistemas distribuídos com vários serviços.",
+            "D": "garante que a repetição da mesma requisição produza o mesmo efeito final, evitando duplicidades em retentativas.",
+            "E": "impede o reenvio de mensagens em qualquer circunstância, eliminando retentativas e reprocessamento de dados."
+          },
+          "resposta_certa": "D",
+          "explicacao": "Idempotência significa que repetir a mesma operação não altera o efeito final além da primeira execução. É essencial quando retentativas podem repetir requisições, evitando duplicidade."
+        },
+        {
+          "numero": 8,
+          "questao": "Sobre arquiteturas orientadas a eventos e mensageria, é correto afirmar que:",
+          "respostas": {
+            "A": "Produtores publicam eventos consumidos de forma assíncrona, desacoplando componentes e exigindo tratar consistência.",
+            "B": "A comunicação é sempre síncrona e bloqueante, o que dispensa idempotência e tratamento de reprocessamento.",
+            "C": "A mensageria assíncrona elimina a necessidade de idempotência, pois a entrega ocorre sempre uma única vez.",
+            "D": "Os eventos não podem ser reprocessados após falha e não exigem qualquer cuidado com a ordenação das mensagens recebidas e processadas.",
+            "E": "A coordenação entre consumidores depende de estado compartilhado no servidor, mantido entre as requisições."
+          },
+          "resposta_certa": "A",
+          "explicacao": "Produtores publicam e consumidores processam de forma assíncrona, promovendo desacoplamento. Em troca, é preciso lidar com entrega ao menos uma vez (idempotência), ordenação e reprocessamento."
+        },
+        {
+          "numero": 9,
+          "questao": "Sobre o Spring Security e a proteção de recursos de uma aplicação, é correto afirmar que:",
+          "respostas": {
+            "A": "Configura autenticação e autorização, substituindo a validação de entradas e dispensando logs de auditoria das ações.",
+            "B": "Configura autenticação e autorização por endpoint e método, aplicando menor privilégio e prevenindo acessos indevidos.",
+            "C": "Libera por padrão todos os endpoints para usuários autenticados, cabendo ao cliente restringir o acesso aos recursos.",
+            "D": "Dispensa tokens e identidades federadas, exigindo apenas o envio de senha em cada requisição do usuário ao sistema.",
+            "E": "Trata exclusivamente da criptografia de dados em repouso, não sendo responsável pelo controle de acesso às aplicações."
+          },
+          "resposta_certa": "B",
+          "explicacao": "Spring Security configura autenticação e autorização por endpoint/método, aplicando menor privilégio e evitando permissões excessivas. Não substitui validação de entradas nem dispensa auditoria."
+        },
+        {
+          "numero": 10,
+          "questao": "Sobre contêineres, serviços em nuvem, serverless e confiabilidade das aplicações, assinale a alternativa correta.",
+          "respostas": {
+            "A": "Contêineres empacotam a aplicação, mas não isolam processos e não compartilham o kernel do sistema operacional hospedeiro.",
+            "B": "O serverless garante ausência de falhas e de degradação, dispensando práticas de observabilidade e de recuperação de serviços críticos.",
+            "C": "Logs, métricas e rastreamento são irrelevantes em ambientes distribuídos, pois cada serviço opera de forma totalmente isolada dos demais.",
+            "D": "A tolerância a falhas e a recuperação de serviços são desnecessárias em nuvem, dada a redundância automática garantida pela plataforma.",
+            "E": "Contêineres empacotam aplicação e dependências, favorecendo portabilidade; confiabilidade exige observabilidade e tolerância a falhas."
+          },
+          "resposta_certa": "E",
+          "explicacao": "Contêineres empacotam a aplicação e suas dependências (portabilidade; isolamento de processo com kernel compartilhado). Serverless abstrai a infraestrutura, mas não elimina falhas: confiabilidade exige observabilidade e tolerância a falhas."
+        }
+      ]
+    },
+    {
+      "moc": "Persistência, Integração e Proteção de Dados",
+      "tema": "Modelagem e persistência (JPA/Spring Data), SQL, integração de dados, privacidade e segurança",
+      "questoes": [
+        {
+          "numero": 1,
+          "questao": "Sobre normalização em bancos de dados relacionais, é correto afirmar que:",
+          "respostas": {
+            "A": "Reduz redundâncias, mas a 3FN admite dependências transitivas entre atributos não chave em relação à chave primária.",
+            "B": "Reduz redundâncias e anomalias, organizando atributos conforme dependências; a 3FN elimina dependências transitivas.",
+            "C": "Aumenta a redundância de propósito para acelerar a escrita, priorizando desempenho em detrimento da integridade.",
+            "D": "Elimina a necessidade de chaves primárias e estrangeiras, garantindo a integridade apenas por meio das relações.",
+            "E": "Piora a integridade dos dados e, por isso, é evitada em bancos relacionais que priorizam a consistência."
+          },
+          "resposta_certa": "B",
+          "explicacao": "A normalização organiza os dados conforme dependências funcionais, reduzindo redundância e anomalias. A 3FN elimina dependências transitivas de atributos não chave em relação à chave."
+        },
+        {
+          "numero": 2,
+          "questao": "Sobre transações em banco de dados e as propriedades ACID, assinale a alternativa correta.",
+          "respostas": {
+            "A": "Atomicidade permite aplicar parte da transação em caso de falha, preservando o desempenho do banco em operações longas e volumosas.",
+            "B": "Isolamento permite que transações concorrentes leiam dados não confirmados de outras, aumentando a concorrência.",
+            "C": "Durabilidade garante que os dados confirmados sejam descartados em caso de falha, liberando espaço de armazenamento.",
+            "D": "Consistência garante que transações concorrentes não se interfiram, mesmo sem regras de integridade no esquema.",
+            "E": "Atomicidade garante efeito total ou nenhum; isolamento evita interferências; durabilidade garante persistência após commit."
+          },
+          "resposta_certa": "E",
+          "explicacao": "ACID: Atomicidade (tudo ou nada), Consistência (invariantes), Isolamento (transações concorrentes não interferem indevidamente) e Durabilidade (dados confirmados persistem)."
+        },
+        {
+          "numero": 3,
+          "questao": "Sobre o contexto de persistência na JPA, é correto afirmar que:",
+          "respostas": {
+            "A": "Entidades gerenciadas são rastreadas; alterações são detectadas e sincronizadas no flush/commit, sem update explícito.",
+            "B": "Entidades detached continuam sendo rastreadas pelo contexto e têm alterações sincronizadas automaticamente com o banco.",
+            "C": "O contexto de persistência impede o uso de transações e o controle de concorrência entre operações sobre entidades.",
+            "D": "O ciclo de vida da entidade não distingue estados como new, managed e removed, permanecendo sempre managed.",
+            "E": "Alterações em entidades gerenciadas só são persistidas após chamada explícita a um método update do repositório."
+          },
+          "resposta_certa": "A",
+          "explicacao": "Entidades gerenciadas são rastreadas e alteradas são sincronizadas no flush/commit por dirty checking, sem update explícito. Entidades detached não são rastreadas; estados incluem new, managed e removed."
+        },
+        {
+          "numero": 4,
+          "questao": "Sobre estratégias de carregamento (fetch) na JPA, é correto afirmar que:",
+          "respostas": {
+            "A": "Lazy carrega todas as associações imediatamente, enquanto eager carrega cada associação no momento em que é acessada.",
+            "B": "O problema N+1 ocorre quando uma única consulta carrega todos os dados necessários, sendo sinal de boa otimização.",
+            "C": "Eager nunca impacta o desempenho, pois sempre reduz a quantidade de consultas enviadas ao banco de dados.",
+            "D": "O tipo de carregamento é fixo por entidade e não pode ser ajustado por consulta, impossibilitando otimizações pontuais.",
+            "E": "Lazy adia a busca de associações até o acesso, podendo gerar N+1; eager carrega antecipadamente e pode sobrecarregar."
+          },
+          "resposta_certa": "E",
+          "explicacao": "Lazy carrega sob demanda; em loops, pode disparar N consultas adicionais (N+1). Eager carrega junto e pode trazer excesso de dados. Fetch join e ajuste do fetch mitigam o problema."
+        },
+        {
+          "numero": 5,
+          "questao": "Sobre o Spring Data JPA, assinale a alternativa correta.",
+          "respostas": {
+            "A": "Permite consultas derivadas de nomes de métodos, mas não oferece suporte nativo a paginação e ordenação.",
+            "B": "Permite consultas derivadas de nomes de métodos e suporte nativo a paginação e ordenação via Page e Pageable.",
+            "C": "Funciona apenas com bancos em memória e exige consultas SQL manuais escritas em arquivos XML externos.",
+            "D": "Substitui o provedor de persistência e o contexto de persistência, dispensando o uso da especificação JPA.",
+            "E": "Impede a definição de repositórios e obriga o uso de JDBC puro para qualquer acesso a dados na aplicação."
+          },
+          "resposta_certa": "B",
+          "explicacao": "Spring Data JPA cria repositórios com consultas derivadas do nome e oferece paginação/ordenação via Page, Slice e Pageable. É abstração sobre a JPA; não substitui provedor nem contexto de persistência."
+        },
+        {
+          "numero": 6,
+          "questao": "Sobre SQL analítico, assinale a alternativa correta.",
+          "respostas": {
+            "A": "Junções agregam linhas; GROUP BY ordena resultados; funções de janela colapsam as linhas de cada partição.",
+            "B": "Funções de janela substituem junções e agregações, sendo suficientes para qualquer tipo de consulta analítica.",
+            "C": "Junções combinam tabelas; GROUP BY agrega; funções de janela calculam sobre partições sem colapsar linhas.",
+            "D": "Subconsultas e expressões de tabela comuns não existem em SQL, sendo exclusivas de linguagens procedurais.",
+            "E": "GROUP BY permite selecionar colunas não agregadas sem regra de agregação nem dependência funcional da chave."
+          },
+          "resposta_certa": "C",
+          "explicacao": "JOINs combinam linhas de tabelas; GROUP BY resume dados; funções de janela calculam sobre partições sem reduzir linhas. Subconsultas e CTEs (WITH) organizam consultas."
+        },
+        {
+          "numero": 7,
+          "questao": "Sobre índices e desempenho de consultas, é correto afirmar que:",
+          "respostas": {
+            "A": "Índices aceleram leituras sem custo de manutenção e sempre melhoram o desempenho das operações de escrita.",
+            "B": "O plano de execução serve apenas para ordenar os resultados de uma consulta, não sendo útil para diagnóstico de desempenho.",
+            "C": "Quanto mais índices uma tabela possuir, melhor será o desempenho geral, inclusive nas operações de escrita.",
+            "D": "Índices aceleram leituras, com custo de armazenamento e escrita; o plano de execução ajuda a identificar gargalos.",
+            "E": "Índices nunca são utilizados pelo otimizador, que realiza sempre a varredura completa da tabela envolvida."
+          },
+          "resposta_certa": "D",
+          "explicacao": "Índices aceleram leituras, mas consomem espaço e tornam escritas mais custosas. O plano de execução mostra como o banco acessa os dados, ajudando a identificar gargalos."
+        },
+        {
+          "numero": 8,
+          "questao": "Sobre ETL e ELT, assinale a alternativa correta.",
+          "respostas": {
+            "A": "No ETL transforma-se antes de carregar; no ELT carrega-se antes e transforma-se no destino, aproveitando seu poder.",
+            "B": "No ETL carrega-se antes e transforma-se depois; no ELT transforma-se antes de carregar os dados na plataforma.",
+            "C": "ETL e ELT são sinônimos na prática, diferenciando-se apenas pelo volume de dados e pela frequência das execuções.",
+            "D": "O ELT exige a transformação dos dados antes da carga, sendo por isso mais lento para grandes volumes analíticos.",
+            "E": "O ETL é exclusivo de dados não estruturados, enquanto o ELT é exclusivo de dados estruturados em bancos."
+          },
+          "resposta_certa": "A",
+          "explicacao": "ETL transforma antes de carregar; ELT carrega e transforma no destino, comum em plataformas analíticas escaláveis. Ambos podem operar em lote e em fluxo."
+        },
+        {
+          "numero": 9,
+          "questao": "Sobre formatos de dados utilizados em integração, é correto afirmar que o Parquet:",
+          "respostas": {
+            "A": "É colunar, comprime bem e permite leitura seletiva de colunas, sendo adequado a consultas analíticas.",
+            "B": "É textual, linha a linha, sem compressão, adequado a registros transacionais de pequeno volume.",
+            "C": "É binário orientado a linhas, ideal para escrita transacional de baixa latência e atualizações frequentes.",
+            "D": "Armazena apenas dados não estruturados, não sendo adequado a grandes volumes de dados analíticos.",
+            "E": "Substitui APIs e contratos de integração, dispensando metadados e a definição de esquemas entre sistemas."
+          },
+          "resposta_certa": "A",
+          "explicacao": "Parquet é colunar, com boa compressão e leitura por colunas, otimizado para análises. CSV e JSON são textuais; XML é marcado. Formatos não substituem contratos e APIs."
+        },
+        {
+          "numero": 10,
+          "questao": "Sobre proteção de dados pessoais, é correto afirmar que:",
+          "respostas": {
+            "A": "A pseudonimização torna a reidentificação inviável; a anonimização permite reidentificação com informação adicional.",
+            "B": "Pseudonimização e anonimização são sinônimos, pois ambas são irreversíveis por definição e eliminam o dado pessoal em qualquer cenário de tratamento.",
+            "C": "A pseudonimização substitui identificadores diretos, permitindo reidentificação; a anonimização busca torná-la inviável.",
+            "D": "A pseudonimização elimina todo risco de reidentificação, dispensando salvaguardas adicionais e controles de acesso.",
+            "E": "A criptografia em trânsito e em repouso é irrelevante quando se aplica pseudonimização aos dados armazenados."
+          },
+          "resposta_certa": "C",
+          "explicacao": "Na pseudonimização, os dados não são associados diretamente ao titular, mas a reidentificação é possível com informação adicional. Na anonimização, busca-se torná-la inviável. Criptografia e minimização são relevantes."
+        },
+        {
+          "numero": 11,
+          "questao": "Sobre o Spring Batch, é correto afirmar que:",
+          "respostas": {
+            "A": "Organiza jobs e steps, mas não registra o estado de execução, o que impossibilita o reinício seguro após falha.",
+            "B": "Processa todos os registros em memória, sem controle transacional e sem persistência de metadados de execução.",
+            "C": "Ao reiniciar um job após falha, duplica sempre os registros processados, não havendo mecanismo de prevenção.",
+            "D": "Organiza jobs e steps com controle transacional e metadados, permitindo reinício seguro e evitando duplicações.",
+            "E": "Realiza apenas a leitura dos dados, sem etapas de processamento e escrita, limitando-se a tarefas de consulta."
+          },
+          "resposta_certa": "D",
+          "explicacao": "Spring Batch organiza jobs e steps (leitura-processamento-escrita), com controle transacional e metadados que permitem reinício seguro após falhas, evitando perdas e duplicações."
+        }
+      ]
+    },
+    {
+      "moc": "Desenvolvimento Seguro, Qualidade e Gestão da Entrega",
+      "tema": "Segurança de aplicações, testes, CI/CD, DevSecOps, agilidade e contratação de soluções",
+      "questoes": [
+        {
+          "numero": 1,
+          "questao": "Sobre segurança de aplicações, a validação de entradas e a parametrização de consultas visam, principalmente:",
+          "respostas": {
+            "A": "Prevenir ataques de injeção apenas na camada de apresentação, dispensando a parametrização no banco de dados.",
+            "B": "Substituir a autenticação e a autorização dos usuários, centralizando a segurança na validação dos campos.",
+            "C": "Prevenir injeções, como SQL injection, e ataques decorrentes do tratamento de dados não confiáveis do usuário.",
+            "D": "Permitir que os dados do usuário sejam executados como código, desde que escapados no lado do cliente.",
+            "E": "Substituir os testes de segurança e a análise estática, concentrando a proteção no ponto de entrada dos dados."
+          },
+          "resposta_certa": "C",
+          "explicacao": "Validar/sanitizar entradas e parametrizar consultas evita que dados maliciosos sejam interpretados como comandos (SQL injection). Complementa — não substitui — autenticação e testes de segurança."
+        },
+        {
+          "numero": 2,
+          "questao": "O controle de acesso quebrado (broken access control) em uma aplicação ocorre quando:",
+          "respostas": {
+            "A": "A aplicação utiliza HTTPS, pois o canal criptografado impede a verificação de autorização no lado do servidor.",
+            "B": "O banco de dados fica temporariamente indisponível, impedindo que a aplicação verifique as permissões.",
+            "C": "O usuário utiliza uma senha fraca, sendo irrelevante em qual ponto a autorização é efetivamente verificada.",
+            "D": "Usuários acessam recursos ou executam ações além de suas permissões, por falhas na autorização no servidor.",
+            "E": "O servidor apresenta lentidão sob carga, o que o obriga a dispensar a verificação de permissões para responder."
+          },
+          "resposta_certa": "D",
+          "explicacao": "O controle de acesso quebrado permite acessar dados/funções sem autorização, por falhas na verificação de autorização no servidor (permissões excessivas, checagem só no cliente, endpoints desprotegidos)."
+        },
+        {
+          "numero": 3,
+          "questao": "Sobre a proteção de segredos e dependências no desenvolvimento, é correto afirmar que:",
+          "respostas": {
+            "A": "Credenciais podem ser versionadas desde que o repositório seja privado, e dependências de terceiros não são risco.",
+            "B": "Segredos devem ser gravados em logs para facilitar a auditoria, e as dependências dispensam análise de vulnerabilidades.",
+            "C": "É adequado embutir chaves e senhas no código-fonte, desde que rotacionadas com pouca frequência pela equipe.",
+            "D": "Credenciais não devem ser versionadas; devem ficar em cofres de segredos, e as dependências precisam ser monitoradas.",
+            "E": "A segurança da cadeia de dependências se limita ao código próprio, não abrangendo bibliotecas de terceiros."
+          },
+          "resposta_certa": "D",
+          "explicacao": "Segredos não devem ser versionados nem registrados em logs; devem ficar em gerenciadores de segredos, com rotação. A segurança da cadeia de dependências (SCA) é essencial, pois bibliotecas de terceiros fazem parte do risco."
+        },
+        {
+          "numero": 4,
+          "questao": "Sobre os tipos de teste, assinale a alternativa correta.",
+          "respostas": {
+            "A": "Unitário testa a interação entre componentes; integração, as unidades isoladas; aceitação, o desempenho sob carga.",
+            "B": "O teste de contrato substitui o de aceitação e verifica apenas a interface gráfica apresentada ao usuário final da aplicação.",
+            "C": "O teste de integração verifica funções isoladas sem dependências externas, dispensando banco de dados e serviços.",
+            "D": "O teste de aceitação é escrito apenas por desenvolvedores e ignora a perspectiva e os requisitos do usuário.",
+            "E": "Unitário testa unidades isoladas; integração, a interação entre componentes; contrato, a compatibilidade entre serviços."
+          },
+          "resposta_certa": "E",
+          "explicacao": "Unidade (isolada), integração (interação entre partes), contrato (compatibilidade de interfaces entre serviços) e aceitação (requisitos/usuário) têm focos distintos e complementares."
+        },
+        {
+          "numero": 5,
+          "questao": "Sobre análise estática, cobertura de testes e métricas de qualidade, é correto afirmar que:",
+          "respostas": {
+            "A": "A análise estática exige a execução da aplicação em produção; cobertura de 100% garante ausência de defeitos.",
+            "B": "A análise estática examina o código sem executá-lo; cobertura mede o quanto do código é exercitado pelos testes.",
+            "C": "Cobertura alta garante a correção do código; a análise estática substitui a revisão de código e os testes.",
+            "D": "Análise estática e cobertura de testes são a mesma técnica, ambas baseadas na execução dos casos de teste.",
+            "E": "Métricas de qualidade são valores absolutos e nunca devem ser interpretadas com cautela ou em conjunto."
+          },
+          "resposta_certa": "B",
+          "explicacao": "Análise estática inspeciona o código sem executá-lo; cobertura indica a proporção exercitada pelos testes, mas cobertura alta não garante qualidade. Métricas são indicadores com limitações."
+        },
+        {
+          "numero": 6,
+          "questao": "Sobre integração e entrega contínuas (CI/CD), é correto afirmar que:",
+          "respostas": {
+            "A": "Automatizam build, testes e implantação, com versionamento e segregação de ambientes e reversão segura.",
+            "B": "Dispensam a automação de testes e a configuração de ambientes, concentrando-se apenas na compilação.",
+            "C": "A entrega contínua elimina a necessidade de reversão e de observabilidade, por reduzir a frequência das mudanças.",
+            "D": "Aplicam-se apenas a aplicações desktop, não sendo adequadas a serviços web e a sistemas distribuídos.",
+            "E": "Os pipelines impedem a segregação de ambientes, pois utilizam a mesma configuração em desenvolvimento e produção."
+          },
+          "resposta_certa": "A",
+          "explicacao": "CI integra e testa mudanças; CD automatiza a entrega/implantação. Pipelines versionam código, separam ambientes, automatizam build/teste/deploy e permitem reversão e observabilidade."
+        },
+        {
+          "numero": 7,
+          "questao": "Sobre DevSecOps e segurança da cadeia de dependências, assinale a alternativa correta.",
+          "respostas": {
+            "A": "Adia as práticas de segurança para o final do projeto, priorizando a velocidade de entrega sobre a proteção.",
+            "B": "Considera apenas o código próprio, ignorando as dependências de terceiros e as bibliotecas utilizadas.",
+            "C": "Integra segurança ao ciclo, com verificações automatizadas (SAST/SCA) e análise da cadeia de dependências.",
+            "D": "Elimina a necessidade de testes e de observabilidade, concentrando a segurança nas ferramentas de análise.",
+            "E": "Dispensa ferramentas de análise de composição, por considerar que dependências de terceiros não afetam a segurança."
+          },
+          "resposta_certa": "C",
+          "explicacao": "DevSecOps incorpora a segurança ao longo do ciclo, com verificações automatizadas (SAST, SCA) e gestão da cadeia de dependências. Não substitui testes e observabilidade."
+        },
+        {
+          "numero": 8,
+          "questao": "Sobre Scrum e Kanban na gestão de produtos, é correto afirmar que:",
+          "respostas": {
+            "A": "O Kanban exige sprints de duração fixa e papéis como Product Owner; o Scrum dispensa limites de trabalho em progresso.",
+            "B": "O Scrum proíbe reuniões diárias de sincronização e não define artefatos como backlog e incremento do produto.",
+            "C": "O Kanban não permite visualizar o trabalho em progresso nem limitar a quantidade de itens simultâneos no fluxo.",
+            "D": "Scrum e Kanban são métodos incompatíveis com o desenvolvimento de software e restritos à área de manufatura.",
+            "E": "O Scrum organiza o trabalho em sprints com papéis, eventos e artefatos; o Kanban gerencia fluxo contínuo."
+          },
+          "resposta_certa": "E",
+          "explicacao": "Scrum é iterativo/incremental, com sprints e papéis/artefatos definidos. Kanban é gestão visual de fluxo contínuo, limitando o WIP. Podem ser combinados e aplicam-se ao desenvolvimento de software."
+        },
+        {
+          "numero": 9,
+          "questao": "Sobre a contratação de soluções de TI na administração pública, um Estudo Técnico Preliminar (ETP) e um Termo de Referência servem para:",
+          "respostas": {
+            "A": "O ETP detalha requisitos e obrigações; o TR documenta apenas a necessidade, sem analisar alternativas e viabilidade.",
+            "B": "O ETP documenta necessidade, alternativas e viabilidade; o TR detalha requisitos, prazos e obrigações contratuais.",
+            "C": "Ambos substituem a fiscalização e o pagamento por entregas verificáveis, dispensando o acompanhamento da execução.",
+            "D": "Ambos dispensam a análise de custos e de viabilidade técnica, bastando descrever o objeto a ser contratado.",
+            "E": "Ambos são elaborados apenas após o encerramento do contrato, registrando o que foi efetivamente entregue."
+          },
+          "resposta_certa": "B",
+          "explicacao": "O ETP fundamenta a necessidade e compara alternativas (viabilidade/dimensionamento); o TR detalha objeto, requisitos, prazos, níveis de serviço e critérios de aceitação, servindo à contratação e à fiscalização."
+        },
+        {
+          "numero": 10,
+          "questao": "Sobre o custo total de propriedade (TCO) e a dependência tecnológica em contratações de soluções, é adequado afirmar que:",
+          "respostas": {
+            "A": "Devem considerar todo o ciclo de vida, com portabilidade e plano de saída para reduzir a dependência de fornecedor.",
+            "B": "Deve considerar apenas o custo de aquisição, pois os custos de operação e de manutenção são irrelevantes.",
+            "C": "A dependência tecnológica é desejável e deve ser incentivada, por reduzir o esforço de integração com sistemas.",
+            "D": "Propriedade intelectual e portabilidade não precisam constar do contrato, pois não afetam a continuidade.",
+            "E": "O plano de saída é vedado em contratações públicas, por comprometer a continuidade e a disponibilidade dos serviços."
+          },
+          "resposta_certa": "A",
+          "explicacao": "O TCO abrange todos os custos do ciclo de vida (não só a aquisição). Para evitar lock-in, prevê-se propriedade intelectual, portabilidade, acesso a código/dados e plano de saída."
+        }
+      ]
+    }
+  ]
+}

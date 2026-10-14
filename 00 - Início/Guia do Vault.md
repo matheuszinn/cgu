@@ -8,10 +8,10 @@ Este vault é um "segundo cérebro" para os estudos do concurso da CGU, organiza
 |---|---|
 | `00 - Início/` | Home (dashboard), Edital (kanban), Guia |
 | `10 - MOCs/` | Um MOC por disciplina (índice do edital + painéis Dataview) |
-| `20 - Notas/` | Notas atômicas: uma ideia/conceito por nota |
-| `30 - Resumos/` | Documentos longos, visão geral de um assunto |
-| `40 - Flashcards/` | Revisão ativa (Spaced Repetition) |
-| `50 - Questões/` | Questões de provas antigas + análise de erros |
+| `20 - Notas/` | Notas atômicas: uma ideia/conceito por nota (subpastas por disciplina) |
+| `30 - Resumos/` | Documentos longos, visão geral de um assunto (subpastas por disciplina) |
+| `40 - Flashcards/` | Revisão ativa (Spaced Repetition) — subpastas por disciplina |
+| `50 - Questões/` | Questões de provas antigas + análise de erros (subpastas por disciplina) |
 | `90 - Templates/` | Modelos do Templater |
 | `99 - Arquivo/` | Material desatualizado (mover para cá, não apagar) |
 
@@ -36,12 +36,13 @@ Para instalar plugins da comunidade, o modo de plugins restrito precisa estar de
 - **Status**: `novo` (acabou de criar) → `estudando` (em desenvolvimento) → `dominado` (revisado e dominado)
 - **Tags principais**: `#nota`, `#resumo`, `#flashcard`, `#questão`, `#pendente`, `#moc`
 - **`disciplina`** deve ter exatamente o mesmo nome do MOC (ex: `Direito Administrativo`) — é isso que conecta nota ↔ MOC via Dataview
+- **Organização em subpastas**: em `20 - Notas/`, `30 - Resumos/`, `40 - Flashcards/` e `50 - Questões/`, os arquivos ficam em subpastas com o **nome exato da disciplina** (ex: `Arquitetura e Integração de Sistemas/`). Os painéis Dataview são **recursivos**, então continuam listando tudo normalmente.
 
 ## 4. Fluxo de estudo
 
 1. **Estudar** → criar Nota (detalhe) ou Resumo (macro) com Templater
 2. **Vincular** ao MOC da disciplina (o Dataview lista automaticamente)
-3. **Flashcards**: pontos-chave viram flashcards (`Q::`/`A::`) e o Spaced Repetition agenda revisões
+3. **Flashcards**: pontos-chave viram flashcards no formato `Pergunta :: Resposta` (separador de linha única do Spaced Repetition) e o plugin agenda as revisões
 4. **Questões**: resolver questões antigas e registrar erros com tag `#pendente`
 5. **Kanban**: mover tópicos do edital entre colunas conforme evolui
 6. **Revisar**: usar a Home e os MOCs para revisar e atualizar o `status` para `dominado`
