@@ -33,24 +33,24 @@ tags:
 
 ### 3 Políticas públicas
 
-- [ ] 3.1 Problema público, agenda e formulação
-- [ ] 3.1 Instrumentos de ação estatal
-- [ ] 3.1 Implementação, monitoramento e avaliação
-- [ ] 3.1 Intersetorialidade e atores governamentais e sociais
+- [x] 3.1 Problema público, agenda e formulação
+- [x] 3.1 Instrumentos de ação estatal
+- [x] 3.1 Implementação, monitoramento e avaliação
+- [x] 3.1 Intersetorialidade e atores governamentais e sociais
 
 ### 4 Planejamento e recursos
 
-- [ ] 4.1 Funções do planejamento e do orçamento
-- [ ] 4.1 Relação entre PPA, LDO e LOA
-- [ ] 4.1 Receita e despesa em nível conceitual
-- [ ] 4.1 Restrições fiscais, escolhas alocativas e sustentabilidade das ações
+- [x] 4.1 Funções do planejamento e do orçamento
+- [x] 4.1 Relação entre PPA, LDO e LOA
+- [x] 4.1 Receita e despesa em nível conceitual
+- [x] 4.1 Restrições fiscais, escolhas alocativas e sustentabilidade das ações
 
 ### 5 Serviços e transformação digital
 
-- [ ] 5.1 Orientação ao usuário
-- [ ] 5.1 Simplificação e acessibilidade
-- [ ] 5.1 Coordenação de serviços
-- [ ] 5.1 Oportunidades e riscos da automação e da inteligência artificial na administração
+- [x] 5.1 Orientação ao usuário
+- [x] 5.1 Simplificação e acessibilidade
+- [x] 5.1 Coordenação de serviços
+- [x] 5.1 Oportunidades e riscos da automação e da inteligência artificial na administração
 
 ## Notas atômicas
 
