@@ -73,8 +73,6 @@ O que é o formulário Simplifique!? :: Instrumento pelo qual o usuário pede a 
 
 Qual é a regra de ouro do Decreto nº 9.094/2017 sobre documentos? :: Documentos que constem em base oficial devem ser obtidos diretamente pelo órgão responsável, sem serem exigidos do usuário.
 
-O Decreto nº 10.138/2019 trata de simplificação de serviços públicos? :: Não; ele dispõe sobre empreendimentos portuários e rodoviários no âmbito do PPI.
-
 O que é a LBI, Lei nº 13.146/2015? :: A Lei Brasileira de Inclusão da Pessoa com Deficiência, também chamada de Estatuto da Pessoa com Deficiência.
 
 O que diz o art. 63 da LBI? :: Obriga a acessibilidade nos sítios de internet de empresas com sede ou representação no País e de órgãos de governo.
