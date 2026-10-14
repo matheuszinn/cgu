@@ -12,6 +12,7 @@ Este vault é um "segundo cérebro" para os estudos do concurso da CGU, organiza
 | `30 - Resumos/` | Documentos longos, visão geral de um assunto (subpastas por disciplina) |
 | `40 - Flashcards/` | Revisão ativa (Spaced Repetition) — subpastas por disciplina |
 | `50 - Questões/` | Questões de provas antigas + análise de erros (subpastas por disciplina) |
+| `60 - Análises/` | Análises de incidência e pesquisas (ex.: o que mais cai na banca Cebraspe) |
 | `90 - Templates/` | Modelos do Templater |
 | `99 - Arquivo/` | Material desatualizado (mover para cá, não apagar) |
 
