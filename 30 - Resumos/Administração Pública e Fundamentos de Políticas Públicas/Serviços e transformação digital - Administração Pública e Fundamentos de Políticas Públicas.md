@@ -154,9 +154,6 @@ Dispõe sobre a **simplificação do atendimento prestado aos usuários dos serv
 - **Regra de ouro:** órgãos que precisam de documentos/atestados/certidões que constem em base oficial **devem obtê-los diretamente do órgão responsável**, e **não podem exigi-los do usuário**.
 - O CPF foi instituído como **instrumento suficiente e substitutivo** para apresentação de dados do cidadão (com as alterações do Decreto nº 9.723/2019 e do Decreto nº 10.279/2020).
 
-> [!warning] Atenção ao Decreto nº 10.138/2019
-> O **Decreto nº 10.138/2019** **não** trata de simplificação de serviços públicos: ele dispõe sobre a **qualificação de empreendimentos públicos federais dos setores portuário e rodoviário** no âmbito do **Programa de Parcerias de Investimentos (PPI)**. A norma de simplificação do atendimento é o **Decreto nº 9.094/2017** (atualizado pelos Decretos nº 9.723/2019 e nº 10.279/2020). Não confunda as numerações.
-
 ### 3.4 Acessibilidade: Lei nº 13.146/2015 (LBI / Estatuto da Pessoa com Deficiência)
 
 Institui a **Lei Brasileira de Inclusão da Pessoa com Deficiência**, baseada na **Convenção sobre os Direitos das Pessoas com Deficiência** (Decreto Legislativo nº 186/2008; promulgada pelo Decreto nº 6.949/2009).
@@ -318,7 +315,6 @@ Boas práticas de governança de IA no setor público: **transparência** sobre 
 
 > Cuidado com **números de norma trocados**, com **termos absolutos** ("sempre", "exclusivamente", "nunca") e com a troca de **titularidade** entre lei, decreto e estratégia.
 
-- Dizer que o **Decreto nº 10.138/2019** trata de simplificação de serviços públicos. **Não trata**: dispõe sobre a qualificação de empreendimentos **portuários e rodoviários** no **PPI**. A norma de simplificação é o **Decreto nº 9.094/2017**.
 - Confundir **ENGD (12.069/2024, nacional)** com **EFGD (12.198/2024, federal)**.
 - Afirmar que o **Decreto nº 10.332/2020** continua vigente — foi **revogado** pelo Decreto nº 12.198/2024.
 - Dizer que a **Lei nº 14.129/2021** obriga o atendimento **exclusivamente digital** — a lei **garante a permanência do atendimento presencial**.
