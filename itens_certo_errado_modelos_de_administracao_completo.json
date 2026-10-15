@@ -1,0 +1,379 @@
+{
+  "titulo": "Itens Certo/Errado — Modelos de administração (cobertura completa · padrão CEBRASPE)",
+  "formato": "certo_errado",
+  "descricao": "52 itens elaborados no formato 'julgue o item' (Certo/Errado), no padrão da banca Cebraspe, cobrindo TODO o conteúdo de Modelos de administração (Item 2 dos Conhecimentos Básicos do Edital nº 1/2026 – CGU – AFFC): conceitos gerais e hibridismo; patrimonialista; burocrático/Weber; profissionalização; disfunções; gerencial/Nova Gestão Pública e instrumentos; PDRAE/1995; societal/participativo; participação social; governança pública (Decreto 9.203/2017); governança × governabilidade; eficiência/eficácia/efetividade; e limites/contribuições no Brasil. Inclui pegadinhas típicas (termos absolutos e inversão de conceitos) e balanço equilibrado entre certos e errados.",
+  "fonte": "30 - Resumos/Administração Pública e Fundamentos de Políticas Públicas/Modelos de administração - Administração Pública e Fundamentos de Políticas Públicas.md",
+  "provas": [
+    {
+      "moc": "Administração Pública e Fundamentos de Políticas Públicas",
+      "tema": "Modelos de administração (Certo/Errado — completo)",
+      "formato": "certo_errado",
+      "questoes": [
+        {
+          "numero": 1,
+          "questao": "Julgue o item: modelos de administração pública designam formas distintas de organizar e conduzir a coisa pública e, no Brasil, não se sucederam de modo linear, mas coexistem e se superpõem (hibridismo).",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "C",
+          "explicacao": "Correto. Os modelos (patrimonialista, burocrático, gerencial e societal) coexistem e se superpõem no Brasil; a sucessão não é linear."
+        },
+        {
+          "numero": 2,
+          "questao": "Julgue o item: no Brasil, o modelo burocrático substituiu integralmente o patrimonialista e, em seguida, o gerencial eliminou o burocrático, o que caracteriza uma evolução linear dos modelos.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "E",
+          "explicacao": "Errado. Não houve substituição integral nem evolução linear: os modelos coexistem (hibridismo). Termos como 'integralmente' são pegadinha clássica."
+        },
+        {
+          "numero": 3,
+          "questao": "Julgue o item: o patrimonialismo, marca do período colonial brasileiro, caracteriza-se pela impessoalidade no provimento dos cargos e pela separação entre o patrimônio público e os interesses privados.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "E",
+          "explicacao": "Errado. O patrimonialismo é o oposto: confunde o público com o privado e favorece o favoritismo (nepotismo, clientelismo), e não a impessoalidade."
+        },
+        {
+          "numero": 4,
+          "questao": "Julgue o item: no patrimonialismo, a confusão entre o público e o privado favorece práticas como nepotismo, clientelismo e corrupção.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "C",
+          "explicacao": "Correto. A confusão entre público e privado é a marca do patrimonialismo, que favorece nepotismo, clientelismo e corrupção."
+        },
+        {
+          "numero": 5,
+          "questao": "Julgue o item: para Weber, a burocracia corresponde à dominação racional-legal, fundada na crença na legitimidade das normas e do direito, ao lado das dominações tradicional e carismática.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "C",
+          "explicacao": "Correto. Weber distingue três tipos de dominação (tradicional, carismática e racional-legal); a burocracia é a expressão da racional-legal."
+        },
+        {
+          "numero": 6,
+          "questao": "Julgue o item: segundo Weber, a burocracia corresponde à dominação tradicional, baseada na crença nos costumes e na autoridade herdada.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "E",
+          "explicacao": "Errado. A dominação tradicional baseia-se nos costumes e na autoridade herdada; a burocracia corresponde à dominação racional-legal."
+        },
+        {
+          "numero": 7,
+          "questao": "Julgue o item: no tipo ideal burocrático, a formalidade baseia-se em regras escritas e a impessoalidade determina que o cargo prevaleça sobre a pessoa, com decisões iguais para casos iguais.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "C",
+          "explicacao": "Correto. Formalidade (regras escritas) e impessoalidade (o cargo vale mais que a pessoa) são traços centrais do tipo ideal burocrático."
+        },
+        {
+          "numero": 8,
+          "questao": "Julgue o item: a meritocracia, traço do tipo ideal burocrático, consiste na seleção e promoção por indicação política, e não por competência técnica.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "E",
+          "explicacao": "Errado. A meritocracia valoriza a competência técnica e o mérito; a indicação política é característica do padrão patrimonialista."
+        },
+        {
+          "numero": 9,
+          "questao": "Julgue o item: a divisão do trabalho e a especialização, a hierarquia de autoridade e a documentação formal das decisões são características do modelo burocrático weberiano.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "C",
+          "explicacao": "Correto. Divisão do trabalho/especialização, hierarquia e documentação são características do tipo ideal burocrático."
+        },
+        {
+          "numero": 10,
+          "questao": "Julgue o item: no tipo ideal burocrático, a hierarquia é dispensável, pois cada cargo atua com autonomia total, sem subordinação a instâncias superiores.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "E",
+          "explicacao": "Errado. A hierarquia é estruturante na burocracia: há subordinação escalonada entre os cargos, e não autonomia total."
+        },
+        {
+          "numero": 11,
+          "questao": "Julgue o item: a profissionalização do serviço público, associada ao modelo burocrático, tem no concurso público (art. 37, II, da CF/88) e na carreira estruturada seus instrumentos centrais.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "C",
+          "explicacao": "Correto. Concurso público e carreira (com plano de cargos e capacitação) são os instrumentos centrais da profissionalização."
+        },
+        {
+          "numero": 12,
+          "questao": "Julgue o item: no Brasil, a primeira tentativa de implantar a burocracia weberiana foi o DASP (1938), com foco em concurso público e treinamento, embora sem consolidar uma política de recursos humanos.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "C",
+          "explicacao": "Correto. O DASP (1938) foi a primeira tentativa de implantar a burocracia weberiana, com foco em concurso e treinamento."
+        },
+        {
+          "numero": 13,
+          "questao": "Julgue o item: o DASP foi criado em 1988 com o objetivo de implantar o modelo gerencial no Brasil.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "E",
+          "explicacao": "Errado. O DASP é de 1938 e buscava implantar a burocracia weberiana, não o modelo gerencial."
+        },
+        {
+          "numero": 14,
+          "questao": "Julgue o item: a burocracia contribuiu para a legalidade, a impessoalidade e o combate ao nepotismo, substituindo o padrão patrimonialista.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "C",
+          "explicacao": "Correto. A burocracia trouxe legalidade, impessoalidade e combate ao nepotismo, em contraposição ao padrão patrimonialista."
+        },
+        {
+          "numero": 15,
+          "questao": "Julgue o item: a rigidez, o excesso de formalismo e o foco em meios, em vez de resultados, são apontados como disfunções do modelo burocrático.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "C",
+          "explicacao": "Correto. São disfunções clássicas do modelo burocrático (o 'burocratismo'), que pode passar a focar procedimentos em vez de resultados."
+        },
+        {
+          "numero": 16,
+          "questao": "Julgue o item: disfunções clássicas da burocracia, como a incapacidade treinada e o ritualismo, foram destacadas por autores como Merton.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "C",
+          "explicacao": "Correto. Merton (e outros) destacaram disfunções como incapacidade treinada, ritualismo e apego excessivo às regras."
+        },
+        {
+          "numero": 17,
+          "questao": "Julgue o item: as disfunções da burocracia demonstram que, para Weber, o modelo burocrático é, por natureza, irracional e sempre ineficiente.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "E",
+          "explicacao": "Errado. Em Weber, a burocracia é racional e busca eficiência; as disfunções são desvios do tipo ideal, não sua natureza."
+        },
+        {
+          "numero": 18,
+          "questao": "Julgue o item: a Nova Gestão Pública (modelo gerencial) surgiu nos anos 1980–90 e adota enfoque de gestão do setor privado, com foco em eficiência, resultados e no cidadão-usuário.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "C",
+          "explicacao": "Correto. A NGP (Reino Unido, Nova Zelândia, Austrália e EUA; 'Reinventing Government', 1992) aplica enfoques do setor privado ao Estado."
+        },
+        {
+          "numero": 19,
+          "questao": "Julgue o item: metas e indicadores de desempenho, flexibilidade, descentralização e avaliação por resultados são características do modelo gerencial.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "C",
+          "explicacao": "Correto. Esses elementos (metas, indicadores, flexibilidade, descentralização, avaliação) são típicos do modelo gerencial."
+        },
+        {
+          "numero": 20,
+          "questao": "Julgue o item: o modelo gerencial prioriza a conformidade formal e os procedimentos, deixando os resultados em segundo plano.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "E",
+          "explicacao": "Errado. É o inverso: o gerencial prioriza resultados e eficiência; o foco em procedimentos é característico do modelo burocrático."
+        },
+        {
+          "numero": 21,
+          "questao": "Julgue o item: accountability, no modelo gerencial, compreende a prestação de contas e a responsabilização, e não apenas a aplicação de sanções.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "C",
+          "explicacao": "Correto. Accountability = prestação de contas + responsabilização; reduzir o conceito a punição é um erro comum."
+        },
+        {
+          "numero": 22,
+          "questao": "Julgue o item: planejamento estratégico, gestão por resultados, acordo de resultados, contratos de gestão e PDCA são instrumentos típicos do modelo gerencial.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "C",
+          "explicacao": "Correto. São instrumentos do modelo gerencial, voltados à pactuação e ao acompanhamento de metas e resultados."
+        },
+        {
+          "numero": 23,
+          "questao": "Julgue o item: o PDCA (planejar, executar, verificar e agir) é um instrumento do modelo patrimonialista, que busca a confusão entre o público e o privado.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "E",
+          "explicacao": "Errado. O PDCA é instrumento do modelo gerencial (ciclo de melhoria), e não do patrimonialista."
+        },
+        {
+          "numero": 24,
+          "questao": "Julgue o item: a gestão por resultados dispensa a pactuação de metas e indicadores entre dirigentes e equipes, sendo incompatível com o modelo gerencial.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "E",
+          "explicacao": "Errado. A gestão por resultados baseia-se justamente na pactuação de objetivos, metas e indicadores — é central no modelo gerencial."
+        },
+        {
+          "numero": 25,
+          "questao": "Julgue o item: a Reforma Bresser / PDRAE (1995), no governo Fernando Henrique Cardoso, marcou a transição da administração burocrática para a gerencial no Brasil.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "C",
+          "explicacao": "Correto. O PDRAE (1995, governo FHC) marca a transição 'da administração burocrática à gerencial'."
+        },
+        {
+          "numero": 26,
+          "questao": "Julgue o item: o PDRAE (1995) distingue apenas duas formas de administração pública: a patrimonialista e a societal.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "E",
+          "explicacao": "Errado. O PDRAE distingue três formas: patrimonialista, burocrática e gerencial (a societal é formulação posterior, de 2005)."
+        },
+        {
+          "numero": 27,
+          "questao": "Julgue o item: a Reforma Gerencial de 1995 foi conduzida no governo Vargas e criou o DASP.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "E",
+          "explicacao": "Errado. A reforma gerencial de 1995 ocorreu no governo FHC; o DASP foi criado em 1938, no governo Vargas."
+        },
+        {
+          "numero": 28,
+          "questao": "Julgue o item: a fragmentação da estrutura do governo e a perda da perspectiva integrada das políticas são apontadas como limites do modelo gerencial.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "C",
+          "explicacao": "Correto. Fragmentação, perda da visão integrada e distorção da dimensão estratégica são críticas ao modelo gerencial."
+        },
+        {
+          "numero": 29,
+          "questao": "Julgue o item: o modelo societal/participativo, formulado por Ana Paula Paes de Paula (2005), enfatiza a dimensão sociopolítica e a gestão pública compartilhada, com participação social no controle das políticas.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "C",
+          "explicacao": "Correto. O societal/participativo (Paula, 2005) enfatiza a dimensão sociopolítica e a gestão compartilhada."
+        },
+        {
+          "numero": 30,
+          "questao": "Julgue o item: o modelo societal tem ênfase econômico-financeira e prioriza a redução de custos, sendo idêntico ao modelo gerencial.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "E",
+          "explicacao": "Errado. A ênfase econômico-financeira é do gerencial; o societal tem ênfase sociopolítica e não é idêntico ao gerencial."
+        },
+        {
+          "numero": 31,
+          "questao": "Julgue o item: o modelo societal defende a substituição da democracia representativa pela gestão exclusivamente técnica, sem participação social.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "E",
+          "explicacao": "Errado. O societal amplia a democracia e a participação social; não defende gestão exclusivamente técnica nem o fim da representação."
+        },
+        {
+          "numero": 32,
+          "questao": "Julgue o item: os conselhos de políticas públicas são canais permanentes de participação, presentes nos três níveis de governo, com representação do governo e da sociedade.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "C",
+          "explicacao": "Correto. Os conselhos são o principal canal permanente de participação, com representação de governo e sociedade nos três níveis."
+        },
+        {
+          "numero": 33,
+          "questao": "Julgue o item: as conferências de políticas públicas são instâncias periódicas (em geral a cada dois anos), voltadas à avaliação e à proposição de rumos das políticas.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "C",
+          "explicacao": "Correto. As conferências são periódicas (em geral a cada 2 anos), de avaliação e proposição de rumos."
+        },
+        {
+          "numero": 34,
+          "questao": "Julgue o item: as conferências são instâncias permanentes, e os conselhos, periódicos e apenas consultivos.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "E",
+          "explicacao": "Errado. É o inverso: conselhos são permanentes; conferências são periódicas."
+        },
+        {
+          "numero": 35,
+          "questao": "Julgue o item: a participação social na saúde, na assistência social e na educação tem base constitucional nos arts. 198, 204 e 206 da CF/88, que embasam o controle social.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "C",
+          "explicacao": "Correto. Os arts. 198, 204 e 206 da CF/88 embasam a participação (conselhos) e o controle social nessas áreas."
+        },
+        {
+          "numero": 36,
+          "questao": "Julgue o item: a participação social na administração pública restringe-se ao voto, não abrangendo ouvidorias, audiências ou consultas públicas.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "E",
+          "explicacao": "Errado. A participação vai além do voto: inclui conselhos, conferências, ouvidorias, audiências e consultas públicas."
+        },
+        {
+          "numero": 37,
+          "questao": "Julgue o item: o Decreto nº 9.203/2017 define governança pública como o conjunto de mecanismos de liderança, estratégia e controle postos em prática para avaliar, direcionar e monitorar a gestão.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "C",
+          "explicacao": "Correto. É exatamente a definição do Decreto nº 9.203/2017."
+        },
+        {
+          "numero": 38,
+          "questao": "Julgue o item: são princípios da governança pública, segundo o Decreto nº 9.203/2017, a capacidade de resposta, a integridade, a confiabilidade, a melhoria regulatória, a prestação de contas e responsabilidade e a transparência.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "C",
+          "explicacao": "Correto. São os seis princípios do art. 3º do Decreto nº 9.203/2017."
+        },
+        {
+          "numero": 39,
+          "questao": "Julgue o item: são mecanismos para o exercício da governança pública, segundo o Decreto nº 9.203/2017, a liderança, a estratégia e o controle.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "C",
+          "explicacao": "Correto. O art. 5º do Decreto nº 9.203/2017 estabelece os mecanismos de liderança, estratégia e controle."
+        },
+        {
+          "numero": 40,
+          "questao": "Julgue o item: o Decreto nº 9.203/2017 aplica-se a toda a administração indireta, incluindo empresas públicas e sociedades de economia mista.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "E",
+          "explicacao": "Errado. Aplica-se à administração pública federal direta, autárquica e fundacional — não à indireta empresarial."
+        },
+        {
+          "numero": 41,
+          "questao": "Julgue o item: o Decreto nº 9.203/2017 prevê a gestão de riscos, o programa de integridade e a auditoria interna governamental.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "C",
+          "explicacao": "Correto. O Decreto trata de gestão de riscos, programa de integridade (art. 19) e auditoria interna governamental (art. 18)."
+        },
+        {
+          "numero": 42,
+          "questao": "Julgue o item: o Decreto nº 9.203/2017 estabelece como único princípio a transparência, dispensando a integridade e a prestação de contas.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "E",
+          "explicacao": "Errado. São seis princípios, entre eles integridade e prestação de contas e responsabilidade — não apenas a transparência."
+        },
+        {
+          "numero": 43,
+          "questao": "Julgue o item: governança e governabilidade são conceitos equivalentes, ambos referindo-se às condições políticas de apoio ao governo.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "E",
+          "explicacao": "Errado. Governança = como avaliar, direcionar e monitorar a gestão; governabilidade = condições políticas (legitimidade, apoio, coalizões)."
+        },
+        {
+          "numero": 44,
+          "questao": "Julgue o item: governança refere-se à capacidade de avaliar, direcionar e monitorar a gestão; governabilidade, às condições políticas (legitimidade, apoio e coalizões) para governar.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "C",
+          "explicacao": "Correto. Governança (mecanismos de gestão) e governabilidade (condições políticas) são conceitos distintos."
+        },
+        {
+          "numero": 45,
+          "questao": "Julgue o item: eficiência refere-se ao uso dos recursos; eficácia, ao alcance das metas; e efetividade, ao impacto real na sociedade.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "C",
+          "explicacao": "Correto. Eficiência = meios/recursos; eficácia = metas; efetividade = impacto/resultados na sociedade."
+        },
+        {
+          "numero": 46,
+          "questao": "Julgue o item: eficácia refere-se ao uso dos recursos, e eficiência, ao alcance das metas estabelecidas.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "E",
+          "explicacao": "Errado. É o inverso: eficiência = uso dos recursos; eficácia = alcance das metas."
+        },
+        {
+          "numero": 47,
+          "questao": "Julgue o item: no Brasil, a trajetória dos modelos é marcada pela CF/88 (redemocratização e participação) e pela Reforma de 1995 (gerencialismo), e o Decreto nº 9.203/2017 busca integrar resultados, integridade e participação.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "C",
+          "explicacao": "Correto. A CF/88 e a Reforma de 1995 marcam a trajetória, e a governança pública busca integrar resultados, integridade e participação."
+        },
+        {
+          "numero": 48,
+          "questao": "Julgue o item: o modelo patrimonialista foi totalmente superado no Brasil, não havendo traços de suas práticas na administração contemporânea.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "E",
+          "explicacao": "Errado. O patrimonialismo não foi totalmente superado; traços de suas práticas persistem. O termo 'totalmente' é pegadinha."
+        },
+        {
+          "numero": 49,
+          "questao": "Julgue o item: o modelo societal, ao ampliar a participação social, contribui para a cidadania e o controle social, mas enfrenta limites como representatividade e risco de captura.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "C",
+          "explicacao": "Correto. O societal amplia cidadania e controle social, mas tem limites (representatividade, assimetrias e risco de captura)."
+        },
+        {
+          "numero": 50,
+          "questao": "Julgue o item: o modelo societal antecede historicamente o modelo burocrático e inspirou a criação do DASP.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "E",
+          "explicacao": "Errado. O societal é posterior (Paula, 2005); o DASP (1938) buscou implantar a burocracia weberiana."
+        },
+        {
+          "numero": 51,
+          "questao": "Julgue o item: a accountability limita-se à punição dos agentes públicos, não envolvendo a prestação de contas.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "E",
+          "explicacao": "Errado. Accountability envolve prestação de contas e responsabilização; reduzi-la à punição é um erro comum."
+        },
+        {
+          "numero": 52,
+          "questao": "Julgue o item: as conferências de políticas públicas são realizadas anualmente e têm caráter permanente, substituindo os conselhos.",
+          "respostas": { "C": "Certo", "E": "Errado" },
+          "resposta_certa": "E",
+          "explicacao": "Errado. As conferências são periódicas (em geral a cada 2 anos) e não substituem os conselhos, que são permanentes."
+        }
+      ]
+    }
+  ]
+}
