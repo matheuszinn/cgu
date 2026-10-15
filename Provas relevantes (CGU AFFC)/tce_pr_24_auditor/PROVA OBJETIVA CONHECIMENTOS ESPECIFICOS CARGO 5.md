@@ -1,0 +1,860 @@
+---
+tipo: prova
+concurso: "tce_pr_24_auditor"
+arquivo_origem: "Provas Cebraspe/tce_pr_24_auditor/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.pdf"
+tags:
+  - prova
+  - cebraspe
+  - cgu-2026
+---
+
+# PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5
+
+## CONHECIMENTOS ESPECÍFICOS
+
+_Questão 51_
+A engenharia de requisitos abrange as tarefas de levantamento,
+especificação, concepção, validação, elaboração, negociação e
+gestão. A tarefa de elaboração concentra-se
+A no desenvolvimento de regras de legitimação de requisitos,
+com vistas a garantir que todos os requisitos de software
+tenham sido declarados de forma não ambígua e que não haja
+inconsistências com os padrões estabelecidos para o projeto.
+B em estabelecer uma abordagem iterativa que priorize os
+requisitos, avaliando-se seus custos e riscos, de modo que
+cada parte atinja certo nível de satisfação.
+C no desenvolvimento de um modelo de requisitos refinado que
+identifique os diversos aspectos da função, do
+comportamento e das informações do software.
+D em estabelecer mecanismo de atribuição de prioridades que
+atenda às metas dos envolvidos e à arquitetura do projeto, por
+meio do estabelecimento de metas de negócios.
+E em estabelecer entendimento básico do problema,
+definindo-se os interessados em sua solução, a natureza
+da solução desejada e a eficácia da comunicação e da
+colaboração preliminares entre os demais envolvidos e a
+equipe de software.
+
+### Questão 52
+
+Assinale a opção em que é apresentada a técnica de elicitação de
+requisitos que pode ser usada para compreender os processos
+operacionais e na qual o analista de requisitos faz uma imersão
+no ambiente de trabalho em que o sistema será usado.
+A prototipação
+B casos de uso
+C entrevistas informais internas
+D cenários
+E etnografia
+
+### Questão 53
+
+Conforme a norma ISO/IEC 25010:2011, o modelo de qualidade
+do produto categoriza as propriedades da qualidade do produto
+de software em oito características, entre as quais se inclui
+A a manutenção.
+B a sustentabilidade.
+C o espaço.
+D a operacionalidade.
+E a legalidade.
+
+### Questão 54
+
+função
+ALI (arquivo lógico interno)
+AIE (arquivo de interface externa)
+EE (entrada externa)
+SE (saída externa)
+CE (consulta externa)
+quantidade
+complexidade
+alta
+baixa
+baixa
+média
+alta
+Tendo como base a tabela precedente, que apresenta as
+quantidades de funções e os respectivos níveis de complexidade
+para uma aplicação, e utilizando a contagem detalhada de pontos
+de função com base na IFPUG, assinale a opção que corresponde
+à quantidade de pontos de função brutos dessa aplicação.
+A 69
+B 71
+C 75
+D 77
+E 81
+
+### Questão 55
+
+função
+ALI (arquivo lógico interno)
+AIE (arquivo de interface externa)
+EE (entrada externa)
+SE (saída externa)
+CE (consulta externa)
+quantidade
+Com base na tabela precedente, que apresenta as quantidades de
+funções para uma aplicação, utilizando-se a contagem estimativa
+de pontos de função por meio da técnica NESMA, é correto
+afirmar essa aplicação tem uma quantidade de pontos de função
+brutos igual a
+A 62.
+B 73.
+C 83.
+D 99.
+E 105.
+
+### Questão 56
+
+Assinale a opção em que estão apresentados, respectivamente, os
+requisitos mínimos de velocidade de clock, quantidade de bits da
+arquitetura do microprocessador, quantidade de memória RAM e
+espaço de armazenamento em disco para a instalação do
+Windows Server 2022 em um computador desktop.
+A 1,1 GHz, 32 bits, 256 MB e 2 GB
+B 1,2 GHz, 32 bits, 512 MB e 8 GB
+C 1,3 GHz, 64 bits, 1 GB e 16 GB
+D 1,4 GHz, 64 bits, 2 GB e 32 GB
+E 1,5 GHz, 64 bits, 8 GB e 64 GB
+
+### Questão 57
+
+O Windows Server 2022 disponibiliza o Windows Admin Center,
+que é uma evolução das tradicionais ferramentas de
+gerenciamento de servidor. Nesse escopo, há um serviço que é
+uma coleção de ferramentas do PowerShell e de interface gráfica
+do usuário para gerenciar as funções e os recursos opcionais no
+Windows Server. Trata-se
+A das ferramentas de administração de servidor remoto.
+B do gerenciador do servidor.
+C do Intune.
+D do Azure Stack.
+E do system center.
+
+### Questão 58
+
+O Windows Server 2022 é distribuído nas versões Datacenter,
+Datacenter:Azurre Edition e Standard. Os recursos de contêineres
+e de aplicação dinâmica de patch estão presentes
+A nas versões Datacenter, Datacenter:Azurre Edition
+Standard.
+B apenas na versão Datacenter.
+C apenas nas versões Datacenter:Azurre Edition e Standard.
+D apenas na versão Datacenter:Azurre Edition.
+E apenas nas versões Datacenter e Standard.
+e
+
+### Questão 59
+
+Julgue os próximos itens, a respeito do WSUS (Windows Server
+Update Services), que é a ferramenta de gerenciamento de
+atualizações desenvolvida pela Microsoft para ambiente
+Windows.
+I
+Um servidor do WSUS pode ser a fonte de atualização de
+outros servidores do WSUS existentes em uma organização.
+II É possível aprovar a instalação de atualizações para todos os
+computadores na rede do WSUS ou para grupos de
+computadores diferentes.
+III O WSUS destina-se a instalar atualizações, não sendo
+possível a remoção de uma atualização que já esteja instalada.
+Assinale a opção correta.
+A Apenas o item I está certo.
+B Apenas o item III está certo.
+C Apenas os itens I e II estão certos.
+D Apenas os itens II e III estão certos.
+E Todos os itens estão certos.
+
+### Questão 60
+
+Considere que tenham sido criadas oito sub-redes da rede classe
+C: 192.168.0.0 a partir da extensão de sua máscara de rede
+padrão, que é 255.255.255.0. Com base nessas informações,
+assinale a opção que corresponde à representação, em binário, da
+nova máscara de rede que foi utilizada para a criação das
+referidas sub-redes.
+A 11111111.11111111.11111111.10000000
+B 11111111.11111111.11111111.11000000
+C 11111111.11111111.11111111.11100000
+D 11111111.11111111.11111111.11110000
+E 11111111.11111111.11111111.11111000
+
+### Questão 61
+
+Os firewalls são normalmente configurados para bloquear (quase
+todo) o tráfego UDP, por isso algumas aplicações são projetadas
+para usar o TCP como apoio se a comunicação por UDP falhar.
+Um exemplo de aplicação desse tipo é
+A o acesso terminal remoto, que utiliza o protocolo Telnet na
+camada de aplicação.
+B o serviço Web, que utiliza o protocolo HTTP na camada de
+aplicação.
+C a transferência de arquivos, que utiliza o protocolo FTP na
+camada de aplicação.
+D o correio eletrônico, que utiliza o protocolo SMTP na camada
+de aplicação.
+E a telefonia por Internet, que utiliza o protocolo SIP na camada
+de aplicação.
+
+### Questão 62
+
+HTTP/1.1 200 XXXX
+Connection: close
+Considerando-se esse trecho inicial de uma mensagem de
+resposta HTTP, é correto afirmar que XXXX representa
+A Moved Permanently, o que significa que o objeto
+requisitado foi removido em definitivo e que novo URL é
+especificado no cabeçalho Location: da mensagem de
+resposta.
+B Not Found, o que significa que o documento requisitado não
+existe no servidor.
+C OK, o que significa que a requisição foi bem-sucedida e a
+informação é entregue com a resposta.
+D Bad Request, o que significa que o código genérico de erro
+da requisição não pôde ser entendido pelo servidor.
+E HTTP Version Not Supported, o que significa que a
+versão do HTTP requisitada não é suportada pelo servidor.
+
+### Questão 63
+
+Na computação em nuvem, considerando-se os tipos de serviço
+IaaS, PaaS e SaaS, o provedor do serviço gerencia o sistema
+operacional, o runtime e o middleware no serviço
+A dos tipos IaaS, PaaS e SaaS.
+B dos tipos PaaS e SaaS, apenas.
+C do tipo IaaS, apenas.
+D do tipo PaaS, apenas.
+E dos tipos IaaS e SaaS, apenas.
+
+### Questão 64
+
+Assinale a opção que contém somente recursos e(ou)
+componentes que são gerenciados pelos provedores de serviço
+dos tipos IaaS, PaaS e SaaS.
+A virtualização, armazenamento e middleware
+B armazenamento, virtualização e servidores
+C sistema operacional, middleware e armazenamento
+D middleware, servidores e sistema operacional
+E servidores, sistema operacional e virtualização
+
+### Questão 65
+
+Assinale a opção que corresponde ao tipo de virtualização em
+que o sistema operacional visitante precisa receber mudanças
+para ser executado no VMM (virtual machine monitor).
+A virtualização de servidores
+B hipervisor tipo 1
+C hipervisor tipo 2
+D virtualização total
+E paravirtualização
+
+### Questão 66
+
+Acerca da virtualização de sistemas operacionais, assinale a
+opção correta.
+A Esse tipo de virtualização pode ser executado em sistemas,
+softwares e aplicativos especializados, independentemente de
+o computador hospedeiro possuir ou não recursos para
+suportar a carga necessária.
+B Esse tipo de virtualização permite que diferentes aplicativos
+sejam utilizados em um dispositivo, mesmo sem estarem
+instalados nele.
+C Nessa virtualização, a montagem de uma máquina que
+disponha dos recursos e softwares desejados pelo seu usuário
+depende do sistema operacional no qual ela opera.
+D A tecnologia desse tipo de virtualização é usada para criar
+uma máquina virtual destinada a funcionar dentro de um
+sistema operacional.
+E A técnica desse tipo de virtualização permite que uma
+aplicação se sobreponha ao sistema operacional hospedeiro.
+
+### Questão 67
+
+
+### Questão 70
+
+A respeito de virtualização, julgue os itens a seguir.
+A respeito da ITIL 4, julgue os próximos itens.
+I
+I
+Os hipervisores podem ser executados em um sistema
+operacional ou instalados diretamente no hardware e dividem
+os recursos físicos para serem utilizados por diferentes
+ambientes virtuais.
+II A máquina virtual funciona como um único arquivo de dados
+e pode ser transferida entre computadores e aberta em
+qualquer computador do mesmo ambiente, funcionando da
+mesma forma que qualquer outro arquivo digital.
+III A virtualização de funções de rede separa as principais
+funções de uma rede para distribuí-las entre os ambientes;
+depois de separadas as funções de software das máquinas
+físicas em que residiam, é possível reunir funções específicas
+em uma nova rede e atribuí-las a um ambiente.
+IV A virtualização de desktop permite que um administrador
+central implante ambientes de desktop simulados em centenas
+de máquinas físicas, de uma única vez.
+Assinale a opção correta.
+A Apenas os itens I e II estão certos.
+B Apenas os itens I e IV estão certos.
+C Apenas os itens II e III estão certos.
+D Apenas os itens III e IV estão certos.
+E Todos os itens estão certos.
+
+### Questão 68
+
+Assinale a opção correta, referente ao COBIT 2019.
+A O COBIT 2019 aumentou o número de princípios de
+governança para oito, incluindo enablers.
+B Informação, cultura, ética e comportamento são exemplos de
+fatores de desenho do COBIT 2019.
+C Um dos princípios a serem seguidos para um framework de
+governança, conforme o COBIT 2019, é que ele seja baseado
+em modelo prático e distinto dos principais padrões.
+D Os princípios do COBIT 2019 indicados para um sistema de
+governança buscam uma abordagem restrita e segmentada,
+governança igual à gestão e a busca de valores para sua
+atuação.
+E O COBIT 2019 foi desenvolvido com base em um conjunto
+de princípios para um sistema de governança e um conjunto
+de princípios para um framework de governança.
+
+### Questão 69
+
+Assinale a opção que corresponde à fase de abordagem de
+implementação prevista no COBIT 2019 que alinha os objetivos
+relacionados à tecnologia da informação com as estratégias e os
+riscos da organização e prioriza as metas organizacionais, as
+metas de alinhamento e os processos mais importantes, de
+maneira que, a partir da seleção de objetivos, feita na fase
+anterior, avalia-se a capacidade atual do componente processo
+desses objetivos.
+A Fase 1  Quais são os direcionadores?
+B Fase 2  Onde estamos agora?
+C Fase 3  Onde queremos estar?
+D Fase 4  O que precisa ser feito?
+E Fase 5  Como chegaremos lá?
+A ITIL 4 propõe o SVS (sistema de valor de serviço), um
+conjunto de componentes e atividades de uma empresa que
+possibilita a criação de valor, oferecendo maior flexibilidade
+na execução dos processos.
+II Os sete princípios da ITIL 4 devem orientar os profissionais
+de tecnologia da informação na adoção do SVS, no sentido de
+adaptar a ITIL à realidade de suas empresas.
+III A ITIL tem uma única dimensão, que é necessária para a
+entrega de valor aos parceiros, além de facilitar a visão
+segmentada da gestão de serviços.
+IV As práticas da ITIL 4 fazem parte de um único grande grupo
+(práticas gerais de gestão) e ajudam a dar interpretações
+diversas ao termo processos, que é usado no dia a dia das
+empresas em todos os departamentos.
+Assinale a opção correta.
+A Apenas os itens I e II estão certos.
+B Apenas os itens I e IV estão certos.
+C Apenas os itens II e III estão certos.
+D Apenas os itens III e IV estão certos.
+E Todos os itens estão certos.
+
+### Questão 71
+
+A fim de amparar uma abordagem holística do gerenciamento de
+serviços, a ITIL 4 define dimensões que são críticas para a
+criação de valor para os consumidores e demais partes
+interessadas por meio de produtos e serviços. A dimensão que,
+aplicada ao SVS, inclui o conhecimento necessário para o
+gerenciamento de serviços, bem como as tecnologias requeridas,
+é denominada
+A parceiros e fornecedores.
+B fluxos de valor e processos.
+C otimizar e automatizar.
+D organizações e pessoas.
+E informação e tecnologia.
+
+### Questão 72
+
+A respeito do Microsoft SQL Server 2022, assinale a opção
+correta.
+A O SQL Server 2022 permite que desenvolvedores criem
+aplicativos conectando dados relacionais com data lakes que
+contenham arquivos parquet e tabelas delta, por meio do uso
+de provedores de armazenamento compatíveis com o Azure
+ou o S3 (simple storage service).
+B A edição SQL Server Express requer uma licença paga e
+contém recursos do SQL Server 2022 sem limites para
+funcionalidades e recursos específicos, como CPU, memória
+e tamanho do banco de dados.
+C O SQL Server 2022 oferece opções de implantação, edição e
+licenciamento totalmente diferentes das versões anteriores.
+D O Azure Synapse Analytics é o serviço do Azure usado para
+fornecer a recuperação de desastre gerenciada com o SQL
+Server 2022.
+E Entre os recursos que permaneceram como parte da
+configuração para o SQL Server 2022, estão os runtimes de R,
+Python e Java.
+
+### Questão 73
+
+O SQL Server 2022 (16.x) está disponível nas versões
+Enterprise, Developer, Standard e Express, as quais podem ser
+instaladas sob a forma de atualização de uma das versões
+anteriores. A partir do SQL Server 2012 (11.x) SP4 Standard, o
+SQL Server 2022 (16.x) pode ser instalado nas versões
+A Enterprise, Developer, Standard e Express.
+B Enterprise e Standard, somente.
+C Enterprise e Express, somente.
+D Developer e Standard, somente.
+E Developer e Express, somente.
+
+### Questão 74
+
+Azure Cosmos DB e MongoDB Atlas são modelos de bancos de
+dados do tipo NoSQL que processam grandes volumes de dados
+não estruturados e em constante mudança, de maneira diferente
+de um banco de dados relacional com linhas e tabelas. Os bancos
+de dados NoSQL são mais adequados para
+A aplicativos em que o desempenho e a disponibilidade sejam
+mais importantes que uma consistência forte.
+B aplicativos que processem dados e tenham requisitos
+discretos e lógicos que possam ser identificados com
+antecedência.
+C sistemas herdados criados para estruturas relacionais.
+D aplicativos que exijam consultas complexas ou transações
+com várias linhas.
+E esquema que deva ser mantido e sincronizado entre o
+aplicativo e o banco de dados.
+
+### Questão 75
+
+Os itens a seguir apresentam recursos que podem estar presentes
+no Azure Cosmos DB for MongoDB e(ou) no Mongo DB Atlas.
+I O SLA aborda a plataforma de nuvem.
+II Distribuição global com replicação automática.
+III Pesquisa de texto integrada, processamento geoespacial.
+Em ambos os bancos de dados mencionados,
+A está disponível o recurso I, apenas.
+B está disponível o recurso III, apenas.
+C estão disponíveis os recursos I e II, apenas.
+D estão disponíveis os recursos II e III, apenas.
+E estão disponíveis todos os recursos apresentados.
+
+### Questão 76
+
+No desenvolvimento dos estudos preliminares para a
+contratação de serviços, identificou-se que o objeto a ser
+contratado era classificado como bens e serviços especiais de
+tecnologia da informação e comunicação. Deliberou-se, então,
+que, no processo de licitação, seria admitido o julgamento com
+base em técnica e preço.
+Conforme a Lei n.º 14.133/2021 e a Instrução Normativa
+SGD/ME n.º 94/2022, na situação hipotética apresentada,
+A deve ser adotado o critério de julgamento baseado em maior
+retorno econômico, caso os estudos preliminares comprovem
+que haja economia efetivamente obtida na execução do
+contrato, sendo vedada, nesse caso, a celebração de contrato
+de eficiência.
+B a adoção do critério de julgamento baseado em técnica e
+preço é lícita, desde que devidamente justificada nos autos.
+C para se utilizar o critério de julgamento baseado em técnica e
+preço, faz-se necessário combinar as modalidades de licitação
+pregão e diálogo competitivo, desde que o objeto possua
+padrões de desempenho e qualidade que possam ser
+objetivamente definidos no edital e, concomitantemente, seja
+caracterizado como inovação tecnológica ou técnica.
+D a licitação é inexigível, sendo suficiente que o estudo técnico
+preliminar comprove que o objeto é composto de serviços
+especiais e majoritariamente dependentes de tecnologia
+sofisticada e de domínio restrito.
+E cabe a dispensa da licitação, sendo suficiente que estudo
+técnico preliminar demonstre que a avaliação e a ponderação
+da qualidade técnica das propostas dos serviços especiais
+superam os requisitos mínimos relevantes aos fins
+pretendidos pela administração pública e estabelecidos no
+edital.
+
+### Questão 77
+
+Conforme dispõe a Instrução Normativa SGD/ME n.º 94/2022,
+os critérios para habilitação técnica e para julgamento das
+propostas devem ser definidos
+A pelo fiscal administrativo do contrato e pelo integrante
+técnico, respectivamente.
+B pelo integrante administrativo e pelo fiscal técnico do
+contrato, respectivamente.
+C pelo gestor do contrato e pelo fiscal técnico do contrato,
+respectivamente.
+D pelo gestor do contrato.
+E pelo integrante técnico.
+
+### Questão 78
+
+À luz do modelo de gestão do contrato, considerando-se as regras
+da Instrução Normativa SGD/ME n.º 94/2022, é correto afirmar
+que a responsabilidade de acompanhar a manutenção das
+condições de habilitação do contratado cabe ao
+A fiscal administrativo do contrato, que, contudo, somente pode
+executar a atividade descrita com a anuência do gestor do
+contrato; além dessa atividade, o fiscal administrativo deve
+identificar não conformidades com os termos contratuais e
+apoiar o fiscal técnico na elaboração do termo de recebimento
+provisório.
+B fiscal administrativo do contrato, que deve, ainda, anotar no
+histórico de gerenciamento do contrato todas as ocorrências
+relacionadas à execução do contrato.
+C fiscal administrativo do contrato, que deve, ainda, avaliar a
+qualidade dos serviços realizados, a partir da aplicação das
+listas de verificação, em conjunto com o integrante
+requisitante do contrato.
+D gestor do contrato, que também deve confeccionar o termo de
+recebimento definitivo.
+E gestor do contrato, que também deve emitir notificações para
+a correção de rotinas ou de qualquer inexatidão ou
+irregularidade constatada e confeccionar o termo de
+recebimento provisório.
+Espaço livre
+
+### Questão 79
+
+Durante o curso de uma licitação regida pela Lei
+n.º 14.133/2021, observou-se que o objeto da contratação tinha
+padrão de desempenho e qualidade objetivamente definidos por
+meio de especificações usuais de mercado. Por se tratar de um
+serviço comum, decidiu-se que: (i) a modalidade de licitação
+obrigatoriamente seria o pregão; e (ii) o critério de julgamento
+seria o de maior desconto.
+A partir dessa situação hipotética, assinale a opção correta.
+A Ambas as decisões, (i) e (ii), são erradas: embora o pregão
+possa ser utilizado, ele não é imperioso no caso; não cabe o
+maior desconto como critério de julgamento no pregão, que é
+modalidade de licitação destinada à venda de objetos de
+tecnologia da informação legalmente apreendidos a quem
+oferecer o maior lance.
+B Apenas a decisão (ii) é correta, pois, para aquisição de bens e
+serviços, pode ser utilizado o critério de julgamento de maior
+desconto, sendo a modalidade de licitação pregão
+preferencial, mas não obrigatória.
+C A decisão (i) é errada, pois a modalidade de licitação pregão
+é vedada no caso; a decisão (ii) somente estará correta se o
+objeto da licitação envolver a escolha de trabalho técnico,
+cujo critério de julgamento deve ser o de maior desconto.
+D Ambas as decisões, (i) e (ii), são corretas, pois é obrigatório,
+no caso em questão, utilizar a modalidade pregão, e o critério
+de julgamento poderá ser o de menor preço ou o de maior
+desconto.
+E Ambas as decisões, (i) e (ii), são erradas: não é obrigatória a
+utilização do pregão para a contratação de serviços comuns; o
+critério de julgamento do maior desconto somente pode ser
+utilizado no diálogo competitivo, com o intuito de
+desenvolver uma ou mais alternativas capazes de atender às
+necessidades do contratante.
+
+### Questão 80
+
+De acordo com a Instrução Normativa SGD/ME n.º 94/2022, o
+acompanhamento da execução do contrato de licitação nas
+unidades desconcentradas do órgão público contratante deve
+ficar a cargo do
+A fiscal setorial do contrato, a quem cabe avaliar os aspectos
+técnicos.
+B fiscal técnico do contrato, a quem cabe avaliar o contrato
+juntamente com o fiscal requisitante, por envolver unidades
+desconcentradas.
+C fiscal técnico do contrato, a quem cabe avaliar os aspectos
+administrativos.
+D fiscal técnico do contrato, a quem cabe avaliar somente os
+aspectos técnicos da execução do contrato.
+E integrante requisitante do contrato, a quem cabe avaliar os
+aspectos administrativos.
+
+### Questão 81
+
+De acordo com a NBR ISO/IEC 27002:2022, assinale a opção
+que indica o controle organizacional cujo propósito é assegurar a
+identificação e o entendimento das necessidades de proteção das
+informações de acordo com a sua importância para
+a organização.
+A rotulagem das informações
+B transferência das informações
+C controle de acesso das informações
+D classificação das informações
+E uso aceitável das informações
+
+### Questão 82
+
+Conforme a NBR ISO/IEC 27002:2022, emitir diretrizes sobre
+armazenamento, manuseio da cadeia de custódia e descarte de
+registros é uma medida voltada à proteção dos registros
+organizacionais ao longo do tempo nos aspectos de
+A criptografia e mitigação de riscos.
+B confiabilidade e integridade.
+C confidencialidade e privacidade.
+D não repúdio e conformidade.
+E disponibilidade e legibilidade.
+
+### Questão 83
+
+De acordo com a NBR ISO/IEC 27002:2022, convém que os
+processos utilizados no contexto da gestão de identidades
+assegurem que identidades atribuídas a várias pessoas
+A tenham prazo de validade reduzido e verificação periódica de
+aplicabilidade, sendo desativadas ou removidas quando não
+mais utilizadas ou necessárias.
+B não sejam permitidas em razão da impossibilidade em atribuir
+responsabilidade objetiva por ações realizadas fora de
+conformidade e vinculadas às identidades.
+C sejam permitidas somente quando forem necessárias por
+razões de negócios ou operacionais e estiverem sujeitas à
+aprovação e documentação dedicadas.
+D sejam estruturadas com vinculação a uma entidade primária
+titular, com responsabilidade objetiva, e demais entidades
+vinculadas como subsidiárias, com responsabilidade solidária.
+E sejam sempre fornecidas normalmente como opção à emissão
+de identidades individuais e em processo idêntico, inclusive
+sujeitando os solicitantes à aprovação segregada e à
+supervisão independente.
+
+### Questão 84
+
+Acerca da estrutura do padrão AES de criptografia, é correto
+afirmar que
+A quatro estágios são usados na estrutura AES, sendo três de
+permutação e um de substituição.
+B a estrutura do AES pode ser considerada uma estrutura
+clássica de Feistel, pela forma como processa os blocos de
+dados.
+C cada quarta parte do bloco de dados, na estrutura do AES, é
+usada alternadamente para modificar as outras três partes.
+D a chave fornecida como entrada para o AES é expandida em
+uma matriz de 16 bytes que serve como chave para cada
+rodada.
+E o AES processa todo o bloco de dados como uma matriz
+única durante cada rodada, usando substituições e
+permutações.
+
+### Questão 85
+
+O tipo de ataque contra o algoritmo RSA que explora
+propriedades características e seleciona blocos de dados que,
+quando processados com o uso da chave privada do alvo,
+produzem informações necessárias para a criptoanálise é
+conhecido como ataque
+A de textos cifrados escolhidos (chosen ciphertext attack).
+B baseado em falhas de hardware (hardware fault-based
+attack).
+C de força bruta (brute force attack).
+D matemático (mathematical attack).
+E de temporização (timing attack).
+
+### Questão 86
+
+A área de auditoria de uma organização recomendou que
+se incluísse algum mecanismo de verificação de integridade em
+uma base corporativa de imagens com milhões de arquivos.
+Em vista disso, a área de tecnologia da informação da
+organização propôs a associação dos arquivos de imagens a
+valores calculados de hash e a verificação desses valores sempre
+que os arquivos fossem usados. A principal preocupação para o
+processo incide no desempenho dos cálculos e na verificação dos
+hashes pelas aplicações internas.
+Nessa situação hipotética, a opção de algoritmo de hash mais
+indicada seria
+A MD5.
+B SHA-512.
+C WHIRLPOOL.
+D RIPEMD-160.
+E SHA-1.
+
+### Questão 87
+
+De acordo com a NBR ISO/IEC 27001:2022, a organização deve
+conduzir auditorias internas a intervalos planejados, para
+esclarecer se o sistema de gestão da segurança da informação
+está em conformidade com
+A as políticas definidas pela alta gestão e pelo conselho de
+administração relacionadas à organização como um todo.
+B os requisitos da organização para o seu sistema de gestão da
+segurança da informação e os requisitos daquela norma.
+C as diretrizes e normas da entidade reguladora da sua atividade
+negocial.
+D os objetivos e as metas da organização para o planejamento
+estratégico da área de tecnologia da informação.
+E os padrões verificados em benchmarks e melhores práticas
+comumente aceitas no seu segmento de atuação.
+
+### Questão 88
+
+Conforme a NBR ISO/IEC 27002:2022, a correta correlação e
+análise confiável de eventos relacionadas à segurança, a
+incidentes e a outros dados registrados requer que
+A todos os ativos de rede e de segurança, bem como os sistemas
+operacionais de todos os servidores, tenham os registros de
+eventos e logs habilitados em seu formato mais completo.
+B os analistas de segurança tenham experiência comprovada,
+formação adequada e certificações internacionalmente
+reconhecidas.
+C os relógios dos sistemas de tratamento de informações
+utilizados pela organização sejam sincronizados com fontes
+de tempo aprovadas.
+D os sistemas de informação da organização sejam projetados e
+construídos no sentido de garantir a alimentação permanente
+de registros de auditoria corporativos.
+E a organização disponha de ferramentas de correlação de logs
+capazes de integrar e processar os registros de todas as
+ferramentas de segurança da organização.
+
+### Questão 90
+
+De acordo com a NBR ISO/IEC 27005, uma lista de cenários
+de incidentes relevantes identificados, incluindo a identificação
+de ameaças, ativos afetados, vulnerabilidades exploradas e
+consequências para os ativos e processos do negócio, é uma das
+entradas para
+A a análise quantitativa de riscos.
+B a determinação do nível de risco.
+C a avaliação das consequências.
+D as metodologias de análise de riscos.
+E a avaliação da probabilidade dos incidentes.
+
+### Questão 91
+
+Conforme a norma NBR ISO/IEC 22301, a orientação e a
+informação para apoiar as equipes sobre como responder a uma
+disrupção e sobre como apoiar a organização com resposta e
+recuperação devem ser fornecidas
+A pela coordenação de comunicação interna.
+B pelo planejamento estratégico da organização.
+C pelo programa de exercícios e testes.
+D pela equipe responsável por resposta a disrupção.
+E pelo plano de continuidade de negócios.
+
+### Questão 92
+
+A exploração de SQL injection pode ser bem-sucedida contra
+uma aplicação web vulnerável caso
+A o servidor não envie cabeçalhos ou diretivas de segurança, ou
+eles não estejam configurados para proteger os valores.
+B recursos desnecessários, por exemplo, portas, serviços ou
+privilégios, sejam ativados ou instalados no banco de dados.
+C não haja separação, em níveis, entre as camadas do sistema e
+as camadas de rede, sendo desconsideradas as necessidades
+de exposição e proteção.
+D dados hostis sejam usados nos parâmetros de pesquisa de
+mapeamento relacional de objeto para extrair registros
+adicionais.
+E limites para o consumo de recursos do sistema por usuários
+ou por serviços sejam mal configurados ou sequer estejam
+configurados.
+
+### Questão 93
+
+Assinale a opção que indica o tipo de malware que opera
+tipicamente subvertendo o fluxo de execução do sistema, sendo
+capaz de ocultar-se e substituir as chamadas do sistema que
+manipulam arquivos, processos, memória, controles de acesso e
+comunicações de rede por código malicioso.
+A worm
+B vírus
+C rootkit
+D cavalo de Troia
+E spyware
+
+### Questão 94
+
+De acordo com a NBR ISO/IEC 22301, a partir dos resultados da
+análise de impacto nos negócios e da avaliação de riscos, a
+organização deve realizar a identificação de estratégias de
+continuidade de negócios que, entre outras ações,
+O ataque contra a camada MAC das redes 802.11 em que o
+atacante envia uma grande quantidade de quadros de
+gerenciamento com origem forjada na tentativa de esgotar a
+memória e o processamento do access point é denominado
+ataque DoS por
+A reduzam a probabilidade de disrupção.
+B expandam o eventual cenário de impacto de disrupção.
+C revisem e validem novamente as atividades de recuperação.
+D priorizem outras atividades ainda não contempladas.
+E aumentem eventuais previsões para o período de disrupção.
+A inundação de autenticação ou associação.
+B inundação de desautenticação.
+C autenticação inválida.
+D problema de CSMA/CA.
+E reserva do meio.
+
+### Questão 89
+
+
+### Questão 95
+
+No protocolo SYSLOG, os indicadores de nível de
+severidade representados pelos valores 2 e 7 correspondem,
+respectivamente, a
+A informativo (mensagens informativas) e emergência (sistema
+inutilizável).
+B aviso (condição de aviso) e alerta (a ação deve ser tomada
+imediatamente).
+C crítico (condições críticas) e debug (mensagens de nível de
+depuração).
+D emergência (sistema inutilizável) e informativo (mensagens
+informativas).
+E notificação (condição normal, mas significativa) e erro
+(condição de erro).
+
+### Questão 96
+
+No processo de classificação do aprendizado de máquina, a etapa
+que inicia o processo é conhecida como
+A construção.
+B esforço.
+C análise.
+D treinamento.
+E estudo.
+
+### Questão 97
+
+Assinale a opção em que é corretamente apresentado o método
+de aprendizagem de máquina em que o algoritmo tem a
+capacidade de selecionar quais dados serão utilizados para
+o treinamento.
+A aprendizado por transferência
+B aprendizado multitarefa
+C aprendizado ativo
+D aprendizado online
+E aprendizado em conjunto
+
+### Questão 98
+
+Considere que certa organização não governamental tenha
+coletado diversos dados de determinado bioma do estado do
+Paraná e esteja estudando qual é a melhor técnica para analisar
+tais dados. Haja vista a inexistência de qualquer base de
+referência, a técnica mais indicada para agrupamento é a
+A categorização.
+B clusterização.
+C série temporal.
+D detecção de desvio.
+E classificação.
+
+### Questão 99
+
+Caso se queira analisar a relação entre três variáveis climáticas
+de uma região no interior do Paraná para prever futuras situações
+de emergência, então se deve utilizar, para tal fim, a técnica de
+A sequência de tempo.
+B análise quantitativa.
+C análise de regressão.
+D análise qualitativa.
+E correlação assíncrona.
+
+### Questão 100
+
+Uma equipe estadual de TI teve acesso a um data lake
+sobre dados de estradas do estado do Paraná e vai cruzar
+informações com o objetivo de otimizar o fluxo de veículos. Para
+isso, o time de Big Data optou por inicialmente descartar as
+variáveis correlacionadas redundantes.
+Nessa situação, a técnica que o time de Big Data deve adotar
+é a(o)
+A associação preliminar.
+B análise de predição.
+C descarte de resíduos.
+D combinação funcional.
+E redução de dimensionalidade.
+Espaço livre
