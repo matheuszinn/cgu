@@ -4,7 +4,7 @@ disciplina: "Arquitetura e Integração de Sistemas"
 tema: "Integração com dados e IA"
 data: "2026-10-14"
 tags:
-  - flashcard
+  - flashcard/integracao-com-dados-e-ia
 ---
 
 # Flashcards: Integração com dados e IA

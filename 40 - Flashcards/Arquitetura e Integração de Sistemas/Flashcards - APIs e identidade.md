@@ -4,7 +4,7 @@ disciplina: "Arquitetura e Integração de Sistemas"
 tema: "APIs e identidade"
 data: "2026-10-14"
 tags:
-  - flashcard
+  - flashcard/apis-e-identidade
 ---
 
 # Flashcards: APIs e identidade

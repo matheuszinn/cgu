@@ -4,7 +4,7 @@ disciplina: "Administração Pública e Fundamentos de Políticas Públicas"
 tema: "Organização administrativa"
 data: "2026-10-14"
 tags:
-  - flashcard
+  - flashcard/organizacao-administrativa
 ---
 
 # Flashcards: Organização administrativa

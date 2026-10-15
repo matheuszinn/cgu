@@ -4,7 +4,7 @@ disciplina: "Arquitetura e Integração de Sistemas"
 tema: "Arquiteturas de aplicações"
 data: "2026-10-14"
 tags:
-  - flashcard
+  - flashcard/arquiteturas-de-aplicacoes
 ---
 
 # Flashcards: Arquiteturas de aplicações

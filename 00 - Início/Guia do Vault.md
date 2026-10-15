@@ -38,6 +38,7 @@ Para instalar plugins da comunidade, o modo de plugins restrito precisa estar de
 - **Tags principais**: `#nota`, `#resumo`, `#flashcard`, `#questão`, `#pendente`, `#moc`
 - **`disciplina`** deve ter exatamente o mesmo nome do MOC (ex: `Direito Administrativo`) — é isso que conecta nota ↔ MOC via Dataview
 - **Organização em subpastas**: em `20 - Notas/`, `30 - Resumos/`, `40 - Flashcards/` e `50 - Questões/`, os arquivos ficam em subpastas com o **nome exato da disciplina** (ex: `Arquitetura e Integração de Sistemas/`). Os painéis Dataview são **recursivos**, então continuam listando tudo normalmente.
+- **Decks de flashcards por tema (Spaced Repetition)**: cada arquivo de flashcards usa a tag **hierárquica** `#flashcard/<tema>` (ex.: `#flashcard/modelos-de-administracao`). A tag raiz `#flashcard` é o "deck-mãe", e cada tema vira um **subdeck** — assim você revisa **por tema** na extensão (ícone de flashcards → expandir `flashcard` → escolher o tema).
 
 ## 4. Fluxo de estudo
 

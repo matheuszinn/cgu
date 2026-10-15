@@ -3,7 +3,7 @@ tipo: flashcard
 disciplina: "Administração Pública e Fundamentos de Políticas Públicas"
 tema: "Políticas públicas"
 data: "2026-10-14"
-tags: [flashcard]
+tags: [flashcard/politicas-publicas]
 ---
 
 # Flashcards: Políticas públicas

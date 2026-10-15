@@ -4,7 +4,7 @@ disciplina: "Administração Pública e Fundamentos de Políticas Públicas"
 tema: "Serviços e transformação digital"
 data: "2026-10-14"
 tags:
-  - flashcard
+  - flashcard/servicos-e-transformacao-digital
 ---
 
 # Flashcards: Serviços e transformação digital

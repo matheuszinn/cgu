@@ -4,7 +4,7 @@ disciplina: "Administração Pública e Fundamentos de Políticas Públicas"
 tema: "Planejamento e recursos"
 data: "2026-10-14"
 tags:
-  - flashcard
+  - flashcard/planejamento-e-recursos
 ---
 
 # Flashcards: Planejamento e recursos

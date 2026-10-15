@@ -4,7 +4,7 @@ disciplina: "Arquitetura e Integração de Sistemas"
 tema: "Comunicação e consistência"
 data: "2026-10-14"
 tags:
-  - flashcard
+  - flashcard/comunicacao-e-consistencia
 ---
 
 # Flashcards: Comunicação e consistência
