@@ -1,10 +1,10 @@
 ---
 tipo: flashcard
 disciplina: "<% tp.system.prompt("Disciplina", "Direito Administrativo") %>"
-tema: "<% tp.system.prompt("Assunto", "") %>"
+tema: "<%* const tema = tp.system.prompt("Assunto", ""); const slug = (tema.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "")) || "geral"; tR += tema %>"
 data: "<% tp.date.now("YYYY-MM-DD") %>"
 tags:
-  - flashcard
+  - flashcard/<%* tR += slug %>
 ---
 
 # <% tp.file.title %>
