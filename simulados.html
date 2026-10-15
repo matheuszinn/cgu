@@ -203,16 +203,19 @@
 
       expEl.style.display = "block";
       expEl.classList.add(acertou ? "acerto" : "erro");
+      const ehCertoErrado =
+        (certa === "C" || certa === "E") && /^(certo|errado)$/i.test(q.respostas[certa] || "");
+      const certaLabel = ehCertoErrado ? q.respostas[certa] : certa + ") " + q.respostas[certa];
       expEl.appendChild(
         el("strong", null,
           (acertou ? "✔ Você acertou! " : "✘ Você errou. ") +
-          "Resposta correta: " + certa + ") " + q.respostas[certa])
+          "Resposta correta: " + certaLabel)
       );
       expEl.appendChild(el("p", null, q.explicacao || "Sem explicação cadastrada."));
       updateScore();
     }
 
-    function renderProva(prova) {
+    function renderProva(prova, formatoGlobal) {
       const sec = el("section", "prova");
       sec.dataset.moc = prova.moc;
       sec.appendChild(el("h2", null, prova.moc));
@@ -230,7 +233,8 @@
           const b = el("button", "opt");
           b.type = "button";
           b.dataset.letter = L;
-          b.appendChild(el("span", "letter", L + ")"));
+          const ce = q.formato === "certo_errado" || prova.formato === "certo_errado" || formatoGlobal === "certo_errado";
+          if (!ce) b.appendChild(el("span", "letter", L + ")"));
           b.appendChild(el("span", "otext", q.respostas[L]));
           b.addEventListener("click", () => answer(b, q, card, exp, L));
           opts.appendChild(b);
@@ -247,7 +251,7 @@
       app.innerHTML = "";
       filter.innerHTML = '<option value="__all__">Todas as provas</option>';
       (data.provas || []).forEach((p, i) => {
-        app.appendChild(renderProva(p));
+        app.appendChild(renderProva(p, data.formato));
         const o = document.createElement("option");
         o.value = p.moc;
         o.textContent = p.moc;
