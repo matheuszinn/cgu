@@ -16,6 +16,7 @@ tags:
 O que são "modelos de administração pública"? :: Diferentes formas de organizar e conduzir a coisa pública, cada uma com ênfase própria.
 
 Quais são os quatro modelos clássicos de administração pública? :: Patrimonialista, burocrático (weberiano), gerencial (Nova Gestão Pública) e societal/participativo.
+<!--SR:!2026-10-16,1,230-->
 
 No Brasil, os modelos de administração pública se substituíram linearmente? :: Não; eles coexistem e se sobrepõem (hibridismo).
 
@@ -26,20 +27,26 @@ Qual é a marca do modelo patrimonialista? :: A confusão entre o público e o p
 Que práticas o patrimonialismo favorece? :: Nepotismo, clientelismo e corrupção.
 
 O patrimonialismo foi totalmente superado no Brasil? :: Não; ele persiste em práticas cotidianas.
+<!--SR:!2026-10-18,3,250-->
 
 ## Burocrático (Weber)
 
 A que tipo de dominação weberiana a burocracia corresponde? :: À dominação racional-legal.
+<!--SR:!2026-10-16,1,230-->
 
 Quais são os três tipos de dominação em Weber? :: Tradicional, carismática e racional-legal.
 
 O que a burocracia weberiana busca? :: Previsibilidade e eficiência por meio de normas impessoais (é o modelo racional por excelência).
+<!--SR:!2026-10-18,3,250-->
 
 Quais são as características do tipo ideal burocrático weberiano? :: Formalidade (regras escritas), impessoalidade, hierarquia, meritocracia, divisão do trabalho, racionalidade/previsibilidade e documentação.
+<!--SR:!2026-10-16,1,230-->
 
 O que significa impessoalidade na burocracia? :: O cargo vale mais que a pessoa; decisões iguais para casos iguais.
+<!--SR:!2026-10-18,3,250-->
 
 O que significa meritocracia na burocracia? :: Seleção e promoção pelo mérito/competência técnica, e não por favoritismo.
+<!--SR:!2026-10-18,3,250-->
 
 ## Profissionalização
 
@@ -54,6 +61,7 @@ O que a burocracia trouxe de positivo ao serviço público? :: Legalidade, impes
 Quais são as principais disfunções/limites do modelo burocrático? :: Rigidez, excesso de formalismo ("burocratismo"), foco em meios e não em resultados, autorreferenciamento e resistência à mudança.
 
 Quem apontou disfunções clássicas da burocracia, como a incapacidade treinada e o ritualismo? :: Merton (e outros autores da sociologia das organizações).
+<!--SR:!2026-10-16,1,230-->
 
 "A burocracia é sinônimo de ineficiência"? :: Errado; em Weber ela é racional e busca eficiência (as disfunções são desvios do tipo ideal).
 
@@ -70,8 +78,10 @@ O que é accountability? :: Prestação de contas somada à responsabilização 
 ## Instrumentos do modelo gerencial
 
 Quais instrumentos são típicos do modelo gerencial? :: Planejamento estratégico, gestão por resultados, acordo de resultados, contratos de gestão e PDCA.
+<!--SR:!2026-10-16,1,230-->
 
 O que é o PDCA? :: Ciclo de planejar (Plan), executar (Do), verificar (Check) e agir (Act).
+<!--SR:!2026-10-16,1,230-->
 
 ## Reforma Bresser / PDRAE (1995)
 
@@ -88,6 +98,7 @@ Quem formulou o modelo societal/participativo e em que ano? :: Ana Paula Paes de
 Qual é a ênfase do modelo societal? :: A dimensão sociopolítica: gestão pública compartilhada, ampliação da democracia e participação social na formulação e no controle das políticas.
 
 Qual a diferença de ênfase entre o gerencial e o societal? :: Gerencial = ênfase econômico-financeira e institucional-administrativa; societal = ênfase sociopolítica (participação).
+<!--SR:!2026-10-16,1,230-->
 
 Quais limites são apontados ao modelo societal? :: Representatividade, assimetrias de poder/informação, risco de captura e de a participação se tornar apenas consultiva.
 
@@ -98,10 +109,12 @@ Quais são os principais canais de participação social? :: Conselhos de polít
 Conselhos × conferências? :: Conselhos são permanentes; conferências são periódicas (em geral a cada 2 anos), de avaliação e proposição de rumos.
 
 Qual é a base constitucional da participação na saúde, assistência social e educação? :: Arts. 198, 204 e 206 da CF/88 (controle social).
+<!--SR:!2026-10-18,3,250-->
 
 ## Governança pública (Decreto nº 9.203/2017)
 
 Qual decreto instituiu a política de governança da administração pública federal? :: O Decreto nº 9.203/2017.
+<!--SR:!2026-10-16,1,230-->
 
 A que órgãos se aplica o Decreto nº 9.203/2017? :: À administração pública federal direta, autárquica e fundacional.
 
@@ -110,6 +123,7 @@ Como o Decreto nº 9.203/2017 define governança pública? :: Conjunto de mecani
 Quais são os princípios da governança pública (art. 3º do Decreto nº 9.203/2017)? :: Capacidade de resposta; integridade; confiabilidade; melhoria regulatória; prestação de contas e responsabilidade; transparência.
 
 Quais são os mecanismos de governança (art. 5º do Decreto nº 9.203/2017)? :: Liderança, estratégia e controle.
+<!--SR:!2026-10-16,1,230-->
 
 O que compõe a liderança como mecanismo de governança? :: Integridade, competência, responsabilidade e motivação.
 
@@ -118,6 +132,7 @@ O Decreto nº 9.203/2017 prevê gestão de riscos e programa de integridade? :: 
 ## Governança × governabilidade × eficiência
 
 Governança × governabilidade? :: Governança = capacidade de avaliar, direcionar e monitorar a gestão (mecanismos); governabilidade = condições políticas (legitimidade, apoio, coalizões) para governar.
+<!--SR:!2026-10-18,3,250-->
 
 Eficiência × eficácia × efetividade? :: Eficiência = como usar os recursos; eficácia = atingir as metas; efetividade = impacto real na sociedade.
 
