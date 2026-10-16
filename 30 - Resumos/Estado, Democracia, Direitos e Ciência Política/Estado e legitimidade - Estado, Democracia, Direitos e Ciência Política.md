@@ -79,6 +79,19 @@ Finalmente, o Estado não é um bloco homogêneo: abriga **pluralismo** de inter
 - **Administração (pública)**: aparato **burocrático estável** que executa as políticas e presta serviços; orienta-se pela continuidade, impessoalidade e legalidade.
 - A CF/88, no art. 1º, declara que a República Federativa do Brasil é formada pela **união indissolúvel** dos Estados, Municípios e do Distrito Federal e constitui **Estado Democrático de Direito**.
 
+### 2.3 Estado de Direito × Estado Democrático de Direito
+
+- **Estado de Direito**: o poder está **submetido ao Direito** — princípio da **legalidade**, separação de poderes e garantia de **direitos fundamentais**; os governantes também são alcançados pela lei.
+- **Estado Democrático de Direito** (CF, art. 1º, caput): soma ao Estado de Direito a **soberania popular**, a **legitimidade democrática** do poder e a **justiça social** (objetivos do art. 3º). O Direito não é apenas **limite**, mas **instrumento de transformação social**.
+- Implicação prática: o poder não é apenas **limitado** (não fazer), mas **orientado** a promover direitos e reduzir desigualdades.
+
+### 2.4 Soberania e formas de Estado e de governo
+
+- **Soberania**: poder supremo, **uno e indivisível**, que não reconhece outro acima de si **internamente** nem se subordina a ordem estrangeira **externamente**. É **fundamento da República** (art. 1º, I) e fundamento do **monopólio legítimo da força**.
+- **Formas de Estado**: **unitário** (poder centralizado) × **federal** (entes autônomos unidos) — o Brasil é **federal** (art. 1º e art. 18).
+- **Formas de governo**: **República** (governantes eleitos, mandato temporário, responsabilidade) × **Monarquia** (vitaliciedade, hereditariedade, irresponsabilidade) — o Brasil é **República**.
+- **Sistemas de governo**: **presidencialismo** × **parlamentarismo** (cf. Item 2).
+
 ## 3. Weber: dominação e monopólio legítimo da violência
 
 ### 3.1 Poder, dominação e legitimidade
@@ -133,6 +146,17 @@ Finalmente, o Estado não é um bloco homogêneo: abriga **pluralismo** de inter
 - **Conflitos distributivos** são inerentes à política — sobre orçamento, tributos, políticas sociais, subsídios, regulação — e são mediados por **instituições** (eleições, Legislativo, orçamento, políticas públicas).
 - A política, nessa ótica, é a **gestão legítima do conflito**: canalizar divergências para procedimentos pacíficos, em vez de violência.
 
+### 5.4 Interesse público e os princípios da administração
+
+- No direito administrativo, o interesse público desdobra-se em dois princípios basilares: **supremacia do interesse público sobre o privado** (prerrogativas do Estado, ex.: desapropriação) e **indisponibilidade do interesse público** (o agente não pode dispor do que pertence à coletividade).
+- São **complementares e limitados**: a supremacia não autoriza arbitrariedade (respeita direitos, proporcionalidade e devido processo).
+- O interesse público é **aferido** por processos democráticos e pelo **controle** (interno, externo e social — cf. Item 5).
+
+### 5.5 Legitimidade em regimes democráticos (síntese)
+
+- A legitimidade democrática moderna assenta-se na **tríade**: **origem** (procedimentos eleitorais e participativos), **exercício** (respeito a direitos, legalidade e impessoalidade) e **resultados** (entrega de valor público e redução de desigualdades).
+- Crise de legitimidade ocorre quando há **déficit de confiança**, de resultados ou de representatividade — ligando este item ao tema da **democracia e representação** (Item 2).
+
 ## Detalhes que merecem destaque
 
 - **Estado é permanente; governo é transitório; administração é o aparato executor** — troca clássica de banca.
@@ -157,6 +181,10 @@ Finalmente, o Estado não é um bloco homogêneo: abriga **pluralismo** de inter
 | Dominação tradicional | Dominação racional-legal | Tradicional = costume/pessoal; racional-legal = norma impessoal/burocracia |
 | Dominação carismática | Dominação racional-legal | Carismática = qualidades do líder; racional-legal = cargo e legalidade |
 | Interesse público | Interesse privado | Público = finalidade coletiva (resultado de processo legítimo); privado = vantagem particular |
+| Estado de Direito | Estado Democrático de Direito | Direito = limite ao poder; Democrático = soma soberania popular + justiça social |
+| Estado unitário | Estado federal | Unitário = poder centralizado; federal = entes autônomos |
+| República | Monarquia | República = mandato temporário, responsabilidade; monarquia = vitalício, hereditário |
+| Supremacia do interesse público | Indisponibilidade do interesse público | Supremacia = prerrogativas do Estado; indisponibilidade = o agente não pode dispor do público |
 
 ## Pegadinhas e erros comuns
 
@@ -172,6 +200,10 @@ Finalmente, o Estado não é um bloco homogêneo: abriga **pluralismo** de inter
 - Tratar o **contrato social como fato histórico** — é um **modelo teórico/critério de legitimidade**.
 - Confundir **interesse público** com a soma dos interesses privados, ou tratá-lo como conceito único e inquestionável.
 - Ignorar que **conflitos distributivos são inerentes** à política (não "patologia").
+- Confundir **soberania** (poder supremo, fundamento do Estado) com **autonomia** (de entes federados).
+- Afirmar que a **separação de poderes** e a **submissão à lei** não caracterizam o Estado de Direito — são elementos centrais dele.
+- Tratar **República** como **sistema de governo** — é **forma de governo** (o sistema de governo é presidencialismo/parlamentarismo).
+- Esquecer que a **supremacia do interesse público** não autoriza violação de direitos (é limitada pela proporcionalidade e pelo devido processo).
 
 ## Notas atômicas relacionadas
 

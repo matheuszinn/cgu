@@ -55,6 +55,20 @@ Se as eleições asseguram a **responsabilização vertical** (cidadão → gove
 - **Instituições necessárias à poliarquia** (Dahl): funcionários eleitos; eleições **livres, justas e frequentes**; **liberdade de expressão**; **fontes alternativas de informação**; **autonomia associativa** (direito de formar e ingressar em associações/partidos); **cidadania inclusiva** (direito de votar e de concorrer).
 - A poliarquia exige **pluralismo** efetivo: grupos e associações que atuam de forma **autônoma** em relação ao Estado.
 
+### 1.5 Sistemas eleitorais e representação proporcional
+
+- **Sistema majoritário**: vence quem obtém **mais votos** (maioria simples ou absoluta, com dois turnos) — usado para **cargos do Executivo** (Presidente, Governador, Prefeito) e **Senado** (maioria simples).
+- **Sistema proporcional**: as cadeiras são distribuídas conforme a **proporção de votos** de cada partido/coligação — usado para **Câmara dos Deputados, Assembleias Legislativas e Câmaras Municipais**.
+- **Lista aberta** (Brasil): o eleitor vota em **candidato** (não em lista fechada do partido), o que personaliza a disputa e, segundo a literatura, **enfraquece a coesão partidária**.
+- **Quociente eleitoral e partidário**: mecanismos técnicos de distribuição de cadeiras na proporcional; as **sobras** são disputadas por regras próprias.
+- O sistema proporcional + multipartidarismo é **ingrediente central** do presidencialismo de coalizão (Abranches).
+
+### 1.6 Democracia participativa e deliberativa (complementos)
+
+- **Democracia participativa**: ampliação dos espaços de **participação direta** dos cidadãos (conselhos, orçamento participativo, conferências) para além do voto.
+- **Democracia deliberativa**: a legitimidade das decisões depende da **deliberação pública** — troca de razões e argumentos entre iguais — e não apenas da agregação de preferências (Habermas e autores deliberacionistas).
+- Ambas **complementam** (não substituem) a representação; a CF/88 institucionaliza a participação em políticas como saúde (art. 198) e assistência (art. 204).
+
 ## 2. Responsabilização democrática (accountability)
 
 ### 2.1 Conceito de accountability
@@ -83,6 +97,7 @@ Se as eleições asseguram a **responsabilização vertical** (cidadão → gove
 ### 2.5 Accountability social
 
 - Complemento contemporâneo: **controle social** exercido por cidadãos, associações e movimentos sobre o Estado (conselhos, ouvidorias, transparência, mobilização) — une elementos verticais e horizontais.
+- **Accountability diagonal**: conceito que descreve a **convergência** entre atores sociais e instituições estatais de controle (ex.: cidadão aciona o TCU ou o Ministério Público), aproximando o controle social do horizontal.
 
 ## 3. Relações entre Executivo, Legislativo e Judiciário
 
@@ -162,6 +177,10 @@ Se as eleições asseguram a **responsabilização vertical** (cidadão → gove
 | Presidencialismo | Parlamentarismo | Presidencial = chefe eleito, mandato fixo; parlamentar = governo depende de confiança do Parlamento |
 | Veto | Sanção | Veto = recusa do Executivo ao projeto; sanção = concordância do Executivo |
 | Judicialização | Ativismo judicial | Judicialização = deslocamento de questões ao Judiciário; ativismo = postura proativa do juiz |
+| Sistema majoritário | Sistema proporcional | Majoritário = vence quem tem mais votos; proporcional = cadeiras conforme proporção de votos |
+| Lista aberta | Lista fechada | Aberta = voto no candidato; fechada = voto na lista/partido |
+| Democracia participativa | Democracia deliberativa | Participativa = ampliar espaços de participação; deliberativa = decisão via argumentação pública |
+| Accountability horizontal | Accountability social | Horizontal = entre agências estatais; social = sociedade sobre o Estado |
 
 ## Pegadinhas e erros comuns
 
@@ -177,6 +196,11 @@ Se as eleições asseguram a **responsabilização vertical** (cidadão → gove
 - Afirmar que a CF adota **apenas** democracia representativa — o art. 1º, parágrafo único, prevê **exercício direto** também.
 - Achar que **participação substitui representação** — são **complementares**.
 - Dizer que no presidencialismo o presidente **depende de confiança parlamentar** para permanecer — é característica do **parlamentarismo**.
+- Confundir **sistema majoritário** (Executivo e Senado) com **proporcional** (Câmara/Assembleias/Câmaras Municipais).
+- Afirmar que a **lista aberta** fortalece a disciplina partidária — na literatura, tende a **personalizar** e **fragmentar**.
+- Trocar **governabilidade** (ter condições de governar) por **governança** (qualidade da gestão), ou vice-versa.
+- Dizer que **accountability** se resume a **punição** — envolve também **informação/transparência** e **justificação** (answerability).
+- Esquecer que a **democracia delegativa** tem eleições (vertical) mas **fraco controle horizontal** — não é ditadura sem eleições.
 
 ## Notas atômicas relacionadas
 

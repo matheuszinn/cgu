@@ -116,9 +116,21 @@ No plano das interpretações, **Gilberto Freyre** (*Casa-Grande & Senzala*, 193
   - **Inclusão:** universalização de serviços (SUS, SUAS), transferência de renda, cotas, reconhecimento de direitos de minorias, participação social.
   - **Exclusão:** informalidade, desigualdades regionais, discriminação institucional, sub-registro civil, barreiras de acesso a serviços e benefícios (exigências documentais, "porta estreita" burocrática), estigma de programas focalizados.
 
-## Detalhes que merecem destaque
+### 4.3 Participação e controle social no Brasil pós-1988
 
-- **Lei Áurea (1888) = libertação jurídica SEM integração material** — esta é a chave da análise de Florestan Fernandes e das desigualdades raciais atuais.
+- A CF/88 consolidou canais de **participação e controle social**: **conselhos de políticas públicas** (saúde, assistência, educação), **conferências nacionais**, **orçamento participativo**, **audiências e consultas públicas**, **ouvidorias** e **transparência** (LAI, Lei nº 12.527/2011).
+- **Controle social:** participação da sociedade civil na **formulação, no acompanhamento e na fiscalização** das políticas públicas — distinto do **controle institucional** (interno — CGU — e externo — TCU), mas complementar a ele.
+- **Significado sociológico:** esses mecanismos são tentativas de **despatrimonializar** a relação Estado–sociedade, substituindo o favor e o compadrio por **impessoalidade, publicidade e accountability**.
+
+### 4.4 Mecanismos concretos de exclusão institucional
+
+- **Sub-registro civil de nascimento:** quem não tem certidão não existe juridicamente — fica fora de escola, saúde e benefícios (por isso a política de **erradicação do sub-registro** e os mutirões de documentação).
+- **"Porta estreita" burocrática:** exigências documentais e procedimentais que, embora neutras na forma, excluem na prática populações vulneráveis (indígenas, quilombolas, pessoas em situação de rua, PCD).
+- **Exclusão digital:** a migração de serviços para plataformas digitais exclui quem não tem conectividade, equipamento ou **letramento digital**.
+- **Estigma de programas focalizados:** a exigência de comprovação de pobreza e o desenho dos programas podem **estigmatizar** beneficiários, funcionando como barreira simbólica.
+- **Informalidade como exclusão:** quem está fora do mercado formal fica, historicamente, fora de direitos (cidadania regulada) — a **inclusão** exige universalizar a proteção.
+
+## Detalhes que merecem destaque — esta é a chave da análise de Florestan Fernandes e das desigualdades raciais atuais.
 - **"Homem cordial" (Sérgio Buarque) NÃO é "pessoa simpática/educada"** — é a primazia do **afetivo e do pessoal** sobre a impessoalidade da lei.
 - **Cidadania regulada (Wanderley G. dos Santos):** direitos sociais atrelados à **carteira de trabalho**, não à condição de cidadão — explica a exclusão dos informais.
 - **Patrimonialismo ≠ corrupção** (sinônimo aproximado, mas tecnicamente é a confusão público/privado; a corrupção é uma de suas manifestações).
@@ -137,6 +149,8 @@ No plano das interpretações, **Gilberto Freyre** (*Casa-Grande & Senzala*, 193
 | Abolição (libertação) | Integração social | abolição = fim jurídico da escravidão; integração = inclusão material no mercado e na sociedade de classes |
 | Inclusão institucional | Exclusão institucional | inclusão = ampliação de acesso/direitos; exclusão = barreiras formais/informais ao acesso |
 | Subdesenvolvimento (Furtado) | "Etapa do desenvolvimento" | subdesenvolvimento = estrutural/dependente; "etapa" = visão linear e superável apenas com tempo |
+| Controle social | Controle institucional | social = participação da **sociedade civil** (conselhos, ouvidorias); institucional = órgãos do Estado (CGU/TCU) |
+| Patrimonialismo | Burocracia racional-legal (Weber) | patrimonialismo = pessoal/privado; burocracia = impessoal, por regras e mérito |
 
 ## Pegadinhas e erros comuns
 
@@ -150,6 +164,8 @@ No plano das interpretações, **Gilberto Freyre** (*Casa-Grande & Senzala*, 193
 - Achar que **Celso Furtado** defendia que o crescimento econômico gera automaticamente distribuição — ele demonstra que a **concentração de renda** bloqueia o desenvolvimento.
 - Atribuir a **CF/88** uma ruptura **total** com a cidadania regulada — a lógica contributiva da previdência permanece; a ruptura é **parcial**.
 - Trocar os autores: Freyre (miscigenação/democracia racial), Sérgio Buarque (homem cordial), Furtado (subdesenvolvimento), Florestan (negro/sociedade de classes), Wanderley G. Santos (cidadania regulada).
+- Confundir **controle social** (sociedade civil) com **controle institucional** (CGU/TCU) — são complementares, mas de natureza distinta.
+- Achar que a **inclusão institucional** decorre apenas de leis — exige também enfrentar **barreiras burocráticas, documentais e digitais** (sub-registro, "porta estreita").
 
 ## Notas atômicas relacionadas
 

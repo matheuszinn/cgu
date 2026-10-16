@@ -57,6 +57,21 @@ A capacidade de o Estado realizar seus fins depende das **capacidades estatais**
 - **Cooperação**: atuação **conjunta e articulada** para fins comuns (consórcios públicos, convênios, consórcios intermunicipais).
 - A União exerce papel **indutor e coordenador** (define normas gerais e financia); Estados atuam de forma **intermediária**; Municípios são **executores** de muitas políticas (saúde, educação, assistência).
 
+### 1.4 Competências da União e dos Municípios (complemento)
+
+- **Competências exclusivas da União (art. 21 — administrativas)**: manter relações internacionais, declarar guerra/celebrar paz, assegurar a defesa nacional, emitir moeda, administrar reservas cambiais, organizar e manter o Poder Judiciário/MP, entre outras.
+- **Competências privativas da União (art. 22 — legislativas)**: direito civil, comercial, penal, processual, eleitoral, do trabalho; desapropriação; águas, energia; trânsito; diretrizes da educação, etc. — **parágrafo único**: lei complementar pode **autorizar os Estados** a legislar sobre **questões específicas**.
+- **Competências dos Municípios (art. 30)**: legislar sobre **interesse local**; **suplementar** a legislação federal e estadual no que couber; instituir e arrecadar tributos municipais; criar/organizar serviços públicos de interesse local; prestar, com cooperação técnica e financeira da União/Estado, serviços de **atendimento à saúde da população**; manter programas de **educação infantil e ensino fundamental**.
+- **Vedação comum (art. 19)**: é vedado à União, Estados, DF e Municípios **estabelecer cultos religiosos ou igrejas**, subvencioná-los ou manter aliança/dependência, **recusar fé aos documentos públicos** e **criar distinções entre brasileiros ou preferências entre si** (princípio da **laicidade**).
+
+### 1.5 Instrumentos de cooperação federativa
+
+- **Consórcios públicos** (Lei nº 11.107/2005): associação **voluntária** entre entes (sobretudo Municípios) para **gestão associada** de serviços e obras (ex.: saúde, resíduos sólidos, transporte).
+- **Convênios e termos de colaboração/fomento**: parcerias entre entes e com organizações da sociedade civil, com repasses de recursos e metas pactuadas.
+- **Transferências intergovernamentais** (fundos como Fundeb, FNS — saúde, FNAS — assistência): a União **induz e financia** políticas executadas por Estados/Municípios.
+- **Comissões intergestores** (CIT, CIB) e **sistemas nacionais** (SUS, SUAS): espaços de **pactuação** e **coordenação** das políticas descentralizadas.
+- Esses instrumentos materializam o **federalismo cooperativo**, conectando **autonomia** e **coordenação**.
+
 ## 2. Capacidades administrativas e políticas (capacidades estatais)
 
 ### 2.1 Conceito
@@ -110,6 +125,12 @@ A capacidade de o Estado realizar seus fins depende das **capacidades estatais**
 - Tensão permanente: **discricionariedade** (flexibilidade, adequação ao caso) **×** **legalidade/controle** (previsibilidade, impessoalidade, evitabilidade de abusos).
 - O bom desenho institucional **reconhece** a discricionariedade (não a ignora) e a **submete** a diretrizes, supervisão, transparência e responsabilização.
 
+### 3.5 Implementação de direitos e federalismo (síntese)
+
+- A **efetivação dos direitos sociais** (art. 6º) no Brasil depende de políticas **descentralizadas** (municipalização da saúde/educação/assistência) articuladas por **sistemas nacionais** (SUS, SUAS, educação básica).
+- A **cooperação federativa** (art. 23, parágrafo único) e os **fundos e transferências** (ex.: Fundeb, fundos de saúde) buscam **compensar** desigualdades de capacidade entre entes.
+- A **burocracia de rua** é o ponto em que essas políticas **se concretizam** (ou se frustram) — razão pela qual **capacidade estatal** deve ser avaliada também **na ponta**.
+
 ## Detalhes que merecem destaque
 
 - **Municípios são entes federados autônomos** (art. 18) — peculiaridade brasileira frequente em prova.
@@ -133,6 +154,8 @@ A capacidade de o Estado realizar seus fins depende das **capacidades estatais**
 | Burocrata de rua | Burocrata de nível médio | Rua = interage com o cidadão e decide caso a caso; médio = gestão/coordenação |
 | Capacidade administrativa | Capacidade política | Administrativa = recursos/burocracia; política = articulação/coalizões/legitimidade |
 | Norma geral (União) | Norma suplementar (Estado) | Geral = diretrizes nacionais; suplementar = detalhamento/adequação regional |
+| Competência exclusiva (art. 21) | Competência privativa (art. 22) | Exclusiva = administrativa, indelegável; privativa = legislativa, delegável por LC |
+| Interesse local (Município) | Interesse nacional (União) | Local = assunto municipal (art. 30, I); nacional = matérias da União (arts. 21/22) |
 
 ## Pegadinhas e erros comuns
 
@@ -148,6 +171,11 @@ A capacidade de o Estado realizar seus fins depende das **capacidades estatais**
 - Ignorar que **direitos sociais** dependem de **implementação e capacidades estatais** para se efetivarem.
 - Esquecer que a **forma federativa** é **cláusula pétrea** e que a **secessão** é vedada.
 - Reduzir a burocracia ao sentido **pejorativo** (ineficiência) — tecnicamente é a **administração racional-legal** (Weber).
+- Dizer que os **Municípios** só legislam sobre interesse local e **não suplementam** a legislação federal/estadual — o art. 30, II, **autoriza a suplementação**.
+- Afirmar que a União pode **delegar** competência **exclusiva** (art. 21) aos Estados — as exclusivas são **indelegáveis** (só as privativas do art. 22 admitem delegação por LC).
+- Esquecer o princípio da **laicidade** (art. 19, I — vedação de cultos religiosos estatais).
+- Confundir **capacidade extrativa** (arrecadar) com **capacidade administrativa** (burocracia/recursos de gestão).
+- Achar que a **municipalização** elimina a **coordenação** da União — no federalismo cooperativo, descentralização e coordenação **convivem**.
 
 ## Notas atômicas relacionadas
 
@@ -172,3 +200,4 @@ SORT file.name ASC
 - https://www.scielo.br/j/edreal/a/9cbMZhSKsXrfw4FdxjzLqrS?format=pdf&lang=pt (Guimarães, 2022 — burocracia de nível de rua e discricionariedade)
 - https://www.russellsage.org/publications/book/street-level-bureaucracy (Russell Sage — Street-Level Bureaucracy, edição de 30 anos de Lipsky)
 - https://www.bresserpereira.org.br/terceiros/cursos/2012/Os-Tipos-de-Domina%C3%A7%C3%A3o.pdf (Weber — Economia e Sociedade: a burocracia como tipo puro de dominação legal)
+- https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11107.htm (Lei nº 11.107/2005 — consórcios públicos e cooperação federativa)

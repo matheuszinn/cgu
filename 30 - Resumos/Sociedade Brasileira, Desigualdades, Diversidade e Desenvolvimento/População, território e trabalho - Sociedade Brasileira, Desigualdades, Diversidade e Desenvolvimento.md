@@ -99,9 +99,24 @@ A população se distribui de forma **territorialmente desigual**: as regiões *
 - **Teletrabalho:** ampliado pela pandemia, redistribui o trabalho, mas reproduz desigualdades (acesso à conectividade, dupla jornada das mulheres).
 - **Futuro do trabalho:** tendências de **flexibilização**, novas formas de contratação e a necessidade de **requalificação** e de **proteção social adaptada** a vínculos não tradicionais.
 
-## Detalhes que merecem destaque
+### 1.5 Economia do cuidado e proteção aos idosos
 
-- **Bônus demográfico é JANELA de oportunidade, não garantia** — depende de emprego, educação e poupança; sem políticas, perde-se.
+- **Trabalho de cuidado:** atividades de cuidado de crianças, idosos, pessoas com deficiência e doentes, e o trabalho doméstico — **historicamente feminino, desvalorizado e majoritariamente não remunerado**.
+- **Economia do cuidado:** reconhecimento de que o cuidado é **trabalho produtivo** que sustenta toda a economia, mas é invisibilizado nas contas nacionais (PIB).
+- **Implicações do envelhecimento:** com mais idosos e famílias menores, cresce a **demanda por cuidado de longa duração**, pressionando mulheres (dupla jornada) e exigindo **políticas de cuidado** (creches, cuidadores, licenças, renda básica de cuidado).
+- **Marco legal de proteção:** **Estatuto da Pessoa Idosa (Lei nº 10.741/2003)** — prioridade, atendimento preferencial, transporte gratuito 65+, proteção contra violência/abandono; **Política Nacional do Idoso (Lei nº 8.842/1994)**.
+- **Desafios de política pública:** financiamento da **longevidade** (previdência + saúde + assistência), combate ao **idadismo** e à **solidão/isolamento**, e qualificação de **cuidadores** formais e informais.
+
+### 1.6 Transição demográfica e políticas públicas (síntese)
+
+| Dimensão | Tendência | Consequência para políticas |
+| --- | --- | --- |
+| Fecundidade | em queda (1,57) | menos crianças → redimensionar educação infantil |
+| População ativa | encolhe após o bônus | reforma previdenciária, produtividade, migração |
+| Idosos | cresce (37,8% em 2070) | saúde, cuidado, acessibilidade, combate ao idadismo |
+| Território | envelhecimento desigual | planejamento regional diferenciado |
+
+## Detalhes que merecem destaque — depende de emprego, educação e poupança; sem políticas, perde-se.
 - Números que caem em prova: **fecundidade 1,57 (2023)**; **idosos 15,6% (2023)** e **37,8% (2070)**; **população para de crescer em 2041**; **índice de envelhecimento 80,0 (2022)**; **expectativa de vida 75,5 anos (2022)**.
 - **Feminização da velhice** e **feminização do cuidado** — o trabalho de cuidado (não remunerado) é desproporcionalmente feminino.
 - **Informalidade 31,77% (2024, Ipea)** — mas com enormes diferenças regionais e demográficas (mulheres, negros, jovens, rurais).
@@ -120,6 +135,8 @@ A população se distribui de forma **territorialmente desigual**: as regiões *
 | Informalidade (PNAD, ocupados) | Informalidade (Ipea) | definições/amostras distintas — não comparar percentuais sem o mesmo critério |
 | Desindustrialização precoce | Desindustrialização madura | precoce = perde indústria em baixa renda; madura = países ricos pós-industriais |
 | Trabalho autônomo | Trabalho informal | nem todo autônomo é informal (pode ter CNPJ/contribuir); informal é o sem proteção |
+| Trabalho de cuidado remunerado | Trabalho de cuidado não remunerado | remunerado = emprego (cuidadores, domésticas); não remunerado = feito na família, invisível ao PIB, majoritariamente feminino |
+| Teletrabalho | Trabalho por plataforma | teletrabalho = à distância com vínculo (CLT ou autônomo); plataforma = mediação por app, vínculo disputado |
 
 ## Pegadinhas e erros comuns
 
@@ -133,6 +150,9 @@ A população se distribui de forma **territorialmente desigual**: as regiões *
 - Supor que **todo trabalhador por aplicativo** é necessariamente empregado/autônomo — o **vínculo é disputado** e objeto de regulação.
 - Reduzir a desigualdade regional à **renda** — ela inclui saneamento, saúde, educação, conectividade e exposição a riscos.
 - Afirmar que a **desindustrialização** brasileira é igual à dos países ricos — é **precoce**, em níveis baixos de renda.
+- Ignorar o **trabalho de cuidado não remunerado** nas análises de trabalho — ele é **estrutural, feminino e invisível** ao PIB.
+- Tratar o **cuidado** como assunto privado/familiar — é **problema público** crescente com o envelhecimento (políticas de cuidado).
+- Supor que **teletrabalho e plataformas** têm o mesmo regime de proteção — o **vínculo** e a **proteção social** diferem e são objeto de regulação.
 
 ## Notas atômicas relacionadas
 

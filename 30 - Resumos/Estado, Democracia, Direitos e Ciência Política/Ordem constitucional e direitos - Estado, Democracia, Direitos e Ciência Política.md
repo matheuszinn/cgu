@@ -90,6 +90,33 @@ O **Título II** (Dos Direitos e Garantias Fundamentais) consagra, no **art. 5º
 
 - **Art. 17**: é **livre a criação, fusão, incorporação e extinção** de partidos políticos, resguardados a **soberania nacional, o regime democrático, o pluripartidarismo** e os **direitos fundamentais** da pessoa humana, observados: **caráter nacional**; proibição de recebimento de recursos de entidade ou governo estrangeiros; **prestação de contas à Justiça Eleitoral**; funcionamento parlamentar conforme a lei; **autonomia** para definir estrutura interna e ideologia (vedada a atuação paramilitar).
 
+### 2.5 Gerações/dimensões dos direitos fundamentais
+
+| Dimensão | Conteúdo | Exemplos (CF/88) |
+| --- | --- | --- |
+| **1ª (liberdades civis/políticas)** | Direitos **negativos** — proteção contra o Estado | Vida, liberdade, igualdade formal, propriedade, voto (arts. 5º e 14) |
+| **2ª (sociais/econômicos/culturais)** | Direitos **positivos** — prestações do Estado | Educação, saúde, trabalho, moradia, previdência (art. 6º) |
+| **3ª (difusos/coletivos)** | Direitos de **solidariedade/transindividuais** | Meio ambiente, consumidor, patrimônio histórico/cultural |
+
+- A classificação em **gerações** é didática; os direitos são **interdependentes e indivisíveis** (não há hierarquia absoluta entre dimensões).
+
+### 2.6 Remédios e garantias constitucionais (art. 5º, LXVIII–LXXIII)
+
+| Remédio | Inciso | Protege |
+| --- | --- | --- |
+| **Habeas corpus** | LXVIII | Liberdade de locomoção, contra ilegalidade/abuso de poder |
+| **Mandado de segurança** | LXIX | Direito líquido e certo, não amparado por HC/HD |
+| **Mandado de segurança coletivo** | LXX | Impétrado por partido, sindicato, entidade de classe ou associação |
+| **Mandado de injunção** | LXXI | Viabiliza direitos inviabilizados por **falta de norma regulamentadora** |
+| **Habeas data** | LXXII | Conhecer/retificar **informações pessoais** em bancos de dados |
+| **Ação popular** | LXXIII | Anular ato **lesivo ao patrimônio público**, moralidade, meio ambiente |
+
+### 2.7 Nacionalidade (arts. 12 e 13) — noções
+
+- **Brasileiros natos** (art. 12, I): nascidos no Brasil (salvo filhos de estrangeiros a serviço de seu país); nascidos no estrangeiro de pai/mãe brasileiros em certas condições (a serviço do Brasil; ou registrados em repartição competente; ou que optem pela nacionalidade brasileira após a maioridade).
+- **Brasileiros naturalizados** (art. 12, II): estrangeiros que adquirem a nacionalidade na forma da lei (com requisitos legais).
+- **Igualdade** entre natos e naturalizados (salvo cargos privativos de brasileiro nato — art. 12, § 3º) e casos de **extradição** (nato jamais é extraditado; naturalizado pode sê-lo em hipóteses restritas).
+
 ## 3. Igualdade, devido processo e limites ao exercício do poder
 
 ### 3.1 Igualdade
@@ -130,6 +157,21 @@ O **Título II** (Dos Direitos e Garantias Fundamentais) consagra, no **art. 5º
 - **Art. 37, § 1º**: a publicidade dos atos oficiais **não pode** conter nomes, símbolos ou imagens que caracterizem **promoção pessoal** (corolário da impessoalidade).
 - **Art. 37, § 4º**: atos de **improbidade administrativa** importam **suspensão dos direitos políticos, perda da função pública, indisponibilidade dos bens e ressarcimento ao erário**, sem prejuízo da ação penal.
 
+### 4.3 Princípios implícitos/reconhecidos
+
+- **Supremacia do interesse público** e **indisponibilidade do interesse público** (base do regime administrativo).
+- **Finalidade**: todo ato busca o interesse público; o **desvio de finalidade** vicia o ato.
+- **Razoabilidade e proporcionalidade**: adequação, necessidade e proporcionalidade em sentido estrito.
+- **Motivação**: exposição das razões de fato e de direito (a falta de motivação invalida o ato).
+- **Autotutela** (Súmulas 346 e 473 do STF): a Administração pode **anular** atos ilegais e **revogar** atos inconvenientes, de ofício, respeitado o devido processo.
+- **Continuidade do serviço público**, **segurança jurídica/boa-fé** e **eficiência** (já expresso no caput).
+
+### 4.4 Dever de licitar e de concurso (decorrências)
+
+- **Concurso público** (art. 37, II): regra de **investidura** em cargo/emprego público (ressalvados cargos em comissão de livre nomeação/exoneração).
+- **Licitação** (art. 37, XXI): regra para contratações de obras, serviços, compras e alienações (ressalvadas hipóteses legais).
+- Ambos são **instrumentos de impessoalidade, moralidade e isonomia** — e objeto típico do **controle** (interno, externo e social).
+
 ## Detalhes que merecem destaque
 
 - **Fundamentos (art. 1º) = SO CI DI VA PLU** (soberania, cidadania, dignidade, valores sociais do trabalho/livre iniciativa, pluralismo político).
@@ -155,6 +197,10 @@ O **Título II** (Dos Direitos e Garantias Fundamentais) consagra, no **art. 5º
 | Devido processo legal (LIV) | Contraditório e ampla defesa (LV) | LIV = garantia geral de processo justo; LV = específica (ciência + participação + defesa) |
 | Cláusula pétrea | Norma comum | Pétrea = imodificável por emenda (art. 60, § 4º); comum = alterável |
 | Publicidade | Propaganda/autopromoção | Publicidade = transparência do ato; autopromoção = vedada (art. 37, § 1º) |
+| Habeas corpus | Habeas data | HC = liberdade de locomoção; HD = dados pessoais (conhecer/retificar) |
+| Mandado de segurança | Mandado de injunção | MS = direito líquido e certo; MI = falta de norma regulamentadora |
+| Brasileiro nato | Brasileiro naturalizado | Nato = origem constitucional (art. 12, I); naturalizado = aquisição por lei (art. 12, II) |
+| 1ª dimensão | 2ª dimensão | 1ª = liberdades (negativos); 2ª = sociais (prestações positivas) |
 
 ## Pegadinhas e erros comuns
 
@@ -170,6 +216,12 @@ O **Título II** (Dos Direitos e Garantias Fundamentais) consagra, no **art. 5º
 - Dizer que o **voto é facultativo para maiores de 60** — é **obrigatório** dos 18 aos 70; facultativo para **maiores de 70**.
 - Restringir o **contraditório e ampla defesa** ao processo judicial — vale também no **administrativo** (art. 5º, LV).
 - Esquecer que **improbidade** gera **suspensão** (não perda definitiva) de direitos políticos (art. 37, § 4º).
+- Confundir **habeas corpus** (liberdade de locomoção) com **habeas data** (dados pessoais).
+- Trocar **mandado de segurança** (direito líquido e certo) por **mandado de injunção** (falta de norma regulamentadora).
+- Afirmar que **brasileiro nato pode ser extraditado** — o nato **jamais** é extraditado.
+- Dizer que as dimensões de direitos são **hierárquicas** — são **interdependentes e indivisíveis**.
+- Esquecer que a **motivação** é requisito de validade dos atos administrativos (princípio implícito).
+- Reduzir o **dever de licitar/concurso** a mera formalidade — são garantias de **isonomia, impessoalidade e moralidade**.
 
 ## Notas atômicas relacionadas
 

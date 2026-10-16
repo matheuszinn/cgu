@@ -140,6 +140,35 @@ No século XX, **Pierre Bourdieu** (1930–2002) sintetiza e supera a oposição
 - **Discriminação:** tratamento desigual e injustificado com base em características de grupo (raça, gênero, idade, deficiência, sexualidade, origem) — direta ou indireta (regras aparentemente neutras com efeito desproporcional); pode ser **institucional/estrutural** quando embutida em normas e práticas das organizações.
 - **Reprodução das desigualdades:** mecanismo pelo qual vantagens e desvantagens se transmitem entre gerações — via capital econômico (herança), **capital cultural** (escola/família), **capital social** (redes) e discriminação persistente. O resultado é a **desigualdade de oportunidades** que, somada à desigualdade de resultados, fecha o ciclo.
 
+## 5. Instituições, socialização e ação coletiva
+
+### 5.1 Instituições
+
+- **Conceito sociológico:** "instituição" não é apenas um prédio ou órgão, mas **padrões relativamente estáveis de comportamento e regras** (formais e informais) que estruturam a vida social — família, escola, religião, mercado, Estado, direito.
+- **Funções:** reduzir incerteza, regular conflitos, transmitir normas e **reproduzir a ordem social** — para Durkheim, as instituições são "fatos sociais" consolidados e cristalizados.
+- **Instituições formais × informais:** leis e organizações (formais) convivem com normas, costumes e valores (informais) — no Brasil, a tensão entre **impessoalidade legal e personalismo** (Sérgio Buarque de Holanda) ilustra como as instituições informais moldam o funcionamento das formais.
+- **Instituições e desigualdade:** instituições aparentemente neutras podem **reproduzir** desigualdades ao embutir regras que favorecem determinados grupos (discriminação institucional).
+
+### 5.2 Socialização
+
+- **Conceito:** processo pelo qual o indivíduo **interioriza** normas, valores, papéis e modos de agir da sociedade, tornando-se membro dela.
+- **Tipos:**
+  - **Primária:** na família/primeira infância — internalização afetiva e profunda (base da identidade e do habitus).
+  - **Secundária:** na escola, no trabalho, na mídia e em grupos — aquisição de papéis específicos.
+- **Agentes de socialização:** família, escola, grupos de pares, religião, mídia, trabalho, Estado.
+- **Socialização × habitus:** a socialização é o mecanismo pelo qual o **habitus** (Bourdieu) é incorporado — as disposições herdadas são transmitidas de geração a geração, ligando socialização e **reprodução das desigualdades**.
+- **Ressocialização:** em instituições totais (prisões, quartéis, conventos), o indivíduo passa por **ruptura e reconstrução** de seu universo de referências (Goffman).
+
+### 5.3 Ação coletiva
+
+- **Conceito:** ação conjunta e coordenada de indivíduos ou grupos em busca de **objetivos compartilhados** — distingue-se da mera soma de ações individuais.
+- **Movimentos sociais:** formas de ação coletiva organizadas, com identidade coletiva, adversários e demandas (ex.: movimento operário, feminista, negro, ambientalista, LGBT+, de moradia).
+- **Problema do "carona" (free rider) — Mancur Olson:** em bens coletivos, cada indivíduo racional tende a **não participar** (esperando usufruir sem custo), o que dificulta a mobilização — a ação coletiva exige **incentivos seletivos** ou laços de solidariedade/identidade.
+- **Estrutura de oportunidades políticas (Tarrow):** a emergência de movimentos depende do contexto institucional (abertura/fechamento do Estado, aliados, repressão).
+- **Repertórios de ação (Tilly):** formas historicamente disponíveis de protesto (greve, passeata, ocupação, petição, ação judicial).
+- **Ação coletiva e capital social (Putnam):** redes e confiança facilitam a cooperação e a **participação cívica**, base da ação coletiva bem-sucedida.
+- **Institucionalização:** movimentos podem se **institucionalizar** (conselhos, partidos, ONGs, políticas públicas), transformando demandas coletivas em arranjos permanentes — como os **conselhos de políticas públicas** e a **participação social** no Brasil pós-1988.
+
 ## Detalhes que merecem destaque
 
 - **Fato social (Durkheim) = exterioridade + coercitividade + generalidade** — a tríade aparece literalmente em prova; decorar os três termos.
@@ -162,6 +191,9 @@ No século XX, **Pierre Bourdieu** (1930–2002) sintetiza e supera a oposição
 | Mobilidade intergeracional | Mobilidade intrageracional | inter = entre **gerações** (pais→filhos); intra = na **mesma** pessoa (trajetória de vida) |
 | Capital cultural | Capital social | cultural = saberes/diplomas/gostos; social = **rede de relações/contatos** |
 | Laços fortes | Laços fracos (Granovetter) | fortes = redundantes (mesmo círculo); fracos = **pontes**, informação nova |
+| Instituição | Organização | instituição = **regras/padrões** de conduta; organização = **entidade concreta** (órgão, empresa, associação) |
+| Socialização primária | Socialização secundária | primária = família/infância (afetiva, identidade); secundária = escola/trabalho (papéis específicos) |
+| Ação coletiva | Ação individual | coletiva = coordenação por objetivos **comuns**; individual = conduta isolada (Weber: ambas são "ação social" se têm sentido) |
 
 ## Pegadinhas e erros comuns
 
@@ -175,6 +207,9 @@ No século XX, **Pierre Bourdieu** (1930–2002) sintetiza e supera a oposição
 - Reduzir **capital cultural** a "anos de estudo" — inclui também disposições incorporadas (gosto, postura) e bens objetivados.
 - Dizer que **capital social** é dinheiro ou riqueza — é **relações/confiança/redes**.
 - Afirmar que a escola é **neutra** quanto às desigualdades — para Bourdieu ela é o principal mecanismo de **reprodução/legitimação**.
+- Reduzir "instituição" a um **prédio/órgão** — em sociologia é **padrão de regras e conduta** (família, mercado, direito).
+- Dizer que a **ação coletiva é espontânea e sem custos** — Olson mostra o problema do **carona (free rider)**, que exige incentivos ou identidade/laços.
+- Confundir **socialização** com "boa educação/escolaridade" — é o processo de **interiorização de normas e valores** (primária e secundária).
 
 ## Notas atômicas relacionadas
 
