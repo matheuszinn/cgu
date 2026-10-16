@@ -1,0 +1,486 @@
+{
+  "concurso": "tce_mg_25",
+  "banca": "Cebraspe",
+  "itens": [
+    {
+      "id": 31,
+      "tema": "E4.4",
+      "assunto": "Integração entre CMMI-DEV e práticas ágeis/Scrum",
+      "enunciado": "Os representantes de certa empresa pública de tecnologia desejam melhorar a previsibilidade de seus projetos de software, mantendo a flexibilidade de adaptação às mudanças. Para isso, decidiram combinar práticas do CMMI-DEV v. 2.0 e princípios de metodologias ágeis.\nA partir dessa situação hipotética, assinale a opção que corresponde à abordagem mais adequada para que os representantes dessa empresa atinjam seus objetivos.",
+      "alternativas": {
+        "A": "aplicar apenas as práticas de maturidade do CMMI, sem combinar com princípios ágeis, para evitar conflitos de abordagem",
+        "B": "priorizar o cumprimento rígido de processos definidos, típicos do CMMI, reduzindo a autonomia da equipe Scrum",
+        "C": "eliminar práticas de inspeção e adaptação do Scrum, substituindo-as por auditorias de processo do CMMI",
+        "D": "incorporar a fase de elaboração do RUP dentro dos sprints para garantir documentação formal detalhada",
+        "E": "adotar práticas de medição e análise do CMMI para apoiar decisões baseadas em dados, mantendo as cerimônias e papéis do Scrum"
+      },
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCE-MG 2025 — Cargo 1 — questão 31"
+    },
+    {
+      "id": 32,
+      "tema": "E4.4",
+      "assunto": "Scrum: papéis e responsabilidade do product owner na maximização de valor",
+      "enunciado": "Certa empresa decidiu adotar uma abordagem híbrida entre Scrum e CMMI-DEV v. 2.0, com o objetivo de equilibrar a autonomia da equipe com a rastreabilidade dos resultados.\nNo contexto dessa situação hipotética, é correto afirmar que a atribuição de maximizar o valor entregue ao cliente é responsabilidade do(a)",
+      "alternativas": {
+        "A": "auditor CMMI, que valida os resultados com base nos níveis de maturidade.",
+        "B": "product owner, que prioriza o backlog e representa os interesses do cliente.",
+        "C": "Scrum master, que garante o cumprimento de padrões de qualidade definidos pelo CMMI.",
+        "D": "gerente de processos, responsável por assegurar a maturidade organizacional.",
+        "E": "equipe de desenvolvimento, que define o valor a ser entregue conforme critérios internos."
+      },
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "TCE-MG 2025 — Cargo 1 — questão 32"
+    },
+    {
+      "id": 34,
+      "tema": "E2.1",
+      "assunto": "Padrão MVC, APIs REST, microsserviços, contêineres Docker e orquestração Kubernetes",
+      "enunciado": "Certa equipe de desenvolvimento está criando um sistema de acompanhamento processual com interface web e aplicativo móvel. O sistema adota o padrão MVC para separar a lógica da apresentação, mas a comunicação entre o front-end e o back-end ocorre por APIs REST expostas em contêineres Docker, orquestrados por Kubernetes, a fim de garantir alta disponibilidade e balanceamento de carga.\nA partir da situação hipotética precedente, é correto afirmar que o conjunto de tecnologias e conceitos utilizados caracteriza uma",
+      "alternativas": {
+        "A": "implementação de SOA baseada em filas síncronas e acoplamento rígido.",
+        "B": "aplicação peer-to-peer com comunicação direta entre instâncias.",
+        "C": "arquitetura cliente-servidor com uso de microsserviços e contêineres orquestrados.",
+        "D": "aplicação monolítica com padrão MVC centralizado.",
+        "E": "arquitetura em três camadas sem separação lógica entre componentes."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCE-MG 2025 — Cargo 1 — questão 34"
+    },
+    {
+      "id": 35,
+      "tema": "E1.1",
+      "assunto": "Engenharia de requisitos, modelagem de sistemas (UML/casos de uso) e desenvolvimento ágil com automação no-code",
+      "enunciado": "Uma equipe de desenvolvimento de certo órgão público criou um sistema de gestão de demandas internas com o objetivo de agilizar o fluxo de solicitações entre setores. Ao longo do desenvolvimento do projeto, a equipe de análise de negócios realizou entrevistas com os usuários e utilizou diagramas UML para representar casos de uso e fluxos de atividades. O produto foi desenvolvido a partir da metodologia ágil Scrum (versão 2020), com entregas incrementais, e parte das rotinas automatizadas de aprovação de solicitações foi implementada por meio de ferramentas no-code, como o Power Automate. Além disso, foram adotadas práticas de garantia da qualidade do software durante os sprints e definidas as necessidades funcionais.\nA partir do cenário apresentado na situação hipotética precedente, é correto afirmar que a equipe aplicou um processo que",
+      "alternativas": {
+        "A": "segue o modelo lean isoladamente, sem preocupação com documentação ou qualidade de software.",
+        "B": "integra práticas de engenharia de requisitos, modelagem de sistemas e desenvolvimento ágil com apoio de automação no-code.",
+        "C": "se baseia em uma abordagem tradicional em cascata, com fases rígidas e sem integração de ferramentas automatizadas.",
+        "D": "aplica apenas o XP (extreme programming), priorizando a codificação contínua e a ausência de modelagem formal.",
+        "E": "adota práticas de prototipagem rápida, sem a necessidade de documentação de requisitos e das relações intercambiáveis."
+      },
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "TCE-MG 2025 — Cargo 1 — questão 35"
+    },
+    {
+      "id": 36,
+      "tema": "E2.4",
+      "assunto": "Inteligência artificial com aprendizado de máquina supervisionado e processamento de linguagem natural",
+      "enunciado": "O tribunal de determinado estado realizou um processo de modernização digital para otimizar o atendimento ao público. O novo sistema utiliza inteligência artificial para identificar automaticamente o tipo de solicitação recebida, encaminhar o processo ao setor adequado e responder a dúvidas frequentes de forma interativa. Para isso, a equipe de TI implantou modelos de aprendizado de máquina supervisionado, integrados a módulos de processamento de linguagem natural (PLN), que permitem que o sistema compreenda textos em linguagem humana e aprimore continuamente suas respostas. Os dados de interação são armazenados em banco de dados em nuvem, e os modelos são atualizados periodicamente para melhorar a precisão.\nO sistema descrito na situação hipotética precedente aplica",
+      "alternativas": {
+        "A": "estratégias de automação baseadas exclusivamente em scripts de lógica sequencial.",
+        "B": "métodos de simulação matemática estática voltados apenas à previsão numérica de séries temporais.",
+        "C": "técnicas de inteligência artificial baseadas em aprendizado de máquina e processamento de linguagem natural.",
+        "D": "procedimentos de mineração de dados para geração de relatórios de desempenho organizacional.",
+        "E": "algoritmos determinísticos convencionais, com respostas fixas e previsíveis a cada solicitação."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCE-MG 2025 — Cargo 1 — questão 36"
+    },
+    {
+      "id": 37,
+      "tema": "E2.4",
+      "assunto": "Agente inteligente, racionalidade e viés em sistemas de IA",
+      "enunciado": "Certa startup brasileira desenvolveu uma aplicação de inteligência artificial para auxiliar a justiça federal na análise inicial de recursos jurídicos de baixo valor. O sistema opera como um agente inteligente que utiliza um extenso dataset de jurisprudências passadas para calcular a probabilidade de sucesso de novos recursos, com o objetivo de otimizar a triagem processual ao maximizar a taxa de acerto nas suas previsões. Em testes, a aplicação atingiu uma impressionante taxa de precisão de 98% na previsão de resultados. No entanto, uma auditoria de compliance ético revelou que o algoritmo apresentava um viés: os recursos originários de regiões com baixo índice de desenvolvimento humano (IDH) do Nordeste brasileiro eram sistematicamente classificados com menor probabilidade de sucesso, mesmo quando apresentavam mérito legal similar a casos de regiões mais desenvolvidas. A equipe técnica defendeu o sistema, alegando que ele era racional, pois maximizava consistentemente a métrica de acerto definida.\nConsiderando a natureza do sistema criado nessa situação hipotética e a distinção fundamental entre racionalidade e justiça em sistemas de IA, assinale a opção que apresenta corretamente a falha ética do sistema à luz dos conceitos básicos da inteligência artificial.",
+      "alternativas": {
+        "A": "O viés regional é uma prova incontestável de que o sistema é um exemplo de inteligência artificial simbólica, pois somente essa arquitetura, baseada em regras pré-codificadas, é capaz de manifestar discriminação explícita, ao contrário dos modelos conectivistas (redes neurais).",
+        "B": "A falha do sistema é uma evidência de que ele não pode ser classificado como um agente racional, pois, por definição, ele deve seguir a função de utilidade ideal de uma sociedade justa, o que exige que o sistema possua consciência e um senso moral.",
+        "C": "O sistema é um agente puramente reativo, e sua incapacidade de manter estados internos sobre a equidade do dataset é a causa direta do viés, o que demonstra a ineficácia dos sistemas de machine learning baseados em modelos.",
+        "D": "O sistema demonstra uma limitação da inteligência artificial forte, cuja alta taxa de acerto é incompatível com o viés, o que confirma que a singularidade tecnológica não será alcançada enquanto os sistemas de inteligência artificial não forem treinados apenas com dados totalmente neutros, sem histórico humano.",
+        "E": "A racionalidade técnica do sistema é mantida, pois ele maximiza sua função utilidade (taxa de acerto), mas o viés detectado reside na definição dessa utilidade ou na qualidade dos dados de treinamento, o que o caracteriza como um sistema racionalmente tendencioso, mas não irracional."
+      },
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCE-MG 2025 — Cargo 1 — questão 37"
+    },
+    {
+      "id": 38,
+      "tema": "E3.1",
+      "assunto": "Integridade referencial, chave primária e chave estrangeira",
+      "enunciado": "As tabelas CLIENTE e PEDIDO a seguir ainda não têm definição de chaves, índices ou quaisquer instrumentos de integridade além dos explicitamente declarados.\n\nTabela CLIENTE\nid_cliente INTEGER\nnome VARCHAR(100)\nemail VARCHAR(120)\n\nTabela PEDIDO\nid_pedido INTEGER\nid_cliente INTEGER\nvalor_total DECIMAL(10,2)\ndata_pedido DATE\n\nCom base nos efeitos diretos da criação de instrumentos de banco de dados relacionais, assinale a opção que apresenta a ação que garante a integridade referencial no atributo id_cliente da tabela PEDIDO.",
+      "alternativas": {
+        "A": "criar uma chave primária no campo id_cliente da tabela CLIENTE e um índice único no campo id_cliente da tabela PEDIDO",
+        "B": "criar uma chave primária no campo id_cliente da tabela PEDIDO e uma chave estrangeira no campo id_cliente da tabela CLIENTE, referenciando o campo id_cliente da tabela PEDIDO",
+        "C": "criar uma chave primária no campo id_cliente da tabela CLIENTE e uma chave estrangeira no campo id_cliente da tabela PEDIDO, referenciando o campo id_cliente da tabela CLIENTE",
+        "D": "criar uma chave primária no campo id_cliente da tabela PEDIDO",
+        "E": "criar uma chave primária no campo id_cliente da tabela CLIENTE"
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCE-MG 2025 — Cargo 1 — questão 38"
+    },
+    {
+      "id": 39,
+      "tema": "E3.1",
+      "assunto": "Modelagem dimensional e métricas aditivas, semiaditivas e não aditivas",
+      "enunciado": "Em modelagem dimensional, as métricas registradas em tabelas fato podem ser classificadas conforme seu comportamento frente às operações de agregação. A respeito dessa classificação, assinale a opção correta.",
+      "alternativas": {
+        "A": "Métricas classificadas como não aditivas podem ser agregadas apenas ao longo de dimensões cuja granularidade seja correspondente à da tabela fato.",
+        "B": "Métricas semiaditivas e não aditivas compartilham a característica de impedirem agregação ao longo de qualquer dimensão, diferenciando-se pela forma como são armazenadas na tabela fato.",
+        "C": "Atributos numéricos são classificados como métricas aditivas, pois valores numéricos não perdem significado ao serem somados ao longo de todas as dimensões.",
+        "D": "Métricas classificadas como aditivas podem ser agregadas ao longo de todas as dimensões, com exceção daquelas que apresentam hierarquias normalizadas, como as encontradas em esquemas em floco de neve.",
+        "E": "Métricas classificadas como semiaditivas permitem agregação em algumas dimensões, mas não ao longo de todas, sendo comum que apresentem restrição de agregação especificamente na dimensão tempo."
+      },
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCE-MG 2025 — Cargo 1 — questão 39"
+    },
+    {
+      "id": 40,
+      "tema": "E2.4",
+      "assunto": "Tarefas de aprendizado de máquina: classificação, regressão, clusterização, regras de associação e detecção de anomalias",
+      "enunciado": "Acerca das características de classificação, regressão, clusterização, regras de associação e detecção de anomalias, assinale a opção correta.",
+      "alternativas": {
+        "A": "Regras de associação são classificadas como aprendizagem supervisionada, pois podem ser validadas com base em rótulos de saída conhecidos.",
+        "B": "Classificação e regressão pertencem à aprendizagem supervisionada; enquanto clusterização, associação e detecção de anomalias são consideradas tarefas de aprendizagem não supervisionada.",
+        "C": "Detecção de anomalias é uma tarefa de aprendizagem supervisionada, pois depende de exemplos rotulados de comportamento normal e anômalo.",
+        "D": "Classificação e regressão são tarefas de aprendizagem não supervisionada, pois exigem apenas dados de entrada, sem a presença de rótulos.",
+        "E": "Clusterização e regras de associação são exemplos de aprendizagem supervisionada, pois identificam padrões previamente definidos."
+      },
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "TCE-MG 2025 — Cargo 1 — questão 40"
+    },
+    {
+      "id": 41,
+      "tema": "E2.4",
+      "assunto": "Algoritmo de clusterização k-means",
+      "enunciado": "Amplamente utilizado em tarefas de clusterização, o algoritmo k-means",
+      "alternativas": {
+        "A": "ignora valores extremos, uma vez que o cálculo do centroide é baseado em medianas.",
+        "B": "tende a produzir clusters esféricos, sendo sensível à escala dos atributos.",
+        "C": "encontra agrupamentos independentemente da inicialização e converge para a solução global ótima.",
+        "D": "produz como saída, durante sua execução, o valor ótimo de k.",
+        "E": "é adequado para dados categóricos, pois calcula centroides usando a moda das categorias."
+      },
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "TCE-MG 2025 — Cargo 1 — questão 41"
+    },
+    {
+      "id": 42,
+      "tema": "E2.4",
+      "assunto": "Modelo LDA (latent dirichlet allocation) para extração de tópicos em mineração de textos",
+      "enunciado": "Assinale a opção correta acerca do modelo LDA (latent dirichlet allocation), amplamente utilizado para extração de tópicos em tarefas de mineração de textos.",
+      "alternativas": {
+        "A": "O LDA assume que cada documento é gerado por uma combinação de tópicos, e que cada tópico corresponde a uma distribuição de probabilidade sobre palavras.",
+        "B": "O LDA é um modelo supervisionado que aprende tópicos por meio de documentos previamente rotulados.",
+        "C": "No LDA, cada documento pertence a um único tópico, que deve ser explicitamente indicado pelo modelo.",
+        "D": "O LDA utiliza variáveis latentes que podem ser estimadas diretamente a partir das frequências observadas, sem necessidade de inferência probabilística.",
+        "E": "O LDA gera automaticamente o número ideal de tópicos com base em máxima verossimilhança, sem necessidade de definição prévia."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "TCE-MG 2025 — Cargo 1 — questão 42"
+    },
+    {
+      "id": 43,
+      "tema": "E3.2",
+      "assunto": "Agregação SQL (GROUP BY, HAVING, SUM/AVG/COUNT)",
+      "enunciado": "Acerca da linguagem SQL, assinale a opção correta.",
+      "alternativas": {
+        "A": "A combinação de funções de agregação com GROUP BY permite produzir métricas agrupadas por atributos, como totais, médias e contagens segmentadas.",
+        "B": "A cláusula ORDER BY deve ser utilizada antes do GROUP BY para que a ordenação não interfira nos cálculos agregados.",
+        "C": "A aplicação de SUM e AVG exige que a consulta tenha um GROUP BY.",
+        "D": "A cláusula HAVING atua antes da etapa de agregação, sendo equivalente à cláusula WHERE em consultas com GROUP BY.",
+        "E": "A função COUNT(coluna) retorna o total de linhas da consulta, independentemente da existência de valores nulos na respectiva coluna."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "TCE-MG 2025 — Cargo 1 — questão 43"
+    },
+    {
+      "id": 45,
+      "tema": "E3.1",
+      "assunto": "Abordagem relacional: relações, tuplas e tabelas",
+      "enunciado": "Acerca das características da abordagem relacional, assinale a opção correta.",
+      "alternativas": {
+        "A": "Em um banco de dados relacional, o conceito de relação é equivalente ao de arquivo físico, sendo cada relação armazenada em um arquivo separado no sistema operacional.",
+        "B": "A abordagem relacional utiliza estruturas hierárquicas para armazenar os dados, organizando-os em níveis de pai e filho.",
+        "C": "Na abordagem relacional, cada relação é representada por um conjunto de tuplas ordenadas, cuja ordem influencia diretamente o resultado das consultas SQL.",
+        "D": "Na abordagem relacional, os dados são representados em tabelas (relações), e cada linha dessas tabelas corresponde a uma tupla que representa uma instância de entidade.",
+        "E": "A linguagem de manipulação de dados na abordagem relacional é procedural, exigindo que o programador especifique, passo a passo, o modo de obtenção dos resultados."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "TCE-MG 2025 — Cargo 1 — questão 45"
+    },
+    {
+      "id": 46,
+      "tema": "E3.1",
+      "assunto": "Formas normais — terceira forma normal (3FN)",
+      "enunciado": "Considerando os princípios das formas normais no modelo relacional, assinale a opção correta a respeito da terceira forma normal (3FN).",
+      "alternativas": {
+        "A": "Uma relação estará na 3FN somente se não houver a presença de atributos multivalorados.",
+        "B": "A 3FN é atingida quando cada atributo não chave depende parcialmente da chave primária composta.",
+        "C": "Uma tabela em 3FN pode conter dependências funcionais entre atributos não chave, desde que não envolvam a chave primária.",
+        "D": "Uma relação estará na 3FN se estiver na 2FN e não contiver dependências transitivas entre atributos não chave.",
+        "E": "A 3FN exige que todos os atributos da tabela dependam exclusivamente de uma chave estrangeira."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "TCE-MG 2025 — Cargo 1 — questão 46"
+    },
+    {
+      "id": 47,
+      "tema": "E3.2",
+      "assunto": "DDL, restrições CHECK/FOREIGN KEY e referência recursiva",
+      "enunciado": "CREATE TABLE unidade_gestora (\n    id_ug INT PRIMARY KEY,\n    nome VARCHAR(80) UNIQUE NOT NULL\n);\nCREATE TABLE auditor (\n    id_auditor INT PRIMARY KEY,\n    nome VARCHAR(80) NOT NULL,\n    id_ug INT,\n    remuneracao DECIMAL(10,2) CHECK (remuneracao > 0),\n    FOREIGN KEY (id_ug) REFERENCES unidade_gestora(id_ug)\n);\nALTER TABLE auditor\nADD CONSTRAINT fk_supervisor\nFOREIGN KEY (id_auditor) REFERENCES auditor(id_auditor);\n\nCom base no código SQL precedente e nos comandos da linguagem de definição de dados (DDL), assinale a opção correta.",
+      "alternativas": {
+        "A": "Todos os comandos serão executados com sucesso, mas a restrição CHECK não será aplicada, pois o SQL padrão não permite expressões lógicas em restrições de coluna.",
+        "B": "O comando CREATE TABLE de unidade_gestora criará a tabela, mas o comando de criação de auditor será rejeitado, já que o campo id_ug não é uma chave primária na tabela unidade_gestora.",
+        "C": "O comando ALTER TABLE criará uma nova coluna denominada fk_supervisor para armazenar a chave de relacionamento hierárquico entre auditores.",
+        "D": "A última instrução (ALTER TABLE) criará uma relação recursiva válida, permitindo que um auditor seja referenciado como supervisor de outro auditor.",
+        "E": "A criação da tabela auditor falhará, pois não é permitido definir restrições CHECK e FOREIGN KEY simultaneamente em uma mesma tabela."
+      },
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "TCE-MG 2025 — Cargo 1 — questão 47"
+    },
+    {
+      "id": 48,
+      "tema": "E3.2",
+      "assunto": "Comando SQL UPDATE com subconsultas/EXISTS",
+      "enunciado": "O banco de dados do TCE/MG contém as seguintes tabelas.\n\nauditoria (id_auditoria, id_ug, status, data_fim)\nrelatório (id_relatorio, id_auditoria, conclusao)\n\nAo término dos trabalhos, um analista deve atualizar o campo status da tabela auditoria para 'Concluída' sempre que existir um relatório associado cuja conclusão seja 'Aprovado'.\nA partir dessa situação hipotética, assinale a opção em que é apresentada a sintaxe SQL que o referido analista deverá utilizar para executar essa atualização.",
+      "alternativas": {
+        "A": "UPDATE auditoria\nSET status = 'Concluída'\nWHERE id_auditoria IN (\n    SELECT id_relatorio\n    FROM relatorio\n    WHERE conclusao = 'Aprovado'\n);",
+        "B": "UPDATE relatorio\nSET status = 'Concluída'\nWHERE EXISTS (\n    SELECT id_relatorio\n    FROM relatorio\n    WHERE conclusao = 'Aprovado'\n);",
+        "C": "UPDATE auditoria\nSET status = 'Concluída'\nWHERE EXISTS IN (\n    SELECT *\n    FROM relatorio\n    WHERE auditoria.id_relatorio = relatorio.id_auditoria\n);",
+        "D": "UPDATE auditoria\nSET status = (\n    SELECT 'Concluída'\n    FROM relatorio\n    WHERE conclusao = 'Aprovado'\n);",
+        "E": "UPDATE auditoria\nSET status = 'Concluída'\nWHERE EXISTS (\n    SELECT 1\n    FROM relatorio r\n    WHERE r.id_auditoria=a.id_auditoria\n    AND r.conclusao = 'Aprovado'\n);"
+      },
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "TCE-MG 2025 — Cargo 1 — questão 48"
+    },
+    {
+      "id": 50,
+      "tema": "E3.1",
+      "assunto": "Arquitetura Oracle CDB/PDB (container e pluggable databases; elemento root)",
+      "enunciado": "No Oracle Database 21C, uma instância gerencia um CDB (container database), que pode conter múltiplos PDBs (pluggable databases). Cada PDB possui usuários, schemas, tablespaces e dados de aplicação isolados, mas compartilha a SGA e os processos de background da instância do CDB. Nessa arquitetura, o elemento que armazena metadados comuns e controla a existência de múltiplos PDBs dentro de um CDB é o",
+      "alternativas": {
+        "A": "extent.",
+        "B": "undo.",
+        "C": "datafile.",
+        "D": "segment.",
+        "E": "root."
+      },
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCE-MG 2025 — Cargo 1 — questão 50"
+    },
+    {
+      "id": 51,
+      "tema": "E3.2",
+      "assunto": "Recuperação de registros em banco ADABAS (comando FIND)",
+      "enunciado": "Assinale a opção que corresponde ao comando do ADABAS que permite a recuperação de registros de um arquivo baseado em critérios complexos, podendo combinar atributos múltiplos, valores repetidos e relacionamentos definidos no dicionário.",
+      "alternativas": {
+        "A": "FIND",
+        "B": "MAP",
+        "C": "RI",
+        "D": "HI",
+        "E": "LIST"
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "TCE-MG 2025 — Cargo 1 — questão 51"
+    },
+    {
+      "id": 52,
+      "tema": "E3.1",
+      "assunto": "Data lakes e schema-on-read",
+      "enunciado": "Os data lakes",
+      "alternativas": {
+        "A": "aplicam schema-on-read.",
+        "B": "têm necessidade de normalização prévia.",
+        "C": "exportam apenas relatórios padronizados obrigatórios.",
+        "D": "suportam apenas SQL estruturado.",
+        "E": "são exclusivos para OLTP."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "TCE-MG 2025 — Cargo 1 — questão 52"
+    },
+    {
+      "id": 53,
+      "tema": "E3.4",
+      "assunto": "LGPD: pseudonimização frágil e risco de reidentificação de dados sensíveis",
+      "enunciado": "Uma startup brasileira desenvolveu um aplicativo para predizer, por meio de IA, a probabilidade de um indivíduo desenvolver certas condições médicas com base em dados genéticos e histórico familiar. Os dados foram coletados mediante consentimento dos usuários, para fins de melhoria do algoritmo e pesquisa científica. Os riscos para os dados e os impactos associados foram relatados como muito baixos pela startup. Um órgão de pesquisa parceiro internacional que teve acesso aos dados, em razão de vulnerabilidade conceitual do método de pseudonimização empregado, conseguiu reidentificar uma parte significativa dos titulares ao cruzar os dados com bases públicas.\nA partir da situação hipotética precedente, é correto afirmar, com base na LGPD, que a ação inadequada da startup que culminou no vazamento de dados sensíveis foi o(a)",
+      "alternativas": {
+        "A": "ausência de consentimento expresso dos titulares para o compartilhamento dos dados pseudonimizados.",
+        "B": "uso compartilhado de dados de saúde para a realização de estudos e pesquisas científicas.",
+        "C": "emprego de uma técnica frágil de pseudonimização associada à falta de uma análise de riscos adequada no relatório de impacto.",
+        "D": "transferência internacional de dados pseudonimizados de usuários coletados no Brasil para órgão de pesquisa parceiro.",
+        "E": "tratamento de dados genéticos sensíveis para fins de estudos e pesquisa científica."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCE-MG 2025 — Cargo 1 — questão 53"
+    },
+    {
+      "id": 54,
+      "tema": "E3.4",
+      "assunto": "LGPD: consentimento e tratamento de dados pessoais",
+      "enunciado": "Um site coleta dados pessoais de usuários em troca de remuneração, obtendo o consentimento para tratamento dos dados dos usuários a partir do fornecimento de informações enganosas e sem a devida clareza e transparência sobre o tratamento dos dados exigidos pela LGPD.\nA partir da situação hipotética apresentada, é correto afirmar, com base na LGPD, que o tratamento dos dados pessoais realizado pelo site é uma conduta vedada na lei, pois foi realizada mediante",
+      "alternativas": {
+        "A": "vício de consentimento.",
+        "B": "remuneração imprópria.",
+        "C": "erro material.",
+        "D": "desvio de finalidade.",
+        "E": "abuso retórico."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "TCE-MG 2025 — Cargo 1 — questão 54"
+    },
+    {
+      "id": 57,
+      "tema": "E4.4",
+      "assunto": "Indicadores de desempenho (KPI), BSC e BPMN na gestão de processos",
+      "enunciado": "Uma organização definiu em seu BSC (balanced scorecard) a meta estratégica de aumentar a satisfação do cliente. O processo de gestão de pedidos, mapeado em BPMN, foi identificado como crítico para alcançar essa meta. Nesse cenário, o indicador de desempenho (KPI) mais direto para monitorar a contribuição desse processo para a meta estratégica seria",
+      "alternativas": {
+        "A": "a quantidade de não conformidades em auditorias internas de TI.",
+        "B": "o custo operacional total do departamento de logística.",
+        "C": "o número de horas de treinamento em BPMN da equipe de processos.",
+        "D": "o tempo de ciclo (cycle time) desde o recebimento do pedido até a entrega.",
+        "E": "o retorno sobre o investimento (ROI) do novo software de CRM."
+      },
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "TCE-MG 2025 — Cargo 1 — questão 57"
+    },
+    {
+      "id": 58,
+      "tema": "E4.4",
+      "assunto": "Scrum: evento sprint review",
+      "enunciado": "De acordo com o framework Scrum, o evento que ocorre ao final da sprint com o propósito de inspecionar o incremento do produto e adaptar o product backlog, se necessário, envolvendo o time Scrum e os stakeholders-chave, é denominado",
+      "alternativas": {
+        "A": "product backlog refinement (refinamento do backlog do produto).",
+        "B": "sprint review (revisão da sprint).",
+        "C": "sprint retrospective (retrospectiva da sprint).",
+        "D": "sprint planning (planejamento da sprint).",
+        "E": "daily Scrum (reunião diária)."
+      },
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "TCE-MG 2025 — Cargo 1 — questão 58"
+    },
+    {
+      "id": 61,
+      "tema": "E4.4",
+      "assunto": "Plano Diretor de Tecnologia da Informação (PDTI/PETI)",
+      "enunciado": "O tribunal de contas de um estado brasileiro está elaborando seu Plano Diretor de Tecnologia da Informação (PDTI) para o próximo biênio. Esse documento visa a nortear os investimentos e as ações de TI, garantindo que estejam alinhados às metas institucionais. De acordo com as boas práticas de planejamento estratégico de TI (PETI/PDTI), esse instrumento deve, fundamentalmente,",
+      "alternativas": {
+        "A": "descrever a arquitetura de segurança da informação e os planos de contingência em caso de desastres, pois são o seu foco fundamental.",
+        "B": "substituir o plano estratégico institucional (PEI), centralizando todas as metas da organização, incluindo as de TI.",
+        "C": "focar na definição de acordos de nível de serviço (SLA) e no gerenciamento de incidentes operacionais do dia a dia.",
+        "D": "listar detalhadamente todos os requisitos de software e hardware a serem adquiridos no período.",
+        "E": "funcionar como um plano tático que traduz as diretrizes do plano estratégico institucional (PEI) em um inventário de necessidades e um plano de ação para a TI."
+      },
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCE-MG 2025 — Cargo 1 — questão 61"
+    },
+    {
+      "id": 62,
+      "tema": "E3.4",
+      "assunto": "LGPD: princípio da necessidade (minimização) e dados sensíveis",
+      "enunciado": "Uma empresa de e-commerce iniciou um projeto cujo objetivo é a adequação à Lei Geral de Proteção de Dados (Lei n.º 13.709/2018). Durante a fase de mapeamento de dados (data mapping), a equipe de compliance identificou que o formulário de cadastro de novos clientes solicitava informações como religião e orientação sexual. À luz da LGPD, essa prática de coleta de dados",
+      "alternativas": {
+        "A": "atende ao princípio do livre acesso, desde que o titular possa consultar a integralidade de seus dados posteriormente.",
+        "B": "está em conformidade com o princípio da adequação, pois os dados são compatíveis com o contexto do cadastro de clientes.",
+        "C": "viola o princípio da necessidade (minimização), pois os dados solicitados são excessivos e desnecessários para o cumprimento da finalidade do cadastro (a venda).",
+        "D": "viola o princípio da finalidade, pois os dados sensíveis coletados não possuem um propósito legítimo, específico e explícito informado ao titular.",
+        "E": "representa uma falha no princípio da transparência, pois o titular dos dados não foi informado sobre o tempo de retenção da informação."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCE-MG 2025 — Cargo 1 — questão 62"
+    },
+    {
+      "id": 63,
+      "tema": "E4.5",
+      "assunto": "Contratação de solução SaaS: ETP, mapa de gerenciamento de riscos e termo de referência (IN SGD/ME 94/2022)",
+      "enunciado": "Um órgão da administração pública federal necessita contratar uma solução de software como serviço (SaaS) para gestão de recursos humanos. A equipe de planejamento da contratação está elaborando os artefatos da fase 1 (planejamento), em conformidade com a Lei n.º 14.133/2021 e a Instrução Normativa SGD/ME n.º 94/2022. Sobre os artefatos e procedimentos dessa fase, julgue os itens a seguir.\nI O estudo técnico preliminar (ETP) e o mapa de gerenciamento de riscos devem ser elaborados antes da emissão do termo de referência (TR), sendo que o TR deverá utilizar as definições de ambos para detalhar o objeto.\nII O documento de oficialização da demanda (DOD) é o artefato que encerra a fase de planejamento, sendo assinado pela autoridade máxima de TI, após a aprovação do termo de referência.\nIII O mapa de gerenciamento de riscos deve analisar os riscos que possam comprometer o sucesso das fases 2 (seleção do fornecedor) e 3 (gestão contratual), excluindo os riscos da fase 1 (planejamento), pois esta já está em execução.\n\nAssinale a opção correta.",
+      "alternativas": {
+        "A": "Apenas o item I está certo.",
+        "B": "Apenas o item II está certo.",
+        "C": "Apenas os itens I e III estão certos.",
+        "D": "Apenas os itens II e III estão certos.",
+        "E": "Todos os itens estão certos."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "TCE-MG 2025 — Cargo 1 — questão 63"
+    },
+    {
+      "id": 68,
+      "tema": "E3.3",
+      "assunto": "Data profiling e process mining aplicados à qualidade/rastreabilidade dos dados",
+      "enunciado": "Julgue os itens a seguir, relativos à análise de dados aplicada à auditoria.\nI O data profiling permite avaliar a qualidade dos dados por meio de estatísticas descritivas, como frequência de valores nulos, distribuição de frequências e identificação de padrões de preenchimento.\nII O process mining infere automaticamente o modelo de processo a partir dos registros de eventos e permite a análise de conformidade em relação a um modelo pré-definido por meio de conformance checking.\nIII O uso combinado de data profiling e process mining possibilita tanto a detecção de anomalias nos dados quanto a avaliação da aderência dos fluxos reais aos procedimentos oficiais.\n\nAssinale a opção correta.",
+      "alternativas": {
+        "A": "Apenas o item I está certo.",
+        "B": "Apenas o item II está certo.",
+        "C": "Apenas os itens I e III estão certos.",
+        "D": "Apenas os itens II e III estão certos.",
+        "E": "Todos os itens estão certos."
+      },
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCE-MG 2025 — Cargo 1 — questão 68"
+    },
+    {
+      "id": 69,
+      "tema": "E2.5",
+      "assunto": "Serviço de armazenamento de dados em nuvem (Amazon S3)",
+      "enunciado": "Na AWS, o serviço de armazenamento de dados em nuvem é conhecido como",
+      "alternativas": {
+        "A": "Amazon RDS.",
+        "B": "Amazon EC2.",
+        "C": "Amazon Route 53.",
+        "D": "Amazon S3.",
+        "E": "Amazon ElastiCache."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "TCE-MG 2025 — Cargo 1 — questão 69"
+    },
+    {
+      "id": 70,
+      "tema": "E4.3",
+      "assunto": "DevOps: gerenciamento de versão",
+      "enunciado": "Em DevOps, a etapa em que as equipes definem os processos de gerenciamento de versão é a de",
+      "alternativas": {
+        "A": "desenvolvimento.",
+        "B": "entrega.",
+        "C": "planejamento.",
+        "D": "operação.",
+        "E": "codificação."
+      },
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "TCE-MG 2025 — Cargo 1 — questão 70"
+    },
+    {
+      "id": 72,
+      "tema": "E2.2",
+      "assunto": "OAuth como padrão de autenticação / SSO",
+      "enunciado": "O OAuth é um padrão de autenticação SSO (single sign-on) no qual",
+      "alternativas": {
+        "A": "as aplicações utilizam um conjunto de regras para trocar informações de autenticação.",
+        "B": "o provedor de serviços assume o papel de autenticar as credenciais do usuário.",
+        "C": "duas ou mais partes verificam mutuamente suas identidades na rede.",
+        "D": "um único conjunto de credenciais de usuário é utilizado para acessar diversos sites.",
+        "E": "as aplicações obtêm acesso seguro às informações do usuário de outros sites sem necessidade de fornecer senhas."
+      },
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "TCE-MG 2025 — Cargo 1 — questão 72"
+    }
+  ]
+}

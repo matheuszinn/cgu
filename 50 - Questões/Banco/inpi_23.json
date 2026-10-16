@@ -1,0 +1,420 @@
+{
+  "concurso": "inpi_23",
+  "banca": "Cebraspe",
+  "itens": [
+    {
+      "id": "C9-101",
+      "tema": "E4.4",
+      "assunto": "Scrum (incremento, sprint planning, product owner)",
+      "enunciado": "Na metodologia Scrum, caso diversos incrementos sejam criados em uma sprint, um deles pode ser entregue aos stakeholders antes da conclusão da sprint.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "C9/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 9.md (item 101)"
+    },
+    {
+      "id": "C9-102",
+      "tema": "E4.4",
+      "assunto": "Gestão de backlog em metodologia ágil",
+      "enunciado": "Na gestão do backlog de um produto usando-se uma metodologia ágil, o controle do versionamento dos artefatos é adequado para procurar manter o backlog com a característica de emergente.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "C9/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 9.md (item 102)"
+    },
+    {
+      "id": "C9-103",
+      "tema": "E4.3",
+      "assunto": "DevOps: entrega contínua e integração",
+      "enunciado": "Na entrega de software funcionando para a produção de forma ágil, o DevOps prestigia a entrega contínua; nesse sentido, um princípio recomendado é que as atualizações de arquivo do servidor, por meio de uma operação de atualização de arquivos (commit) realizada pelos desenvolvedores, sejam centralizadas em uma máquina de integração.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "C9/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 9.md (item 103)"
+    },
+    {
+      "id": "C9-104",
+      "tema": "E4.4",
+      "assunto": "MVP e ciclo build-measure-learn",
+      "enunciado": "No processo de desenvolvimento utilizando um produto mínimo viável (MVP), entre as etapas do ciclo build, measure e learn (construir, medir e aprender), a etapa build (construir) é a mais aderente ao objetivo central do MVP.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "C9/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 9.md (item 104)"
+    },
+    {
+      "id": "C9-105",
+      "tema": "E4.2",
+      "assunto": "TDD (vermelho, verde, refatorar)",
+      "enunciado": "O desenvolvimento dirigido por testes (TDD) é modelado em três estados: vermelho, verde e refatorar. Um exemplo da ação de refatoração é a simulação do comportamento dos componentes que interagem com a unidade de teste que está falhando.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "C9/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 9.md (item 105)"
+    },
+    {
+      "id": "C9-106",
+      "tema": "E4.4",
+      "assunto": "Scrum (incremento, sprint planning, product owner)",
+      "enunciado": "De acordo com o Scrum, durante uma sprint planning, para cada item do product backlog selecionado, cabe ao product owner planejar o trabalho necessário para criar um incremento de valor que atenda à forma como isso será feito.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "C9/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 9.md (item 106)"
+    },
+    {
+      "id": "C9-107",
+      "tema": "E1.2",
+      "assunto": "Padrões de projeto: adapter",
+      "enunciado": "No padrão de projetos adapter, um algoritmo pode variar independentemente dos clientes que o utilizam, de modo a fornecer diferentes implementações de um mesmo comportamento.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "C9/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 9.md (item 107)"
+    },
+    {
+      "id": "C9-108",
+      "tema": "E3.1",
+      "assunto": "Banco de dados chave-valor",
+      "enunciado": "Em que pese o fato de não serem particionáveis, os bancos de dados do tipo chave-valor, por possuírem estrutura maleável aos dados, permitem o armazenamento de objetos complexos, proporcionando escalabilidade vertical de forma mais fácil que os do tipo orientado a documento.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "C9/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 9.md (item 108)"
+    },
+    {
+      "id": "C9-109",
+      "tema": "E4.3",
+      "assunto": "DevOps: processo de build (compilação, dependências)",
+      "enunciado": "Uma das etapas na implementação do DevOps é o processo de build que envolve tarefas necessárias para se conseguir executar um programa, como, por exemplo, vinculação com bibliotecas, compilação, download e resolução de dependências, conforme a linguagem de programação que se estiver utilizando.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "C9/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 9.md (item 109)"
+    },
+    {
+      "id": "C9-110",
+      "tema": "E2.5",
+      "assunto": "Orquestração de contêineres (Kubernetes)",
+      "enunciado": "Kubernetes é uma ferramenta de orquestração de contêineres capaz de oferecer suporte às equipes de DevOps e que pode ser integrada aos fluxos de trabalho de CI/CD; a orquestração de contêineres permite automatizar a implantação, o gerenciamento, o dimensionamento e a rede de contêineres.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "C9/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 9.md (item 110)"
+    },
+    {
+      "id": "C9-111",
+      "tema": "E1.4",
+      "assunto": "HTML5: elemento datalist",
+      "enunciado": "Considere-se a figura a seguir. Caso se pretenda apresentar, por meio de HTML5, o resultado apresentado na figura precedente, deve-se substituir, no código fonte que se segue, o caractere # pela palavra datalist. <html> <head> <title>HTML5 INPI </title> </head> <body> <input list=“browsers” /> <# id=“browsers”> <option value=“Chrome”> <option value=“Firefox”> <option value=“Internet Explorer”> <option value=“Opera”> <option value=“Safari”> </#> </body> </html>",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "C9/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 9.md (item 111)"
+    },
+    {
+      "id": "C9-112",
+      "tema": "E1.2",
+      "assunto": "Programação em Python (listas e dict.fromkeys)",
+      "enunciado": "Considere-se o seguinte código em Python. lista = ['I', 'N', 'P', 'I'] lista = list(dict.fromkeys(lista)) print(lista) Ao se executar o código em Python precedente, o resultado será o apresentado a seguir. ['I', 'I', 'N', 'P']",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "C9/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 9.md (item 112)"
+    },
+    {
+      "id": "C9-113",
+      "tema": "E1.4",
+      "assunto": "Bootstrap: responsividade / viewport",
+      "enunciado": "No desenvolvimento de páginas web para dispositivos móveis, deve-se usar, no Bootstrap v4.1, a tag responsiva viewreport no <head> de modo a garantir renderização adequada e touch zooming em todos os dispositivos.",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "C9/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 9.md (item 113)"
+    },
+    {
+      "id": "C9-114",
+      "tema": "E2.2",
+      "assunto": "Swagger / documentação de API REST",
+      "enunciado": "Um documento Swagger é o equivalente a API REST de um documento WSDL para um serviço web baseado em SOAP.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "C9/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 9.md (item 114)"
+    },
+    {
+      "id": "C9-115",
+      "tema": "E3.1",
+      "assunto": "Persistência em Java com JPA (Hibernate Envers)",
+      "enunciado": "O Hibernate Envers permite realizar gerenciamento de identidade por meio de JPA no WildFly ou JBoss, de modo a habilitar single-sign on nas aplicações, uma vez que, logado no Envers, os usuários não precisam fazer login novamente para acessar um aplicativo diferente.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "C9/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 9.md (item 115)"
+    },
+    {
+      "id": "C9-116",
+      "tema": "E4.2",
+      "assunto": "Garantia da qualidade de software (controle de qualidade)",
+      "enunciado": "Um dos princípios básicos da garantia da qualidade do software é o controle de qualidade, cujo foco está na identificação, na rastreabilidade e no gerenciamento das mudanças no sistema.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "C9/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 9.md (item 116)"
+    },
+    {
+      "id": "C9-117",
+      "tema": "E4.2",
+      "assunto": "Complexidade ciclomática",
+      "enunciado": "O código correspondente ao grafo a seguir tem complexidade ciclomática igual a 2.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "C9/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 9.md (item 117)"
+    },
+    {
+      "id": "C9-118",
+      "tema": "E4.2",
+      "assunto": "Análise de valor-limite (casos de teste)",
+      "enunciado": "Considere-se o seguinte cenário, relativo ao índice de álcool encontrado no sangue de um motorista: normal, para índice inferior a 0,06%; multa, para índice entre 0,06% e 0,33%; crime, para índice superior a 0,33%. Nesse cenário, serão necessários, no mínimo, três casos de teste a fim de se atingir 100% de cobertura da análise do valor-limite de um programa desenvolvido para avaliar o referido índice.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "C9/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 9.md (item 118)"
+    },
+    {
+      "id": "C9-119",
+      "tema": "E1.5",
+      "assunto": "Refatoração de código: extract method",
+      "enunciado": "Um método que for longo demais ou difícil de entender e que exija muitos comentários ficará mais claro com a criação de variáveis temporárias, usando-se a técnica de refatoração de código extract method.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "C9/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 9.md (item 119)"
+    },
+    {
+      "id": "C9-120",
+      "tema": "E4.2",
+      "assunto": "Teste de regressão",
+      "enunciado": "Um teste de software de regressão estará corretamente projetado quando se considera, em cada uma das funções principais do software, apenas os testes que tratam de uma ou mais classes de erros.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "C9/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 9.md (item 120)"
+    },
+    {
+      "id": "C10-101",
+      "tema": "E3.4",
+      "assunto": "Becape incremental e diferencial",
+      "enunciado": "Na recuperação do becape incremental, é necessário restaurar um becape completo primeiro; por isso, ela é mais rápida que a recuperação do becape diferencial, mas não tão rápida quanto a do becape completo.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "C10/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 10.md (item 101)"
+    },
+    {
+      "id": "C10-102",
+      "tema": "E3.1",
+      "assunto": "Armazenamento definido por software",
+      "enunciado": "Um armazenamento definido por software consiste em um sistema de abstração de armazenamento de dados em que o aprovisionamento e o gerenciamento do armazenamento são separados do hardware subjacente, permitindo, assim, que diferentes pools de recursos de armazenamento físico possam ser gerenciados como um único dispositivo lógico.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "C10/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 10.md (item 102)"
+    },
+    {
+      "id": "C10-103",
+      "tema": "E3.4",
+      "assunto": "Becape incremental e diferencial",
+      "enunciado": "O becape diferencial copia somente os dados modificados desde o último becape completo, enquanto o incremental copia somente os arquivos modificados desde o último becape, independentemente do tipo.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "C10/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 10.md (item 103)"
+    },
+    {
+      "id": "C10-104",
+      "tema": "E2.5",
+      "assunto": "Contêineres versus máquinas virtuais",
+      "enunciado": "Contêineres e máquinas virtuais são equivalentes, sendo ambos uma cópia digital de uma máquina física; os contêineres, além de serem uma cópia digital, contêm o código de uma aplicação, suas bibliotecas e outras dependências.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "C10/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 10.md (item 104)"
+    },
+    {
+      "id": "C10-105",
+      "tema": "E4.3",
+      "assunto": "DevOps: entrega contínua (benefícios)",
+      "enunciado": "DevOps opera com base em princípios, entre os quais está a entrega contínua, que permite realizar tarefas repetitivas de maneira eficiente e confiável, reduzindo erros e liberando tempo para atividades de maior valor.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "C10/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 10.md (item 105)"
+    },
+    {
+      "id": "C10-114",
+      "tema": "E3.4",
+      "assunto": "SSL / criptografia em trânsito",
+      "enunciado": "O protocolo SSL atua como ligação entre a interface da aplicação, conhecida com front-end, e a camada de serviço, conhecida como back-end.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "C10/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 10.md (item 114)"
+    },
+    {
+      "id": "C11-101",
+      "tema": "E3.4",
+      "assunto": "Criptografia assimétrica (chave pública)",
+      "enunciado": "Um dos exemplos de criptografia assimétrica é a de chave pública, baseada em funções matemáticas e não em funções de substituição e permutação.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "C11/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 11.md (item 101)"
+    },
+    {
+      "id": "C11-102",
+      "tema": "E3.4",
+      "assunto": "Autenticidade em sistemas criptográficos",
+      "enunciado": "A autenticidade de sistemas criptográficos garante que o conteúdo de uma mensagem não foi alterado.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "C11/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 11.md (item 102)"
+    },
+    {
+      "id": "C11-103",
+      "tema": "E3.4",
+      "assunto": "Criptografia simétrica",
+      "enunciado": "Na criptografia simétrica, é possível obter o texto aberto a partir do texto cifrado quando se conhece qual é o algoritmo de encriptação, sem necessidade de se conhecer a chave secreta.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "C11/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 11.md (item 103)"
+    },
+    {
+      "id": "C11-104",
+      "tema": "E4.1",
+      "assunto": "Ataques passivos e ativos",
+      "enunciado": "Os ataques passivos costumam obter dados que estão sendo transmitidos, enquanto os ataques ativos buscam modificar ou criar um dado.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "C11/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 11.md (item 104)"
+    },
+    {
+      "id": "C11-105",
+      "tema": "E4.1",
+      "assunto": "Vulnerabilidades organizacionais e controle de acesso",
+      "enunciado": "Instalações inadequadas e falta de controle de acesso são exemplos de vulnerabilidades organizacionais.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "C11/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 11.md (item 105)"
+    },
+    {
+      "id": "C11-106",
+      "tema": "E3.4",
+      "assunto": "Políticas de segurança da informação (gestor da informação)",
+      "enunciado": "Cada informação deverá ter o seu próprio gestor, que será responsável por controlar suas autorizações de acesso e sua confidencialidade.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "C11/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 11.md (item 106)"
+    },
+    {
+      "id": "C11-107",
+      "tema": "E3.4",
+      "assunto": "Classificação da informação",
+      "enunciado": "O objetivo da classificação da informação é definir o padrão de sigilo que será utilizado na organização e classificar cada informação considerando esse padrão.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "C11/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 11.md (item 107)"
+    },
+    {
+      "id": "C11-108",
+      "tema": "E2.2",
+      "assunto": "Gestão de identidade (ISO/IEC 27002)",
+      "enunciado": "Deve-se permitir a identificação única de indivíduos e sistemas que acessem as informações de uma organização por meio da gestão de identidade; assim, são vedadas, expressamente e sem exceção, identidades atribuídas a várias pessoas, como, por exemplo, identidades compartilhadas, uma vez que é cogente responsabilizar a pessoa por ações realizadas com o emprego de uma identidade específica.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "C11/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 11.md (item 108)"
+    },
+    {
+      "id": "C11-109",
+      "tema": "E2.2",
+      "assunto": "Segregação de funções e direitos de acesso",
+      "enunciado": "A segregação de funções e áreas de responsabilidade é importante em uma organização; entretanto, as funções de solicitação, aprovação e implementação de direitos de acesso não devem ser segregadas, devido ao princípio da unicidade de concessão de privilégios.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "C11/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 11.md (item 109)"
+    },
+    {
+      "id": "C11-110",
+      "tema": "E4.4",
+      "assunto": "ISO/IEC 27001: avaliação e tratamento de riscos",
+      "enunciado": "A organização deve realizar avaliações de riscos da segurança da informação, bem como implementar o plano de tratamento de riscos da segurança da informação, retendo informação documentada dos resultados tanto das avaliações quanto do tratamento de riscos da segurança da informação.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "C11/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 11.md (item 110)"
+    },
+    {
+      "id": "C11-111",
+      "tema": "E4.4",
+      "assunto": "ISO/IEC 27001: conscientização",
+      "enunciado": "No que se refere à conscientização, as pessoas que realizam trabalho sob o controle de uma organização devem estar cientes da política de segurança da informação desta, ainda que não seja necessário que conheçam as implicações da não conformidade com os requisitos do sistema de gestão da segurança da informação.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "C11/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 11.md (item 111)"
+    },
+    {
+      "id": "C11-112",
+      "tema": "E4.1",
+      "assunto": "OWASP Top 10: Insecure Design",
+      "enunciado": "De acordo com o descrito para Insecure Design, um design inseguro não pode ser corrigido por uma implementação perfeita, sendo a falta de um perfil de risco empresarial inerente ao software que está sendo desenvolvido um dos fatores que contribuem para um design inseguro.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "C11/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 11.md (item 112)"
+    },
+    {
+      "id": "C11-113",
+      "tema": "E4.1",
+      "assunto": "OWASP Top 10: Broken Access Control",
+      "enunciado": "Quando explorado, o Broken Access Control permite a violação do princípio de menor privilégio, situação em que o acesso que deveria ser concedido para usuários específicos fica disponível para qualquer pessoa.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "C11/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 11.md (item 113)"
+    },
+    {
+      "id": "C11-114",
+      "tema": "E4.1",
+      "assunto": "Software malicioso: worm",
+      "enunciado": "Worm é um tipo de software malicioso que infecta uma estação de trabalho (workstation) em vez de infectar arquivos; ele não requer intervenção humana para se propagar e, diferentemente do vírus, não precisa se fixar em arquivo ou setor.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "C11/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 11.md (item 114)"
+    },
+    {
+      "id": "C11-115",
+      "tema": "E4.1",
+      "assunto": "Software malicioso: spyware",
+      "enunciado": "Spyware é um programa que se instala de maneira furtiva por meio de outro programa; ele monitora o usuário, capturando informações confidenciais, hábitos de consumo, senhas bancárias e informações de cartões de crédito.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "C11/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 11.md (item 115)"
+    },
+    {
+      "id": "C11-116",
+      "tema": "E4.1",
+      "assunto": "Software malicioso: cavalo de troia",
+      "enunciado": "Cavalo de troia (trojan horse) é um programa que promete uma ação ou funcionalidade, mas executa outra totalmente diferente; seu objetivo é enganar as pessoas, permitindo o acesso e o roubo de informações de seus computadores.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "C11/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 11.md (item 116)"
+    },
+    {
+      "id": "C11-117",
+      "tema": "E4.1",
+      "assunto": "Conceitos de segurança da informação (integridade)",
+      "enunciado": "A ocorrência, em uma empresa, da perda de comunicação com um sistema importante, seja pela queda de um servidor, seja pela aplicação crítica de negócio configura exemplo de perda de integridade.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "C11/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 11.md (item 117)"
+    },
+    {
+      "id": "C11-118",
+      "tema": "E4.1",
+      "assunto": "Conceitos de segurança da informação (confidencialidade e autenticidade)",
+      "enunciado": "A confidencialidade da informação garante que, em uma comunicação, a origem e o destino sejam realmente aquilo que alegam ser.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "C11/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 11.md (item 118)"
+    },
+    {
+      "id": "C11-119",
+      "tema": "E4.4",
+      "assunto": "Política de segurança da informação (alta direção)",
+      "enunciado": "Para se aplicar uma política de segurança da informação em uma organização, é suficiente que a alta direção da organização bem como os detentores dos demais cargos de liderança tenham conhecimento do teor da referida política e acompanhem a sua implantação.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "C11/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 11.md (item 119)"
+    },
+    {
+      "id": "C11-120",
+      "tema": "E4.4",
+      "assunto": "SGSI: fatores de influência",
+      "enunciado": "O modelo de sistema de gestão de segurança da informação (SGSI) de uma organização é influenciado por fatores como necessidades e objetivos, requisitos de segurança, processos e estrutura organizacional.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "C11/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 11.md (item 120)"
+    }
+  ]
+}

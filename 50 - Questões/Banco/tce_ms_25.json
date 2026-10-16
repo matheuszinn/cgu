@@ -1,0 +1,1370 @@
+{
+  "concurso": "tce_ms_25",
+  "banca": "Cebraspe",
+  "itens": [
+    {
+      "id": 44,
+      "tema": "E3.2",
+      "assunto": "Consulta SQL: maior salário por departamento (subconsulta com MAX correlacionada)",
+      "enunciado": "Considere a seguinte tabela Funcionarios em um banco de dados relacional de funcionários de uma empresa.\n\nCREATE TABLE Funcionarios (\n id INT PRIMARY KEY,\n nome VARCHAR(100),\n salario DECIMAL(10, 2),\n departamento VARCHAR(50)\n);\n\nConsidere, ainda, que os seguintes dados sejam inseridos nessa tabela.\n\nINSERT INTO Funcionarios (id, nome, salario, departamento) VALUES\n(1, 'Ana', 3000.00, 'Vendas'),\n(2, 'Bruno', 4500.00, 'TI'),\n(3, 'Carlos', 3500.00, 'Vendas'),\n(4, 'Diana', 5000.00, 'TI'),\n(5, 'Elena', 4000.00, 'Financeiro');\n\nA partir dessas informações, assinale a opção que corresponde à consulta SQL que retorna o nome do funcionário (ou funcionários, se houver empate) com o maior salário por departamento.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "SELECT f1.departamento, f1.nome, f1.salario\nFROM Funcionarios f1\nWHERE f1.salario = (\n SELECT MAX(f2.salario)\n FROM Funcionarios f2\n GROUP BY f2.departamento\n HAVING f2.departamento = f1.departamento\n);"
+        },
+        {
+          "letra": "B",
+          "texto": "SELECT f1.departamento, f1.nome, f1.salario\nFROM Funcionarios f1\nWHERE f1.salario = (\n SELECT MAX(f2.salario)\n FROM Funcionarios f2\n);"
+        },
+        {
+          "letra": "C",
+          "texto": "SELECT f1.departamento, f1.nome, f1.salario\nFROM Funcionarios f1\nWHERE f1.salario = (\n SELECT MAX(f2.salario)\n FROM Funcionarios f2\n WHERE f2.departamento = f1.departamento\n);"
+        },
+        {
+          "letra": "D",
+          "texto": "SELECT departamento, nome, MAX(salario)\nFROM Funcionarios\nGROUP BY departamento;"
+        },
+        {
+          "letra": "E",
+          "texto": "SELECT f1.departamento, f1.nome, f1.salario\nFROM Funcionarios f1\nWHERE f1.salario = (\n SELECT MAX(f2.salario)\n FROM Funcionarios f2\n GROUP BY f2.departamento\n);"
+        }
+      ],
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "TCE-MS 2025 — Cargo 5 — questão 44"
+    },
+    {
+      "id": 45,
+      "tema": "E3.1",
+      "assunto": "Banco de dados distribuído: mapeamento de esquemas (conceitual global x interno local)",
+      "enunciado": "Ao não realizar o mapeamento direto do esquema conceitual global para os esquemas internos locais em um banco de dados distribuído, busca-se evitar",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a junção, em um único passo, dos critérios de distribuição e da estratégia de armazenamento."
+        },
+        {
+          "letra": "B",
+          "texto": "a necessidade de duplicar os mesmos dados em todos os nós do sistema."
+        },
+        {
+          "letra": "C",
+          "texto": "a sobrecarga do diretório de dados global com funções de mapeamento."
+        },
+        {
+          "letra": "D",
+          "texto": "a ausência de autonomia dos nós na definição de sua estrutura interna."
+        },
+        {
+          "letra": "E",
+          "texto": "a duplicidade de funções entre o nível externo e o nível interno."
+        }
+      ],
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "TCE-MS 2025 — Cargo 5 — questão 45"
+    },
+    {
+      "id": 46,
+      "tema": "E3.4",
+      "assunto": "LGPD (Lei n.º 13.709/2018): fundamentos da proteção de dados pessoais",
+      "enunciado": "Com base na Lei Geral de Proteção de Dados Pessoais (Lei n.º 13.709/2018), a disciplina da proteção de dados pessoais tem como fundamentos\nI o desenvolvimento econômico e tecnológico e a inovação.\nII a proteção da autodeterminação informativa.\nIII a inviolabilidade da intimidade, da honra e da imagem.\nIV a liberdade de expressão, de informação, de comunicação e de opinião.\nAssinale a opção correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas os itens I, II e III estão certos."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas os itens I, II e IV estão certos."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas os itens I, III e IV estão certos."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas os itens II, III e IV estão certos."
+        },
+        {
+          "letra": "E",
+          "texto": "Todos os itens estão certos."
+        }
+      ],
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCE-MS 2025 — Cargo 5 — questão 46"
+    },
+    {
+      "id": 47,
+      "tema": "E2.4",
+      "assunto": "Algoritmos de classificação em IA (support vector machine)",
+      "enunciado": "No contexto dos algoritmos de classificação em inteligência artificial, a técnica caracterizada por construir hiperplanos de separação em espaços de alta dimensão, visando maximizar a margem entre classes, é denominada",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "support vector machine."
+        },
+        {
+          "letra": "B",
+          "texto": "random forest."
+        },
+        {
+          "letra": "C",
+          "texto": "k-nearest neighbors."
+        },
+        {
+          "letra": "D",
+          "texto": "naive Bayes."
+        },
+        {
+          "letra": "E",
+          "texto": "decision tree."
+        }
+      ],
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "TCE-MS 2025 — Cargo 5 — questão 47"
+    },
+    {
+      "id": 48,
+      "tema": "E2.4",
+      "assunto": "LLM: mecanismo de atenção em redes transformer (GPT)",
+      "enunciado": "Em LLM (large language models), como o GPT, o mecanismo principal que permite gerar um texto coerente e contextualizado é denominado",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "algoritmos de busca por vizinhos mais próximos."
+        },
+        {
+          "letra": "B",
+          "texto": "redes neurais convolucionais."
+        },
+        {
+          "letra": "C",
+          "texto": "modelos de Markov de alta ordem."
+        },
+        {
+          "letra": "D",
+          "texto": "árvores de decisão com bagging."
+        },
+        {
+          "letra": "E",
+          "texto": "redes transformer baseadas em atenção."
+        }
+      ],
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCE-MS 2025 — Cargo 5 — questão 48"
+    },
+    {
+      "id": 49,
+      "tema": "E1.2",
+      "assunto": "Herança, polimorfismo e classes em Python (código)",
+      "enunciado": "class Funcionario:\n    def __init__(self, nome, salario):\n        self.nome = nome\n        self.salario = salario\n\n    def bonus(self):\n        return self.salario * 0.10\n\nclass Gerente(Funcionario):\n    def bonus(self):\n        return super().bonus() + 500\n\nfunc = Funcionario(\"Ana\", 2000)\nger = Gerente(\"Bruno\", 3000)\n\nprint(func.bonus())\nprint(ger.bonus())\nprint(isinstance(ger, Funcionario))\n\nConsidere o código Python precedente. Assinale a opção que corresponde ao resultado da execução desse código.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "200.0\n300.0\nTrue"
+        },
+        {
+          "letra": "B",
+          "texto": "200.0\n500.0\nFalse"
+        },
+        {
+          "letra": "C",
+          "texto": "800.0\n500.0\nFalse"
+        },
+        {
+          "letra": "D",
+          "texto": "200.0\n800.0\nTrue"
+        },
+        {
+          "letra": "E",
+          "texto": "200.0\n800.0\nFalse"
+        }
+      ],
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "TCE-MS 2025 — Cargo 5 — questão 49"
+    },
+    {
+      "id": 50,
+      "tema": "E1.2",
+      "assunto": "Java 17: interface, herança, sobrescrita de método e instanceof (código)",
+      "enunciado": "interface Pagavel {\n  double calcularPagamento();\n}\n\nclass Freelancer implements Pagavel {\n  double horasTrabalhadas;\n  double valorHora;\n\n  Freelancer(double horas, double valor) {\n    this.horasTrabalhadas = horas;\n    this.valorHora = valor;\n  }\n\n  public double calcularPagamento() {\n    return horasTrabalhadas * valorHora;\n  }\n}\n\nclass Consultor extends Freelancer {\n  double bonus;\n\n  Consultor(double horas, double valor, double bonus) {\n    super(horas, valor);\n    this.bonus = bonus;\n  }\n\n  @Override\n  public double calcularPagamento() {\n    return super.calcularPagamento() + bonus;\n  }\n}\n\npublic class TestePagamento {\n  public static void main(String[] args) {\n    Pagavel f = new Freelancer(40, 50);\n    Pagavel c = new Consultor(30, 80, 500);\n\n    System.out.println(f.calcularPagamento());\n    System.out.println(c.calcularPagamento());\n    System.out.println(f instanceof Consultor);\n  }\n}\n\nConsidere o código Java 17 acima. Assinale a opção que corresponde ao resultado da execução do código em apreço no console.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2900.0\n2000.0\nfalse"
+        },
+        {
+          "letra": "B",
+          "texto": "2000.0\n2900.0\nfalse"
+        },
+        {
+          "letra": "C",
+          "texto": "50\n80\nfalse"
+        },
+        {
+          "letra": "D",
+          "texto": "2000.0\n2900.0\ntrue"
+        },
+        {
+          "letra": "E",
+          "texto": "50\n80\ntrue"
+        }
+      ],
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "TCE-MS 2025 — Cargo 5 — questão 50"
+    },
+    {
+      "id": 52,
+      "tema": "E2.2",
+      "assunto": "Métodos de autenticação (senhas, tokens, certificados digitais e biometria)",
+      "enunciado": "Acerca dos métodos de autenticação (senhas, tokens, certificados e biometria), assinale a opção correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Por não requererem integração com hardware adicional, as senhas descartáveis (OTP) são menos seguras que as estáticas."
+        },
+        {
+          "letra": "B",
+          "texto": "Tokens físicos ou virtuais são vantajosos porque podem fornecer autenticação baseada em algo que o usuário possui, o que reduz o risco de compartilhamento indevido."
+        },
+        {
+          "letra": "C",
+          "texto": "Certificados digitais têm como principal fraqueza o fato de dependerem de uma autoridade certificadora, o que inviabiliza o seu uso em ambientes corporativos."
+        },
+        {
+          "letra": "D",
+          "texto": "A biometria é o método de autenticação recomendável em todos os casos porque não está sujeita a falhas de leitura nem a riscos de falsificação."
+        },
+        {
+          "letra": "E",
+          "texto": "Senhas oferecem maior resistência contra ataques de força bruta que biometria."
+        }
+      ],
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "TCE-MS 2025 — Cargo 5 — questão 52"
+    },
+    {
+      "id": 53,
+      "tema": "E4.1",
+      "assunto": "Phishing, pharming e hoax",
+      "enunciado": "No que se refere a phishing, pharming e hoax, assinale a opção correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O phishing caracteriza-se pelo envio de mensagens enganosas que simulam comunicações legítimas para a obtenção de dados confidenciais do usuário."
+        },
+        {
+          "letra": "B",
+          "texto": "O pharming é um golpe baseado em correntes de email que disseminam boatos ou informações falsas para enganar o usuário."
+        },
+        {
+          "letra": "C",
+          "texto": "O hoax consiste na captura de senhas e dados bancários por meio de formulários fraudulentos em sites clonados."
+        },
+        {
+          "letra": "D",
+          "texto": "No furto de identidade, criminosos criam sites falsos que redirecionam o usuário para páginas aparentemente legítimas a fim de capturar credenciais de acesso."
+        },
+        {
+          "letra": "E",
+          "texto": "Na fraude de antecipação de recursos, a vítima é induzida a fornecer informações pessoais em troca de supostos prêmios inexistentes."
+        }
+      ],
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "TCE-MS 2025 — Cargo 5 — questão 53"
+    },
+    {
+      "id": 54,
+      "tema": "E4.1",
+      "assunto": "Ransomware: prevenção e combate",
+      "enunciado": "Em relação ao ransomware e às formas de prevenção e combate a esse tipo de ataque, assinale a opção correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O uso de backups regulares e atualizados reduz significativamente o impacto de um ataque de ransomware."
+        },
+        {
+          "letra": "B",
+          "texto": "A melhor forma de se evitar ransomware é desativar periodicamente os antivírus, para permitir sua atualização sem interferências."
+        },
+        {
+          "letra": "C",
+          "texto": "Evitar atualizações sistemáticas diminui as chances de infecção do sistema por ransomware, pois previne conflitos com softwares de segurança."
+        },
+        {
+          "letra": "D",
+          "texto": "O ransomware atua apenas contra servidores em nuvem, não afetando dispositivos locais."
+        },
+        {
+          "letra": "E",
+          "texto": "O ataque por ransomware, embora infecte o sistema, não restringe o acesso a arquivos ou dispositivos."
+        }
+      ],
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "TCE-MS 2025 — Cargo 5 — questão 54"
+    },
+    {
+      "id": 58,
+      "tema": "E3.4",
+      "assunto": "Criptografia simétrica e assimétrica",
+      "enunciado": "Assinale a opção correta no que se refere aos sistemas de criptografia simétricos e assimétricos.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Criptografia assimétrica não oferece segurança para assinaturas digitais."
+        },
+        {
+          "letra": "B",
+          "texto": "Em sistemas simétricos, são usadas duas chaves diferentes: uma para criptografia e outra para descriptografia."
+        },
+        {
+          "letra": "C",
+          "texto": "Nos sistemas simétricos, é usada a mesma chave para criptografia e descriptografia, ao passo que, nos assimétricos, são utilizadas uma chave pública para criptografia e uma chave privada para descriptografia."
+        },
+        {
+          "letra": "D",
+          "texto": "Criptografia simétrica não exige troca de chaves entre remetente e destinatário."
+        },
+        {
+          "letra": "E",
+          "texto": "O tempo de processamento nos sistemas assimétricos é menor que nos simétricos."
+        }
+      ],
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCE-MS 2025 — Cargo 5 — questão 58"
+    },
+    {
+      "id": 62,
+      "tema": "E4.4",
+      "assunto": "PDTI: fase de elaboração (documentos de referência)",
+      "enunciado": "Na preparação do PDTI, o levantamento de leis, planos estratégicos, normas e políticas para alinhar a TI às diretrizes legais e organizacionais é contemplado na fase de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "elaboração do plano de trabalho."
+        },
+        {
+          "letra": "B",
+          "texto": "identificação dos documentos de referência."
+        },
+        {
+          "letra": "C",
+          "texto": "identificação de princípios e diretrizes."
+        },
+        {
+          "letra": "D",
+          "texto": "definição da equipe de elaboração."
+        },
+        {
+          "letra": "E",
+          "texto": "descrição da metodologia."
+        }
+      ],
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "TCE-MS 2025 — Cargo 5 — questão 62"
+    },
+    {
+      "id": 63,
+      "tema": "E4.4",
+      "assunto": "PDTI: diagnóstico (necessidades de serviços de TI)",
+      "enunciado": "No PDTI, a etapa de diagnóstico na qual os sistemas são definidos por acordos de nível de serviço (ANS) e descritos em catálogos de serviços é denominada",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "consolidação do inventário de necessidades."
+        },
+        {
+          "letra": "B",
+          "texto": "necessidades de infraestrutura de TI."
+        },
+        {
+          "letra": "C",
+          "texto": "alinhamento às estratégias da organização."
+        },
+        {
+          "letra": "D",
+          "texto": "necessidades de informação."
+        },
+        {
+          "letra": "E",
+          "texto": "necessidades de serviços de TI."
+        }
+      ],
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCE-MS 2025 — Cargo 5 — questão 63"
+    },
+    {
+      "id": 68,
+      "tema": "E4.4",
+      "assunto": "COBIT: governança e gestão de informação e tecnologia",
+      "enunciado": "O COBIT\nI é um framework voltado para governança e gestão de informação e tecnologia organizacional.\nII abrange toda a tecnologia e processamento de informações da organização, não se limitando apenas ao setor de TI.\nIII é uma estrutura técnica de TI cujo objetivo é gerir toda a tecnologia organizacional.\nIV prescreve ou toma decisões sobre TI na escolha da arquitetura e da gestão de custos.\nEstão certos apenas os itens",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II."
+        },
+        {
+          "letra": "B",
+          "texto": "I e IV."
+        },
+        {
+          "letra": "C",
+          "texto": "II e III."
+        },
+        {
+          "letra": "D",
+          "texto": "I, III e IV."
+        },
+        {
+          "letra": "E",
+          "texto": "II, III e IV."
+        }
+      ],
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "TCE-MS 2025 — Cargo 5 — questão 68"
+    },
+    {
+      "id": 71,
+      "tema": "E4.5",
+      "assunto": "IN SGD/SEDGG/ME n.º 94/2022: gestão e planejamento de contratos de TIC (papeis, OS/OF, TRP, MGR, ETP)",
+      "enunciado": "Considerando-se que a Instrução Normativa SGD/SEDGG/ME n.º 94/2022 determina, entre outras providências, a criação de diversos documentos durante todo o processo de contratação de bens e serviços de TIC, é correto afirmar que, na fase de gestão do contrato, deve ser produzido(a)\nI a ata da reunião inicial (kick-off) com pautas mínimas obrigatórias.\nII a ordem de serviço/ordem de fornecimento (OS/OF) contendo elementos mínimos para formalização de demandas.\nIII o mapa de gerenciamento de riscos (MGR).\nAssinale a opção correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas o item I está certo."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas o item II está certo."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas os itens I e III estão certos."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas os itens II e III estão certos."
+        },
+        {
+          "letra": "E",
+          "texto": "Todos os itens estão certos."
+        }
+      ],
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "TCE-MS 2025 — Cargo 5 — questão 71"
+    },
+    {
+      "id": 72,
+      "tema": "E4.5",
+      "assunto": "IN SGD/SEDGG/ME n.º 94/2022: gestão e planejamento de contratos de TIC (papeis, OS/OF, TRP, MGR, ETP)",
+      "enunciado": "Segundo a Instrução Normativa SGD/SEDGG/ME n.º 94/2022, o responsável por confeccionar e assinar o termo de recebimento provisório (TRP) a ser produzido durante a fase de gestão do contrato de soluções de TIC, quando da entrega do objeto constante na OS/OF, é o",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "fiscal administrativo do contrato."
+        },
+        {
+          "letra": "B",
+          "texto": "gestor do contrato."
+        },
+        {
+          "letra": "C",
+          "texto": "fiscal setorial do contrato."
+        },
+        {
+          "letra": "D",
+          "texto": "fiscal requisitante do contrato."
+        },
+        {
+          "letra": "E",
+          "texto": "fiscal técnico do contrato."
+        }
+      ],
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCE-MS 2025 — Cargo 5 — questão 72"
+    },
+    {
+      "id": 73,
+      "tema": "E4.5",
+      "assunto": "IN SGD/SEDGG/ME n.º 94/2022: gestão e planejamento de contratos de TIC (papeis, OS/OF, TRP, MGR, ETP)",
+      "enunciado": "Segundo a Instrução Normativa SGD/SEDGG/ME n.º 94/2022, na fase de gestão do contrato de soluções de TIC, existem diversas responsabilidades/atribuições inerentes aos integrantes da equipe de gestão do contrato, tais como as listadas a seguir.\nI formalizar demandas de correção à contratada, por comunicação oficial pertinente\nII verificar regularidades fiscais, trabalhistas e previdenciárias, para fins de pagamento\nIII avaliar a qualidade dos serviços/bens conforme os critérios de aceitação, em conjunto entre fiscais\nIV autorizar o faturamento com base no termo de recebimento definitivo (TRD)\nV coordenar os atos preparatórios à prorrogação, alteração, reequilíbrio, pagamento, sanções e extinção\nCompete, respectivamente, ao fiscal requisitante, ao fiscal administrativo e ao gestor do contrato o que se apresenta nos itens",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, II e IV."
+        },
+        {
+          "letra": "B",
+          "texto": "I, II e V."
+        },
+        {
+          "letra": "C",
+          "texto": "I, III e V."
+        },
+        {
+          "letra": "D",
+          "texto": "II, III e IV."
+        },
+        {
+          "letra": "E",
+          "texto": "III, IV e V."
+        }
+      ],
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "TCE-MS 2025 — Cargo 5 — questão 73"
+    },
+    {
+      "id": 74,
+      "tema": "E4.5",
+      "assunto": "Lei n.º 14.133/2021: matriz de riscos em contratos de TI",
+      "enunciado": "No âmbito da Lei n.º 14.133/2021, o planejamento e a fiscalização dos contratos de TI devem estar de acordo com regras que tratam da matriz de riscos, da alocação de responsabilidades e da manutenção do equilíbrio econômico-financeiro. Conforme essa lei, a matriz de riscos em contratos de TI",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "autoriza o contratado a revisar unilateralmente os preços do contrato sempre que houver alteração cambial ou inflacionária."
+        },
+        {
+          "letra": "B",
+          "texto": "serve exclusivamente para registrar falhas de execução verificadas durante a fiscalização do contrato pela administração."
+        },
+        {
+          "letra": "C",
+          "texto": "substitui a necessidade de manutenção do mapa de gerenciamento de riscos previsto em normas infralegais de contratações de TIC."
+        },
+        {
+          "letra": "D",
+          "texto": "permite que a administração transfira integralmente ao contratado todos os riscos da execução contratual, inclusive os de caso fortuito ou força maior."
+        },
+        {
+          "letra": "E",
+          "texto": "estabelece a alocação objetiva de riscos entre a administração e o contratado, fixando responsabilidades e impactos econômico-financeiros previstos."
+        }
+      ],
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCE-MS 2025 — Cargo 5 — questão 74"
+    },
+    {
+      "id": 75,
+      "tema": "E4.5",
+      "assunto": "IN SGD/SEDGG/ME n.º 94/2022: gestão e planejamento de contratos de TIC (papeis, OS/OF, TRP, MGR, ETP)",
+      "enunciado": "A Instrução Normativa SGD/SEDGG/ME n.º 94/2022, que disciplina a gestão dos contratos de soluções de TIC, determina providências formais no início da execução, instrumentos padronizados para o encaminhamento de demandas e atualização contínua do gerenciamento de riscos, de modo a garantir rastreabilidade, responsabilização e conformidade ao modelo de execução aprovado.\n\nCom base nas informações precedentes, assinale a opção em que é apresentado um conjunto de providências e registros compatíveis com o início e o acompanhamento da gestão de um contrato de TIC, conforme a referida instrução normativa.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "centralizar aceite no gestor; arquivar o mapa de riscos após a seleção; trocar OS por atas; e admitir reunião informal"
+        },
+        {
+          "letra": "B",
+          "texto": "tratar a ata sem assinaturas; permitir ordens verbais iniciais; limitar riscos a mudanças de escopo; e usar apenas email"
+        },
+        {
+          "letra": "C",
+          "texto": "deixar a contratada indicar o gestor; dispensar OS em serviços contínuos; e registrar riscos apenas em plano de continuidade"
+        },
+        {
+          "letra": "D",
+          "texto": "designar gestor e equipe; registrar reunião inicial em ata; emitir OS; e manter mapa de riscos atualizado"
+        },
+        {
+          "letra": "E",
+          "texto": "reabrir documento de formalização da demanda (DFD) e estudo técnico preliminar (ETP) sem motivação; atualizar riscos semestralmente; usar email como OS; e substituir ata por relatório"
+        }
+      ],
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "TCE-MS 2025 — Cargo 5 — questão 75"
+    },
+    {
+      "id": 76,
+      "tema": "E4.5",
+      "assunto": "IN SEGES/ME n.º 65/2021: pesquisa de preços em contratações de TI",
+      "enunciado": "Determinado órgão da administração pública precisa estimar o valor de referência para a contratação de serviços de manutenção de equipamentos de informática, e o gestor da contratação opta, com base na Instrução Normativa SEGES/ME n.º 65/2021, por utilizar diferentes parâmetros de pesquisa de preços, respeitando prioridades e prazos definidos.\n\nNessa situação hipotética, para atender corretamente aos parâmetros estabelecidos na referida instrução normativa, o gestor deve",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "adotar como regra a média aritmética simples das propostas obtidas diretamente com fornecedores, sendo desnecessária sua justificativa."
+        },
+        {
+          "letra": "B",
+          "texto": "utilizar exclusivamente propostas de fornecedores sem considerar sua validade temporal, desde que constem em papel timbrado."
+        },
+        {
+          "letra": "C",
+          "texto": "usar preços divulgados em catálogos de fabricantes e distribuidores como parâmetro prioritário, como em qualquer contratação de TIC."
+        },
+        {
+          "letra": "D",
+          "texto": "consultar o painel de preços do governo federal e contratações similares realizadas pela administração nos últimos 12 meses, adotando a mediana como valor estimado."
+        },
+        {
+          "letra": "E",
+          "texto": "basear-se em anúncios de jornais especializados de tecnologia, ainda que publicados há mais de 24 meses, se acompanhados de três cotações distintas."
+        }
+      ],
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "TCE-MS 2025 — Cargo 5 — questão 76"
+    },
+    {
+      "id": 77,
+      "tema": "E4.5",
+      "assunto": "IN SGD/SEDGG/ME n.º 94/2022: gestão e planejamento de contratos de TIC (papeis, OS/OF, TRP, MGR, ETP)",
+      "enunciado": "No ciclo de vida das contratações de soluções de TI, a fase de gestão do contrato é essencial para a garantia de que o objeto contratado seja entregue conforme os requisitos técnicos e administrativos estabelecidos. Na gestão de contratos de TI, é atribuição típica do gestor e da equipe de fiscalização do contrato",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "conduzir a análise jurídica do edital e do contrato, emitindo parecer vinculante para a administração."
+        },
+        {
+          "letra": "B",
+          "texto": "acompanhar a execução, emitir ordens de serviço, registrar reuniões em ata e atualizar o mapa de riscos."
+        },
+        {
+          "letra": "C",
+          "texto": "aprovar a pesquisa de preços como referência de valor estimado, fixando os parâmetros estatísticos a serem utilizados."
+        },
+        {
+          "letra": "D",
+          "texto": "elaborar o estudo técnico preliminar e o termo de referência, articulando-os ao Plano Diretor de Tecnologia da Informação e Comunicação."
+        },
+        {
+          "letra": "E",
+          "texto": "definir a modalidade de licitação e homologar o resultado, mediante decisão final da autoridade competente."
+        }
+      ],
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "TCE-MS 2025 — Cargo 5 — questão 77"
+    },
+    {
+      "id": 78,
+      "tema": "E4.5",
+      "assunto": "Lei n.º 14.133/2021: garantias contratuais",
+      "enunciado": "A Lei n.º 14.133/2021 apresenta inovações relevantes sobre garantias em contratos administrativos, incluindo contratos de obras, serviços e fornecimentos de bens de TI. A esse respeito, julgue os itens subsequentes.\nI Em contratos de obras e serviços de grande vulto, a administração poderá exigir garantia de até 30% do valor inicial, desde que prevista no edital e justificada tecnicamente.\nII A referida lei não menciona a modalidade seguro-garantia, prevendo apenas caução em dinheiro ou títulos da dívida pública.\nIII A garantia prestada pelo contratado deve ser restituída após a execução do contrato e o recebimento definitivo do objeto.\nAssinale a opção correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas o item I está certo."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas o item II está certo."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas os itens I e III estão certos."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas os itens II e III estão certos."
+        },
+        {
+          "letra": "E",
+          "texto": "Todos os itens estão certos."
+        }
+      ],
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCE-MS 2025 — Cargo 5 — questão 78"
+    },
+    {
+      "id": 79,
+      "tema": "E4.5",
+      "assunto": "IN SGD/SEDGG/ME n.º 94/2022: gestão e planejamento de contratos de TIC (papeis, OS/OF, TRP, MGR, ETP)",
+      "enunciado": "Segundo a Instrução Normativa SGD/SEDGG/ME n.º 94/2022, um dos documentos da fase de planejamento da contratação de soluções de TIC é o",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ato de fiscalização contratual (AFC), que institui formalmente o gestor e a equipe de fiscalização do contrato antes do planejamento."
+        },
+        {
+          "letra": "B",
+          "texto": "relatório de execução orçamentária (REO), que demonstra a conformidade fiscal da unidade requisitante."
+        },
+        {
+          "letra": "C",
+          "texto": "termo de execução preliminar (TEP), que detalha as sanções aplicáveis ao fornecedor em caso de inadimplemento."
+        },
+        {
+          "letra": "D",
+          "texto": "documento de oficialização da demanda (DOD), que apresenta a matriz de responsabilidades da execução contratual."
+        },
+        {
+          "letra": "E",
+          "texto": "estudo técnico preliminar (ETP), que justifica a necessidade da contratação e avalia alternativas de solução."
+        }
+      ],
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCE-MS 2025 — Cargo 5 — questão 79"
+    },
+    {
+      "id": 80,
+      "tema": "E4.5",
+      "assunto": "IN SEGES/ME n.º 65/2021: pesquisa de preços em contratações de TI",
+      "enunciado": "A Instrução Normativa SEGES/ME n.º 65/2021 dispõe sobre regras e parâmetros para a pesquisa de preços nas contratações públicas, inclusive para bens e serviços de TI, estabelecendo prioridades, prazos e fontes oficiais de consulta. Segundo essa instrução normativa, entre as fontes priorizadas de pesquisa de preços estão",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "as contratações similares da administração nos últimos 12 meses, adotando-se a mediana."
+        },
+        {
+          "letra": "B",
+          "texto": "as cotações em jornais de grande circulação, válidas até 24 meses da data de sua publicação."
+        },
+        {
+          "letra": "C",
+          "texto": "as propostas de fornecedores, aceitas sem exigência de prazo de validade específico."
+        },
+        {
+          "letra": "D",
+          "texto": "os preços de sites de comércio eletrônico, cujo uso dispensa justificativa formal."
+        },
+        {
+          "letra": "E",
+          "texto": "os catálogos de fabricantes de informática, que sempre substituem as demais fontes."
+        }
+      ],
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "TCE-MS 2025 — Cargo 5 — questão 80"
+    },
+    {
+      "id": 81,
+      "tema": "E4.5",
+      "assunto": "Lei n.º 14.133/2021: indicação de marca (padronização do objeto)",
+      "enunciado": "Durante a fase interna da aquisição de bens de tecnologia da informação, a indicação de marca pode ser excepcionalmente considerada válida quando",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "estiver fundamentada em pesquisa de mercado que aponte maior participação da marca no setor."
+        },
+        {
+          "letra": "B",
+          "texto": "for recomendada por fornecedor que já atende a outros órgãos públicos."
+        },
+        {
+          "letra": "C",
+          "texto": "estiver prevista em contrato anterior firmado com o mesmo fornecedor."
+        },
+        {
+          "letra": "D",
+          "texto": "estiver formalmente justificada, em decorrência da necessidade de padronização do objeto."
+        },
+        {
+          "letra": "E",
+          "texto": "for baseada em preferência do gestor responsável pela área requisitante."
+        }
+      ],
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "TCE-MS 2025 — Cargo 5 — questão 81"
+    },
+    {
+      "id": 82,
+      "tema": "E4.5",
+      "assunto": "Lei n.º 14.133/2021: modelos de adjudicação",
+      "enunciado": "Assinale a opção correta quanto aos modelos de adjudicação.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A adjudicação global é obrigatória nas contratações cujo objeto envolva serviços contínuos."
+        },
+        {
+          "letra": "B",
+          "texto": "É recomendada a adjudicação global quando se deseja contratar diversos fornecedores para diferentes partes do objeto."
+        },
+        {
+          "letra": "C",
+          "texto": "Quando demonstrada a inviabilidade da adjudicação por item, poderá ser adotado o critério de julgamento de menor preço por grupo de itens, desde que evidenciada sua vantagem técnica e econômica."
+        },
+        {
+          "letra": "D",
+          "texto": "É vedada a adjudicação por grupo em processos que envolvam bens de consumo duráveis."
+        },
+        {
+          "letra": "E",
+          "texto": "A adjudicação por grupo é utilizada quando os itens possuem características técnicas distintas e não se relacionam entre si."
+        }
+      ],
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCE-MS 2025 — Cargo 5 — questão 82"
+    },
+    {
+      "id": 83,
+      "tema": "E4.5",
+      "assunto": "Lei n.º 14.133/2021: termo de referência (elemento obrigatório)",
+      "enunciado": "Assinale a opção que apresenta um elemento obrigatório do termo de referência para a contratação de bens e serviços.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "cronograma de capacitação de usuários finais após entrega dos bens"
+        },
+        {
+          "letra": "B",
+          "texto": "definição do objeto, incluídos sua natureza, os quantitativos, o prazo do contrato e, se for o caso, a possibilidade de sua prorrogação"
+        },
+        {
+          "letra": "C",
+          "texto": "previsão de plano de comunicação entre as partes para acompanhamento do projeto"
+        },
+        {
+          "letra": "D",
+          "texto": "cláusula que determine o foro de eleição para dirimir eventuais controvérsias"
+        },
+        {
+          "letra": "E",
+          "texto": "dispositivo que preveja a correção monetária incidente sobre o valor contratual"
+        }
+      ],
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "TCE-MS 2025 — Cargo 5 — questão 83"
+    },
+    {
+      "id": 84,
+      "tema": "E4.5",
+      "assunto": "Lei n.º 14.133/2021: execução indireta (terceirização) de TI",
+      "enunciado": "Em relação à execução indireta (terceirização) de contratos administrativos na área de tecnologia da informação, assinale a opção correta, de acordo com a Lei n.º 14.133/2021.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Durante a vigência do contrato de terceirização, os empregados da empresa contratada ficam subordinados à administração pública."
+        },
+        {
+          "letra": "B",
+          "texto": "A administração pública pode, mediante justificativa expressa e atendidos os requisitos legais, contratar mais de uma empresa ou instituição para executar o mesmo serviço."
+        },
+        {
+          "letra": "C",
+          "texto": "Uma vez que a contratação dos funcionários é incumbência da empresa terceirizada, não se aplicam aos contratos de execução indireta as regras da Lei n.º 14.133/2021 que buscam obstar o nepotismo."
+        },
+        {
+          "letra": "D",
+          "texto": "Serviços que envolvam tomada de decisão ou posicionamento institucional nas áreas de planejamento, coordenação, supervisão e controle devem preferencialmente ser objeto de terceirização."
+        },
+        {
+          "letra": "E",
+          "texto": "Nos contratos de execução indireta, ocorre a transferência, para o terceiro contratado, da responsabilidade pela realização de atos administrativos ou pela tomada de decisão."
+        }
+      ],
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "TCE-MS 2025 — Cargo 5 — questão 84"
+    },
+    {
+      "id": 85,
+      "tema": "E4.5",
+      "assunto": "Lei n.º 14.133/2021: impugnações e pedidos de esclarecimento",
+      "enunciado": "São legitimadas a apresentar impugnações e pedidos de esclarecimentos na fase externa de processo licitatório para aquisição de bens e serviços de tecnologia da informação",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "somente pessoas físicas administradoras de empresas que seriam prejudicadas pelo edital."
+        },
+        {
+          "letra": "B",
+          "texto": "quaisquer pessoas, sem restrições."
+        },
+        {
+          "letra": "C",
+          "texto": "somente empresas da área de tecnologia da informação."
+        },
+        {
+          "letra": "D",
+          "texto": "somente empresas que seriam prejudicadas pelo edital."
+        },
+        {
+          "letra": "E",
+          "texto": "somente pessoas físicas administradoras de empresas da área de tecnologia da informação."
+        }
+      ],
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "TCE-MS 2025 — Cargo 5 — questão 85"
+    },
+    {
+      "id": 86,
+      "tema": "E4.5",
+      "assunto": "Lei n.º 14.133/2021: análise de documentação / habilitação",
+      "enunciado": "Com pertinência à análise de documentação na aquisição de bens e serviços de tecnologia da informação (TI), assinale a opção correta, conforme a Lei n.º 14.133/2021.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Deve-se exigir a comprovação dos documentos relativos à regularidade fiscal de todos os licitantes no momento do julgamento das propostas."
+        },
+        {
+          "letra": "B",
+          "texto": "A apresentação de atestados que demonstrem a capacidade operacional dos licitantes deve ser exigida para todas as parcelas da aquisição de bens e serviços de TI."
+        },
+        {
+          "letra": "C",
+          "texto": "As sociedades empresárias estrangeiras devem atender à exigência de registro ou inscrição na entidade profissional competente, podendo fazê-lo por meio da apresentação do referido registro no país de origem."
+        },
+        {
+          "letra": "D",
+          "texto": "Nas contratações de projetos ou de serviços técnicos especializados de TI, inclusive naquelas cujo objeto envolva atividade de pesquisa e desenvolvimento de caráter científico e tecnológico, é obrigatória a apresentação de documento de cessão de todos os direitos patrimoniais para a administração pública."
+        },
+        {
+          "letra": "E",
+          "texto": "Após a entrega dos documentos para habilitação de licitante, é permitida a complementação de informações acerca dos documentos já apresentados, desde que essa complementação seja necessária para apurar fatos existentes à época da abertura do certame."
+        }
+      ],
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCE-MS 2025 — Cargo 5 — questão 86"
+    },
+    {
+      "id": 87,
+      "tema": "E4.5",
+      "assunto": "Lei n.º 14.133/2021: solicitação e análise de amostras",
+      "enunciado": "Acerca da solicitação e da análise de amostras no âmbito dos processos licitatórios, assinale a opção correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Segundo o TCU, o edital de licitação deve contemplar as condições de entrega da amostra ou de realização da prova de conceito (data, horário e local), os procedimentos para o exame da amostra (roteiro detalhado da avaliação), bem como os critérios objetivos para a sua aceitação."
+        },
+        {
+          "letra": "B",
+          "texto": "É vedado à administração pública oferecer protótipo do objeto pretendido para a exigência de amostras, mesmo que haja previsão expressa no edital de licitação."
+        },
+        {
+          "letra": "C",
+          "texto": "As amostras do objeto que se pretende contratar somente podem ser exigidas dos licitantes após a fase de julgamento das propostas."
+        },
+        {
+          "letra": "D",
+          "texto": "A administração pública pode exigir amostras de todos os licitantes de um certame para realizar análise e avaliação da conformidade das propostas, mediante homologação de amostras ou outros testes que sejam de seu interesse."
+        },
+        {
+          "letra": "E",
+          "texto": "As amostras fornecidas pelo licitante provisoriamente vencedor devem ser analisadas pela administração pública, sendo vedado o seu encaminhamento a outra instituição."
+        }
+      ],
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "TCE-MS 2025 — Cargo 5 — questão 87"
+    },
+    {
+      "id": 88,
+      "tema": "E4.5",
+      "assunto": "Lei n.º 14.133/2021: recebimento e aceite do objeto",
+      "enunciado": "No que concerne às condições de recebimento e aceite do objeto de contrato firmado com a administração pública, é correto afirmar, de acordo com a Lei n.º 14.133/2021 (Lei de Licitações e Contratos Administrativos), que o recebimento",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "definitivo referente a compras deve ser realizado, mediante termo detalhado, por comissão designada pela autoridade competente, com verificação posterior do atendimento das exigências contratuais."
+        },
+        {
+          "letra": "B",
+          "texto": "definitivo exclui a responsabilidade civil pela solidez e segurança da obra ou serviço, bem como a responsabilidade ético-profissional pela perfeita execução do contrato, nos limites estabelecidos pela lei ou pelo contrato."
+        },
+        {
+          "letra": "C",
+          "texto": "definitivo de projeto de obra pela administração não exime o projetista da responsabilidade objetiva por todos os danos causados por falha de projeto."
+        },
+        {
+          "letra": "D",
+          "texto": "provisório referente a contratação de serviços deve ser realizado pelo responsável por acompanhar os serviços, de forma sumária, de modo que se certifique o atendimento das exigências contratuais."
+        },
+        {
+          "letra": "E",
+          "texto": "provisório referente a compras deve ser realizado, de forma sumária, por servidor designado pela autoridade competente, com verificação posterior da conformidade do material com as exigências contratuais."
+        }
+      ],
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCE-MS 2025 — Cargo 5 — questão 88"
+    },
+    {
+      "id": 89,
+      "tema": "E4.5",
+      "assunto": "Lei n.º 14.133/2021: penalidades e sanções administrativas",
+      "enunciado": "No que se refere à aplicação das penalidades e sanções administrativas decorrentes de irregularidades em licitações e execuções contratuais, assinale a opção correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A prescrição da aplicação das sanções de impedimento de licitar e contratar, bem como da sanção de declaração de inidoneidade para licitar e contratar, ocorrerá em 10 anos, contados da ciência da infração pela administração."
+        },
+        {
+          "letra": "B",
+          "texto": "A sanção de advertência deve ser aplicada exclusivamente em face do cometimento de infração que tenha dado causa à inexecução parcial do contrato e tenha resultado em grave dano à administração, quando não se justificar a imposição de penalidade mais grave."
+        },
+        {
+          "letra": "C",
+          "texto": "A sanção de impedimento de licitar e contratar, quando aplicada, impedirá o sancionado de licitar ou contratar no âmbito da administração pública direta e indireta de todos os entes federativos, pelo prazo máximo de 3 anos."
+        },
+        {
+          "letra": "D",
+          "texto": "A sanção de declaração de inidoneidade para licitar ou contratar, quando aplicada pelo Poder Executivo estadual, é de competência exclusiva do governador de estado, e impedirá o sancionado de licitar ou contratar no âmbito da administração pública direta e indireta do ente federativo que a aplicar, pelo prazo máximo de 6 anos."
+        },
+        {
+          "letra": "E",
+          "texto": "A sanção de multa, única que pode ser aplicada cumulativamente com as demais, poderá ser aplicada ao responsável por qualquer das infrações administrativas previstas na Lei de Licitações e Contratos Administrativos."
+        }
+      ],
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCE-MS 2025 — Cargo 5 — questão 89"
+    },
+    {
+      "id": 90,
+      "tema": "E4.5",
+      "assunto": "Lei n.º 14.133/2021: formalização de aditivos contratuais",
+      "enunciado": "No que se refere à formalização de aditivos contratuais, assinale a opção correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A formalização do termo aditivo é, em todos os casos, condição para a execução, pelo contratado, das prestações determinadas pela administração pública no curso da execução do contrato."
+        },
+        {
+          "letra": "B",
+          "texto": "Na formalização de termo aditivo destinado à prorrogação de vigência de contrato com vigência inicial de doze meses, a administração não é obrigada a verificar a regularidade fiscal e a idoneidade do contratado."
+        },
+        {
+          "letra": "C",
+          "texto": "Em contratações por escopo com conclusão predefinida, o prazo de vigência deverá ser prorrogado, mediante formalização de termo aditivo, quando o objeto não for concluído no período firmado no contrato."
+        },
+        {
+          "letra": "D",
+          "texto": "É dispensada a celebração de termo aditivo para registrar variação de valor contratual decorrente de reajuste de preços previstos no próprio contrato, podendo tal registro ser realizado por apostila."
+        },
+        {
+          "letra": "E",
+          "texto": "É legal a celebração de termo aditivo com efeitos retroativos para permitir o pagamento de serviços efetivamente prestados em contratos com vigência expirada."
+        }
+      ],
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "TCE-MS 2025 — Cargo 5 — questão 90"
+    },
+    {
+      "id": 91,
+      "tema": "E3.1",
+      "assunto": "2.ª forma normal (dependência funcional direta da chave primária)",
+      "enunciado": "Quando toda coluna não-chave de uma tabela depende diretamente da chave primária, considera-se que essa tabela está, no mínimo, na",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1.ª forma normal."
+        },
+        {
+          "letra": "B",
+          "texto": "2.ª forma normal."
+        },
+        {
+          "letra": "C",
+          "texto": "3.ª forma normal."
+        },
+        {
+          "letra": "D",
+          "texto": "4.ª forma normal."
+        },
+        {
+          "letra": "E",
+          "texto": "5.ª forma normal."
+        }
+      ],
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCE-MS 2025 — Cargo 5 — questão 91"
+    },
+    {
+      "id": 92,
+      "tema": "E3.1",
+      "assunto": "5.ª forma normal (eliminação de dependências de junção)",
+      "enunciado": "O principal objetivo da 5.ª forma normal é a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "eliminação de dependências parciais."
+        },
+        {
+          "letra": "B",
+          "texto": "garantia de que todos os valores em uma tabela sejam atômicos."
+        },
+        {
+          "letra": "C",
+          "texto": "eliminação de dependências multivaloradas."
+        },
+        {
+          "letra": "D",
+          "texto": "eliminação de redundâncias e anomalias de junção em tabelas que registram múltiplos relacionamentos multivalorados."
+        },
+        {
+          "letra": "E",
+          "texto": "garantia de que não haja grupos de valores repetidos em uma única célula."
+        }
+      ],
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "TCE-MS 2025 — Cargo 5 — questão 92"
+    },
+    {
+      "id": 93,
+      "tema": "E3.1",
+      "assunto": "MariaDB: características (InnoDB, criptografia de dados em repouso)",
+      "enunciado": "Entre as diversas características do banco de dados MariaDB, ressalta-se a de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "agrupamento de threads na Enterprise Edition."
+        },
+        {
+          "letra": "B",
+          "texto": "uso do componente validate_password."
+        },
+        {
+          "letra": "C",
+          "texto": "suporte de criptografia de log temporário e criptografia de log binário."
+        },
+        {
+          "letra": "D",
+          "texto": "uso de InnoDB e AES na criptografia de dados em repouso."
+        },
+        {
+          "letra": "E",
+          "texto": "armazenamento de relatórios JSON como objetos binários."
+        }
+      ],
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCE-MS 2025 — Cargo 5 — questão 93"
+    },
+    {
+      "id": 94,
+      "tema": "E3.2",
+      "assunto": "CRUD como exemplo de DML (data manipulation language)",
+      "enunciado": "O CRUD, que representa as quatro operações básicas em um SGBD, é um exemplo de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "data control language."
+        },
+        {
+          "letra": "B",
+          "texto": "not only structured query language."
+        },
+        {
+          "letra": "C",
+          "texto": "data manipulation language."
+        },
+        {
+          "letra": "D",
+          "texto": "data definition language."
+        },
+        {
+          "letra": "E",
+          "texto": "structured query language."
+        }
+      ],
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCE-MS 2025 — Cargo 5 — questão 94"
+    },
+    {
+      "id": 95,
+      "tema": "E3.3",
+      "assunto": "Curadoria de metadados",
+      "enunciado": "Conceitua-se curadoria de metadados como",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a utilização de recursos de classe empresarial para usá-los adequadamente, como gerenciamento de identidade, acesso e recursos principais, por meio de APIs REST."
+        },
+        {
+          "letra": "B",
+          "texto": "uma possibilidade de ter opções flexíveis de pesquisa e filtragem para permitir que os usuários encontrem rapidamente conjuntos relevantes de dados para ciência, análise ou engenharia de dados."
+        },
+        {
+          "letra": "C",
+          "texto": "uma forma pela qual especialistas no assunto possam contribuir com conhecimento de negócios na forma de um glossário de negócios corporativos, marcas, associações, anotações definidas pelo usuário, classificações, avaliações, entre outros."
+        },
+        {
+          "letra": "D",
+          "texto": "a aplicação de técnicas de IA e aprendizado de máquina nos metadados coletados."
+        },
+        {
+          "letra": "E",
+          "texto": "a consolidação de metadados técnicos de uma variedade de ativos de dados conectados, incluindo armazenamento de objetos, bancos de dados autônomos e sistemas locais."
+        }
+      ],
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCE-MS 2025 — Cargo 5 — questão 95"
+    },
+    {
+      "id": 96,
+      "tema": "E3.2",
+      "assunto": "DDL: instrução CREATE TABLE",
+      "enunciado": "Em um banco de dados, a instrução CREATE TABLE é um exemplo de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "SQL."
+        },
+        {
+          "letra": "B",
+          "texto": "DML."
+        },
+        {
+          "letra": "C",
+          "texto": "DDL."
+        },
+        {
+          "letra": "D",
+          "texto": "DCL."
+        },
+        {
+          "letra": "E",
+          "texto": "NoSQL."
+        }
+      ],
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCE-MS 2025 — Cargo 5 — questão 96"
+    },
+    {
+      "id": 97,
+      "tema": "E3.2",
+      "assunto": "SELECT com LIMIT e OFFSET (paginação)",
+      "enunciado": "Considerando uma tabela ALUNO com cem registros, a instrução SELECT * FROM ALUNO LIMIT 20 OFFSET 90 apresentará os registros",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "de 21 a 90."
+        },
+        {
+          "letra": "B",
+          "texto": "de 81 a 90."
+        },
+        {
+          "letra": "C",
+          "texto": "de 91 a 100."
+        },
+        {
+          "letra": "D",
+          "texto": "de 71 a 90."
+        },
+        {
+          "letra": "E",
+          "texto": "de 81 a 100."
+        }
+      ],
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCE-MS 2025 — Cargo 5 — questão 97"
+    },
+    {
+      "id": 98,
+      "tema": "E3.1",
+      "assunto": "Modelagem dimensional: operação de fragmentação em cubo OLAP",
+      "enunciado": "Na modelagem dimensional, é objetivo da operação de fragmentação",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "rotacionar o cubo OLAP ao longo de uma de suas dimensões."
+        },
+        {
+          "letra": "B",
+          "texto": "criar um subcubo menor a partir de um cubo OLAP."
+        },
+        {
+          "letra": "C",
+          "texto": "resumir os dados para atributos específicos."
+        },
+        {
+          "letra": "D",
+          "texto": "criar uma exibição bidimensional do cubo OLAP."
+        },
+        {
+          "letra": "E",
+          "texto": "aprofundar na hierarquia de conceitos e extrair os detalhes necessários."
+        }
+      ],
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "TCE-MS 2025 — Cargo 5 — questão 98"
+    },
+    {
+      "id": 99,
+      "tema": "E3.1",
+      "assunto": "Restrição de chave única (valores distintos, admite NULL)",
+      "enunciado": "Em um SGBD relacional, a restrição que garante que todos os valores em uma coluna sejam distintos entre si e que permite valor NULL é denominada",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "cardinalidade."
+        },
+        {
+          "letra": "B",
+          "texto": "chave primária."
+        },
+        {
+          "letra": "C",
+          "texto": "índice."
+        },
+        {
+          "letra": "D",
+          "texto": "chave única."
+        },
+        {
+          "letra": "E",
+          "texto": "chave estrangeira."
+        }
+      ],
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "TCE-MS 2025 — Cargo 5 — questão 99"
+    },
+    {
+      "id": 100,
+      "tema": "E3.1",
+      "assunto": "Arquitetura de banco de dados: nível conceitual",
+      "enunciado": "A arquitetura de um banco de dados pode ser dividida em diferentes níveis, e o nível que foca na percepção da comunidade de usuários e não em usuários individuais é o",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "físico."
+        },
+        {
+          "letra": "B",
+          "texto": "interno."
+        },
+        {
+          "letra": "C",
+          "texto": "de armazenamento."
+        },
+        {
+          "letra": "D",
+          "texto": "externo."
+        },
+        {
+          "letra": "E",
+          "texto": "conceitual."
+        }
+      ],
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCE-MS 2025 — Cargo 5 — questão 100"
+    }
+  ]
+}

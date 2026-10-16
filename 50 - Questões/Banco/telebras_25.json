@@ -1,0 +1,321 @@
+{
+  "concurso": "telebras_25",
+  "banca": "Cebraspe",
+  "itens": [
+    {
+      "id": "52",
+      "tema": "E1.2",
+      "assunto": "Programação orientada a objetos — classes e objetos",
+      "enunciado": "Uma classe é a instância concreta de um objeto que tem identidade e estado, mas não tem comportamento.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "Telebras 2025 — Cargo 2 (Analista de TI) — item 52"
+    },
+    {
+      "id": "66",
+      "tema": "E4.3",
+      "assunto": "DevOps — distribuição contínua",
+      "enunciado": "Em DevOps, o conceito de distribuição contínua refere-se à prática de criar, testar e preparar as alterações de código automaticamente para a produção.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "Telebras 2025 — Cargo 2 (Analista de TI) — item 66"
+    },
+    {
+      "id": "67",
+      "tema": "E2.3",
+      "assunto": "Web service (SOAP) e integração entre sistemas",
+      "enunciado": "Web service é uma interface que utiliza protocolo SOAP para conectar o usuário a uma aplicação remota.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "Telebras 2025 — Cargo 2 (Analista de TI) — item 67"
+    },
+    {
+      "id": "68",
+      "tema": "E4.2",
+      "assunto": "Test-driven development (TDD)",
+      "enunciado": "De acordo com a abordagem test-driven development, os testes devem ser definidos antes da codificação das funções a serem testadas.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "Telebras 2025 — Cargo 2 (Analista de TI) — item 68"
+    },
+    {
+      "id": "70",
+      "tema": "E2.4",
+      "assunto": "Agentes de inteligência artificial",
+      "enunciado": "Os agentes de inteligência artificial são programas cujo objetivo é a coleta de informações com o intuito de embasar a tomada de decisão de um usuário humano.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "Telebras 2025 — Cargo 2 (Analista de TI) — item 70"
+    },
+    {
+      "id": "72",
+      "tema": "E3.1",
+      "assunto": "Modelo relacional — chave estrangeira e índice único na origem",
+      "enunciado": "No modelo relacional, para que a chave estrangeira seja utilizada em uma tabela, essa chave deve ter um índice único ou exclusivo na tabela de origem.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "Telebras 2025 — Cargo 2 (Analista de TI) — item 72"
+    },
+    {
+      "id": "73",
+      "tema": "E3.1",
+      "assunto": "Normalização — segunda forma normal",
+      "enunciado": "Na segunda forma normal, as redundâncias são eliminadas, pois cada atributo não-chave deve depender apenas da chave primária.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "Telebras 2025 — Cargo 2 (Analista de TI) — item 73"
+    },
+    {
+      "id": "74",
+      "tema": "E3.1",
+      "assunto": "Banco NoSQL do tipo chave-valor",
+      "enunciado": "Em bancos de dados NoSQL do tipo chave-valor, todos os registros fazem parte da mesma coleção e têm em comum apenas a chave única.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "Telebras 2025 — Cargo 2 (Analista de TI) — item 74"
+    },
+    {
+      "id": "76",
+      "tema": "E3.1",
+      "assunto": "Triggers de banco de dados — modelo extração-carga-ação (ECA)",
+      "enunciado": "Triggers de banco de dados funcionam com base no modelo extração-carga-ação (ECA), em que a extração identifica o momento de ativação do trigger.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "Telebras 2025 — Cargo 2 (Analista de TI) — item 76"
+    },
+    {
+      "id": "77",
+      "tema": "E3.2",
+      "assunto": "DML — comandos SELECT e UPDATE",
+      "enunciado": "Em um banco de dados relacional, os comandos SELECT e UPDATE fazem parte da DML (data manipulation language).",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "Telebras 2025 — Cargo 2 (Analista de TI) — item 77"
+    },
+    {
+      "id": "79",
+      "tema": "E3.3",
+      "assunto": "ETL — etapa de transformação (derivação)",
+      "enunciado": "Uma das técnicas utilizadas na etapa de transformação do processo de ETL é a derivação, em que são vinculados dados semelhantes oriundos de diferentes fontes de dados.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "Telebras 2025 — Cargo 2 (Analista de TI) — item 79"
+    },
+    {
+      "id": "80",
+      "tema": "E3.3",
+      "assunto": "Metadados — estruturais, descritivos e administrativos",
+      "enunciado": "Os metadados de um banco de dados podem ser classificados em estruturais, descritivos e administrativos.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "Telebras 2025 — Cargo 2 (Analista de TI) — item 80"
+    },
+    {
+      "id": "94",
+      "tema": "E2.2",
+      "assunto": "OAuth 2.0 — tokens de acesso e TLS",
+      "enunciado": "O Oauth 2.0 baseia-se em tokens de acesso e depende do TLS para garantir segurança no transporte de dados.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "Telebras 2025 — Cargo 2 (Analista de TI) — item 94"
+    },
+    {
+      "id": "96",
+      "tema": "E4.1",
+      "assunto": "SQL Injection — exploração e consequências",
+      "enunciado": "Como consequência de exploração de falhas de SQL Injection em aplicações vulneráveis, tem-se situações que resultam em bypass de autenticação e execução remota de comandos.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "Telebras 2025 — Cargo 2 (Analista de TI) — item 96"
+    },
+    {
+      "id": "98",
+      "tema": "E4.1",
+      "assunto": "Assinatura digital e certificação digital — hash, chave privada/pública",
+      "enunciado": "Para a assinatura digital funcionar corretamente, o fluxo técnico clássico pressupõe que se deve aplicar uma função hash criptográfica sobre o conteúdo a ser assinado com a chave privada do signatário, e o verificador deve recalcular o hash e verificar a assinatura usando a chave pública do signatário.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "Telebras 2025 — Cargo 2 (Analista de TI) — item 98"
+    },
+    {
+      "id": "101",
+      "tema": "E4.4",
+      "assunto": "Governança de TI — COBIT 2019 / ISO/IEC 38500",
+      "enunciado": "Segundo o princípio do sistema de governança dinâmico, na implementação do COBIT 2019 sob a ótica da ISO/IEC 38500, o design da governança deve ser reavaliado sempre que houver mudanças nos fatores de design da organização, conectando-se à responsabilidade de monitoramento da direção prevista na norma ISO para garantir que a TI responda às novas necessidades de negócio.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "Telebras 2025 — Cargo 2 (Analista de TI) — item 101"
+    },
+    {
+      "id": "102",
+      "tema": "E2.5",
+      "assunto": "Continuidade e recuperação — RPO/RTO (ISO 27001/27002/22301, NIST CSF)",
+      "enunciado": "No âmbito da convergência normativa para a resiliência cibernética, a ISO/IEC 27001 estabelece a obrigatoriedade de controles de continuidade, os quais são detalhados na ISO/IEC 27002 como diretrizes de implementação (como o controle de prontidão da TIC); entretanto, ao alinhar essas normas ao NIST CSF e à ISO 22301, a determinação do ponto de recuperação objetivo (RPO) é definida tecnicamente como o tempo máximo necessário para a restauração da capacidade operacional total de um serviço após a declaração de uma crise, diferenciando-se do tempo de recuperação objetivo (RTO), que foca exclusivamente a integridade dos dados replicados.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "Telebras 2025 — Cargo 2 (Analista de TI) — item 102"
+    },
+    {
+      "id": "103",
+      "tema": "E4.4",
+      "assunto": "Scrum e Kanban",
+      "enunciado": "Diferentemente do Scrum, que utiliza iterações de tempo fixo chamadas Sprints, o método Kanban foca na visualização do fluxo de trabalho e na limitação do trabalho em progresso (work in progress) para evitar sobrecarga na equipe e identificar gargalos no processo de entrega de serviços de tecnologia.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "Telebras 2025 — Cargo 2 (Analista de TI) — item 103"
+    },
+    {
+      "id": "104",
+      "tema": "E4.4",
+      "assunto": "Indicadores de desempenho (KPI) e Balanced Scorecard",
+      "enunciado": "No modelo de gestão estratégica BSC (Balanced Scorecard), a perspectiva financeira é a única que deve conter indicadores de desempenho (KPI), ao passo que as perspectivas de clientes, processos internos e aprendizado e crescimento servem apenas como descrições qualitativas do ambiente organizacional, sem necessidade de métricas quantificáveis.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "Telebras 2025 — Cargo 2 (Analista de TI) — item 104"
+    },
+    {
+      "id": "105",
+      "tema": "E4.4",
+      "assunto": "Gestão de projetos — caminho crítico (PMBOK v7)",
+      "enunciado": "No Guia PMBOK v7, o caminho crítico de um projeto é definido como a sequência de atividades que apresenta a maior folga total e permite ao gerente de projetos atrasar essas tarefas sem comprometer a data de entrega final do cronograma.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "Telebras 2025 — Cargo 2 (Analista de TI) — item 105"
+    },
+    {
+      "id": "106",
+      "tema": "E4.4",
+      "assunto": "Gestão de riscos — ISO 31000 / COSO",
+      "enunciado": "De acordo com o processo de gestão de riscos estabelecido pela norma ISO 31000, a etapa de tratamento de riscos envolve um ciclo iterativo de formulação e seleção de opções para modificar o risco, que pode incluir desde a remoção da fonte do risco até a aceitação do risco residual por meio de uma decisão fundamentada, sendo essencial que essas ações sejam compatíveis com o apetite ao risco da organização conforme preconizado também pelo framework COSO.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "Telebras 2025 — Cargo 2 (Analista de TI) — item 106"
+    },
+    {
+      "id": "107",
+      "tema": "E4.4",
+      "assunto": "ITIL v4 — sistema de valor de serviço (SVS)",
+      "enunciado": "No modelo ITIL v4, o sistema de valor de serviço (SVS) é composto por elementos específicos que transformam demandas em valor, e a cadeia de valor de serviço atua como o componente central e estático, cujas seis atividades devem ser executadas obrigatoriamente em uma sequência linear e predefinida para a garantia da entrega de qualquer serviço ou produto.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "Telebras 2025 — Cargo 2 (Analista de TI) — item 107"
+    },
+    {
+      "id": "108",
+      "tema": "E4.4",
+      "assunto": "PDTIC — Plano Diretor de TIC",
+      "enunciado": "No âmbito da administração pública federal, o Plano Diretor de Tecnologia da Informação e Comunicação (PDTIC) constitui o instrumento que formaliza o diagnóstico, o planejamento e a gestão dos recursos de TIC, sendo requisito essencial que sua elaboração esteja harmonizada com o planejamento estratégico institucional (PEI).",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "Telebras 2025 — Cargo 2 (Analista de TI) — item 108"
+    },
+    {
+      "id": "109",
+      "tema": "E1.1",
+      "assunto": "Modelagem de processos de negócio — BPMN 2.0 e message flow",
+      "enunciado": "No contexto da modelagem de processos de negócio com a utilização da notação BPMN 2.0, os objetos de conexão do tipo fluxo de mensagem (message flow) são utilizados para representar a transferência de informações entre diferentes participantes, podendo ser empregados tanto para conectar objetos dentro de uma mesma raia (lane) quanto para ligar elementos de participantes (pools) distintos.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "Telebras 2025 — Cargo 2 (Analista de TI) — item 109"
+    },
+    {
+      "id": "110",
+      "tema": "E4.4",
+      "assunto": "Governança corporativa e compliance",
+      "enunciado": "No âmbito da governança corporativa e da gestão de TI, o compliance não se limita à observância de leis e regulamentos externos, abrangendo também o cumprimento de políticas internas, normas técnicas e obrigações contratuais, o que exige que a organização estabeleça mecanismos de monitoramento contínuo e auditoria.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "Telebras 2025 — Cargo 2 (Analista de TI) — item 110"
+    },
+    {
+      "id": "111",
+      "tema": "E4.5",
+      "assunto": "Contratação de TIC — preposto (SISP)",
+      "enunciado": "De acordo com as normas que regem as contratações de soluções de TIC no âmbito do Sistema de Administração dos Recursos de Tecnologia da Informação (SISP), a empresa contratada tem a obrigação de indicar um preposto apto para representá-la perante a contratante.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "Telebras 2025 — Cargo 2 (Analista de TI) — item 111"
+    },
+    {
+      "id": "112",
+      "tema": "E4.5",
+      "assunto": "Lei n.º 13.303/2016 — contratação integrada",
+      "enunciado": "De acordo com a Lei n.º 13.303/2016, no regime de contratação integrada para projetos de alta complexidade tecnológica, o valor do contrato é, em regra, fixo, mas deve haver cláusula que estabeleça a possibilidade de alteração desse valor, por acordo entre as partes, nas hipóteses de, por exemplo, eventos de força maior, caso fortuito ou modificação do projeto para melhor adequação técnica de seus objetivos.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "Telebras 2025 — Cargo 2 (Analista de TI) — item 112"
+    },
+    {
+      "id": "113",
+      "tema": "E4.5",
+      "assunto": "Contratação de TIC — UST e ETP",
+      "enunciado": "No planejamento de uma contratação de serviços de suporte e manutenção de infraestrutura de redes de telecomunicações, a administração pública poderá adotar a unidade de serviço técnico (UST) como métrica de pagamento e incluir, no catálogo de serviços, itens destinados a remunerar a simples disponibilidade técnica presencial (plantão ou prontidão) de analistas residentes, convertendo suas horas à disposição em um quantitativo fixo de UST mensais, desde que os estudos técnicos preliminares (ETP) demonstrem que tal medida é indispensável para assegurar a continuidade de serviços em ambientes de missão crítica.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "Telebras 2025 — Cargo 2 (Analista de TI) — item 113"
+    },
+    {
+      "id": "114",
+      "tema": "E4.5",
+      "assunto": "Fiscalização contratual — competências do fiscal e do gestor",
+      "enunciado": "No processo de gestão e fiscalização de um contrato de solução de TIC, caso o fiscal do contrato identifique situação que demande decisão ou adoção de medidas que ultrapassem a sua competência, ele deverá comunicar tal fato ao gestor do contrato, em tempo hábil.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "Telebras 2025 — Cargo 2 (Analista de TI) — item 114"
+    },
+    {
+      "id": "115",
+      "tema": "E4.5",
+      "assunto": "Fiscalização contratual — competências do fiscal e do gestor",
+      "enunciado": "No acompanhamento da execução de contratos de TIC, a responsabilidade pela verificação da conformidade dos aspectos administrativos e pelo encaminhamento do processo para pagamento, após a avaliação técnica e funcional, compete exclusivamente ao gestor do contrato, o qual deve acumular as funções de fiscalização administrativa, para evitar duplicidade de procedimentos e garantir economicidade processual.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "Telebras 2025 — Cargo 2 (Analista de TI) — item 115"
+    },
+    {
+      "id": "116",
+      "tema": "E4.5",
+      "assunto": "Planejamento da contratação — ETP, TR/PB e análise de riscos",
+      "enunciado": "No processo de contratação de soluções de TIC, a fase de planejamento da contratação é formalizada por meio de três documentos fundamentais, cuja elaboração é responsabilidade da equipe de planejamento da contratação: estudo técnico preliminar (ETP), termo de referência (TR) ou projeto básico (PB) e análise de riscos.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "Telebras 2025 — Cargo 2 (Analista de TI) — item 116"
+    },
+    {
+      "id": "117",
+      "tema": "E4.5",
+      "assunto": "Remuneração por homem-hora em serviços de TI",
+      "enunciado": "Nas contratações de serviços de TI sob a égide do Sistema de Administração dos Recursos de Tecnologia da Informação (SISP), a adoção do critério de remuneração vinculada exclusivamente ao esforço medido em homem-hora ou postos de trabalho alocados é a prática recomendada para contratação de serviços de desenvolvimento de software, visto que tal modalidade garante maior previsibilidade orçamentária e facilita a mensuração da eficiência da contratada em relação aos resultados entregues.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "Telebras 2025 — Cargo 2 (Analista de TI) — item 117"
+    },
+    {
+      "id": "118",
+      "tema": "E4.5",
+      "assunto": "Termo de referência — modelo de execução e gestão e aferição de qualidade",
+      "enunciado": "No planejamento de contratações de soluções de TIC, o termo de referência deve contemplar o modelo de execução e gestão do contrato, estabelecendo-se mecanismos objetivos para aferir a qualidade da solução entregue.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "Telebras 2025 — Cargo 2 (Analista de TI) — item 118"
+    },
+    {
+      "id": "119",
+      "tema": "E4.5",
+      "assunto": "Substituição de empregados — termos de ciência",
+      "enunciado": "Se houver substituição de empregados da contratada durante a execução contratual, o preposto deverá entregar ao fiscal administrativo do contrato os termos de ciência assinados pelos novos empregados.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "Telebras 2025 — Cargo 2 (Analista de TI) — item 119"
+    },
+    {
+      "id": "120",
+      "tema": "E4.5",
+      "assunto": "Inexigibilidade de licitação — ETP",
+      "enunciado": "No processo de contratação de solução de TI via inexigibilidade de licitação, dispensa-se a elaboração do estudo técnico preliminar na fase de planejamento da contratação.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "Telebras 2025 — Cargo 2 (Analista de TI) — item 120"
+    }
+  ]
+}

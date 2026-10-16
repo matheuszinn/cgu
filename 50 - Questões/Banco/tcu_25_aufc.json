@@ -1,0 +1,645 @@
+{
+  "concurso": "tcu_25_aufc",
+  "banca": "Cebraspe",
+  "itens": [
+    {
+      "id": 113,
+      "tema": "E3.3",
+      "assunto": "CSV para representar tabelas",
+      "enunciado": "Arquivos do tipo CSV podem ser utilizados para representar informações de tabelas, incluindo os rótulos de suas colunas.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 113"
+    },
+    {
+      "id": 114,
+      "tema": "E2.2",
+      "assunto": "REST stateless e estado de sessão no servidor",
+      "enunciado": "No serviço REST, para que o servidor responda adequadamente, ele precisa armazenar o estado da sessão do cliente entre suas requisições.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 114"
+    },
+    {
+      "id": 115,
+      "tema": "E3.1",
+      "assunto": "Bancos relacionais e MongoDB (JSON/XML)",
+      "enunciado": "Bancos de dados relacionais utilizam tabelas bidimensionais, e o MongoDB representa os dados em formato JSON ou XML.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 115"
+    },
+    {
+      "id": 116,
+      "tema": "E3.3",
+      "assunto": "PolyBase e consulta a fontes externas no SQL Server",
+      "enunciado": "PolyBase é a ferramenta que permite ao Microsoft SQL Server consultar fontes externas como se os dados estivessem armazenados localmente.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 116"
+    },
+    {
+      "id": 117,
+      "tema": "E3.3",
+      "assunto": "Data warehouse, ETL e qualidade de dados",
+      "enunciado": "Como data warehouse é não volátil, a etapa intermediária do ETL deve efetuar todos os tratamentos necessários nos dados para melhorar a sua qualidade.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 117"
+    },
+    {
+      "id": 118,
+      "tema": "E3.3",
+      "assunto": "Data mesh e propriedade de domínio",
+      "enunciado": "A construção de um data mesh parte do princípio de propriedade de domínio, conforme o qual as equipes de cada domínio assumem a responsabilidade por seus dados.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 118"
+    },
+    {
+      "id": 119,
+      "tema": "E4.3",
+      "assunto": "Pipeline de CI/CD",
+      "enunciado": "O pipeline de CI/CD consiste em duas etapas sequenciais: implantação rápida em produção e posterior integração com os demais serviços.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 119"
+    },
+    {
+      "id": 120,
+      "tema": "E3.1",
+      "assunto": "Data warehouse e data lake: armazenamento",
+      "enunciado": "Data warehouse e data lake armazenam dados em seu formato original, porém o data lake, diferentemente do data warehouse, acessa bases externas a uma organização.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 120"
+    },
+    {
+      "id": 121,
+      "tema": "E4.4",
+      "assunto": "Governança de dados e prevenção de riscos",
+      "enunciado": "A governança de dados está relacionada à prevenção de eventos de risco, incluindo a mitigação da reincidência de incidentes já ocorridos.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 121"
+    },
+    {
+      "id": 122,
+      "tema": "E3.1",
+      "assunto": "Amazon S3 e buckets",
+      "enunciado": "O serviço de armazenamento S3 da Amazon utiliza contêineres chamados de buckets para guardar arquivos de qualquer tipo e tamanho.",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 122"
+    },
+    {
+      "id": 123,
+      "tema": "E4.4",
+      "assunto": "Governança de dados: políticas corporativas e papéis",
+      "enunciado": "A equipe da governança de dados de uma organização deve estabelecer políticas e diretrizes corporativas para governança dos dados, enquanto cabe à alta administração a atribuição de papéis e responsabilidades.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 123"
+    },
+    {
+      "id": 124,
+      "tema": "E2.5",
+      "assunto": "PaaS: responsabilidades do provedor sobre SO e aplicações",
+      "enunciado": "Na arquitetura PaaS (Platform as a Service) da computação em nuvem, o provedor é o responsável pelos recursos de sistema operacional e pelas aplicações.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 124"
+    },
+    {
+      "id": 125,
+      "tema": "E2.5",
+      "assunto": "Serverless Framework Dashboard",
+      "enunciado": "No fluxo padrão do Serverless Framework Dashboard CI/CD, as branch deployments permitem que cada commit em uma branch configurada do repositório GitHub seja implantado automaticamente em um stage associado.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 125"
+    },
+    {
+      "id": 126,
+      "tema": "E1.3",
+      "assunto": "Paralelismo com ProcessPoolExecutor",
+      "enunciado": "Considere que três funções sejam submetidas simultaneamente a um ProcessPoolExecutor, de maneira que uma durma por 8 segundos, outra, por 3 segundos, e a outra, por 2 segundos. Considere, ainda, que, nessa circunstância, o resultado obtido seja o seguinte.\n\nSleeping for 8 seconds\nDone sleeping for 8 seconds\nSleeping for 3 seconds\nDone sleeping for 3 seconds\nSleeping for 2 seconds\nDone sleeping for 2 seconds\nTotal time: ~13 seconds\n\nNessa situação, o tempo total de execução fica próximo de 8 segundos, pois esse é o tempo da thread mais longa e todas as demais terminam antes disso.",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 126"
+    },
+    {
+      "id": 127,
+      "tema": "E2.1",
+      "assunto": "Service Mesh e cross-cutting concerns",
+      "enunciado": "Em um Service Mesh, a implementação das CCC (cross cutting concerns) permanece a cargo de cada microsserviço, cabendo ao control plane redistribuí-las aos proxies.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 127"
+    },
+    {
+      "id": 128,
+      "tema": "E2.2",
+      "assunto": "JWT: decodificação / compactação de header e payload",
+      "enunciado": "A decodificação de um JWT envolve transformar o header e o payload em um formato compacto e seguro para URLs, de maneira a permitir que qualquer pessoa leia essas partes sem precisar de uma chave.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 128"
+    },
+    {
+      "id": 129,
+      "tema": "E2.2",
+      "assunto": "Versionamento de API RESTful baseado em datas",
+      "enunciado": "No versionamento baseado em datas, a API RESTful utiliza identificadores de calendário diretamente no URI para indicar versões estáveis e não disruptivas.",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 129"
+    },
+    {
+      "id": 130,
+      "tema": "E2.5",
+      "assunto": "Dockerfile de multi-stage build",
+      "enunciado": "Em um dockerfile de multi-stage build, a execução do comando apresentado a seguir resultará na cópia de quaisquer arquivos do stage builder que corresponderem ao padrão /app/target/*.jar, os quais serão adicionados com o nome /app/app.jar ao stage atual.\n\nCOPY --from=builder /app/target/*.jar /app/app.jar",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 130"
+    },
+    {
+      "id": 131,
+      "tema": "E2.4",
+      "assunto": "Importação de modelo NER no Elasticsearch via Eland",
+      "enunciado": "Na instalação via Docker, o modelo NER (Named Entity Recognition) pode ser carregado no ElasticSearch por meio da execução do comando eland_import_hub_model dentro da imagem docker do Eland, conforme parâmetros definidos.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 131"
+    },
+    {
+      "id": 132,
+      "tema": "E4.3",
+      "assunto": "DevSecOps e branch deployments",
+      "enunciado": "No DevSecOps, a execução de varreduras automatizadas de segurança é premissa fundamental do pipeline de desenvolvimento e deve ocorrer de forma integrada e contínua ao longo de todo o ciclo de entrega.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 132"
+    },
+    {
+      "id": 133,
+      "tema": "E4.3",
+      "assunto": "GitHub Actions: gatilhos de acionamento de workflow",
+      "enunciado": "O seguinte trecho do arquivo de workflow do GitHub Actions faz que o workflow seja acionado em duas situações distintas: quando uma nova etiqueta é criada no repositório e quando ocorre um push especificamente para a branch main.\n\n01 on:\n02   label:\n03     types:\n04       - created\n05   page_build:\n06     types:\n07       - main",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 133"
+    },
+    {
+      "id": 134,
+      "tema": "E2.5",
+      "assunto": "Grafana: parâmetros http_addr e http_port",
+      "enunciado": "O parâmetro http_addr define a interface em que o Grafana realiza a escuta, sendo um valor equivalente a 127.0.0.1, e expõe o serviço apenas na interface local (localhost), enquanto o http_port, cujo padrão é 8080, especifica a porta de escuta.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 134"
+    },
+    {
+      "id": 135,
+      "tema": "E1.2",
+      "assunto": "Java: conceito de nest/nestmates e acesso a membros private",
+      "enunciado": "A linguagem Java, ao implementar o conceito de nest, permite o acesso a membros private entre nestmates nativamente pela máquina virtual, dispensando o uso de métodos sintéticos.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 135"
+    },
+    {
+      "id": 136,
+      "tema": "E4.2",
+      "assunto": "SonarQube e Quality Gate em pipeline",
+      "enunciado": "No trecho de código a seguir, a implementação individualizada do QualityGate permite que o resultado do estágio Quality Gate 1 não interrompa o pipeline, caso o resultado da análise do SonarQube seja FAILED, e que ele prossiga normalmente para a execução do estágio SonarQube analysis 2.\n\n01 pipeline {\n02   agent any\n03   stages {\n04     stage('SonarQube analysis 1') {\n05       steps {\n06         sh 'mvn clean verify org.sonarsource.scanner.maven:sonar-maven-plugin:sonar'\n07       }\n08     }\n09     stage(\"Quality Gate 1\") {\n10       steps {\n11         waitForQualityGate abortPipeline: true\n12       }\n13     }\n14     stage('SonarQube analysis 2') {\n15       steps {\n16         sh 'gradle sonar'\n17       }\n18     }\n19     stage(\"Quality Gate 2\") {\n20       steps {\n21         waitForQualityGate abortPipeline: true\n22       }\n23     }\n24   }\n25 }",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 136"
+    },
+    {
+      "id": 138,
+      "tema": "E2.2",
+      "assunto": "SSO via SAML 2.0 e authorization server OAuth2",
+      "enunciado": "Em uma arquitetura corporativa que adota SSO via SAML 2.0, o authorization server do fluxo OAuth2 atua como identity provider responsável pela emissão das assertions SAML utilizadas no processo de autenticação entre o usuário e o service provider.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 138"
+    },
+    {
+      "id": 139,
+      "tema": "E3.4",
+      "assunto": "Privacidade por padrão (privacy by default)",
+      "enunciado": "A adoção de privacidade por padrão em um serviço digital legitima que as configurações iniciais favoreçam a coleta ampliada de dados, desde que os mecanismos de segurança por padrão estejam habilitados para proteger essas informações.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 139"
+    },
+    {
+      "id": 142,
+      "tema": "E4.1",
+      "assunto": "Validação no cliente vs. injeção em APIs REST protegidas por TLS",
+      "enunciado": "A validação de segurança realizada no cliente é suficiente para eliminar os riscos de injeção em aplicações web baseadas em APIs REST, desde que o tráfego esteja protegido por TLS.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 142"
+    },
+    {
+      "id": 143,
+      "tema": "E2.2",
+      "assunto": "Autenticação multifator (senha + aplicativo autenticador)",
+      "enunciado": "Em um sistema corporativo, a exigência de senha e de código gerado por aplicativo autenticador atende aos requisitos de múltiplos fatores de autenticação, pois combina um fator de conhecimento e um fator de posse.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 143"
+    },
+    {
+      "id": 148,
+      "tema": "E2.2",
+      "assunto": "Privilégio mínimo em serviços gerenciados de nuvem",
+      "enunciado": "Em ambientes de nuvem pública, a configuração de controles de acesso baseada em princípio de privilégio mínimo no nível dos serviços gerenciados contribui para reduzir superfícies de ataque.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 148"
+    },
+    {
+      "id": 149,
+      "tema": "E3.4",
+      "assunto": "Assinatura digital: TLS em trânsito e criptografia simétrica em repouso",
+      "enunciado": "Em um sistema que utiliza assinatura digital para garantir integridade e autenticidade de documentos, é adequado que a proteção dos dados em trânsito seja apoiada por protocolos como o TLS, enquanto a proteção dos dados em repouso seja realizada por criptografia simétrica.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 149"
+    },
+    {
+      "id": 151,
+      "tema": "E2.5",
+      "assunto": "Docker vs. Kubernetes",
+      "enunciado": "Docker e Kubernetes são software intercambiáveis em qualquer ambiente, pois ambos criam, executam e orquestram contêineres de forma idêntica.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 151"
+    },
+    {
+      "id": 152,
+      "tema": "E2.5",
+      "assunto": "Arquiteturas serverless e abstração de infraestrutura",
+      "enunciado": "Em arquiteturas serverless, operam servidores físicos, porém a gestão da infraestrutura — incluídos o provisionamento, a manutenção e a escalabilidade — é totalmente abstraída dos desenvolvedores, que focam exclusivamente a lógica da aplicação, permitindo rápida adaptação a demandas variáveis, sem preocupações com recursos subjacentes.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 152"
+    },
+    {
+      "id": 153,
+      "tema": "E2.2",
+      "assunto": "Arquitetura Zero Trust",
+      "enunciado": "Na arquitetura Zero Trust, usuários conectados por VPN corporativa são tratados como confiáveis por padrão, uma vez que, nesse modelo, a confiança é eliminada independentemente da origem da conexão, incluído o perímetro da rede interna, exigindo-se autenticação contínua e validação de acesso a cada recurso.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 153"
+    },
+    {
+      "id": 154,
+      "tema": "E2.2",
+      "assunto": "RBAC e princípio do menor privilégio",
+      "enunciado": "O modelo RBAC não é eficaz para a implementação do princípio do menor privilégio, pois suas funções tendem a conceder permissões amplas e não limitam o acesso somente ao necessário para tarefas específicas, o que compromete a segurança em ambientes de computação em nuvem.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 154"
+    },
+    {
+      "id": 155,
+      "tema": "E4.4",
+      "assunto": "FinOps: gestão financeira em nuvem",
+      "enunciado": "A prática de FinOps combina pessoas, processos e tecnologias para fornecer visibilidade detalhada e em tempo real dos custos em ambientes de nuvem, possibilitando o controle financeiro eficaz e a tomada de decisão baseada em dados precisos, o que promove a otimização contínua dos gastos e a gestão alinhada às necessidades estratégicas do negócio.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 155"
+    },
+    {
+      "id": 156,
+      "tema": "E4.3",
+      "assunto": "CI/CD: integração, testes, entrega e implantação",
+      "enunciado": "A abordagem CI/CD visa otimizar e acelerar o ciclo de vida do desenvolvimento de software, combinando a integração automática e frequente de alterações ao repositório por meio da integração contínua, com processos automatizados de testes, entrega e implantação que conduzem a mudanças no ambiente de produção, assegurando agilidade e qualidade.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 156"
+    },
+    {
+      "id": 157,
+      "tema": "E2.5",
+      "assunto": "Alta disponibilidade com múltiplas zonas de disponibilidade",
+      "enunciado": "A alta disponibilidade em ambientes de nuvem é obtida suficientemente com o uso de múltiplas zonas de disponibilidade dentro de um mesmo data center, sem necessidade de replicação geográfica de dados ou de componentes de sistema.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 157"
+    },
+    {
+      "id": 158,
+      "tema": "E3.1",
+      "assunto": "Armazenamento orientado a objetos e metadados",
+      "enunciado": "No armazenamento orientado a objetos, cada informação é organizada como uma unidade autônoma acompanhada de metadados, sendo tal abordagem indicada para grandes volumes de dados não estruturados, como imagens, vídeos, logs e backups.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 158"
+    },
+    {
+      "id": 159,
+      "tema": "E2.2",
+      "assunto": "AWS IAM e controle de permissões por recurso",
+      "enunciado": "O AWS IAM (Identity and Access Management) restringe o controle de permissões a configurações gerais aplicadas de maneira uniforme a todos os usuários, sem oferecer mecanismos para detalhamento de acesso por recurso ou por entidade específica.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 159"
+    },
+    {
+      "id": 160,
+      "tema": "E2.1",
+      "assunto": "Arquiteturas multicloud",
+      "enunciado": "Arquiteturas multicloud caracterizam-se pelo uso simultâneo de serviços de nuvens públicas de diferentes provedores, o que permite maior flexibilidade operacional e reduz a dependência de um único fornecedor.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 160"
+    },
+    {
+      "id": 161,
+      "tema": "E2.1",
+      "assunto": "Estratégia de migração lift and shift",
+      "enunciado": "A estratégia lift and shift envolve a reescrita completa das aplicações antes da migração, de modo a serem explorados integralmente os recursos nativos da nuvem, e prioriza a modernização antes da transferência do ambiente.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 161"
+    },
+    {
+      "id": 162,
+      "tema": "E3.4",
+      "assunto": "Computação em nuvem no governo federal e LGPD",
+      "enunciado": "O uso de computação em nuvem no governo federal deve obedecer à Lei Geral de Proteção de Dados Pessoais (LGPD), com garantia dos direitos fundamentais de titularidade, guarda de registros das operações de tratamento e adoção de responsabilidades compartilhadas entre órgãos e provedores.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 162"
+    },
+    {
+      "id": 163,
+      "tema": "E2.4",
+      "assunto": "Explicabilidade e interpretabilidade de modelos de ML",
+      "enunciado": "Explicabilidade e interpretabilidade tratam do desafio de entender como os modelos de aprendizado de máquina funcionam, devido especialmente à natureza de “caixa-preta” de muitos modelos, que pode tornar difícil ou impossível a capacidade de explicar uma previsão ou decisão.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 163"
+    },
+    {
+      "id": 165,
+      "tema": "E2.4",
+      "assunto": "Explicabilidade e interpretabilidade de modelos de ML",
+      "enunciado": "Explicabilidade diz respeito às propriedades internas do modelo de IA que permitem compreender como ele funciona.",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 165"
+    },
+    {
+      "id": 166,
+      "tema": "E2.4",
+      "assunto": "Emergência em sistemas multiagentes",
+      "enunciado": "Emergência é uma propriedade-chave de sistemas multiagentes que deve ser intencionalmente projetada pelo desenvolvedor como parte central do comportamento coletivo desejado para os agentes inteligentes.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 166"
+    },
+    {
+      "id": 167,
+      "tema": "E2.4",
+      "assunto": "Modelos supervisionados de reconhecimento de entidades nomeadas (NER)",
+      "enunciado": "Modelos supervisionados de reconhecimento de entidades nomeadas dependem de textos previamente anotados com categorias como pessoa, organização e local para que o algoritmo aprenda a identificar esses tipos de informação em novos textos.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 167"
+    },
+    {
+      "id": 168,
+      "tema": "E2.4",
+      "assunto": "Transformers e pré-processamento de texto",
+      "enunciado": "Modelos de PLN como transformers eliminam a necessidade de pré-processamento do texto, pois operam diretamente sobre o texto original.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 168"
+    },
+    {
+      "id": 169,
+      "tema": "E2.4",
+      "assunto": "Sistemas multiagentes",
+      "enunciado": "Sistemas multiagentes são adequados para problemas que exigem solução distribuída, autonomia local e coordenação entre entidades independentes, como logística, simulação social e controle de tráfego.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 169"
+    },
+    {
+      "id": 170,
+      "tema": "E2.4",
+      "assunto": "Word2Vec e representações distribuídas de palavras",
+      "enunciado": "O Word2Vec é um modelo de aprendizado profundo que utiliza redes neurais com várias camadas e mecanismos de atenção para aprender representações distribuídas de palavras a partir de grandes corpora textuais.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 170"
+    },
+    {
+      "id": 171,
+      "tema": "E4.3",
+      "assunto": "MLOps: orquestração",
+      "enunciado": "A orquestração em MLOps concentra-se principalmente na etapa de treinamento dos modelos, não tendo relação direta com o deploy nem com o monitoramento de serviços em produção.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 171"
+    },
+    {
+      "id": 172,
+      "tema": "E4.3",
+      "assunto": "MLOps: práticas de engenharia e ciclo de vida de modelos",
+      "enunciado": "MLOps é um conjunto de práticas de engenharia que padronizam, automatizam e monitoram o ciclo de vida de modelos de aprendizado de máquina com o objetivo de garantir reprodutibilidade, escalabilidade, governança e operação contínua dos sistemas de IA.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 172"
+    },
+    {
+      "id": 173,
+      "tema": "E4.3",
+      "assunto": "MLOps: versionamento e governança de modelos",
+      "enunciado": "A construção de um repositório estruturado de versionamento e governança de modelos é uma prática recomendada em MLOps para garantir rastreabilidade, controle de implantação e execução segura de rollbacks.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 173"
+    },
+    {
+      "id": 177,
+      "tema": "E4.5",
+      "assunto": "Estudo técnico preliminar e termo de referência",
+      "enunciado": "O estudo técnico preliminar pode substituir o termo de referência na contratação de alguns tipos de serviços que envolvam soluções de TI.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 177"
+    },
+    {
+      "id": 178,
+      "tema": "E4.5",
+      "assunto": "Etapa inicial da contratação de soluções de TI",
+      "enunciado": "A etapa inicial do processo de contratação de soluções de TI na administração pública consiste na elaboração do termo de referência.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 178"
+    },
+    {
+      "id": 179,
+      "tema": "E4.5",
+      "assunto": "Fábrica de software e remuneração por ponto de função",
+      "enunciado": "Denomina-se fábrica de software um modelo de contratação com foco na produção contínua de sistemas e normalmente remunerado por ponto de função.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 179"
+    },
+    {
+      "id": 180,
+      "tema": "E4.5",
+      "assunto": "Contratação sob demanda e direitos patrimoniais do código-fonte",
+      "enunciado": "No que se refere à contratação sob demanda de software, os direitos patrimoniais do código-fonte desenvolvido devem ser cedidos à administração pública.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 180"
+    },
+    {
+      "id": 181,
+      "tema": "E4.5",
+      "assunto": "Modelo SaaS e responsabilidades do contratante",
+      "enunciado": "No modelo SaaS (Software as a Service), fica sob a responsabilidade do contratante a gestão de infraestrutura e do sistema operacional no qual o software é executado.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 181"
+    },
+    {
+      "id": 182,
+      "tema": "E4.5",
+      "assunto": "Responsabilização por inexecução parcial do contrato",
+      "enunciado": "A responsabilização do licitante que der causa à inexecução parcial do contrato ocorrerá apenas na esfera judicial.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 182"
+    },
+    {
+      "id": 183,
+      "tema": "E4.5",
+      "assunto": "SLA para medição de desempenho contratual",
+      "enunciado": "Acordos de níveis de serviços, também denominados SLA (service level agreement), podem ser utilizados para medição do desempenho de contratos.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 183"
+    },
+    {
+      "id": 184,
+      "tema": "E4.5",
+      "assunto": "Sanções administrativas em licitações e contratos",
+      "enunciado": "As sanções administrativas aplicáveis ao responsável por infrações em licitações e contratos incluem advertência, multa, impedimento de licitar e declaração de inidoneidade.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 184"
+    },
+    {
+      "id": 185,
+      "tema": "E4.5",
+      "assunto": "Reequilíbrio econômico-financeiro",
+      "enunciado": "O reequilíbrio econômico-financeiro poderá ser concedido de forma automática sempre que houver aumento de custos do contratado.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 185"
+    },
+    {
+      "id": 186,
+      "tema": "E4.5",
+      "assunto": "Discricionariedade na definição de multas",
+      "enunciado": "A administração pública contratante goza de total discricionariedade para definir, em edital, o valor das multas aplicáveis em função do cometimento de infrações administrativas pelo contratado, de acordo com o impacto da penalidade para a instituição.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 186"
+    },
+    {
+      "id": 187,
+      "tema": "E4.5",
+      "assunto": "Pregão eletrônico obrigatório na administração federal direta",
+      "enunciado": "Em regra, para os órgãos da administração pública federal direta, é obrigatória a adoção do pregão na forma eletrônica para a aquisição de bens e contratação de serviços comuns.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 187"
+    },
+    {
+      "id": 188,
+      "tema": "E4.5",
+      "assunto": "Sustentabilidade, acessibilidade e segurança da informação",
+      "enunciado": "Em geral, sustentabilidade e acessibilidade são temas a serem considerados, espontânea e opcionalmente, pelo fornecedor, todavia, em se tratando de segurança da informação, sua observância é obrigatória.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 188"
+    },
+    {
+      "id": 189,
+      "tema": "E3.4",
+      "assunto": "LGPD: registro das operações de tratamento e medidas de segurança",
+      "enunciado": "No que tange ao tratamento de dados pessoais em contratos de TI, o controlador e o operador devem manter o registro das operações de tratamento de dados pessoais que realizarem, além de adotar medidas de segurança contra acessos não autorizados a tais dados.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 189"
+    },
+    {
+      "id": 190,
+      "tema": "E4.5",
+      "assunto": "Requisitos técnicos e não funcionais no termo de referência",
+      "enunciado": "Na fase de planejamento da contratação de soluções de TIC, devem ser considerados os requisitos técnicos e não funcionais, que devem ser formalizados no termo de referência.",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 190"
+    },
+    {
+      "id": 196,
+      "tema": "E4.2",
+      "assunto": "TDD: ciclo red-green-refactor",
+      "enunciado": "No desenvolvimento orientado a testes (TDD, na sigla em inglês), o ciclo de trabalho segue a ordem vermelho-verde-refatorar (red-green-refactor), sendo vermelho a etapa que consiste em escrever o código de produção necessário para que o teste, criado na fase anterior, passe a funcionar corretamente.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 196"
+    },
+    {
+      "id": 197,
+      "tema": "E2.1",
+      "assunto": "DDD e contexto delimitado (bounded context)",
+      "enunciado": "No desenvolvimento orientado ao domínio (DDD, na sigla em inglês), o contexto delimitado (bounded context) busca estabelecer a regra de que toda a lógica de negócio do sistema deve ser implementada em um único modelo coeso e global para garantir a consistência de todos os termos e definições de domínio.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 197"
+    },
+    {
+      "id": 198,
+      "tema": "E4.4",
+      "assunto": "Daily scrum e papel do scrum master",
+      "enunciado": "A reunião diária do scrum (daily scrum) é um evento de inspeção e adaptação obrigatório para a equipe, devendo ser utilizada pelo scrum master como o momento principal para que ele defina as tarefas do dia para cada membro do development team e para que solucione os impedimentos reportados.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 198"
+    },
+    {
+      "id": 199,
+      "tema": "E4.2",
+      "assunto": "BDD e especificações em Gherkin",
+      "enunciado": "O desenvolvimento orientado ao comportamento (BDD, na sigla em inglês) estende o conceito do desenvolvimento orientado a testes, focando a colaboração e a comunicação entre desenvolvedores e stakeholders, por meio da definição de especificações executáveis escritas em linguagem ubíqua no formato Gherkin.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 199"
+    },
+    {
+      "id": 200,
+      "tema": "E4.4",
+      "assunto": "Kanban e métrica lead time",
+      "enunciado": "O sistema Kanban utiliza como indicador chave de desempenho a métrica lead time, que é o tempo total gasto por uma unidade de trabalho desde o momento de seu compromisso (commitment) até a sua entrega final (delivery), sendo essencial para a previsão e otimização do fluxo de valor.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — AUFC (Auditoria de TI) — item 200"
+    }
+  ]
+}

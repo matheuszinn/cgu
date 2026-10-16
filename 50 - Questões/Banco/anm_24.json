@@ -1,0 +1,789 @@
+{
+  "concurso": "anm_24",
+  "banca": "Cebraspe",
+  "itens": [
+    {
+      "id": "anm_24-c24-079",
+      "tema": "E2.2",
+      "assunto": "Métodos de autenticação, MFA e token (Cargo 24)",
+      "enunciado": "No método de autenticação por token, usuários fornecem tokens exclusivos e individuais, gerados por um sistema ou serviço, válidos por tempo limitado, oferecendo maior segurança em comparação a autenticações por senha, especialmente contra reutilizações indevidas.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 24 — item 79"
+    },
+    {
+      "id": "anm_24-c24-080",
+      "tema": "E2.2",
+      "assunto": "Métodos de autenticação, MFA e token (Cargo 24)",
+      "enunciado": "A utilização de múltiplo fator de autenticação (MFA), combinando uma senha e um código de autenticação enviado por SMS, garante blindagem contra ataques embasados em engenharia social, mesmo que o atacante tenha acesso a informações pessoais sensíveis da vítima.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 24 — item 80"
+    },
+    {
+      "id": "anm_24-c24-081",
+      "tema": "E3.4",
+      "assunto": "Funções de hash / criptografia (SHA-256, colisões) (Cargo 24)",
+      "enunciado": "Algoritmos de hash modernos, como o SHA-256, eliminam sistematicamente a possibilidade de colisões devido à sua alta capacidade de processamento, garantindo que entradas diferentes gerem saídas únicas indefinidamente.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 24 — item 81"
+    },
+    {
+      "id": "anm_24-c24-082",
+      "tema": "E2.2",
+      "assunto": "ICP-Brasil e certificados digitais (Cargo 24)",
+      "enunciado": "Na ICP-Brasil, autoridades certificadoras de segundo nível podem ser órgãos públicos ou privados, sendo responsáveis pelo processo de distribuição, gerenciamento e emissão de certificados digitais para outras entidades, como autoridades de registro.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 24 — item 82"
+    },
+    {
+      "id": "anm_24-c24-088",
+      "tema": "E2.4",
+      "assunto": "Redes neurais artificiais — camadas ocultas (Cargo 24)",
+      "enunciado": "Uma rede neural feedforward se distingue das demais pela presença de uma ou mais camadas ocultas, cujos nós de computação são chamados de neurônios ocultos ou unidades ocultas, devido ao fato de que essa parte da rede neural não é vista diretamente da entrada ou saída da rede.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 24 — item 88"
+    },
+    {
+      "id": "anm_24-c24-089",
+      "tema": "E2.4",
+      "assunto": "Redes neurais artificiais — camadas ocultas (Cargo 24)",
+      "enunciado": "Os nós de origem na camada de entrada da rede neural, isto é, na primeira camada oculta, fornecem os respectivos elementos do padrão de ativação (vetor de entrada), que constituem os sinais de entrada aplicados aos neurônios (nós de computação) na segunda camada.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 24 — item 89"
+    },
+    {
+      "id": "anm_24-c24-090",
+      "tema": "E2.4",
+      "assunto": "IA generativa e discriminativa, LLMs, GAN, prompt, transformers (Cargo 24)",
+      "enunciado": "Para aplicações do mundo real, como geração de imagens, as distribuições são extremamente complexas, e o aprendizado profundo não conseguiu melhorar o desempenho dos modelos generativos, por isso se tem optado por investir em uma classe importante de modelos de linguagem de grande escala (LLMs — large language models) autorregressivos baseados em transformadores.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 24 — item 90"
+    },
+    {
+      "id": "anm_24-c24-091",
+      "tema": "E2.4",
+      "assunto": "IA generativa e discriminativa, LLMs, GAN, prompt, transformers (Cargo 24)",
+      "enunciado": "Um prompt é um conjunto de instruções que o modelo generativo utiliza para prever a resposta desejada.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 24 — item 91"
+    },
+    {
+      "id": "anm_24-c24-092",
+      "tema": "E2.4",
+      "assunto": "IA generativa e discriminativa, LLMs, GAN, prompt, transformers (Cargo 24)",
+      "enunciado": "O aprendizado nas IAs discriminativas é realizado a partir da probabilidade condicional p(x|y).",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "ANM 2024 — Cargo 24 — item 92"
+    },
+    {
+      "id": "anm_24-c24-093",
+      "tema": "E2.4",
+      "assunto": "IA generativa e discriminativa, LLMs, GAN, prompt, transformers (Cargo 24)",
+      "enunciado": "Uma IA generativa cujo aprendizado é realizado a partir da distribuição de probabilidade conjunta p(x,y), em que x é o dado de entrada e y é o rótulo que se queira classificar, pode gerar mais amostras por si só artificialmente, com base em suposições a respeito da distribuição de dados.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 24 — item 93"
+    },
+    {
+      "id": "anm_24-c24-094",
+      "tema": "E2.4",
+      "assunto": "IA generativa e discriminativa, LLMs, GAN, prompt, transformers (Cargo 24)",
+      "enunciado": "A equação a seguir é utilizada no algoritmo de Naive Bayes para modelar explicitamente a distribuição real de cada classe. arg max{p(x|y)∙p(y)}",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "ANM 2024 — Cargo 24 — item 94"
+    },
+    {
+      "id": "anm_24-c24-096",
+      "tema": "E2.4",
+      "assunto": "IA generativa e discriminativa, LLMs, GAN, prompt, transformers (Cargo 24)",
+      "enunciado": "Uma vez que uma GAN (generative adversarial network) é treinada, a rede discriminadora é descartada e a rede geradora pode ser utilizada para sintetizar novos exemplos no espaço de dados por amostragem do espaço latente e propagação dessas amostras pela rede geradora treinada.",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "ANM 2024 — Cargo 24 — item 96"
+    },
+    {
+      "id": "anm_24-c24-097",
+      "tema": "E2.4",
+      "assunto": "IA generativa e discriminativa, LLMs, GAN, prompt, transformers (Cargo 24)",
+      "enunciado": "O ChatGPT e o DeepSeek são plataformas de IA generativas baseadas em modelos de linguagem de grande escala (LLMs — large language models) e o princípio tecnológico dessas plataformas é a arquitetura transformer, que ajuda o modelo a aprender as relações entre palavras e frases em longos trechos de texto.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 24 — item 97"
+    },
+    {
+      "id": "anm_24-c24-098",
+      "tema": "E2.5",
+      "assunto": "Computação em nuvem e virtualização (VMs, contêineres, VPC, IaaS/PaaS/SaaS) (Cargo 24)",
+      "enunciado": "Máquinas virtuais e contêineres são versões digitais de um computador físico com as mesmas características e os mesmos processos em execução.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 24 — item 98"
+    },
+    {
+      "id": "anm_24-c24-099",
+      "tema": "E2.5",
+      "assunto": "Computação em nuvem e virtualização (VMs, contêineres, VPC, IaaS/PaaS/SaaS) (Cargo 24)",
+      "enunciado": "Uma nuvem privada do tipo VPC (virtual private cloud) pode ser instalada em um provedor público.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 24 — item 99"
+    },
+    {
+      "id": "anm_24-c24-100",
+      "tema": "E2.5",
+      "assunto": "Computação em nuvem e virtualização (VMs, contêineres, VPC, IaaS/PaaS/SaaS) (Cargo 24)",
+      "enunciado": "Nos modelos IaaS (infrastructure as a service), PaaS (platform as a service) e SaaS (software as a service), a camada do sistema operacional é gerenciada pelo provedor de serviços.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 24 — item 100"
+    },
+    {
+      "id": "anm_24-c24-101",
+      "tema": "E3.2",
+      "assunto": "SQL — SELECT e WHERE (Cargo 24)",
+      "enunciado": "Em SQL, a instrução mais simples para selecionar registros de uma tabela é composta pelas cláusulas SELECT e WHERE.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 24 — item 101"
+    },
+    {
+      "id": "anm_24-c24-102",
+      "tema": "E3.1",
+      "assunto": "Chaves alternativas e integridade (cláusula UNIQUE) (Cargo 24)",
+      "enunciado": "Em um banco de dados relacional, a cláusula UNIQUE deve ser aplicada a chaves alternativas, que não a chave primária, para garantir a não duplicidade da chave alternativa.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 24 — item 102"
+    },
+    {
+      "id": "anm_24-c24-103",
+      "tema": "E3.2",
+      "assunto": "Triggers — modelo evento-condição-ação (Cargo 24)",
+      "enunciado": "Os triggers são baseados no modelo evento-condição-ação, no qual um evento no banco de dados dispara uma ação quando determinada condição é atingida.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 24 — item 103"
+    },
+    {
+      "id": "anm_24-c24-104",
+      "tema": "E3.1",
+      "assunto": "Normalização — 2FN (Cargo 24)",
+      "enunciado": "Quando todas as colunas não chave de uma tabela dependem de toda a chave composta, essa tabela está na segunda forma normal (2FN).",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 24 — item 104"
+    },
+    {
+      "id": "anm_24-c24-105",
+      "tema": "E3.1",
+      "assunto": "Diagrama entidade-relacionamento (DER) (Cargo 24)",
+      "enunciado": "No diagrama entidade relacionamento (DER), as interações entre dois atributos são representadas pelos relacionamentos entre si.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 24 — item 105"
+    },
+    {
+      "id": "anm_24-c24-106",
+      "tema": "E3.3",
+      "assunto": "BI — dados, informação e conhecimento (Cargo 24)",
+      "enunciado": "Em BI, a informação é o resultado da organização dos dados, ao passo que o conhecimento é a geração de valor com a informação.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 24 — item 106"
+    },
+    {
+      "id": "anm_24-c24-107",
+      "tema": "E3.3",
+      "assunto": "ETL — qualificação de dados (Cargo 24)",
+      "enunciado": "No ETL, a qualificação de dados engloba o processo de conformidade, no qual são identificados registros repetidos.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 24 — item 107"
+    },
+    {
+      "id": "anm_24-c24-108",
+      "tema": "E3.1",
+      "assunto": "Data warehouse e modelagem multidimensional (Cargo 24)",
+      "enunciado": "Bancos de dados utilizados em data warehouses empregam uma modelagem específica e otimizada, denominada modelagem multidimensional.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 24 — item 108"
+    },
+    {
+      "id": "anm_24-c24-109",
+      "tema": "E2.4",
+      "assunto": "CRISP-DM e métodos de data mining (Cargo 24)",
+      "enunciado": "Durante a fase de data preparation (preparação dos dados) do modelo CRISP-DM, é necessário que todos os dados sejam normalizados e transformados em variáveis numéricas, independentemente de sua natureza original, para facilitar a análise posterior.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 24 — item 109"
+    },
+    {
+      "id": "anm_24-c24-110",
+      "tema": "E3.3",
+      "assunto": "Formato CSV (Cargo 24)",
+      "enunciado": "Arquivos CSV devem obrigatoriamente incluir um cabeçalho na primeira linha para identificar os campos.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 24 — item 110"
+    },
+    {
+      "id": "anm_24-c24-111",
+      "tema": "E3.3",
+      "assunto": "Formato JSON (Cargo 24)",
+      "enunciado": "A tecnologia JSON permite a aninhamento de objetos e arrays, possibilitando a construção de estruturas de dados complexas.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 24 — item 111"
+    },
+    {
+      "id": "anm_24-c24-112",
+      "tema": "E2.4",
+      "assunto": "CRISP-DM e métodos de data mining (Cargo 24)",
+      "enunciado": "No modelo CRISP-DM, durante a fase de evaluation (avaliação), os resultados do modelo são comparados com os objetivos do negócio para determinar sua eficácia e adequação.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 24 — item 112"
+    },
+    {
+      "id": "anm_24-c24-113",
+      "tema": "E3.2",
+      "assunto": "SQL — GROUP BY (Cargo 24)",
+      "enunciado": "A cláusula GROUP BY, do SQL, pode ser utilizada sem a presença de funções agregadas, desde que haja uma cláusula ORDER BY para organizar os resultados da consulta.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 24 — item 113"
+    },
+    {
+      "id": "anm_24-c24-114",
+      "tema": "E3.2",
+      "assunto": "SQL — exclusão de tabela (DDL) (Cargo 24)",
+      "enunciado": "Para excluir uma tabela na linguagem SQL e liberar os recursos alocados por ela, inclusive índices e triggers associados, deve-se fazer uso do comando DELETE TABLE, pois ele remove tanto os dados quanto a estrutura da tabela.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 24 — item 114"
+    },
+    {
+      "id": "anm_24-c24-115",
+      "tema": "E2.4",
+      "assunto": "CRISP-DM e métodos de data mining (Cargo 24)",
+      "enunciado": "Para reconhecer padrões de ocorrência que se repetem em determinados conjuntos de dados, como, por exemplo, padrões de consumo, é usado o método de data mining denominado associação.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 24 — item 115"
+    },
+    {
+      "id": "anm_24-c24-116",
+      "tema": "E2.4",
+      "assunto": "Overfitting, underfitting, deep learning, GPUs/TPUs (Cargo 24)",
+      "enunciado": "O overfitting ocorre quando um modelo de machine learning tem alta precisão nos dados de treinamento, mas apresenta desempenho significativamente pior em novos dados.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 24 — item 116"
+    },
+    {
+      "id": "anm_24-c24-117",
+      "tema": "E2.4",
+      "assunto": "Overfitting, underfitting, deep learning, GPUs/TPUs (Cargo 24)",
+      "enunciado": "A única maneira de se evitar o underfitting em um modelo de machine learning é reduzir a quantidade de dados de entrada, pois isso impede que o modelo fique sobrecarregado de informações irrelevantes.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 24 — item 117"
+    },
+    {
+      "id": "anm_24-c24-118",
+      "tema": "E2.4",
+      "assunto": "Overfitting, underfitting, deep learning, GPUs/TPUs (Cargo 24)",
+      "enunciado": "O uso de GPUs e TPUs acelera os cálculos necessários para operações matriciais e retropropagação em modelos de deep learning.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 24 — item 118"
+    },
+    {
+      "id": "anm_24-c24-119",
+      "tema": "E2.4",
+      "assunto": "Overfitting, underfitting, deep learning, GPUs/TPUs (Cargo 24)",
+      "enunciado": "A regressão é o método de data mining usado para prever valores contínuos como, por exemplo, previsão de vendas, preços de ações, identificação de transações fraudulentas, entre outros.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 24 — item 119"
+    },
+    {
+      "id": "anm_24-c24-120",
+      "tema": "E2.4",
+      "assunto": "Overfitting, underfitting, deep learning, GPUs/TPUs (Cargo 24)",
+      "enunciado": "O deep learning elimina completamente a necessidade de pré-processamento de dados, pois as redes neurais são capazes de aprender todas as características automaticamente.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 24 — item 120"
+    },
+    {
+      "id": "anm_24-c25-076",
+      "tema": "E2.4",
+      "assunto": "Redes neurais artificiais — camadas ocultas e feedforward (Cargo 25)",
+      "enunciado": "Nas redes neurais multicamadas, quando se aumenta significativamente a dimensão da rede neural, o esforço computacional para sua implementação tem um aumento insignificante.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 25 — item 76"
+    },
+    {
+      "id": "anm_24-c25-077",
+      "tema": "E2.4",
+      "assunto": "Redes neurais artificiais — camadas ocultas e feedforward (Cargo 25)",
+      "enunciado": "Uma rede neural feedforward se distingue das demais pela presença de uma ou mais camadas ocultas, cujos nós de computação são chamados de neurônios ocultos ou unidades ocultas, devido ao fato de que essa parte da rede neural não é vista diretamente da entrada ou saída da rede.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 25 — item 77"
+    },
+    {
+      "id": "anm_24-c25-084",
+      "tema": "E2.5",
+      "assunto": "Computação em nuvem (IaaS/PaaS/SaaS, VPC) (Cargo 25)",
+      "enunciado": "Nos modelos IaaS (infrastructure as a service), PaaS (platform as a service) e SaaS (software as a service), a camada do sistema operacional é gerenciada pelo provedor de serviços.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 25 — item 84"
+    },
+    {
+      "id": "anm_24-c25-085",
+      "tema": "E2.5",
+      "assunto": "Computação em nuvem (IaaS/PaaS/SaaS, VPC) (Cargo 25)",
+      "enunciado": "Uma nuvem privada do tipo VPC (virtual private cloud) pode ser instalada em um provedor público.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 25 — item 85"
+    },
+    {
+      "id": "anm_24-c25-087",
+      "tema": "E3.2",
+      "assunto": "SQL — SELECT e WHERE (Cargo 25)",
+      "enunciado": "Em SQL, a instrução mais simples para selecionar registros de uma tabela é composta pelas cláusulas SELECT e WHERE.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 25 — item 87"
+    },
+    {
+      "id": "anm_24-c25-090",
+      "tema": "E3.1",
+      "assunto": "Normalização — 2FN (Cargo 25)",
+      "enunciado": "Quando todas as colunas não chave de uma tabela dependem de toda a chave composta, essa tabela está na segunda forma normal (2FN).",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 25 — item 90"
+    },
+    {
+      "id": "anm_24-c25-099",
+      "tema": "E1.1",
+      "assunto": "Engenharia de requisitos — elicitação e validação (Cargo 25)",
+      "enunciado": "A especificação de requisitos realizada a partir da utilização de modelos gráficos é incapaz de representar aspectos não funcionais e interdependências entre requisitos não funcionais em projetos de software.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 25 — item 99"
+    },
+    {
+      "id": "anm_24-c25-100",
+      "tema": "E1.1",
+      "assunto": "Engenharia de requisitos — elicitação e validação (Cargo 25)",
+      "enunciado": "O walkthrough é uma técnica de validação de requisitos que envolve a apresentação sistemática dos requisitos aos stakeholders, promovendo discussões detalhadas e buscando identificar problemas como inconsistências, ambiguidades e omissões.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 25 — item 100"
+    },
+    {
+      "id": "anm_24-c25-101",
+      "tema": "E1.1",
+      "assunto": "Engenharia de requisitos — elicitação e validação (Cargo 25)",
+      "enunciado": "A análise de um requisito funcional resulta na identificação de múltiplos requisitos não funcionais associados, porém um requisito não funcional não é fonte de requisitos funcionais.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 25 — item 101"
+    },
+    {
+      "id": "anm_24-c25-102",
+      "tema": "E1.1",
+      "assunto": "Engenharia de requisitos — elicitação e validação (Cargo 25)",
+      "enunciado": "Em elicitação de requisitos, a técnica mudança de perspectiva fragmenta temporariamente a percepção holística do sistema ao enfocar visões individuais, entretanto a compreensão obtida pode ser utilizada para uma visão sistêmica mais robusta e integrada do artefato de software em desenvolvimento.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 25 — item 102"
+    },
+    {
+      "id": "anm_24-c25-103",
+      "tema": "E1.1",
+      "assunto": "Engenharia de requisitos — elicitação e validação (Cargo 25)",
+      "enunciado": "A leitura baseada em perspectiva de documentação já existente sobre o sistema é uma técnica que pode ser apropriada para revelar requisitos funcionais implícitos, que não foram inicialmente considerados no projeto.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 25 — item 103"
+    },
+    {
+      "id": "anm_24-c25-104",
+      "tema": "E2.1",
+      "assunto": "Arquitetura MVC e princípios de projeto (Cargo 25)",
+      "enunciado": "A arquitetura MVC aplica o princípio do baixo acoplamento em projetos quando preserva as interfaces já desenvolvidas ao receber do controller uma notificação de mudança de estado.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 25 — item 104"
+    },
+    {
+      "id": "anm_24-c25-105",
+      "tema": "E2.1",
+      "assunto": "Arquitetura MVC e princípios de projeto (Cargo 25)",
+      "enunciado": "Para manter o princípio da separação das preocupações em um projeto de software implementado como MVC, a camada interface deve oferecer abstrações da camada modelo.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 25 — item 105"
+    },
+    {
+      "id": "anm_24-c25-106",
+      "tema": "E2.1",
+      "assunto": "Arquitetura MVC e princípios de projeto (Cargo 25)",
+      "enunciado": "No padrão arquitetural MVC, o componente model encapsula integralmente os dados, a lógica de negócios e as operações de processamento da aplicação, o que inclui a gestão de todos os objetos de conteúdo e a interação com fontes de dados externas.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 25 — item 106"
+    },
+    {
+      "id": "anm_24-c25-107",
+      "tema": "E4.4",
+      "assunto": "Gestão de riscos — contextualização e integração ao planejamento (Cargo 25)",
+      "enunciado": "No processo de gestão de riscos, a etapa de contextualização envolve o entendimento dos ambientes externo e interno, e a definição dos critérios de risco que podem afetar a realização dos objetivos organizacionais.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 25 — item 107"
+    },
+    {
+      "id": "anm_24-c25-108",
+      "tema": "E4.4",
+      "assunto": "Gestão de riscos — contextualização e integração ao planejamento (Cargo 25)",
+      "enunciado": "Para evitar conflitos de interesse, boas práticas de gestão de riscos devem ser implantadas de forma isolada, sem integração com o planejamento estratégico da organização.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 25 — item 108"
+    },
+    {
+      "id": "anm_24-c25-114",
+      "tema": "E4.4",
+      "assunto": "Arquitetura corporativa de TI / TOGAF (Cargo 25)",
+      "enunciado": "A utilização do TOGAF (The Open Group Architecture Framework) na arquitetura corporativa de TI ajuda a alinhar a estratégia de TI com os objetivos de negócio da organização, promovendo eficácia e eficiência operacionais.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 25 — item 114"
+    },
+    {
+      "id": "anm_24-c25-120",
+      "tema": "E1.1",
+      "assunto": "Design thinking — abordagem centrada nas pessoas (Cargo 25)",
+      "enunciado": "Design thinking é uma metodologia conhecida por seu foco em entender profundamente as necessidades dos usuários e criar soluções inovadoras por meio de um processo iterativo.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 25 — item 120"
+    },
+    {
+      "id": "anm_24-c26-055",
+      "tema": "E3.4",
+      "assunto": "LGPD — controlador e operador (Cargo 26)",
+      "enunciado": "Pessoa natural ou jurídica que realiza o tratamento de dados pessoais em nome do operador é denominada de controlador.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 26 — item 55"
+    },
+    {
+      "id": "anm_24-c26-056",
+      "tema": "E3.4",
+      "assunto": "LGPD — tratamento de dados de crianças (Cargo 26)",
+      "enunciado": "O tratamento de dados pessoais de crianças pode ser realizado, desde que siga o recomendado no Estatuto da Criança e do Adolescente.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 26 — item 56"
+    },
+    {
+      "id": "anm_24-c26-059",
+      "tema": "E1.1",
+      "assunto": "Design thinking — empatia e processo iterativo (Cargo 26)",
+      "enunciado": "A empatia é um componente central no design thinking, pois sua elaboração envolve a compreensão profunda das experiências e emoções dos usuários.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 26 — item 59"
+    },
+    {
+      "id": "anm_24-c26-060",
+      "tema": "E1.1",
+      "assunto": "Design thinking — empatia e processo iterativo (Cargo 26)",
+      "enunciado": "O design thinking, uma abordagem linear que segue uma sequência definida de etapas, possibilita que as iterações ou revisões sejam feitas somente ao final das etapas.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 26 — item 60"
+    },
+    {
+      "id": "anm_24-c26-065",
+      "tema": "E4.5",
+      "assunto": "Lei 14.133/2021 — TIC e definição do objeto (Cargo 26)",
+      "enunciado": "O julgamento por técnica e preço é compulsório em licitações que envolvam bens e serviços especiais de tecnologia da informação e comunicação.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 26 — item 65"
+    },
+    {
+      "id": "anm_24-c26-066",
+      "tema": "E4.5",
+      "assunto": "Lei 14.133/2021 — TIC e definição do objeto (Cargo 26)",
+      "enunciado": "Podem restringir-se a bens e serviços desenvolvidos no país as licitações voltadas a sistemas de tecnologia de informação e comunicação estratégicos.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 26 — item 66"
+    },
+    {
+      "id": "anm_24-c26-068",
+      "tema": "E4.5",
+      "assunto": "Lei 14.133/2021 — TIC e definição do objeto (Cargo 26)",
+      "enunciado": "Embora disposto que a definição do objeto de contratação deve ser precisa, clara e suficiente, são vedadas especificações excessivas, irrelevantes ou desnecessárias que limitem ou frustrem a competição ou a realização do fornecimento da solução.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 26 — item 68"
+    },
+    {
+      "id": "anm_24-c26-070",
+      "tema": "E4.5",
+      "assunto": "Lei 14.133/2021 — TIC e definição do objeto (Cargo 26)",
+      "enunciado": "Durante a fase de gestão do contrato, a equipe de planejamento da contratação deve proceder às ações de gerenciamento de riscos e produzir o mapa de gerenciamento de riscos.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 26 — item 70"
+    },
+    {
+      "id": "anm_24-c26-074",
+      "tema": "E2.2",
+      "assunto": "MFA e autenticação por token (Cargo 26)",
+      "enunciado": "A utilização de múltiplo fator de autenticação (MFA), combinando uma senha e um código de autenticação enviado por SMS, garante blindagem contra ataques embasados em engenharia social, mesmo que o atacante tenha acesso a informações pessoais sensíveis da vítima.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 26 — item 74"
+    },
+    {
+      "id": "anm_24-c26-075",
+      "tema": "E3.4",
+      "assunto": "Funções de hash / criptografia (SHA-256, colisões) (Cargo 26)",
+      "enunciado": "Algoritmos de hash modernos, como o SHA-256, eliminam sistematicamente a possibilidade de colisões devido à sua alta capacidade de processamento, garantindo que entradas diferentes gerem saídas únicas indefinidamente.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 26 — item 75"
+    },
+    {
+      "id": "anm_24-c26-076",
+      "tema": "E2.2",
+      "assunto": "MFA e autenticação por token (Cargo 26)",
+      "enunciado": "No método de autenticação por token, usuários fornecem tokens exclusivos e individuais, gerados por um sistema ou serviço, válidos por tempo limitado, oferecendo maior segurança em comparação a autenticações por senha, especialmente contra reutilizações indevidas.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 26 — item 76"
+    },
+    {
+      "id": "anm_24-c26-077",
+      "tema": "E2.2",
+      "assunto": "ICP-Brasil e certificados digitais (Cargo 26)",
+      "enunciado": "Na ICP-Brasil, autoridades certificadoras de segundo nível podem ser órgãos públicos ou privados, sendo responsáveis pelo processo de distribuição, gerenciamento e emissão de certificados digitais para outras entidades, como autoridades de registro.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 26 — item 77"
+    },
+    {
+      "id": "anm_24-c26-081",
+      "tema": "E2.4",
+      "assunto": "Redes neurais artificiais — camadas ocultas e feedforward (Cargo 26)",
+      "enunciado": "Nas redes neurais multicamadas, quando se aumenta significativamente a dimensão da rede neural, o esforço computacional para sua implementação tem um aumento insignificante.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 26 — item 81"
+    },
+    {
+      "id": "anm_24-c26-082",
+      "tema": "E2.4",
+      "assunto": "Redes neurais artificiais — camadas ocultas e feedforward (Cargo 26)",
+      "enunciado": "Os nós de origem na camada de entrada da rede neural, isto é, na primeira camada oculta, fornecem os respectivos elementos do padrão de ativação (vetor de entrada), que constituem os sinais de entrada aplicados aos neurônios (nós de computação) na segunda camada.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 26 — item 82"
+    },
+    {
+      "id": "anm_24-c26-083",
+      "tema": "E2.4",
+      "assunto": "Redes neurais artificiais — camadas ocultas e feedforward (Cargo 26)",
+      "enunciado": "Uma rede neural feedforward se distingue das demais pela presença de uma ou mais camadas ocultas, cujos nós de computação são chamados de neurônios ocultos ou unidades ocultas, devido ao fato de que essa parte da rede neural não é vista diretamente da entrada ou saída da rede.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 26 — item 83"
+    },
+    {
+      "id": "anm_24-c26-084",
+      "tema": "E2.4",
+      "assunto": "IA generativa e discriminativa, LLMs, GAN, prompt, transformers (Cargo 26)",
+      "enunciado": "Para aplicações do mundo real, como geração de imagens, as distribuições são extremamente complexas, e o aprendizado profundo não conseguiu melhorar o desempenho dos modelos generativos, por isso se tem optado por investir em uma classe importante de modelos de linguagem de grande escala (LLMs — large language models) autorregressivos baseados em transformadores.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 26 — item 84"
+    },
+    {
+      "id": "anm_24-c26-085",
+      "tema": "E2.4",
+      "assunto": "IA generativa e discriminativa, LLMs, GAN, prompt, transformers (Cargo 26)",
+      "enunciado": "O aprendizado nas IAs discriminativas é realizado a partir da probabilidade condicional p(x|y).",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "ANM 2024 — Cargo 26 — item 85"
+    },
+    {
+      "id": "anm_24-c26-086",
+      "tema": "E2.4",
+      "assunto": "IA generativa e discriminativa, LLMs, GAN, prompt, transformers (Cargo 26)",
+      "enunciado": "Uma IA generativa cujo aprendizado é realizado a partir da distribuição de probabilidade conjunta p(x,y), em que x é o dado de entrada e y é o rótulo que se queira classificar, pode gerar mais amostras por si só artificialmente, com base em suposições a respeito da distribuição de dados.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 26 — item 86"
+    },
+    {
+      "id": "anm_24-c26-087",
+      "tema": "E2.4",
+      "assunto": "IA generativa e discriminativa, LLMs, GAN, prompt, transformers (Cargo 26)",
+      "enunciado": "Um prompt é um conjunto de instruções que o modelo generativo utiliza para prever a resposta desejada.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 26 — item 87"
+    },
+    {
+      "id": "anm_24-c26-088",
+      "tema": "E2.4",
+      "assunto": "IA generativa e discriminativa, LLMs, GAN, prompt, transformers (Cargo 26)",
+      "enunciado": "A equação a seguir é utilizada no algoritmo de Naive Bayes para modelar explicitamente a distribuição real de cada classe. arg max{p(x|y)∙p(y)}",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "ANM 2024 — Cargo 26 — item 88"
+    },
+    {
+      "id": "anm_24-c26-090",
+      "tema": "E2.4",
+      "assunto": "IA generativa e discriminativa, LLMs, GAN, prompt, transformers (Cargo 26)",
+      "enunciado": "Uma vez que uma GAN (generative adversarial network) é treinada, a rede discriminadora é descartada e a rede geradora pode ser utilizada para sintetizar novos exemplos no espaço de dados por amostragem do espaço latente e propagação dessas amostras pela rede geradora treinada.",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "ANM 2024 — Cargo 26 — item 90"
+    },
+    {
+      "id": "anm_24-c26-091",
+      "tema": "E4.5",
+      "assunto": "Contratação de software e nuvem — Portaria SGD/MGI 5.950/2023 (Cargo 26)",
+      "enunciado": "A licença perpétua concede ao usuário o direito de usar o software por tempo determinado, bem como o acesso a atualizações e suporte técnico por tempo indeterminado.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 26 — item 91"
+    },
+    {
+      "id": "anm_24-c26-092",
+      "tema": "E4.5",
+      "assunto": "Contratação de software e nuvem — Portaria SGD/MGI 5.950/2023 (Cargo 26)",
+      "enunciado": "Conforme entendimento da Súmula TCU n.º 269, não é devido o uso de métrica de remuneração cuja medição não seja passível de verificação.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 26 — item 92"
+    },
+    {
+      "id": "anm_24-c26-093",
+      "tema": "E4.5",
+      "assunto": "Contratação de software e nuvem — Portaria SGD/MGI 5.950/2023 (Cargo 26)",
+      "enunciado": "É permitida a contratação de software, desde que sua disponibilização seja por meio de cessão definitiva de direitos de uso.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 26 — item 93"
+    },
+    {
+      "id": "anm_24-c26-094",
+      "tema": "E4.5",
+      "assunto": "Infraestrutura computacional — Portaria SGD/MGI 2.715/2023 (Cargo 26)",
+      "enunciado": "No que se refere a modalidades de disponibilização de infraestrutura computacional, a segurança da informação e a privacidade são diretrizes a serem consideradas.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 26 — item 94"
+    },
+    {
+      "id": "anm_24-c26-097",
+      "tema": "E4.5",
+      "assunto": "Operação de infraestrutura e atendimento — Portaria SGD/MGI 1.070/2023 (Cargo 26)",
+      "enunciado": "Preconiza-se que a operação de infraestrutura de TIC seja serviço fundamental para garantia de disponibilidade e segurança de recursos tecnológicos necessários à sustentação de quaisquer serviços embasados em TIC.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 26 — item 97"
+    },
+    {
+      "id": "anm_24-c26-098",
+      "tema": "E4.5",
+      "assunto": "Operação de infraestrutura e atendimento — Portaria SGD/MGI 1.070/2023 (Cargo 26)",
+      "enunciado": "Recomenda-se dar por irrelevante o valor máximo da contratação por ser suficiente utilizar como base o valor médio de pesquisas salariais de preços.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 26 — item 98"
+    },
+    {
+      "id": "anm_24-c26-099",
+      "tema": "E4.5",
+      "assunto": "Outsourcing de impressão — Portaria SGD/MGI 370/2023 (Cargo 26)",
+      "enunciado": "São escopos do modelo estabelecido pela portaria os serviços gráficos, a serigrafia e a gestão eletrônica de documentos.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 26 — item 99"
+    },
+    {
+      "id": "anm_24-c26-116",
+      "tema": "E2.5",
+      "assunto": "Balanceamento de carga, failover, backup, RAID e nuvem (Cargo 26)",
+      "enunciado": "No modelo de operação do RAID 5, são usados dois discos. No primeiro armazenam-se dados e no segundo armazena-se uma cópia exata do primeiro. Em caso de falha do primeiro disco, a controladora automaticamente chaveia para o segundo disco.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 26 — item 116"
+    },
+    {
+      "id": "anm_24-c26-117",
+      "tema": "E2.5",
+      "assunto": "Balanceamento de carga, failover, backup, RAID e nuvem (Cargo 26)",
+      "enunciado": "O failover é a transferência da carga de trabalho de um sistema primário para um sistema secundário em caso de falha no sistema primário.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 26 — item 117"
+    },
+    {
+      "id": "anm_24-c26-118",
+      "tema": "E2.5",
+      "assunto": "Balanceamento de carga, failover, backup, RAID e nuvem (Cargo 26)",
+      "enunciado": "Recuperação de dados mais rápida (montagem e busca dos dados), falhas no restore, acesso aleatório, otimização para pesquisa e múltiplos servidores acessando dados de forma simultânea são as vantagens de um backup executado em uma unidade de fita em relação ao realizado em uma unidade de disco rígido (HDD).",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 26 — item 118"
+    },
+    {
+      "id": "anm_24-c26-119",
+      "tema": "E2.5",
+      "assunto": "Balanceamento de carga, failover, backup, RAID e nuvem (Cargo 26)",
+      "enunciado": "Uma das estratégias de failover mais empregadas no mercado é a tomada de controle mútuo, na qual um sistema primário processa toda a carga de trabalho enquanto um sistema secundário está inativo, ou em modo de espera, pronto para assumir o controle da carga de trabalho se houver falha no sistema primário.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 26 — item 119"
+    },
+    {
+      "id": "anm_24-c26-120",
+      "tema": "E2.5",
+      "assunto": "Balanceamento de carga, failover, backup, RAID e nuvem (Cargo 26)",
+      "enunciado": "Serviço sob demanda, pool de recursos, elasticidade rápida, amplo acesso aos serviços de rede e medição de serviços são características essenciais de um modelo de computação em nuvem.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "ANM 2024 — Cargo 26 — item 120"
+    }
+  ]
+}

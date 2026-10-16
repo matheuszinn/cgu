@@ -1,0 +1,528 @@
+{
+  "concurso": "tce_rs_25",
+  "banca": "Cebraspe",
+  "itens": [
+    {
+      "id": 1,
+      "tema": "E1.1",
+      "assunto": "Especificação de requisitos: documentos formais com modelos gráficos/descritivos vs. cenários de uso",
+      "enunciado": "Em sistemas complexos, a especificação de requisitos demanda documentos formais com modelos gráficos e descritivos, enquanto em ambientes técnicos bem compreendidos ou para produtos menores, os cenários de uso podem ser suficientes.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 1"
+    },
+    {
+      "id": 2,
+      "tema": "E1.1",
+      "assunto": "Modelagem de processos com BPMN 2.0 (start events e flow objects sem incoming sequence flow)",
+      "enunciado": "No processo BPMN em que nenhum start event é utilizado, todos os flow objects sem incoming sequence flow devem ser executados de forma sequencial em um único caminho, sem gerar múltiplos tokens paralelos.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 2"
+    },
+    {
+      "id": 3,
+      "tema": "E1.4",
+      "assunto": "Design de interfaces: modelo em espiral (análise/modelagem, design, construção, validação)",
+      "enunciado": "No processo de design de interfaces de usuário, o modelo em espiral segue iterativamente quatro etapas: análise e modelagem; design; construção; e validação da interface.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 3"
+    },
+    {
+      "id": 4,
+      "tema": "E4.2",
+      "assunto": "Planos de qualidade de software",
+      "enunciado": "Planos de qualidade de software diferem em detalhes conforme o tamanho e o tipo de sistema que está sendo desenvolvido, e devem ser o mais detalhados possível para contemplar todas as atividades a serem avaliadas.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 4"
+    },
+    {
+      "id": 5,
+      "tema": "E4.4",
+      "assunto": "Scrum: demos e visão integral do produto",
+      "enunciado": "No Scrum, as demos são realizadas quando todas as funcionalidades planejadas para o produto estão concluídas, o que garante ao cliente acesso à visão integral do sistema antes de qualquer avaliação.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 5"
+    },
+    {
+      "id": 6,
+      "tema": "E4.4",
+      "assunto": "XP: velocidade do projeto e overcommitment de histórias",
+      "enunciado": "Em XP, a velocidade do projeto é calculada após a entrega do primeiro incremento, o que permite estimar prazos de entregas futuras e ajustar o conteúdo dos incrementos ou datas caso haja overcommitment de histórias.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 6"
+    },
+    {
+      "id": 7,
+      "tema": "E4.4",
+      "assunto": "Estimativa por pontos de história",
+      "enunciado": "No processo de estimativa de pontos de história, os itens do backlog devem ser avaliados pelo tempo estimado para sua conclusão, desconsiderados o risco e a complexidade.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 7"
+    },
+    {
+      "id": 8,
+      "tema": "E4.4",
+      "assunto": "Análise de pontos de função (FP) e subjetividade do somatório dos Fi",
+      "enunciado": "No cálculo de pontos de função (FP) por meio da equação FP = count_total × [0,65 + 0,01 × Σ(Fi)], em que count_total corresponde à contagem bruta dos pontos de função, o somatório dos Fi, Σ(Fi), reflete a subjetividade inerente à avaliação da complexidade do projeto.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 8"
+    },
+    {
+      "id": 9,
+      "tema": "E4.4",
+      "assunto": "Priorização RICE",
+      "enunciado": "No método de priorização RICE, a confiança nas estimativas de alcance e impacto deve ser avaliada para que se calcule a prioridade de cada item do backlog.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 9"
+    },
+    {
+      "id": 10,
+      "tema": "E4.4",
+      "assunto": "Gestão de backlog",
+      "enunciado": "No processo de gestão de backlog, após definidas as limitações e dividido o backlog, o item que não se encaixar no backlog e for irrelevante será automaticamente excluído.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 10"
+    },
+    {
+      "id": 11,
+      "tema": "E4.2",
+      "assunto": "Estratégia de teste de aplicações web (compatibilidade, confiabilidade, escalabilidade, desempenho)",
+      "enunciado": "Uma estratégia de teste para aplicações web contempla a execução da aplicação em múltiplas configurações de ambiente, de forma a avaliar não apenas a compatibilidade, mas também a confiabilidade, a escalabilidade e o desempenho da aplicação.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 11"
+    },
+    {
+      "id": 12,
+      "tema": "E4.2",
+      "assunto": "SonarQube para IDE e branch padrão",
+      "enunciado": "O SonarQube para IDE, em cenários de falha na identificação da branch local ou na ausência de um repositório Git, utiliza por padrão a branch designada como main no servidor.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 12"
+    },
+    {
+      "id": 13,
+      "tema": "E4.2",
+      "assunto": "Pirâmide de testes de aplicações web (bottom-up)",
+      "enunciado": "A pirâmide para teste de aplicações web prevê um fluxo de processo da direita para a esquerda e adota uma estratégia bottom-up, em que os elementos de infraestrutura são testados antes dos componentes visíveis ao usuário.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 13"
+    },
+    {
+      "id": 14,
+      "tema": "E3.1",
+      "assunto": "Hibernate: consultas em HQL (createQuery())",
+      "enunciado": "No Hibernate, o método createQuery() é usado para executar consultas escritas em Hibernate Query Language.",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 14"
+    },
+    {
+      "id": 15,
+      "tema": "E2.3",
+      "assunto": "Java EE: enterprise bean de sessão e processamento assíncrono de mensagens",
+      "enunciado": "Um enterprise bean de sessão permite que aplicativos Java EE processem mensagens de forma assíncrona, semelhantemente a um ouvinte de eventos.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 15"
+    },
+    {
+      "id": 16,
+      "tema": "E1.2",
+      "assunto": "Estrutura de dados: pilha e ordem de exclusão (LIFO)",
+      "enunciado": "Se os elementos A, B, C e D forem inseridos em uma pilha, nessa ordem, eles serão excluídos na ordem A, B, C e D, um elemento de cada vez.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 16"
+    },
+    {
+      "id": 17,
+      "tema": "E1.2",
+      "assunto": "Algoritmos de ordenação por seleção e número de comparações",
+      "enunciado": "Ao se utilizar o método de ordenação por seleção, sempre serão necessárias 10 comparações para ordenar um conjunto com cinco elementos.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 17"
+    },
+    {
+      "id": 18,
+      "tema": "E2.3",
+      "assunto": "WebSocket: canal de comunicação bidirecional cliente-servidor",
+      "enunciado": "WebSocket é um protocolo que estabelece um canal de comunicação bidirecional simultânea entre um cliente e um servidor.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 18"
+    },
+    {
+      "id": 19,
+      "tema": "E1.2",
+      "assunto": "POO: herança, reutilização de código e modularidade",
+      "enunciado": "Na programação orientada a objetos (POO), a herança é o recurso que indica principalmente a reutilização do código, o que evita a reescrita deste e promove a modularidade, aproveitando a funcionalidade existente.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 19"
+    },
+    {
+      "id": 20,
+      "tema": "E1.4",
+      "assunto": "JavaScript: igualdade estrita (===) e tipos",
+      "enunciado": "O código em JavaScript a seguir, após executado, apresentará o valor true como resultado.\n\n<html>\n  <script>\n    var x = 5;\n    var y = “5”;\n    console.log(x === y);\n  </script>\n</html>",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 20"
+    },
+    {
+      "id": 21,
+      "tema": "E1.4",
+      "assunto": "CSS: pseudoelementos e seleção por estado",
+      "enunciado": "Os pseudoelementos no CSS, além de permitirem selecionar algumas áreas internas de um elemento HTML e customizá-las por meio de propriedades, podem ser selecionados com base no estado atual do elemento de origem.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 21"
+    },
+    {
+      "id": 22,
+      "tema": "E1.2",
+      "assunto": "Python: estruturas de controle (comparação encadeada em if)",
+      "enunciado": "O código Python a seguir, após ser executado, apresentará a frase O valor é entre 0 e 10 como resultado.\n\nvalor = 8;\nif 0 < valor < 10:\n  print(“O valor é entre 0 e 10”);",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 22"
+    },
+    {
+      "id": 23,
+      "tema": "E1.2",
+      "assunto": "Python: dicionários e atribuição/impressão de chaves",
+      "enunciado": "Considere o seguinte trecho de código Python.\n\nvice_brasileiro = {\n  “2024”: “Palmeiras”,\n  “2023”: “Grêmio”,\n  “2022”: “Internacional”\n}\nvice_brasileiro[2021] = “Flamengo”;\nprint(vice_brasileiro);\n\nEsse trecho de código apresentará, após executado, o resultado a seguir.\n\n{'2024': 'Palmeiras', '2023': 'Grêmio', '2022': 'Internacional', 2021: 'Flamengo'}",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 23"
+    },
+    {
+      "id": 24,
+      "tema": "E4.3",
+      "assunto": "Git: ambiente de preparação (staging) e comandos",
+      "enunciado": "O comando git append --files permite adicionar todos os arquivos e alterações da pasta atual ao ambiente de preparação do repositório Git.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 24"
+    },
+    {
+      "id": 25,
+      "tema": "E2.5",
+      "assunto": "CDN (content delivery network) e entrega de conteúdo web",
+      "enunciado": "Uma rede de distribuição de conteúdo (content delivery network) serve para fornecer renderização do lado do servidor para aplicativos da Web.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 25"
+    },
+    {
+      "id": 26,
+      "tema": "E2.5",
+      "assunto": "Contêineres Docker (imagens e docker run)",
+      "enunciado": "Contêineres são instâncias de imagens do Docker que podem ser executadas usando o comando docker run.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 26"
+    },
+    {
+      "id": 27,
+      "tema": "E3.1",
+      "assunto": "NoSQL e SGBD relacional no mesmo módulo",
+      "enunciado": "Por limitações técnicas, aplicações que utilizam bancos de dados NoSQL não podem utilizar SGBD relacional no mesmo módulo.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 27"
+    },
+    {
+      "id": 28,
+      "tema": "E3.1",
+      "assunto": "Integridade referencial e chave estrangeira",
+      "enunciado": "De acordo com o conceito de integridade referencial, uma chave estrangeira em uma tabela-destino deve ser chave primária em outra tabela de origem.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 28"
+    },
+    {
+      "id": 29,
+      "tema": "E3.2",
+      "assunto": "SQL: junções (join)",
+      "enunciado": "A instrução join do SQL permite a apresentação de informações de diversas tabelas em um ou mais conjuntos de resultados.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 29"
+    },
+    {
+      "id": 30,
+      "tema": "E3.1",
+      "assunto": "NoSQL key/value: equivalência chave/valor",
+      "enunciado": "No modelo key/value do NoSQL, a chave e o valor equivalem, respectivamente, à coluna e ao dado armazenado do banco de dados relacional.",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 30"
+    },
+    {
+      "id": 31,
+      "tema": "E3.2",
+      "assunto": "Índice de seletividade e eficiência de acesso",
+      "enunciado": "Em um SGBD, o índice de seletividade representa a eficiência de acesso aos dados, sendo a alta seletividade mais eficaz que a baixa seletividade para localizar os dados.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 31"
+    },
+    {
+      "id": 32,
+      "tema": "E3.2",
+      "assunto": "SQL: LIMIT e OFFSET",
+      "enunciado": "Ao ser executado, o comando SELECT * FROM PROCESSO LIMIT 10 OFFSET 5 apresenta cinco registros como resultado máximo, obtidos a partir do sexto registro da tabela.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 32"
+    },
+    {
+      "id": 33,
+      "tema": "E3.3",
+      "assunto": "ETL: técnica de junção e aplicação de regras de negócio",
+      "enunciado": "A técnica de junção do ETL consiste em aplicar regras de negócio aos dados para a obtenção de novos valores com base em valores já existentes.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 33"
+    },
+    {
+      "id": 34,
+      "tema": "E3.3",
+      "assunto": "OLAP: operação de decomposição do cubo",
+      "enunciado": "No OLAP, a operação de decomposição é utilizada para a criação de uma exibição bidimensional do cubo.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 34"
+    },
+    {
+      "id": 35,
+      "tema": "E3.1",
+      "assunto": "Modelagem dimensional: esquema estrela (não normalizado) e snowflake (normalizado)",
+      "enunciado": "Em ambientes de dados complexos, o modelo snowflake utiliza dados normalizados, enquanto o modelo estrela utiliza dados não normalizados.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 35"
+    },
+    {
+      "id": 36,
+      "tema": "E3.1",
+      "assunto": "BI: tabelas dimensão (domínio) e tabelas fato (evento)",
+      "enunciado": "Em BI, as tabelas DIMENSÃO representam, em um contexto de venda, informações de domínio, como o tipo de produto, ao passo que as tabelas FATO representam informações de evento, como a data da venda e o nome do cliente.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 36"
+    },
+    {
+      "id": 37,
+      "tema": "E2.5",
+      "assunto": "Pilha ELK: agregação/análise de logs e monitoramento",
+      "enunciado": "Um dos objetivos da pilha ELK é agregar e analisar logs de diferentes soluções e criar visualizações para o monitoramento de aplicações e infraestruturas.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 37"
+    },
+    {
+      "id": 38,
+      "tema": "E3.1",
+      "assunto": "Elasticsearch: índice e shards",
+      "enunciado": "O Elasticsearch permite a divisão de um índice em subpartes denominadas shards, as quais devem ser remontadas para se tornarem funcionais, uma vez que não podem ser utilizadas isoladamente.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 38"
+    },
+    {
+      "id": 39,
+      "tema": "E3.3",
+      "assunto": "Big data: MapReduce e processamento paralelo",
+      "enunciado": "O modelo MapReduce possibilita o processamento, de modo paralelo, de grandes volumes de dados, de modo que se divida a carga de trabalho entre os diversos nós do cluster.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 39"
+    },
+    {
+      "id": 40,
+      "tema": "E3.3",
+      "assunto": "Data lake: armazenamento de dados",
+      "enunciado": "O armazenamento de dados em um data lake requer, entre outros requisitos, o conhecimento prévio de sua estrutura de composição.",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 40"
+    },
+    {
+      "id": 53,
+      "tema": "E3.4",
+      "assunto": "Backup incremental e diferencial",
+      "enunciado": "No backup incremental, são copiados todos os dados modificados desde o último backup integral, ao passo que, no backup diferencial, são copiados apenas os dados modificados desde o último backup incremental.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 53"
+    },
+    {
+      "id": 54,
+      "tema": "E3.4",
+      "assunto": "Fitas LTO como mídia de backup corporativo (retenção/durabilidade)",
+      "enunciado": "As fitas LTO (linear tape-open) podem ser usadas em soluções de backup corporativo, devido à sua alta capacidade de armazenamento e longa durabilidade, sendo capazes de armazenar dados por décadas quando mantidas em condições adequadas.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 54"
+    },
+    {
+      "id": 81,
+      "tema": "E3.4",
+      "assunto": "Confidencialidade e hash de mensagem",
+      "enunciado": "A confidencialidade é uma propriedade verificável por meio do hash de uma mensagem.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 81"
+    },
+    {
+      "id": 82,
+      "tema": "E3.4",
+      "assunto": "Integridade e criptografia assimétrica (assinatura digital)",
+      "enunciado": "A verificação da integridade da informação é possibilitada pela criptografia assimétrica, que utiliza chave pública de 2.048 bits, correspondente à assinatura digital.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 82"
+    },
+    {
+      "id": 83,
+      "tema": "E3.4",
+      "assunto": "Assinatura digital e certificado digital",
+      "enunciado": "Embora se utilize a chave privada do emissor para a assinatura digital de um documento, qualquer usuário que detenha certificado digital público que corresponda à chave privada é capaz de verificá-la.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 83"
+    },
+    {
+      "id": 86,
+      "tema": "E3.4",
+      "assunto": "Criptografia RSA: chave pública e chave privada",
+      "enunciado": "Operações feitas com chave pública RSA pertencente a um certificado digital somente podem ser desfeitas com a chave privada correspondente.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 86"
+    },
+    {
+      "id": 87,
+      "tema": "E3.4",
+      "assunto": "HTTPS: integridade e confidencialidade em trânsito",
+      "enunciado": "A utilização de HTTPS contribui para a integridade e a confidencialidade dos dados transmitidos entre o cliente e o servidor de um aplicativo web.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 87"
+    },
+    {
+      "id": 89,
+      "tema": "E3.4",
+      "assunto": "HTTPS: rotação de chave criptográfica",
+      "enunciado": "O HTTPS permite que a chave criptográfica possa ser rotacionada periodicamente, o que dificulta ataques por força bruta à senha.",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 89"
+    },
+    {
+      "id": 91,
+      "tema": "E4.4",
+      "assunto": "ITIL 4: definição de produto e cocriação de valor",
+      "enunciado": "O produto, conforme definição presente na ITIL 4, é um meio de permitir a cocriação de valor, o que ajuda os clientes a alcançarem seus objetivos sem que precisem gerenciar custos e riscos.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 91"
+    },
+    {
+      "id": 92,
+      "tema": "E4.4",
+      "assunto": "PMBOK 7: papel do patrocinador",
+      "enunciado": "Conforme o PMBOK 7.ª edição, o patrocinador de um projeto deve identificar expectativas e gerenciar riscos, qualidade e recursos.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 92"
+    },
+    {
+      "id": 93,
+      "tema": "E4.4",
+      "assunto": "COBIT 2019: princípios de governança",
+      "enunciado": "De acordo com o COBIT 2019, são princípios que orientam a criação de uma estrutura eficaz de governança: ser aberta e flexível, permitindo a inclusão de novos conteúdos e abordagens; e estar alinhada com padrões, estruturas e regulamentações relevantes.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 93"
+    },
+    {
+      "id": 94,
+      "tema": "E4.5",
+      "assunto": "Diálogo competitivo em licitações",
+      "enunciado": "Em licitações realizadas na modalidade diálogo competitivo, conforme previsto na Lei de Licitações e Contratos Administrativos, a administração pública deve apresentar previamente aos licitantes uma solução técnica detalhada e definitiva, sendo vedada qualquer alteração posterior durante o processo de diálogo.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 94"
+    },
+    {
+      "id": 95,
+      "tema": "E4.5",
+      "assunto": "Fiscalização de contrato de TI",
+      "enunciado": "Suponha que, durante a execução de contrato firmado entre a administração pública e certa contratada para a aquisição de software, o fiscal do contrato identifique falhas contratuais recorrentes e que, em caráter de urgência, o fiscal opte por não envolver seus superiores, notificando diretamente o funcionário responsável da contratada e solicitando correções imediatas. Nesse caso, a conduta do fiscal do contrato está de acordo com a legislação, pois prioriza a agilidade e não compromete a formalidade da sua função de fiscalização.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 95"
+    },
+    {
+      "id": 96,
+      "tema": "E4.5",
+      "assunto": "Planejamento de contratação de solução de TI e estimativa de preços",
+      "enunciado": "A fase de planejamento de uma contratação pública voltada à aquisição de solução de TI deve contemplar a estimativa de preços da contratação e aspectos técnicos que garantam que a solução atenda aos objetivos institucionais previamente definidos.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 96"
+    },
+    {
+      "id": 97,
+      "tema": "E4.5",
+      "assunto": "Remuneração por esforço/produto e indicadores de nível de serviço",
+      "enunciado": "Na contratação de soluções de TI, é possível combinar critérios de remuneração por esforço e por produto, desde que o contrato contenha indicadores de nível de serviço e o fiscal atue na verificação da conformidade das entregas.",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 97"
+    },
+    {
+      "id": 98,
+      "tema": "E2.4",
+      "assunto": "IA generativa: viés de exclusão e representatividade dos dados de treinamento",
+      "enunciado": "No desenvolvimento dos achados de auditoria, a partir dos resultados da análise das informações feita com auxílio de IAG, o auditor deve atentar à possibilidade de ocorrência do viés de exclusão, que ocorrerá caso as comunidades quilombolas tenham sido sub-representadas ou excluídas do conjunto de dados utilizado no treinamento da IAG.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 98"
+    },
+    {
+      "id": 99,
+      "tema": "E2.4",
+      "assunto": "IA generativa: imparcialidade e reprodução de tendências discriminatórias",
+      "enunciado": "O uso de IAG contribui para a imparcialidade do relatório de auditoria, pois, desde que treinadas com grandes volumes de dados, as ferramentas de inteligência artificial generativa não reproduzem tendências humanas discriminatórias, como racismo.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 99"
+    },
+    {
+      "id": 100,
+      "tema": "E3.4",
+      "assunto": "Anonimização de dados pessoais em modelos de IA",
+      "enunciado": "O auditor deve evitar a anonimização dos dados pessoais dos beneficiários do programa social, para não comprometer o desempenho do modelo de IAG.",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "TCE-RS 2025 — Cargo 4 (TI) — item 100"
+    }
+  ]
+}
