@@ -18,44 +18,44 @@ tags:
 
 ### 1 Problemas e requisitos
 
-- [ ] 1.1 Necessidades de usuários.
-- [ ] 1.2 Requisitos funcionais e não funcionais.
-- [ ] 1.3 Restrições e critérios de aceitação.
-- [ ] 1.4 Desenho centrado nas pessoas.
-- [ ] 1.5 Relações entre problema público, processo de trabalho e solução digital.
+- [x] 1.1 Necessidades de usuários.
+- [x] 1.2 Requisitos funcionais e não funcionais.
+- [x] 1.3 Restrições e critérios de aceitação.
+- [x] 1.4 Desenho centrado nas pessoas.
+- [x] 1.5 Relações entre problema público, processo de trabalho e solução digital.
 
 ### 2 Programação e correção
 
-- [ ] 2.1 Linguagem Java: tipos de dados, estruturas de controle, métodos, classes e objetos.
-- [ ] 2.2 Encapsulamento, interfaces, herança e polimorfismo.
-- [ ] 2.3 Coleções e tipos genéricos.
-- [ ] 2.4 Igualdade de objetos, mutabilidade, tratamento de exceções e leitura e escrita de arquivos.
-- [ ] 2.5 Estruturas de dados, algoritmos e pseudocódigo.
-- [ ] 2.6 Leitura, depuração e testes de borda.
-- [ ] 2.7 Complexidade em decisões de desempenho.
-- [ ] 2.8 Modularidade e padrões de projeto aplicados à manutenção.
+- [x] 2.1 Linguagem Java: tipos de dados, estruturas de controle, métodos, classes e objetos.
+- [x] 2.2 Encapsulamento, interfaces, herança e polimorfismo.
+- [x] 2.3 Coleções e tipos genéricos.
+- [x] 2.4 Igualdade de objetos, mutabilidade, tratamento de exceções e leitura e escrita de arquivos.
+- [x] 2.5 Estruturas de dados, algoritmos e pseudocódigo.
+- [x] 2.6 Leitura, depuração e testes de borda.
+- [x] 2.7 Complexidade em decisões de desempenho.
+- [x] 2.8 Modularidade e padrões de projeto aplicados à manutenção.
 
 ### 3 Concorrência e processamento
 
-- [ ] 3.1 Concorrência, paralelismo e assincronia.
-- [ ] 3.2 Condições de corrida e sincronização.
-- [ ] 3.3 Compartilhamento de estado, bloqueios e falhas.
-- [ ] 3.4 Correção e desempenho sob requisições concorrentes.
+- [x] 3.1 Concorrência, paralelismo e assincronia.
+- [x] 3.2 Condições de corrida e sincronização.
+- [x] 3.3 Compartilhamento de estado, bloqueios e falhas.
+- [x] 3.4 Correção e desempenho sob requisições concorrentes.
 
 ### 4 Interfaces e experiência do usuário
 
-- [ ] 4.1 Usabilidade, prototipagem e desenho responsivo.
-- [ ] 4.2 Acessibilidade e barreiras digitais.
-- [ ] 4.3 Componentes de interface e reaproveitamento.
-- [ ] 4.4 Validação com usuários e prevenção de erros no uso dos serviços.
-- [ ] 4.5 Desenvolvimento de interfaces com JavaScript e Vue.js: componentes, reatividade, tratamento de eventos e consumo de APIs.
+- [x] 4.1 Usabilidade, prototipagem e desenho responsivo.
+- [x] 4.2 Acessibilidade e barreiras digitais.
+- [x] 4.3 Componentes de interface e reaproveitamento.
+- [x] 4.4 Validação com usuários e prevenção de erros no uso dos serviços.
+- [x] 4.5 Desenvolvimento de interfaces com JavaScript e Vue.js: componentes, reatividade, tratamento de eventos e consumo de APIs.
 
 ### 5 Manutenção e evolução
 
-- [ ] 5.1 Débito técnico, documentação, modularidade e acoplamento.
-- [ ] 5.2 Sustentação e modernização de sistemas legados.
-- [ ] 5.3 Interoperabilidade e compatibilidade.
-- [ ] 5.4 Impactos das mudanças e das falhas sobre a continuidade e a qualidade dos serviços.
+- [x] 5.1 Débito técnico, documentação, modularidade e acoplamento.
+- [x] 5.2 Sustentação e modernização de sistemas legados.
+- [x] 5.3 Interoperabilidade e compatibilidade.
+- [x] 5.4 Impactos das mudanças e das falhas sobre a continuidade e a qualidade dos serviços.
 
 ## Notas atômicas
 

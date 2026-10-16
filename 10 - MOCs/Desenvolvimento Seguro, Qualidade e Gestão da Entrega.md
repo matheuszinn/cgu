@@ -18,46 +18,46 @@ tags:
 
 ### 1 Segurança de aplicações
 
-- [ ] 1.1 Ameaças e vulnerabilidades em aplicações e interfaces.
-- [ ] 1.2 Validação de entradas e controles de acesso.
-- [ ] 1.3 Proteção de segredos e dependências.
-- [ ] 1.4 Testes de segurança autorizados.
-- [ ] 1.5 Prevenção de vazamentos.
-- [ ] 1.6 Registros, preservação de evidências e tratamento de falhas de segurança, inclusive em integrações com IA.
+- [x] 1.1 Ameaças e vulnerabilidades em aplicações e interfaces.
+- [x] 1.2 Validação de entradas e controles de acesso.
+- [x] 1.3 Proteção de segredos e dependências.
+- [x] 1.4 Testes de segurança autorizados.
+- [x] 1.5 Prevenção de vazamentos.
+- [x] 1.6 Registros, preservação de evidências e tratamento de falhas de segurança, inclusive em integrações com IA.
 
 ### 2 Testes e qualidade
 
-- [ ] 2.1 Testes unitários, de integração, de contrato e de aceitação.
-- [ ] 2.2 Análise estática, cobertura e revisão de código.
-- [ ] 2.3 Automação e dados de teste.
-- [ ] 2.4 Limites das métricas de qualidade.
-- [ ] 2.5 Verificação de requisitos funcionais, segurança, desempenho e acessibilidade.
+- [x] 2.1 Testes unitários, de integração, de contrato e de aceitação.
+- [x] 2.2 Análise estática, cobertura e revisão de código.
+- [x] 2.3 Automação e dados de teste.
+- [x] 2.4 Limites das métricas de qualidade.
+- [x] 2.5 Verificação de requisitos funcionais, segurança, desempenho e acessibilidade.
 
 ### 3 Entrega e operação
 
-- [ ] 3.1 Versionamento, integração e entrega contínuas.
-- [ ] 3.2 DevSecOps e segurança da cadeia de dependências.
-- [ ] 3.3 Automação de build, teste e implantação.
-- [ ] 3.4 Configuração e segregação de ambientes.
-- [ ] 3.5 Mudanças, reversão e observabilidade.
-- [ ] 3.6 Manutenção da continuidade durante entregas e incidentes.
+- [x] 3.1 Versionamento, integração e entrega contínuas.
+- [x] 3.2 DevSecOps e segurança da cadeia de dependências.
+- [x] 3.3 Automação de build, teste e implantação.
+- [x] 3.4 Configuração e segregação de ambientes.
+- [x] 3.5 Mudanças, reversão e observabilidade.
+- [x] 3.6 Manutenção da continuidade durante entregas e incidentes.
 
 ### 4 Gestão de produtos e governança
 
-- [ ] 4.1 Descoberta de necessidades, entrega e ciclo de vida de produtos digitais.
-- [ ] 4.2 Scrum e Kanban.
-- [ ] 4.3 Priorização, critérios de aceitação e indicadores de resultado.
-- [ ] 4.4 PDTIC, plano de transformação digital e plano de dados abertos aplicados a produtos e integrações.
-- [ ] 4.5 Riscos, responsabilidades e evidências de efetividade de controles.
+- [x] 4.1 Descoberta de necessidades, entrega e ciclo de vida de produtos digitais.
+- [x] 4.2 Scrum e Kanban.
+- [x] 4.3 Priorização, critérios de aceitação e indicadores de resultado.
+- [x] 4.4 PDTIC, plano de transformação digital e plano de dados abertos aplicados a produtos e integrações.
+- [x] 4.5 Riscos, responsabilidades e evidências de efetividade de controles.
 
 ### 5 Contratação e fiscalização de soluções
 
-- [ ] 5.1 Necessidade, estudo técnico preliminar e termo de referência.
-- [ ] 5.2 Comparação entre desenvolvimento próprio, contratação e compartilhamento.
-- [ ] 5.3 Viabilidade, dimensionamento, custo total de propriedade e pesquisa de preços.
-- [ ] 5.4 Qualidade, níveis de serviço e entregas verificáveis.
-- [ ] 5.5 Fiscalização e pagamento.
-- [ ] 5.6 Propriedade intelectual, portabilidade, acesso a código e dados, dependência tecnológica e plano de saída.
+- [x] 5.1 Necessidade, estudo técnico preliminar e termo de referência.
+- [x] 5.2 Comparação entre desenvolvimento próprio, contratação e compartilhamento.
+- [x] 5.3 Viabilidade, dimensionamento, custo total de propriedade e pesquisa de preços.
+- [x] 5.4 Qualidade, níveis de serviço e entregas verificáveis.
+- [x] 5.5 Fiscalização e pagamento.
+- [x] 5.6 Propriedade intelectual, portabilidade, acesso a código e dados, dependência tecnológica e plano de saída.
 
 ## Notas atômicas
 
