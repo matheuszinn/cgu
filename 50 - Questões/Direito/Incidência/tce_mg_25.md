@@ -2,7 +2,7 @@
 tipo: cruzamento
 concurso: "tce_mg_25"
 cargo: "TCE/MG 2025 (Cebraspe) — provas objetivas de Conhecimentos Gerais e Específicos (Cargos 1 e 4)"
-fonte_prova: "Provas relevantes (CGU AFFC)/tce_mg_25/ (3 provas objetivas)"
+fonte_prova: "Provas/Relevantes (CGU AFFC)/tce_mg_25/ (3 provas objetivas)"
 taxonomia: "50 - Questões/Direito/Taxonomia - Direito.md"
 itens_direito: 39
 tags:
@@ -14,9 +14,9 @@ tags:
 # Cruzamento Direito — tce_mg_25 × Edital CGU 2026
 
 > **Provas objetivas analisadas (3):**
-> - `Provas relevantes (CGU AFFC)/tce_mg_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA TODOS OS CARGOS.md`
-> - `Provas relevantes (CGU AFFC)/tce_mg_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md`
-> - `Provas relevantes (CGU AFFC)/tce_mg_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 4.md`
+> - `Provas/Relevantes (CGU AFFC)/tce_mg_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA TODOS OS CARGOS.md`
+> - `Provas/Relevantes (CGU AFFC)/tce_mg_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md`
+> - `Provas/Relevantes (CGU AFFC)/tce_mg_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 4.md`
 >
 > Gabaritos (`GABARITO …`) e padrões de resposta (`PADRAO …`) **não** foram lidos, conforme a tarefa. As provas discursivas também não foram consideradas (a tarefa pede as provas objetivas).
 >

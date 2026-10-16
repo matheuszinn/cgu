@@ -7,10 +7,10 @@ referencia: "Edital CGU 2026 – Direito (conhecimentos básicos e complementare
 # Cruzamento — tce_pr_24_auditor × Taxonomia CGU 2026 (Direito)
 
 > Arquivos analisados (provas objetivas):
-> - `Provas relevantes (CGU AFFC)/tce_pr_24_auditor/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA TODOS OS CARGOS.md` (questões 1–50)
-> - `Provas relevantes (CGU AFFC)/tce_pr_24_auditor/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md` (questões 51–100)
-> - `Provas relevantes (CGU AFFC)/tce_pr_24_auditor/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.md` (questões 51–100)
-> - `Provas relevantes (CGU AFFC)/tce_pr_24_auditor/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6.md` (questões 51–100)
+> - `Provas/Relevantes (CGU AFFC)/tce_pr_24_auditor/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA TODOS OS CARGOS.md` (questões 1–50)
+> - `Provas/Relevantes (CGU AFFC)/tce_pr_24_auditor/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md` (questões 51–100)
+> - `Provas/Relevantes (CGU AFFC)/tce_pr_24_auditor/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.md` (questões 51–100)
+> - `Provas/Relevantes (CGU AFFC)/tce_pr_24_auditor/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6.md` (questões 51–100)
 >
 > Total de itens de Direito classificados em D1–D10: **51**.
 > Critério: só entram itens de **direito público** enquadráveis em um dos dez temas (D1–D10). Ficam de fora Português, RLM, TI, contabilidade, administração/gestão, orçamento/finanças públicas e, ainda, ramos jurídicos fora do recorte do edital CGU (Civil, Penal, Processual Civil, Tributário e Previdenciário).

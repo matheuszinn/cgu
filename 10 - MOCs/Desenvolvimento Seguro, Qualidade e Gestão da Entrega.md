@@ -12,7 +12,7 @@ tags:
 # Desenvolvimento Seguro, Qualidade e Gestão da Entrega
 
 > **Conhecimentos específicos** — Cargo 4: TI / Desenvolvimento de Sistemas — Edital nº 1/2026 – CGU – AFFC.
-> Texto integral do edital: [[Ed_1_2026_CGU_Abertura]].
+> Texto integral do edital: [[Edital CGU 2026 (texto integral)]].
 
 ## Itens do edital (checklist)
 

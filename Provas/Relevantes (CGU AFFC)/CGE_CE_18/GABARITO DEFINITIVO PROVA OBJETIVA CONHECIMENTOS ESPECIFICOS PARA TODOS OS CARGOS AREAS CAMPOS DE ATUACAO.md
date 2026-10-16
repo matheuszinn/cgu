@@ -1,0 +1,52 @@
+---
+tipo: prova
+concurso: "CGE_CE_18"
+arquivo_origem: "Provas/PDF/CGE_CE_18/GABARITO DEFINITIVO PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS PARA TODOS OS CARGOS AREAS CAMPOS DE ATUACAO.pdf"
+tags:
+  - prova
+  - cebraspe
+  - cgu-2026
+---
+
+# GABARITO DEFINITIVO PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS PARA TODOS OS CARGOS AREAS CAMPOS DE ATUACAO
+
+GOVERNO DO ESTADO DO CEARÁ
+CONCURSO PÚBLICO PARA O PROVIMENTO DE VAGAS NO CARGO DE AUDITOR DE CONTROLE INTERNO DA
+CONTROLADORIA E OUVIDORIA GERAL DO ESTADO DO CEARÁ (CGE/CE)
+Aplicação: 28/4/2019
+CONHECIMENTOS ESPECÍFICOS PARA TODOS OS CARGOS/ÁREAS/CAMPO DE ATUAÇÃO
+0
+GABARITOS OFICIAIS DEFINITIVOS
+0
+Obs.: ( X ) questão anulada.
+Questão
+Gabarito
+
+| Item | Gabarito |
+|:--:|:--:|
+| 31 | B |
+| 32 | B |
+| 33 | A |
+| 34 | B |
+| 35 | E |
+| 36 | C |
+| 37 | D |
+| 38 | B |
+| 39 | B |
+| 40 | C |
+| 41 | D |
+| 42 | B |
+| 43 | D |
+| 44 | E |
+| 45 | E |
+| 50 | A |
+| 51 | A |
+| 52 | B |
+| 53 | B |
+| 54 | B |
+| 55 | A |
+| 56 | E |
+| 57 | D |
+| 58 | E |
+| 59 | C |
+| 60 | A |

@@ -11,7 +11,7 @@ tags: [analise, cebraspe, cgu-2026]
 > **Escopo:** Edital nº 1/2026 – CGU – AFFC, **Cargo 4 – Auditor Federal de Finanças e Controle – Especialidade: Tecnologia da Informação – Desenvolvimento de Sistemas**.
 > Bloco analisado: **Conhecimentos Específicos (P3 – 90 itens, 180 pontos)** — Engenharia de Software e Programação; Arquitetura e Integração de Sistemas; Persistência, Integração e Proteção de Dados; Desenvolvimento Seguro, Qualidade e Gestão da Entrega.
 > **Nota de método:** o concurso da CGU de **2021 foi da FGV**; o de **2026 é o primeiro da Cebraspe** para o AFFC. Por isso, esta análise usa a incidência histórica da **Cebraspe em provas de TI** (foco em controle/auditoria de TI: **TCU 2015/2025/2026**, TCEs, CGDF, Bacen, FUNPRESP-JUD, BANRISUL, STM, INPI, VALEC etc.), que é o melhor preditor disponível para a banca.
-> Relacionado: [[Engenharia de Software e Programação]] · [[Arquitetura e Integração de Sistemas]] · [[Persistência, Integração e Proteção de Dados]] · [[Desenvolvimento Seguro, Qualidade e Gestão da Entrega]] · [[Ed_1_2026_CGU_Abertura]]
+> Relacionado: [[Engenharia de Software e Programação]] · [[Arquitetura e Integração de Sistemas]] · [[Persistência, Integração e Proteção de Dados]] · [[Desenvolvimento Seguro, Qualidade e Gestão da Entrega]] · [[Edital CGU 2026 (texto integral)]]
 
 ---
 
@@ -187,5 +187,5 @@ tags: [analise, cebraspe, cgu-2026]
 - Estratégia Concursos — **Simulado Final TCU (AUFC – Auditoria TI), 15/02/2026** (Saga/2PC, Records Java, serverless/cold start, design patterns): <https://dhg1h5j42swfq.cloudfront.net/2026/02/13155807/sem_comentario_tcu_auditor_15-02.pdf>
 - Gran Cursos — **"Resolvendo a prova discursiva do TCU 2026"** (SaaS, SLA, lock-in, fiscalização de contratos de TI): <https://blog.grancursosonline.com.br/resolvendo-a-prova-discursiva-do-concurso-tribunal-de-contas-da-uniao-2026-parte-2>
 - Cebraspe — **Página oficial do concurso CGU 26 AFFC**: <https://www.cebraspe.org.br/concursos/cgu_26_affc>
-- Edital **nº 1 – CGU – AFFC (08/10/2026)** — texto integral no vault: [[Ed_1_2026_CGU_Abertura]].
+- Edital **nº 1 – CGU – AFFC (08/10/2026)** — texto integral no vault: [[Edital CGU 2026 (texto integral)]].
 - Análise interna do vault — **[[Analise Conteudo x Prova 2021]]** (CGU 2021 / FGV).

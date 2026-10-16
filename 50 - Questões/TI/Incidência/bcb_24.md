@@ -11,7 +11,7 @@ tags:
 
 # Cruzamento — bcb_24 × Edital CGU 2026 (Cargo 4 — TI)
 
-> Arquivo analisado: `Provas relevantes (CGU AFFC)/bcb_24/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md`
+> Arquivo analisado: `Provas/Relevantes (CGU AFFC)/bcb_24/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md`
 > Classificação por item `**N**` → um código da taxonomia (E1.1–E4.5). Item fora do edital (ex.: ciência de dados/ML, redes, administração de SO) → descartado.
 > **Total de itens de TI: 32** · **Fora do edital: 9**
 

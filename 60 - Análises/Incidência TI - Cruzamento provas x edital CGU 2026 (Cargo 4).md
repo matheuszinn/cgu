@@ -89,4 +89,4 @@ tags:
 ## Fontes
 
 - Edital nº 1/2026 – CGU – AFFC, item **15.2.4** (Conhecimentos Específicos – Cargo 4).
-- Provas em `Provas relevantes (CGU AFFC)/`; cruzamentos em `50 - Questões/TI/Incidência/`.
+- Provas em `Provas/Relevantes (CGU AFFC)/`; cruzamentos em `50 - Questões/TI/Incidência/`.

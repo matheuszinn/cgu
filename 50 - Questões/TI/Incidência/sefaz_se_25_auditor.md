@@ -11,11 +11,11 @@ tags:
 
 # Cruzamento — sefaz_se_25_auditor × Edital CGU 2026 (Cargo 4 — TI)
 
-> Arquivo analisado: `Provas relevantes (CGU AFFC)/sefaz_se_25_auditor/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS II ESPECIALIDADE 2 TARDE.md`
+> Arquivo analisado: `Provas/Relevantes (CGU AFFC)/sefaz_se_25_auditor/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS II ESPECIALIDADE 2 TARDE.md`
 > Classificação por questão (91 a 120) → um código da taxonomia (E1.1–E4.5). Item fora do edital (gestão genérica de projetos/processos, segurança de redes) → descartado.
 > **Total de itens de TI: 27** · **Fora do edital: 3**
 >
-> Observação: o markdown de origem perdeu a ordem das questões (o PDF é em duas colunas e o texto veio intercalado). A ordem correta dos enunciados foi restabelecida a partir do PDF da mesma prova (`Provas Cebraspe/sefaz_se_25_auditor/PROVA OBJETIVA ... ESPECIALIDADE 2 TARDE.pdf`); nenhum gabarito foi consultado.
+> Observação: o markdown de origem perdeu a ordem das questões (o PDF é em duas colunas e o texto veio intercalado). A ordem correta dos enunciados foi restabelecida a partir do PDF da mesma prova (`Provas/PDF/sefaz_se_25_auditor/PROVA OBJETIVA ... ESPECIALIDADE 2 TARDE.pdf`); nenhum gabarito foi consultado.
 
 ## Distribuição por tema
 

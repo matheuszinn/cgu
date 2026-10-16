@@ -11,19 +11,19 @@ tags:
 
 ## Arquivos lidos
 
-- `Provas relevantes (CGU AFFC)/tce_rn_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 4.md`
-- `Provas relevantes (CGU AFFC)/tce_rn_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.md`
-- `Provas relevantes (CGU AFFC)/tce_rn_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6.md`
-- `Provas relevantes (CGU AFFC)/tce_rn_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 9.md`
-- `Provas relevantes (CGU AFFC)/tce_rn_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 12.md`
-- `Provas relevantes (CGU AFFC)/tce_rn_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14.md`
-- `Provas relevantes (CGU AFFC)/tce_rn_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 1 2 E 3.md`
-- `Provas relevantes (CGU AFFC)/tce_rn_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 4 E 5.md`
-- `Provas relevantes (CGU AFFC)/tce_rn_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 6 7 8 10 E 11.md`
-- `Provas relevantes (CGU AFFC)/tce_rn_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 9.md`
-- `Provas relevantes (CGU AFFC)/tce_rn_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 12.md`
-- `Provas relevantes (CGU AFFC)/tce_rn_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 13.md`
-- `Provas relevantes (CGU AFFC)/tce_rn_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 14.md`
+- `Provas/Relevantes (CGU AFFC)/tce_rn_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 4.md`
+- `Provas/Relevantes (CGU AFFC)/tce_rn_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.md`
+- `Provas/Relevantes (CGU AFFC)/tce_rn_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6.md`
+- `Provas/Relevantes (CGU AFFC)/tce_rn_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 9.md`
+- `Provas/Relevantes (CGU AFFC)/tce_rn_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 12.md`
+- `Provas/Relevantes (CGU AFFC)/tce_rn_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14.md`
+- `Provas/Relevantes (CGU AFFC)/tce_rn_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 1 2 E 3.md`
+- `Provas/Relevantes (CGU AFFC)/tce_rn_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 4 E 5.md`
+- `Provas/Relevantes (CGU AFFC)/tce_rn_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 6 7 8 10 E 11.md`
+- `Provas/Relevantes (CGU AFFC)/tce_rn_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 9.md`
+- `Provas/Relevantes (CGU AFFC)/tce_rn_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 12.md`
+- `Provas/Relevantes (CGU AFFC)/tce_rn_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 13.md`
+- `Provas/Relevantes (CGU AFFC)/tce_rn_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 14.md`
 - Taxonomia: `50 - Questões/Direito/Taxonomia - Direito.md`
 
 > **Nota de método:** foram considerados os itens que aparecem no formato `**N** enunciado` (numeração visível no markdown de origem). Trechos que, na conversão do PDF, perderam o número do item **não** foram classificados, para não inventar itens — mesma convenção do cruzamento de TI. Itens de áreas fora do recorte jurídico do edital (português, RLM, TI, auditoria governamental, direito orçamentário/financeiro, tributário, previdenciário, penal/processual, administração geral e história/geografia do RN) foram descartados. Alguns itens das provas de conhecimentos gerais se repetem entre cargos (a mesma prova é reutilizada); por isso a contagem é por arquivo.

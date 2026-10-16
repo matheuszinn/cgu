@@ -12,9 +12,9 @@ tags:
 # Cruzamento — inpi_23 × Edital CGU 2026 (Cargo 4 — TI)
 
 > Arquivos analisados:
-> - `Provas relevantes (CGU AFFC)/inpi_23/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 9.md`
-> - `Provas relevantes (CGU AFFC)/inpi_23/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 10.md`
-> - `Provas relevantes (CGU AFFC)/inpi_23/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 11.md`
+> - `Provas/Relevantes (CGU AFFC)/inpi_23/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 9.md`
+> - `Provas/Relevantes (CGU AFFC)/inpi_23/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 10.md`
+> - `Provas/Relevantes (CGU AFFC)/inpi_23/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 11.md`
 > Classificação por item `**N**` → um código da taxonomia (E1.1–E4.5). Item fora do edital (ex.: redes, administração de SO/Linux/Windows, office) → descartado.
 > **Total de itens de TI: 46** · **Fora do edital: 14**
 >

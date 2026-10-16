@@ -12,13 +12,13 @@ tags:
 # Cruzamento — inpi_23 × Edital CGU 2026 (Direito)
 
 > **Provas objetivas analisadas (7):**
-> - `Provas relevantes (CGU AFFC)/inpi_23/PROVA OBJETIVA CONHECIMENTOS BASICOS PARA TODOS OS CARGOS.md`
-> - `Provas relevantes (CGU AFFC)/inpi_23/PROVA OBJETIVA CONHECIMENTOS COMPLEMENTARES CARGOS 9 10 E 11.md`
-> - `Provas relevantes (CGU AFFC)/inpi_23/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md`
-> - `Provas relevantes (CGU AFFC)/inpi_23/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md`
-> - `Provas relevantes (CGU AFFC)/inpi_23/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 9.md`
-> - `Provas relevantes (CGU AFFC)/inpi_23/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 10.md`
-> - `Provas relevantes (CGU AFFC)/inpi_23/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 11.md`
+> - `Provas/Relevantes (CGU AFFC)/inpi_23/PROVA OBJETIVA CONHECIMENTOS BASICOS PARA TODOS OS CARGOS.md`
+> - `Provas/Relevantes (CGU AFFC)/inpi_23/PROVA OBJETIVA CONHECIMENTOS COMPLEMENTARES CARGOS 9 10 E 11.md`
+> - `Provas/Relevantes (CGU AFFC)/inpi_23/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md`
+> - `Provas/Relevantes (CGU AFFC)/inpi_23/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md`
+> - `Provas/Relevantes (CGU AFFC)/inpi_23/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 9.md`
+> - `Provas/Relevantes (CGU AFFC)/inpi_23/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 10.md`
+> - `Provas/Relevantes (CGU AFFC)/inpi_23/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 11.md`
 >
 > Gabaritos e padrões de resposta **não** foram lidos, conforme a tarefa.
 > Classificação por item → um código da taxonomia (D1–D10). Foram considerados itens de **Direito** aqueles cujo conteúdo se enquadra em algum tema D1–D10 do recorte jurídico/direito público do edital CGU 2026.

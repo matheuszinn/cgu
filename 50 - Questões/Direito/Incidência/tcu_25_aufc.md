@@ -3,8 +3,8 @@ tipo: cruzamento
 concurso: "tcu_25_aufc"
 cargo: "AUFC"
 fonte_prova:
-  - "Provas relevantes (CGU AFFC)/tcu_25_aufc/PROVA OBJETIVA CONHECIMENTOS BASICOS.md"
-  - "Provas relevantes (CGU AFFC)/tcu_25_aufc/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS.md"
+  - "Provas/Relevantes (CGU AFFC)/tcu_25_aufc/PROVA OBJETIVA CONHECIMENTOS BASICOS.md"
+  - "Provas/Relevantes (CGU AFFC)/tcu_25_aufc/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS.md"
 taxonomia: "50 - Questões/Direito/Taxonomia - Direito.md"
 itens_direito: 58
 tags:
@@ -16,7 +16,7 @@ tags:
 # Cruzamento Direito — tcu_25_aufc × Edital CGU 2026 (Direito)
 
 > Prova com 200 itens objetivos (básicos: 1–100; específicos: 101–200). Itens classificados na taxonomia do edital CGU 2026 – Direito (D1–D10). Itens fora do escopo jurídico/direito público foram descartados.
-> Observação: no arquivo `.md` dos conhecimentos básicos a numeração de vários itens foi mesclada aos comandos; a numeração foi conferida no PDF de origem (`Provas Cebraspe/tcu_25_aufc/PROVA OBJETIVA CONHECIMENTOS BASICOS.pdf`).
+> Observação: no arquivo `.md` dos conhecimentos básicos a numeração de vários itens foi mesclada aos comandos; a numeração foi conferida no PDF de origem (`Provas/PDF/tcu_25_aufc/PROVA OBJETIVA CONHECIMENTOS BASICOS.pdf`).
 
 ## Quantitativo por tema
 

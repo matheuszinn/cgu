@@ -73,4 +73,4 @@ tags:
 ## Fontes
 
 - Edital nº 1/2026 – CGU – AFFC, itens 15.2.2 e 15.2.3.
-- Provas em `Provas relevantes (CGU AFFC)/`; cruzamentos em `50 - Questões/Direito/Incidência/`.
+- Provas em `Provas/Relevantes (CGU AFFC)/`; cruzamentos em `50 - Questões/Direito/Incidência/`.

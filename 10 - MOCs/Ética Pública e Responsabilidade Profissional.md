@@ -12,7 +12,7 @@ tags:
 # Ética Pública e Responsabilidade Profissional
 
 > **Conhecimentos básicos** — Edital nº 1/2026 – CGU – AFFC (Cargo 4 – TI/Desenvolvimento de Sistemas).
-> Texto integral do edital: [[Ed_1_2026_CGU_Abertura]].
+> Texto integral do edital: [[Edital CGU 2026 (texto integral)]].
 
 ## Itens do edital (checklist)
 

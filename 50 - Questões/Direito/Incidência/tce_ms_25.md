@@ -11,7 +11,7 @@ tags:
 
 # Cruzamento — tce_ms_25 × Edital CGU 2026 (Direito)
 
-> Prova analisada: 7 cadernos objetivos do concurso **TCE/MS 2025** (Cebraspe), em `Provas relevantes (CGU AFFC)/tce_ms_25/`.
+> Prova analisada: 7 cadernos objetivos do concurso **TCE/MS 2025** (Cebraspe), em `Provas/Relevantes (CGU AFFC)/tce_ms_25/`.
 > Taxonomia: `50 - Questões/Direito/Taxonomia - Direito.md` (D1–D10). Cada item recebeu **um** código; itens fora do recorte jurídico do edital (português, inglês, TI, contabilidade, direito tributário/civil/processual/ambiental/previdenciário/financeiro e técnica de auditoria) foram **descartados**.
 > **Total de itens de Direito classificados: 108.**
 >

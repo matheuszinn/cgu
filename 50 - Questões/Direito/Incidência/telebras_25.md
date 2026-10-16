@@ -1,17 +1,17 @@
 # Cruzamento Direito — telebras_25
 
 > **Fonte (provas objetivas lidas):**
-> - `Provas relevantes (CGU AFFC)/telebras_25/PROVA OBJETIVA CONHECIMENTOS BASICOS PARA TODOS OS CARGOS.md`
-> - `Provas relevantes (CGU AFFC)/telebras_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md`
-> - `Provas relevantes (CGU AFFC)/telebras_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md`
-> - `Provas relevantes (CGU AFFC)/telebras_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 3.md`
-> - `Provas relevantes (CGU AFFC)/telebras_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 4.md`
+> - `Provas/Relevantes (CGU AFFC)/telebras_25/PROVA OBJETIVA CONHECIMENTOS BASICOS PARA TODOS OS CARGOS.md`
+> - `Provas/Relevantes (CGU AFFC)/telebras_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md`
+> - `Provas/Relevantes (CGU AFFC)/telebras_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md`
+> - `Provas/Relevantes (CGU AFFC)/telebras_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 3.md`
+> - `Provas/Relevantes (CGU AFFC)/telebras_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 4.md`
 >
 > **Taxonomia:** `50 - Questões/Direito/Taxonomia - Direito.md`
 >
 > **Critério:** itens objetivos cujo assunto seja Direito/direito público e que caibam em **um** código D1–D10. O restante (português, RLM, inglês, TI, gestão, contabilidade/orçamento, estatística e ramos de direito privado) foi descartado.
 >
-> **Nota sobre numeração:** os arquivos `.md` perderam boa parte da numeração dos itens (vários itens ficaram concatenados em parágrafos). Para não inventar itens, a numeração foi recuperada do PDF correspondente em `Provas Cebraspe/telebras_25/`. O texto permanece fiel à prova.
+> **Nota sobre numeração:** os arquivos `.md` perderam boa parte da numeração dos itens (vários itens ficaram concatenados em parágrafos). Para não inventar itens, a numeração foi recuperada do PDF correspondente em `Provas/PDF/telebras_25/`. O texto permanece fiel à prova.
 >
 > **Provas discursivas:** não incluídas — não contêm itens objetivos (apenas comandos dissertativos).
 >

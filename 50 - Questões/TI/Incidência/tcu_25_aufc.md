@@ -2,7 +2,7 @@
 tipo: cruzamento
 concurso: "tcu_25_aufc"
 cargo: "AFFC TI (Auditoria de TI)"
-fonte_prova: "Provas relevantes (CGU AFFC)/tcu_25_aufc/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS.md"
+fonte_prova: "Provas/Relevantes (CGU AFFC)/tcu_25_aufc/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS.md"
 taxonomia: "50 - Questões/TI/Taxonomia - TI.md"
 itens_ti: 71
 itens_fora: 29

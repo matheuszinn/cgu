@@ -1,0 +1,119 @@
+---
+tipo: prova
+concurso: "tce_rn_25"
+arquivo_origem: "Provas/PDF/tce_rn_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 8.pdf"
+tags:
+  - prova
+  - cebraspe
+  - cgu-2026
+---
+
+# PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 8
+
+## CONHECIMENTOS ESPECÍFICOS
+
+_No exercício de 2025, um auditor de controle externo da Uma equipe de auditoria, ao realizar suas atividades junto área de contabilidade, ao realizar auditoria financeira em uma aos órgãos públicos sob sua fiscalização, se deparou com as secretaria de estado, deparou-se com os seguintes eventos. seguintes questões envolvendo ativos intangíveis.  Evento A: consumo de materiais de estoque no valor de  Caso I ‒ gastos com capacitação de pessoal. A prefeitura de R$ 50.000,00, cujo empenho e liquidação haviam ocorrido no determinado município desenvolveu um novo sistema de exercício anterior (2024). processamento de dados. Para que os servidores pudessem operar o sistema, o ente gastou R$ 50.000,00 em um curso de  Evento B: recebimento de uma fatura de serviços de treinamento especializado. O contador da prefeitura incluiu consultoria prestados integralmente em dezembro de 2025, esse valor como parte do custo do ativo intangível, mas que, por atraso no protocolo, será empenhada apenas em argumentando que, sem o curso, o software não teria 2026 como despesa de exercícios anteriores (DEA).  Evento C: arrecadação de R$ 100.000,00 referentes a impostos lançados em 2024 que estavam em dívida ativa. utilidade.  Caso II ‒ fase de pesquisa e desenvolvimento. Um ente público iniciou um projeto interno para criar uma nova A partir da situação hipotética precedente, julgue os itens a tecnologia de filtragem de resíduos. Durante a fase de seguir, considerando que a contabilidade aplicada ao setor pesquisa, foram gastos R$ 100.000,00 com a busca de público deve manter um processo de registro apto a sustentar o alternativas e avaliação de materiais. Um auditor, ao analisar dispositivo legal do regime orçamentário, mas também deve o balanço, verificou que o ente registrou esses gastos como proceder à evidenciação dos fatos ligados à administração variação patrimonial diminutiva (VPD), sob a justificativa de financeira e patrimonial segundo o regime contábil. que o projeto ainda se encontrava na fase de pesquisa. Quanto ao evento B, a falta de empenho em 2025 impede o  Caso III ‒ ágio por rentabilidade futura (goodwill). Uma autarquia estadual passou por um processo de fusão com reconhecimento da despesa sob o regime contábil, devendo o auditor recomendar o reconhecimento da outra entidade. Durante o processo, a equipe técnica variação identificou um valor de mercado superior ao valor contábil patrimonial diminutiva (VPD) e do passivo em 2026, no dos ativos líquidos da autarquia, registrando esse "excedente" momento do empenho da DEA. expectativa orçamentário como a variação patrimonial diminutiva (VPD) internamente, pela excelente reputação da autarquia perante o pelo regime contábil devem ser registradas no ano de 2025, público. para que haja a conciliação entre os regimes. como ativo, sob a justificativa de que há um ágio por Quanto ao evento A, tanto a despesa pelo regime_
+
+_Considerando a situação hipotética apresentada, julgue os itens a O ingresso dos valores em atraso relativos ao evento seguir acerca das recomendações que devem ser feitas pela C configura uma receita orçamentária do exercício de 2025, equipe de auditoria com relação aos procedimentos contábeis a em estrita observância ao disposto na Lei n.º 4.320/1964. serem adotados em cada caso._
+
+_A respeito dos procedimentos contábeis que devem ser aplicados Os entes federados devem utilizar o prazo de vida útil e as se enquadra na condição de ativo. taxas anuais de depreciação conforme as peculiaridades de Com relação ao caso III, a equipe de auditoria deve apontar a irregularidade do registro de ágio, considerando que ele não ao ativo imobilizado no setor público, julgue os próximos itens. de rentabilidade futura (goodwill) gerado Com relação ao caso I, a equipe de auditoria deve determinar o estorno do valor como parte do custo do ativo intangível e sua gestão, divulgando suas particularidades em notas recomendar o lançamento como variação patrimonial explicativas. diminutiva. Para bens móveis em uso após a vida útil, recomenda-se a Com relação ao caso II, a equipe de auditoria deve reavaliação caso o valor residual do bem não reflita o seu considerar que o tratamento contábil foi inadequado, uma valor justo, bem como a revisão do seu cronograma de vez que os gastos com pesquisa devem ser incluídos como depreciação. parte do custo do ativo intangível. Determinado município possui um caminhão-pipa que é utilizado para o fornecimento remunerado de água a granjas e frigoríficos da região (ativo gerador de caixa). Durante a auditoria das contas de 2025 desse município, o auditor obteve as seguintes evidências.  Na razão contábil, o veículo está registrado ao custo de R$ 300.000,00, e tem uma depreciação acumulada de R$ 90.000,00.  No laudo de avaliação técnica, o valor justo líquido de venda do veículo é de R$ 170.000,00, e o seu valor em uso (fluxos de caixa descontados), de R$ 185.000,00. A partir dessa situação hipotética, julgue os itens a seguir no que concerne ao procedimento da redução ao valor recuperável no setor público, considerando que o declínio na utilidade do ativo para a entidade que o controla deve ser refletido na mensuração. Caso o valor justo líquido de venda do caminhão seja de R$ 170.000, o auditor deve exigir o reconhecimento da perda_
+
+_com base nesse montante, sendo vedada a utilização do valor em uso para reduzir a desvalorização apurada._
+
+**60** Sendo o valor contábil líquido do caminhão superior ao seu valor recuperável, o auditor deve exigir o registro de uma variação patrimonial diminutiva (VPD) por desvalorização no montante de R$ 25.000,00. O tribunal de contas de certo estado está realizando auditoria financeira na secretaria estadual de saúde. Durante os trabalhos, a equipe de auditoria depara-se com as seguintes situações ocorridas no exercício de 2025: (a) ação judicial movida por um sindicato de servidores pleiteando reajustes retroativos, tendo a assessoria jurídica do órgão classificado o risco de perda como provável, mas ressaltado que o valor exato final depende de cálculos complexos de liquidação de sentença, embora tenha fornecido uma estimativa confiável baseada em jurisprudência; (b) investigação preliminar do Ministério Público sobre supostas irregularidades em contratos de publicidade, cuja existência será confirmada apenas pela ocorrência ou não de um ou mais eventos futuros incertos que não estão totalmente sob o controle da entidade, mas a saída de recursos é considerada possível; (c) autuação da secretaria por descumprimento de normas sanitárias, caso em que a assessoria jurídica considera a perda possível, porém a validade da multa está condicionada ao resultado de um recurso administrativo em outra instância, cujo desfecho depende de interpretação jurídica inédita, tornando a existência da obrigação incerta até a decisão final.
+
+_À luz dos normativos aplicados ao setor público acerca de provisões, passivos contingentes e ativos contingentes, julgue os itens a seguir. No caso da investigação preliminar (b), como a saída de recursos, ainda que haja incerteza, é considerada possível, seus valores devem ser registrados em contas de controle do PCASP e divulgados em notas explicativas._
+
+**62** No caso da ação judicial (a), a dificuldade em calcular o valor exato final da liquidação de sentença impede o reconhecimento de uma provisão, devendo a entidade apenas divulgar o evento em notas explicativas como um passivo contingente.
+
+**63** Com relação ao descumprimento das normas sanitárias (c), como a assessoria jurídica considera a perda possível, a multa deve ser contabilmente registrada como uma provisão.
+
+_No que se refere ao ambiente da informação de custos no setor público, julgue os itens seguintes. O direcionador de custo é definido como o indicador que permite estabelecer a relação de causa e efeito para a alocação dos custos indiretos, devendo ser priorizado em relação ao uso de bases de rateio, as quais têm caráter residual no processo de atribuição de custo._
+
+**65** A classificação de um custo como controlável ou não controlável depende exclusivamente da natureza do recurso consumido (fixo ou variável), devendo os custos fixos ser sempre classificados como não controláveis pelo gestor da unidade.
+
+_Acerca da estrutura do plano de contas aplicado ao setor público (PCASP) e das demonstrações contábeis aplicadas ao setor público, julgue os itens a seguir. Créditos extraordinários dependem de prévia autorização legislativa, a exemplo dos créditos suplementares e especiais._
+
+**67** O balanço orçamentário evidencia a execução das receitas e despesas do orçamento, comparando previsão e arrecadação, fixação e execução.
+
+**68** O PCASP padroniza a estrutura de contas para permitir comparabilidade e consolidação das informações contábeis no setor público.
+
+**69** O balanço financeiro evidencia ingressos e dispêndios orçamentários e extraorçamentários, bem como os saldos em espécie do exercício anterior e do exercício corrente. No que concerne às naturezas da informação contábil, às regras de integridade do PCASP e à execução da despesa pública, julgue os itens seguintes. O suprimento de fundos é forma ordinária de execução de despesas, aplicável a quaisquer gastos, desde que exista dotação suficiente.
+
+**71** As naturezas da informação contábil no PCASP permitem evidenciar fatos sob perspectivas distintas, como orçamentária, patrimonial e de controle, que devem manter coerência e integridade.
+
+**72** As regras de integridade do PCASP autorizam que contas incompatíveis sejam usadas livremente, desde que haja saldo suficiente para registrar o fato.
+
+**73** A demonstração das variações patrimoniais evidencia variações patrimoniais aumentativas e diminutivas e o saldo patrimonial do período. No que diz respeito a despesas de exercícios anteriores, fonte ou destinação de recursos e demonstração dos fluxos de caixa (DFC), julgue os itens subsequentes. Despesas de exercícios anteriores não podem ser pagas no exercício em que se reconhece a obrigação, ainda que se refiram a exercício anterior.
+
+**75** Na elaboração da DFC pelo método indireto, parte-se do resultado orçamentário e ajustam-se as variações de caixa e de restos a pagar para se obter o fluxo líquido das operações.
+
+**76** O mecanismo de fonte ou destinação de recursos permite rastrear a origem e a vinculação legal dos recursos que financiam a despesa da entidade, auxiliando o controle de restrições.
+
+_De acordo com a NBC TSP ‒ Estrutura Conceitual, julgue os próximos itens. Somente entidades da administração pública direta reportam a informação contábil de propósito geral, sendo vedada a inclusão de entidades controladas no perímetro contábil._
+
+**78** Segundo a referida norma, o reconhecimento de ativos e passivos depende de mensuração a valor justo. O balancete de verificação a seguir foi extraído de uma entidade do setor público e estruturado segundo o plano de contas aplicado ao setor público (PCASP). caixa e equivalentes de caixa créditos a receber ativo imobilizado depreciação acumulada do imobilizado obrigações a pagar provisões variações patrimoniais diminutivas variações patrimoniais aumentativas patrimônio líquido R$ 500.000 R$ 300.000 R$ 1.200.000 R$ 200.000 R$ 450.000 R$ 150.000 R$ 700.000 R$ 900.000 R$ 1.000.000
+
+_Com base nas informações apresentadas na situação hipotética precedente, julgue os itens subsequentes._
+
+_Com base no confronto entre variações patrimoniais aumentativas e diminutivas, é correto concluir que o resultado patrimonial do exercício é deficitário em R$ 200.000, o que reduz o patrimônio líquido da entidade no período._
+
+**80** Considerando-se apenas as contas patrimoniais do balancete, é correto concluir que o saldo patrimonial apurado é de R$ 1.200.000.
+
+_Com base nas Normas Brasileiras de Contabilidade para o Setor Público relativas a instrumentos financeiros, julgue os itens seguintes. Para que uma relação de proteção financeira seja qualificada para a contabilidade de hedge, é facultada à entidade a elaboração de documentação formal no início da operação, desde que a eficácia do instrumento seja comprovada por auditores durante o período de elaboração das demonstrações contábeis. As normas exigem que a entidade pública que mudar seu modelo de negócios e reclassificar ativos financeiros de forma prospectiva reapresente obrigatoriamente os ganhos, perdas ou juros reconhecidos em períodos anteriores à data da reclassificação. No âmbito do setor público, a definição de instrumento financeiro restringe-se aos contratos formais, não sendo admitida a inclusão de contas a receber ou a pagar que derivem de compromissos de natureza não contratual, ainda que possuam efeito econômico similar. O emitente de um instrumento financeiro deve classifica-lo no balanço patrimonial como passivo ou patrimônio líquido conforme a essência do acordo contratual, devendo o titular desses mesmos instrumentos aplicar as regras gerais de reconhecimento e mensuração de ativos financeiros, exceto se houver controle ou coligação entre os envolvidos na operação. No reconhecimento inicial, a entidade do setor público pode mensurar contas a receber e contas a pagar de curto prazo pelo valor da fatura original, sem necessidade de ajuste ao valor presente, desde que o efeito do desconto financeiro seja considerado imaterial._
+
+_Considerando as Normas Brasileiras de Contabilidade para o Setor Público (NBC TSP) relativas a provisões, passivos contingentes e ativos contingentes, estoques, ativo imobilizado, ativo intangível, bem como à redução ao valor recuperável de ativo não gerador de caixa, julgue os itens a seguir. Define-se redução ao valor recuperável como a perda de benefícios econômicos futuros ou potencial de serviços de um ativo que seja superior ao reconhecimento sistemático da redução desses benefícios decorrente da depreciação periódica. No setor público, uma provisão deve ser reconhecida no balanço patrimonial sempre que a saída de recursos for classificada como possível, desde que o montante da obrigação possa ser estimado com adequada confiabilidade pela entidade. Itens como marcas, títulos de publicações e listas de usuários de serviços gerados internamente pela própria entidade podem ser reconhecidos como ativos intangíveis, desde que seus custos na fase de desenvolvimento sejam mensurados confiavelmente. Terrenos e edificações adquiridos em conjunto por entidade pública devem ser tratados contabilmente como um único ativo indivisível, de modo que o aumento no valor de mercado do terreno compense a depreciação da edificação. Os estoques que sejam mantidos por entidades do setor público especificamente para distribuição gratuita devem ser mensurados pelo valor correspondente ao menor valor entre o seu custo histórico e o seu custo corrente de reposição._
+
+_Considerando as Normas Brasileiras de Contabilidade para o Setor Público relativas à demonstração dos fluxos de caixa, à apresentação de informação orçamentária, a demonstrações contábeis separadas, demonstrações contábeis consolidadas, bem como a políticas contábeis, mudança de estimativa e retificação de erro, julgue os itens subsequentes. A retificação de erros materiais de períodos anteriores deve ser realizada de forma prospectiva, afetando apenas o exercício atual. O princípio do controle é o critério central para a definição da obrigatoriedade de consolidação das demonstrações contábeis de uma entidade. Consideram-se demonstrações separadas as de entidade que não possui investimentos em controlada, em coligada ou em joint venture. Definem-se equivalentes de caixa como aplicações financeiras de curto prazo e alta liquidez, com risco insignificante de mudança de valor. A comparação entre valores orçados e realizados deve ser incluída nas demonstrações das entidades que publicam seu orçamento aprovado._
+
+_Considerando os fundamentos da auditoria do setor público e os instrumentos de fiscalização, julgue os itens a seguir. Devido ao princípio da independência plena do controle externo, é vedado a auditor de tribunal de contas considerar ou utilizar em seu planejamento os resultados de trabalhos produzidos pela unidade de auditoria interna da entidade fiscalizada, sob risco de anulação do parecer técnico por vício de parcialidade. A auditoria do setor público cumpre papel essencial na governança democrática, pois fornece informações independentes e baseadas em evidências sobre a gestão de recursos públicos, visando aumentar o grau de confiança dos cidadãos e demais usuários previstos nos relatórios da administração pública. O levantamento é o meio pelo qual o tribunal de contas conhece a organização de uma entidade para identificar objetos e áreas que demandem fiscalizações futuras. O objetivo da auditoria do setor público limita-se à verificação da legalidade e da conformidade contábil, não abrangendo a avaliação da eficácia e da eficiência dos programas governamentais, visto que o mérito administrativo é insuscetível de controle externo._
+
+_Acerca dos tipos de auditoria e das normas de auditoria, julgue os itens que se seguem._
+
+**100** O conceito de risco de auditoria na auditoria financeira, conforme a ISSAI 200, refere-se à probabilidade de o auditor ser processado judicialmente por erros em seu relatório, independentemente de as demonstrações financeiras conterem ou não distorções relevantes.
+
+**101** A ISSAI 100 estabelece a estrutura de princípios fundamentais que regem a auditoria do setor público, fornecendo a base para as normas específicas de auditoria financeira, operacional e de conformidade, e é aplicável a todos os trabalhos de auditoria realizados pelas instituições superiores de controle (ISC).
+
+**102** Na auditoria de conformidade, o trabalho do auditor pode ser realizado sob duas perspectivas: a de atestação, em que o responsável pela gestão declara a conformidade e o auditor verifica essa declaração; ou a de reporte direto, na qual o próprio auditor avalia o objeto e relata a conformidade diretamente aos usuários.
+
+**103** A auditoria operacional deve abster-se de emitir recomendações propositivas ao final do relatório, limitandose a apontar as falhas de eficiência encontradas, a fim de garantir a neutralidade do tribunal de contas e evitar interferência no mérito administrativo do órgão auditado.
+
+**104** As normas brasileiras de auditoria do setor público (NBASP), emitidas pelo Instituto Rui Barbosa (IRB), buscam a convergência das práticas de auditoria dos tribunais de contas do Brasil com as normas internacionais (ISSAI).
+
+_Em relação ao planejamento da auditoria governamental, julgue os itens seguintes._
+
+**105** No planejamento de auditoria, se o auditor elevar o nível de materialidade para uma conta contábil, ele assumirá maior tolerância a erros, o que, tecnicamente, permitirá uma redução na extensão dos testes substantivos de detalhe sem comprometer o risco de auditoria.
+
+**106** Na auditoria do setor público, a determinação da materialidade deve fundamentar-se em critérios quantitativos, sendo a avaliação de aspectos qualitativos, como a natureza social ou política do objeto, restrita à fase de comunicação dos resultados.
+
+**107** A matriz de planejamento é o instrumento que organiza as questões de auditoria, os respectivos procedimentos de coleta e análise de dados, as fontes de informação e as possíveis limitações, servindo como roteiro estruturado para a fase de execução.
+
+**108** A utilização da amostragem não estatística é considerada pela ISSAI 100 falha técnica grave que prejudica a validade das conclusões do relatório, uma vez que a referida norma exige a aplicação de métodos probabilísticos em todos os testes de conformidade do setor público.
+
+**109** Na definição do escopo da auditoria, são estabelecidos os limites do trabalho, incluindo-se o período de tempo abrangido, as unidades administrativas e os processos específicos que serão submetidos ao exame do auditor.
+
+_Julgue os itens subsequentes, relativos à execução e ao monitoramento da auditoria do setor público._
+
+**110** Caso os testes de observância revelem que os controles internos da entidade são ineficazes para prevenir ou detectar distorções relevantes, o auditor deve, por imposição normativa, abster-se de realizar testes substantivos e deve declarar a impossibilidade de emitir opinião sobre o objeto, sob pena de vício na caracterização dos achados.
+
+**111** O monitoramento de uma auditoria operacional deve ser considerado concluído e o processo deve ser arquivado após o gestor auditado protocolar o plano de ação, uma vez que a responsabilidade pela implementação das melhorias sugeridas é exclusiva da administração, cessando a jurisdição do órgão de controle sobre o caso.
+
+**112** A inspeção física de ativos imobilizados no curso da execução da auditoria permite ao auditor obter evidência direta e fidedigna sobre a existência e a condição física do bem, contudo tal procedimento, isoladamente, é insuficiente para atestar a propriedade jurídica do ativo pela entidade pública, sendo necessária complementação por meio do exame documental.
+
+**113** A técnica de revisão analítica consiste na conferência aritmética detalhada de cálculos de impostos e somas de documentos fiscais, com o propósito de atestar a exatidão matemática de processos de liquidação da despesa pública.
+
+**114** Por serem documentos que fundamentam a opinião do auditor, os papéis de trabalho são de propriedade exclusiva da entidade auditada, devendo o tribunal de contas proceder à sua devolução integral logo após a homologação do relatório final.
+
+**115** A circularização, também denominada confirmação externa, consiste na obtenção de resposta escrita direta de um terceiro independente sobre informações relativas a saldos ou transações, sendo considerada técnica de alta confiabilidade por originar-se de fonte externa à entidade auditada.
+
+_Acerca das evidências de auditoria e da comunicação dos resultados de uma auditoria governamental, julgue os próximos itens._
+
+**116** No âmbito da auditoria do setor público, a caracterização de um achado depende fundamentalmente da identificação de uma discrepância entre a situação encontrada pelo auditor, denominada condição, e o padrão de desempenho ou legalidade esperado, denominado critério.
+
+**117** A matriz de responsabilização é o instrumento técnico destinado a vincular a conduta do agente ao achado de auditoria; todavia, sua elaboração é facultativa nos casos em que o auditor constata descumprimento de norma legal ou regulamentar que, embora grave, não tenha resultado em dano efetivo ou prejuízo financeiro quantificável ao erário.
+
+**118** A evidência de auditoria é considerada adequada quando fornece suporte razoável para a caracterização dos quatro atributos de um achado, sendo sua confiabilidade influenciada pela sua fonte e natureza, conforme as circunstâncias específicas em que foi obtida pelo auditor no curso dos testes.
+
+**119** Os relatórios de auditoria devem ser redigidos de forma clara, objetiva e concisa, de modo que os usuários previstos, desde gestores públicos até o cidadão comum, possam compreender as evidências e conclusões sem a necessidade de recorrer a conhecimentos técnicos profundos sobre a metodologia de auditoria utilizada.
+
+**120** Na estrutura lógica de um achado de auditoria, causa é o atributo utilizado para descrever as consequências negativas reais ou potenciais advindas da falha identificada, ao passo que o efeito deve identificar o motivo do descumprimento da norma ou do critério de desempenho pelo gestor. Espaço livre

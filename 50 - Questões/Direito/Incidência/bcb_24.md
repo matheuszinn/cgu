@@ -11,10 +11,10 @@ tags:
 # Cruzamento — bcb_24 × Edital CGU 2026 (Direito)
 
 > Provas objetivas analisadas:
-> - `Provas relevantes (CGU AFFC)/bcb_24/PROVA OBJETIVA CONHECIMENTOS BASICOS PARA TODOS OS CARGOS.md`
-> - `Provas relevantes (CGU AFFC)/bcb_24/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md`
-> - `Provas relevantes (CGU AFFC)/bcb_24/PROVA OBJETIVA PROGRAMA DE CAPACITACAO PROCAP.md`
-> - `Provas relevantes (CGU AFFC)/bcb_24/PROVA OBJETIVA PROGRAMA DE CAPACITACAO PROCAP 2a TURMA.md`
+> - `Provas/Relevantes (CGU AFFC)/bcb_24/PROVA OBJETIVA CONHECIMENTOS BASICOS PARA TODOS OS CARGOS.md`
+> - `Provas/Relevantes (CGU AFFC)/bcb_24/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md`
+> - `Provas/Relevantes (CGU AFFC)/bcb_24/PROVA OBJETIVA PROGRAMA DE CAPACITACAO PROCAP.md`
+> - `Provas/Relevantes (CGU AFFC)/bcb_24/PROVA OBJETIVA PROGRAMA DE CAPACITACAO PROCAP 2a TURMA.md`
 >
 > Classificação por item `**N**` → um código da taxonomia (D1–D10). Item fora do Direito/direito público (português, lógica/estatística, macro/microeconomia, TI/segurança da informação, sistema financeiro/mercado, finanças pessoais, gestão de pessoas) → descartado.
 > **Total de itens de Direito: 5** (todos na prova de Conhecimentos Básicos, seção "Direito Administrativo").

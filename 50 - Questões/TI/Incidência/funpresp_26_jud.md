@@ -11,9 +11,9 @@ tags:
 # Cruzamento — funpresp_26_jud × Edital CGU 2026 (Cargo 4 — TI)
 
 > Arquivos analisados (provas específicas de TI, sem gabaritos):
-> - `Provas relevantes (CGU AFFC)/funpresp_26_jud/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS EMPREGO 9.md`
-> - `Provas relevantes (CGU AFFC)/funpresp_26_jud/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS EMPREGO 10.md`
-> - `Provas relevantes (CGU AFFC)/funpresp_26_jud/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS EMPREGO 11.md`
+> - `Provas/Relevantes (CGU AFFC)/funpresp_26_jud/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS EMPREGO 9.md`
+> - `Provas/Relevantes (CGU AFFC)/funpresp_26_jud/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS EMPREGO 10.md`
+> - `Provas/Relevantes (CGU AFFC)/funpresp_26_jud/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS EMPREGO 11.md`
 >
 > Classificação por item `**N**` → um código da taxonomia (E1.1–E4.5). Item fora do edital (estatística/ciência de dados/ML, redes, administração de SO, hardware, marketing, direito administrativo, segurança física) → descartado.
 > Convenção dos itens: prefixo do emprego + número (`EMP9-56`, `EMP10-62`, `EMP11-100`), pois a numeração se repete entre as três provas.

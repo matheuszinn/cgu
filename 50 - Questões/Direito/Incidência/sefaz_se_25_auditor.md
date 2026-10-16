@@ -2,7 +2,7 @@
 tipo: cruzamento
 concurso: "sefaz_se_25_auditor"
 cargo: "Auditor Fiscal da Receita Estadual (SEFAZ/SE)"
-fonte_prova: "Provas relevantes (CGU AFFC)/sefaz_se_25_auditor/ (6 provas objetivas)"
+fonte_prova: "Provas/Relevantes (CGU AFFC)/sefaz_se_25_auditor/ (6 provas objetivas)"
 taxonomia: "50 - Questões/Direito/Taxonomia - Direito.md"
 itens_direito: 27
 tags:
@@ -14,12 +14,12 @@ tags:
 # Cruzamento Direito — sefaz_se_25_auditor × Edital CGU 2026
 
 > **Provas objetivas analisadas (6):**
-> - `Provas relevantes (CGU AFFC)/sefaz_se_25_auditor/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA TODAS AS ESPECIALIDADES MANHA.md`
-> - `Provas relevantes (CGU AFFC)/sefaz_se_25_auditor/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS I PARA TODAS AS ESPECIALIDADES MANHA.md`
-> - `Provas relevantes (CGU AFFC)/sefaz_se_25_auditor/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS I PARA TODAS AS ESPECIALIDADES TARDE.md`
-> - `Provas relevantes (CGU AFFC)/sefaz_se_25_auditor/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS II ESPECIALIDADE 1 TARDE.md`
-> - `Provas relevantes (CGU AFFC)/sefaz_se_25_auditor/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS II ESPECIALIDADE 2 TARDE.md`
-> - `Provas relevantes (CGU AFFC)/sefaz_se_25_auditor/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS II ESPECIALIDADE 3 TARDE.md`
+> - `Provas/Relevantes (CGU AFFC)/sefaz_se_25_auditor/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA TODAS AS ESPECIALIDADES MANHA.md`
+> - `Provas/Relevantes (CGU AFFC)/sefaz_se_25_auditor/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS I PARA TODAS AS ESPECIALIDADES MANHA.md`
+> - `Provas/Relevantes (CGU AFFC)/sefaz_se_25_auditor/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS I PARA TODAS AS ESPECIALIDADES TARDE.md`
+> - `Provas/Relevantes (CGU AFFC)/sefaz_se_25_auditor/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS II ESPECIALIDADE 1 TARDE.md`
+> - `Provas/Relevantes (CGU AFFC)/sefaz_se_25_auditor/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS II ESPECIALIDADE 2 TARDE.md`
+> - `Provas/Relevantes (CGU AFFC)/sefaz_se_25_auditor/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS II ESPECIALIDADE 3 TARDE.md`
 >
 > Gabaritos e padrões de resposta **não** foram lidos, conforme a tarefa.
 > Classificação por item → um código da taxonomia (D1–D10). Foram considerados itens de **Direito** aqueles cujo conteúdo se enquadra em algum tema D1–D10 do recorte jurídico do edital CGU 2026.

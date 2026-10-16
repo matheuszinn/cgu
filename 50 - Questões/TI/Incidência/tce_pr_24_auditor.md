@@ -7,7 +7,7 @@ referencia: "Edital CGU 2026 – Cargo 4 (TI / Desenvolvimento de Sistemas)"
 
 # Cruzamento — tce_pr_24_auditor × Taxonomia CGU 2026 (Cargo 4 – TI)
 
-> Arquivo analisado: `Provas relevantes (CGU AFFC)/tce_pr_24_auditor/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.md`
+> Arquivo analisado: `Provas/Relevantes (CGU AFFC)/tce_pr_24_auditor/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.md`
 > Itens = questões 51 a 100 (50 itens). Total de itens classificados como TI: **38**. Descartados: **12**.
 
 ## Distribuição por tema

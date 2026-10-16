@@ -2,8 +2,8 @@
 tipo: cruzamento
 concurso: "tcu_25_tefc"
 cargo: "TEFC (Técnico Federal de Controle Externo)"
-fonte_prova: "Provas relevantes (CGU AFFC)/tcu_25_tefc/PROVA OBJETIVA CONHECIMENTOS BASICOS.md"
-fonte_prova_2: "Provas relevantes (CGU AFFC)/tcu_25_tefc/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS.md"
+fonte_prova: "Provas/Relevantes (CGU AFFC)/tcu_25_tefc/PROVA OBJETIVA CONHECIMENTOS BASICOS.md"
+fonte_prova_2: "Provas/Relevantes (CGU AFFC)/tcu_25_tefc/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS.md"
 taxonomia: "50 - Questões/Direito/Taxonomia - Direito.md"
 itens_direito: 71
 itens_fora: 49

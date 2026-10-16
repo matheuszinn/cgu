@@ -11,9 +11,9 @@ tags:
 
 ## Arquivos lidos
 
-- `Provas relevantes (CGU AFFC)/tce_rn_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 4.md`
-- `Provas relevantes (CGU AFFC)/tce_rn_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.md`
-- `Provas relevantes (CGU AFFC)/tce_rn_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 12.md`
+- `Provas/Relevantes (CGU AFFC)/tce_rn_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 4.md`
+- `Provas/Relevantes (CGU AFFC)/tce_rn_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.md`
+- `Provas/Relevantes (CGU AFFC)/tce_rn_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 12.md`
 - Taxonomia: `50 - Questões/TI/Taxonomia - TI.md`
 
 > **Nota de método:** foram considerados os itens que aparecem no formato `**N** enunciado` (127 itens numerados ao todo). Trechos sem numeração visível no markdown de origem não foram classificados, para não inventar itens. Os itens de informática básica/office e os de áreas fora do edital (redes, auditoria, ciência de dados/ML, governança COBIT/ITIL/PMBOK etc.) foram descartados.

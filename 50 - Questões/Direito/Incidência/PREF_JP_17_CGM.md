@@ -2,7 +2,7 @@
 tipo: cruzamento
 concurso: "PREF_JP_17_CGM"
 cargo: "Auditor/Técnico Municipal de Controle Interno (CGM João Pessoa)"
-fonte_prova: "Provas relevantes (CGU AFFC)/PREF_JP_17_CGM/PROVA DISCURSIVA CARGO 1.md; Provas relevantes (CGU AFFC)/PREF_JP_17_CGM/PROVA DISCURSIVA CARGO 2.md; Provas relevantes (CGU AFFC)/PREF_JP_17_CGM/PROVA DISCURSIVA CARGO 3.md; Provas relevantes (CGU AFFC)/PREF_JP_17_CGM/PROVA DISCURSIVA CARGO 4.md"
+fonte_prova: "Provas/Relevantes (CGU AFFC)/PREF_JP_17_CGM/PROVA DISCURSIVA CARGO 1.md; Provas/Relevantes (CGU AFFC)/PREF_JP_17_CGM/PROVA DISCURSIVA CARGO 2.md; Provas/Relevantes (CGU AFFC)/PREF_JP_17_CGM/PROVA DISCURSIVA CARGO 3.md; Provas/Relevantes (CGU AFFC)/PREF_JP_17_CGM/PROVA DISCURSIVA CARGO 4.md"
 taxonomia: "50 - Questões/Direito/Taxonomia - Direito.md"
 itens_direito: 2
 itens_fora: 2
@@ -16,7 +16,7 @@ tags:
 
 > **Observação de fonte:** a pasta deste concurso contém apenas **provas discursivas** em `.md`
 > (`PROVA DISCURSIVA CARGO 1` a `CARGO 4`). Não existem provas objetivas convertidas para `.md`
-> neste concurso (nem em `Provas relevantes`, nem em `Provas Cebraspe MD`). Foram lidas as 4 provas
+> neste concurso (nem em `Provas/Relevantes (CGU AFFC)`, nem em `Provas/MD`). Foram lidas as 4 provas
 > discursivas; cada questão discursiva é tratada como **um item**. Itens de outras áreas foram descartados.
 
 ## Quantitativo por tema

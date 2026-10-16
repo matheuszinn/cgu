@@ -11,7 +11,7 @@ tags:
 
 # Cruzamento — tce_ms_25 × Edital CGU 2026 (Cargo 4 — TI)
 
-> Arquivo analisado: `Provas relevantes (CGU AFFC)/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.md`
+> Arquivo analisado: `Provas/Relevantes (CGU AFFC)/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.md`
 > Classificação por questão → um código da taxonomia (E1.1–E4.5). Item fora do edital (ex.: informática básica/Office, segurança de redes, normas ISO, governança de TI genérica, gestão de projetos/serviços, legislação de acesso à informação) → descartado.
 > **Total de itens de TI: 44** · **Fora do edital: 16**
 

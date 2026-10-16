@@ -11,15 +11,15 @@ tags:
 # Cruzamento — funpresp_26_jud × Edital CGU 2026 (Direito D1–D10)
 
 > Arquivos analisados (todas as provas **objetivas**, sem gabaritos):
-> - `Provas relevantes (CGU AFFC)/funpresp_26_jud/PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O EMPREGO 1.md` (**GER1**)
-> - `Provas relevantes (CGU AFFC)/funpresp_26_jud/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS EMPREGOS DE 2 A 8 E 12.md` (**GER2-8-12**)
-> - `Provas relevantes (CGU AFFC)/funpresp_26_jud/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS EMPREGOS 9 10 E 11.md` (**GER9-10-11**)
-> - `Provas relevantes (CGU AFFC)/funpresp_26_jud/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS EMPREGO 1.md` (**EMP1**)
-> - `Provas relevantes (CGU AFFC)/funpresp_26_jud/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS EMPREGO 2.md` (**EMP2**)
-> - `Provas relevantes (CGU AFFC)/funpresp_26_jud/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS EMPREGO 3.md` (**EMP3**)
-> - `Provas relevantes (CGU AFFC)/funpresp_26_jud/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS EMPREGO 9.md`
-> - `Provas relevantes (CGU AFFC)/funpresp_26_jud/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS EMPREGO 10.md`
-> - `Provas relevantes (CGU AFFC)/funpresp_26_jud/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS EMPREGO 11.md`
+> - `Provas/Relevantes (CGU AFFC)/funpresp_26_jud/PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O EMPREGO 1.md` (**GER1**)
+> - `Provas/Relevantes (CGU AFFC)/funpresp_26_jud/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS EMPREGOS DE 2 A 8 E 12.md` (**GER2-8-12**)
+> - `Provas/Relevantes (CGU AFFC)/funpresp_26_jud/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS EMPREGOS 9 10 E 11.md` (**GER9-10-11**)
+> - `Provas/Relevantes (CGU AFFC)/funpresp_26_jud/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS EMPREGO 1.md` (**EMP1**)
+> - `Provas/Relevantes (CGU AFFC)/funpresp_26_jud/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS EMPREGO 2.md` (**EMP2**)
+> - `Provas/Relevantes (CGU AFFC)/funpresp_26_jud/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS EMPREGO 3.md` (**EMP3**)
+> - `Provas/Relevantes (CGU AFFC)/funpresp_26_jud/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS EMPREGO 9.md`
+> - `Provas/Relevantes (CGU AFFC)/funpresp_26_jud/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS EMPREGO 10.md`
+> - `Provas/Relevantes (CGU AFFC)/funpresp_26_jud/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS EMPREGO 11.md`
 >
 > Não foram lidos gabaritos nem padrões de resposta. As três provas específicas de TI (EMP9, EMP10, EMP11) foram lidas integralmente e **não** possuem itens de Direito (D1–D10) — apenas itens de TI/LGPD-dados, que pertencem ao recorte de TI e não a esta taxonomia; por isso não contribuem aqui.
 >

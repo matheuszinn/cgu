@@ -16,7 +16,7 @@ tags: [analise, cebraspe, cgu-2026]
 
 ## Metodologia
 
-1. **Delimitação:** extraí os cinco itens de Conhecimentos Complementares diretamente do item 15.2.3 do Edital nº 1/2026 – CGU – AFFC (arquivo local `Ed_1_2026_CGU_Abertura.md`, linhas 1864–1953).
+1. **Delimitação:** extraí os cinco itens de Conhecimentos Complementares diretamente do item 15.2.3 do Edital nº 1/2026 – CGU – AFFC (arquivo local `Edital CGU 2026 (texto integral).md`, linhas 1864–1953).
 2. **Fontes quantitativas:** usei levantamentos de incidência por assunto da Cebraspe na área de **gestão e controle** (TecConcursos – "Priorização de Assuntos" do TCU; Estratégia Concursos – "Cobrança CESPE" e "Assuntos cobrados em Direito Administrativo pelo CEBRASPE"; Estratégia – análise estatística de Auditoria Governamental CESPE 2014–2018) e mapeamentos por **artigo de lei** (Decorando a Lei Seca – LAI/LGPD, Lei 9.784/99 e Lei 8.429/92).
 3. **De-para edital → temas históricos:** cada item do edital foi convertido nos temas/disciplinas que a Cebraspe efetivamente cobra (ex.: "Direito Público Aplicado, Controle e Responsabilização" → Lei 9.784, Lei 8.112, Lei 8.429/14.230, controle interno/externo, arts. 70 a 74 da CF, TCU).
 4. **Ranking:** combinei (a) volume histórico de questões do tema na área de controle, (b) grau de aderência ao core institucional da CGU, (c) presença do tema na prova discursiva e (d) tendência/novidade do tema. Cada posição traz as evidências numéricas.

@@ -1,6 +1,6 @@
 # Cruzamento TI — telebras_25 (Cargo 2)
 
-> Fonte: `Provas relevantes (CGU AFFC)/telebras_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md`
+> Fonte: `Provas/Relevantes (CGU AFFC)/telebras_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md`
 > Taxonomia: `50 - Questões/TI/Taxonomia - TI.md`
 > Itens considerados: os 37 itens numerados no formato `**N** enunciado` (N = 52 a 120, com lacunas no arquivo).
 

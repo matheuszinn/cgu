@@ -12,7 +12,7 @@ tags:
 
 ## 📄 Edital
 
-- [[Ed_1_2026_CGU_Abertura|Edital nº 1/2026 — texto integral]]
+- [[Edital CGU 2026 (texto integral)|Edital nº 1/2026 — texto integral]]
 - Banca: **Cebraspe** · <http://www.cebraspe.org.br/concursos/cgu_26_affc>
 - Validade do concurso: **2 anos**, contados da publicação do resultado final.
 

@@ -12,9 +12,9 @@ tags:
 
 - **Taxonomia:** `50 - Questões/Direito/Taxonomia - Direito.md` (D1–D10)
 - **Provas lidas (objetivas, sem gabaritos):**
-  1. `Provas relevantes (CGU AFFC)/tce_rs_25/PROVA OBJETIVA MODELO CONHECIMENTOS GERAIS PARA OS CARGOS 1 A 4.md` — 80 itens (prefixo **`gerais1a4`**)
-  2. `Provas relevantes (CGU AFFC)/tce_rs_25/PROVA OBJETIVA MODELO CONHECIMENTOS GERAIS PARA O CARGO 5.md` — 50 itens (prefixo **`gerais5`**)
-  3. `Provas relevantes (CGU AFFC)/tce_rs_25/PROVA OBJETIVA MODELO CONHECIMENTOS ESPECIFICOS CARGO 4.md` — 100 itens (prefixo **`esp4`**)
+  1. `Provas/Relevantes (CGU AFFC)/tce_rs_25/PROVA OBJETIVA MODELO CONHECIMENTOS GERAIS PARA OS CARGOS 1 A 4.md` — 80 itens (prefixo **`gerais1a4`**)
+  2. `Provas/Relevantes (CGU AFFC)/tce_rs_25/PROVA OBJETIVA MODELO CONHECIMENTOS GERAIS PARA O CARGO 5.md` — 50 itens (prefixo **`gerais5`**)
+  3. `Provas/Relevantes (CGU AFFC)/tce_rs_25/PROVA OBJETIVA MODELO CONHECIMENTOS ESPECIFICOS CARGO 4.md` — 100 itens (prefixo **`esp4`**)
 
 > **Convenção de numeração:** os três cadernos reiniciam a numeração em 1. Para evitar colisão, cada item é identificado por `prefixo-número` (ex.: `gerais1a4-46`, `gerais5-46`, `esp4-94`). Os enunciados vinham de PDF em 2 colunas; vários itens ficaram **sem numeração** e mesclados em parágrafos. A numeração foi reconstruída pela sequência dos comandos e conferida contra os itens numerados do próprio caderno.
 
@@ -89,4 +89,4 @@ tags:
 ## Fontes
 
 - Taxonomia: `50 - Questões/Direito/Taxonomia - Direito.md`.
-- Provas em `Provas relevantes (CGU AFFC)/tce_rs_25/`; dados estruturados em `50 - Questões/Direito/Incidência/tce_rs_25.json`.
+- Provas em `Provas/Relevantes (CGU AFFC)/tce_rs_25/`; dados estruturados em `50 - Questões/Direito/Incidência/tce_rs_25.json`.

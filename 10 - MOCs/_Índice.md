@@ -8,7 +8,7 @@ tags:
 # Índice de Disciplinas (MOCs)
 
 > Conteúdo programático do **Edital nº 1/2026 – CGU – AFFC** organizado em MOCs.
-> Alvo: **Cargo 4 – TI / Desenvolvimento de Sistemas**. Texto integral: [[Ed_1_2026_CGU_Abertura]].
+> Alvo: **Cargo 4 – TI / Desenvolvimento de Sistemas**. Texto integral: [[Edital CGU 2026 (texto integral)]].
 
 ## Conhecimentos básicos
 
