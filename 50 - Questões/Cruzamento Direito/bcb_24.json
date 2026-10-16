@@ -1,0 +1,24 @@
+{
+  "concurso": "bcb_24",
+  "arquivos": [
+    "Provas relevantes (CGU AFFC)/bcb_24/PROVA OBJETIVA CONHECIMENTOS BASICOS PARA TODOS OS CARGOS.md",
+    "Provas relevantes (CGU AFFC)/bcb_24/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md",
+    "Provas relevantes (CGU AFFC)/bcb_24/PROVA OBJETIVA PROGRAMA DE CAPACITACAO PROCAP.md",
+    "Provas relevantes (CGU AFFC)/bcb_24/PROVA OBJETIVA PROGRAMA DE CAPACITACAO PROCAP 2a TURMA.md"
+  ],
+  "total_itens_direito": 5,
+  "por_tema": {
+    "D1": 1,
+    "D2": 1,
+    "D3": 1,
+    "D5": 1,
+    "D7": 1
+  },
+  "assuntos": [
+    { "tema": "D1", "assunto": "Princípio da indisponibilidade do interesse público; inalienabilidade e indisponibilidade dos direitos geridos por administradores públicos", "itens": [38] },
+    { "tema": "D2", "assunto": "Código de Ética do servidor público federal: atendimento ao usuário, infração ética e dano moral", "itens": [40] },
+    { "tema": "D3", "assunto": "Autarquias: natureza pública dos bens, impenhorabilidade e inalienabilidade", "itens": [36] },
+    { "tema": "D5", "assunto": "Processo administrativo disciplinar (PAD): afastamento do servidor do exercício do cargo até a conclusão", "itens": [37] },
+    { "tema": "D7", "assunto": "LGPD: tratamento de dados pessoais sensíveis (saúde e vida sexual) para fins sanitários", "itens": [39] }
+  ]
+}

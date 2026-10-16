@@ -1,0 +1,26 @@
+{
+  "concurso": "PREF_JP_17_CGM",
+  "arquivos": [
+    "Provas relevantes (CGU AFFC)/PREF_JP_17_CGM/PROVA DISCURSIVA CARGO 1.md",
+    "Provas relevantes (CGU AFFC)/PREF_JP_17_CGM/PROVA DISCURSIVA CARGO 2.md",
+    "Provas relevantes (CGU AFFC)/PREF_JP_17_CGM/PROVA DISCURSIVA CARGO 3.md",
+    "Provas relevantes (CGU AFFC)/PREF_JP_17_CGM/PROVA DISCURSIVA CARGO 4.md"
+  ],
+  "total_itens_direito": 2,
+  "por_tema": {
+    "D5": 1,
+    "D9": 1
+  },
+  "assuntos": [
+    {
+      "tema": "D5",
+      "assunto": "Controle externo e transparência na administração pública: transparência como ferramenta de controle e controle externo exercido pelos tribunais de contas",
+      "itens": ["DISC-C4"]
+    },
+    {
+      "tema": "D9",
+      "assunto": "Regime Diferenciado de Contratações (RDC): inversão de fases, vícios sanáveis e fase recursal única; modos de disputa; orçamento sigiloso",
+      "itens": ["DISC-C2"]
+    }
+  ]
+}

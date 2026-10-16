@@ -1,0 +1,42 @@
+{
+  "concurso": "tce_rs_25",
+  "arquivos": [
+    "Provas relevantes (CGU AFFC)/tce_rs_25/PROVA OBJETIVA MODELO CONHECIMENTOS GERAIS PARA OS CARGOS 1 A 4.md",
+    "Provas relevantes (CGU AFFC)/tce_rs_25/PROVA OBJETIVA MODELO CONHECIMENTOS GERAIS PARA O CARGO 5.md",
+    "Provas relevantes (CGU AFFC)/tce_rs_25/PROVA OBJETIVA MODELO CONHECIMENTOS ESPECIFICOS CARGO 4.md",
+    "50 - Questões/_taxonomia CGU 2026 (Direito).md"
+  ],
+  "total_itens_direito": 45,
+  "por_tema": {
+    "D1": 11,
+    "D2": 0,
+    "D3": 5,
+    "D4": 3,
+    "D5": 18,
+    "D6": 0,
+    "D7": 1,
+    "D8": 0,
+    "D9": 7,
+    "D10": 0
+  },
+  "assuntos": [
+    { "tema": "D1", "assunto": "Classificações da Constituição Federal de 1988 (extensão, rigidez e origem)", "itens": ["gerais1a4-61", "gerais1a4-62", "gerais1a4-63"] },
+    { "tema": "D1", "assunto": "Poder Legislativo: competências, fiscalização, imunidades e prisão de parlamentar", "itens": ["gerais1a4-64", "gerais1a4-65", "gerais1a4-66", "gerais1a4-67"] },
+    { "tema": "D1", "assunto": "Princípios da administração pública: publicidade e vedação à promoção pessoal", "itens": ["gerais1a4-70"] },
+    { "tema": "D1", "assunto": "Responsabilidade civil do Estado (ato lícito, risco administrativo e omissão)", "itens": ["gerais1a4-76", "gerais1a4-77", "gerais1a4-78"] },
+    { "tema": "D3", "assunto": "Agentes públicos: acumulação de cargos e teto remuneratório", "itens": ["gerais1a4-68"] },
+    { "tema": "D3", "assunto": "Concurso público: cláusula restritiva por inquérito/ação penal", "itens": ["gerais1a4-69"] },
+    { "tema": "D3", "assunto": "Servidores públicos civis do RS (LC 10.098/1994): vedações e deveres funcionais", "itens": ["gerais1a4-71", "gerais1a4-72", "gerais1a4-73"] },
+    { "tema": "D4", "assunto": "Processo administrativo: revisão de ofício e vedação ao agravamento no recurso (reformatio in pejus)", "itens": ["gerais1a4-74", "gerais1a4-75"] },
+    { "tema": "D4", "assunto": "Poder hierárquico: avocação de competência", "itens": ["gerais1a4-79"] },
+    { "tema": "D5", "assunto": "Controle externo: parecer prévio do TCE/RS sobre contas do prefeito (Lei estadual 11.424/2000)", "itens": ["gerais1a4-43", "gerais1a4-44", "gerais1a4-45"] },
+    { "tema": "D5", "assunto": "Tribunais de contas: título executivo extrajudicial, função jurisdicional e sustação de contratos", "itens": ["gerais1a4-46", "gerais1a4-47", "gerais1a4-48"] },
+    { "tema": "D5", "assunto": "Poder disciplinar: cassação de aposentadoria de servidor inativo", "itens": ["gerais1a4-80"] },
+    { "tema": "D5", "assunto": "TCE/RS (LO e RI): recursos, conselheiros, tomada de contas especial e auditorias", "itens": ["gerais5-39", "gerais5-40", "gerais5-41", "gerais5-42"] },
+    { "tema": "D5", "assunto": "Ministério Público de Contas (STF): legitimidade para mandado de segurança e autonomia", "itens": ["gerais5-43", "gerais5-44"] },
+    { "tema": "D5", "assunto": "Controle externo no Brasil: momento, registro de aposentadoria e contas de governo × contas de gestão", "itens": ["gerais5-45", "gerais5-46", "gerais5-47", "gerais5-48", "gerais5-49"] },
+    { "tema": "D7", "assunto": "LGPD: anonimização de dados pessoais e uso de IA", "itens": ["esp4-100"] },
+    { "tema": "D9", "assunto": "Licitações (Lei 14.133/2021): impugnação, pedidos de esclarecimento e recursos", "itens": ["gerais1a4-40", "gerais1a4-41", "gerais1a4-42"] },
+    { "tema": "D9", "assunto": "Contratação de soluções de TI: diálogo competitivo, fiscalização, planejamento e remuneração", "itens": ["esp4-94", "esp4-95", "esp4-96", "esp4-97"] }
+  ]
+}

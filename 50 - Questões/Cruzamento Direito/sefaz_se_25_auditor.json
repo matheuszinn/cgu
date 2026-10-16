@@ -1,0 +1,50 @@
+{
+  "concurso": "sefaz_se_25_auditor",
+  "arquivos": [
+    "Provas relevantes (CGU AFFC)/sefaz_se_25_auditor/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA TODAS AS ESPECIALIDADES MANHA.md",
+    "Provas relevantes (CGU AFFC)/sefaz_se_25_auditor/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS I PARA TODAS AS ESPECIALIDADES MANHA.md",
+    "Provas relevantes (CGU AFFC)/sefaz_se_25_auditor/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS I PARA TODAS AS ESPECIALIDADES TARDE.md",
+    "Provas relevantes (CGU AFFC)/sefaz_se_25_auditor/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS II ESPECIALIDADE 1 TARDE.md",
+    "Provas relevantes (CGU AFFC)/sefaz_se_25_auditor/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS II ESPECIALIDADE 2 TARDE.md",
+    "Provas relevantes (CGU AFFC)/sefaz_se_25_auditor/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS II ESPECIALIDADE 3 TARDE.md"
+  ],
+  "total_itens_direito": 27,
+  "por_tema": {
+    "D1": 13,
+    "D2": 1,
+    "D3": 4,
+    "D4": 1,
+    "D7": 1,
+    "D9": 6,
+    "D10": 1
+  },
+  "assuntos": [
+    { "tema": "D1", "assunto": "Inviolabilidade do domicílio (CF, art. 5.º, XI): ingresso de fiscais em estabelecimento industrial sem mandado em situação de desastre", "itens": ["P2-M-Q50"] },
+    { "tema": "D1", "assunto": "Sigilo da fonte jornalística como garantia fundamental, quando necessário ao exercício profissional", "itens": ["P2-M-Q52"] },
+    { "tema": "D1", "assunto": "Competência exclusiva do Congresso Nacional (CF/1988)", "itens": ["P2-M-Q53"] },
+    { "tema": "D1", "assunto": "Direitos e garantias fundamentais na Constituição do Estado de Sergipe", "itens": ["P2-M-Q54"] },
+    { "tema": "D1", "assunto": "Reclamação constitucional ao STF por contrariedade a enunciado de súmula vinculante", "itens": ["P2-M-Q55"] },
+    { "tema": "D1", "assunto": "Autonomia administrativa/funcional do Ministério Público e limites da LDO na proposta orçamentária", "itens": ["P2-M-Q56"] },
+    { "tema": "D1", "assunto": "Defensoria Pública: caráter de carreira e escolha do defensor público-geral", "itens": ["P2-M-Q57"] },
+    { "tema": "D1", "assunto": "Regime constitucional das finanças públicas: créditos extraordinários, operações de crédito entre entes e vinculação de receitas", "itens": ["P2-M-Q58"] },
+    { "tema": "D1", "assunto": "Garantias, vedações e organização do Poder Judiciário", "itens": ["P2-M-Q59"] },
+    { "tema": "D1", "assunto": "Poder Judiciário: controle administrativo e financeiro pelo CNJ", "itens": ["P2-M-Q60"] },
+    { "tema": "D1", "assunto": "Cabimento de liminar em mandado de segurança (Lei 12.016/2009)", "itens": ["P3-E3-Q96"] },
+    { "tema": "D1", "assunto": "Prazo decadencial de 120 dias para impetração do mandado de segurança", "itens": ["P3-E3-Q97"] },
+    { "tema": "D1", "assunto": "Controle de constitucionalidade (difuso × concentrado) e ação civil pública", "itens": ["P3-E3-Q98"] },
+    { "tema": "D2", "assunto": "Código de Conduta e Integridade da SEFAZ/SE (Lei estadual 9.640/2025): assédio moral, Termo de Ciência e Compromisso e vedações (intriga/discórdia; uso do e-mail institucional)", "itens": ["P2-M-Q41"] },
+    { "tema": "D3", "assunto": "Servidores públicos e processo administrativo (LC estadual 33/1996): conceito de servidor, cadastro permanente, transformação de cargos e princípios aplicáveis a entidades estatais", "itens": ["P2-M-Q44"] },
+    { "tema": "D3", "assunto": "Agentes públicos, organização da administração e responsabilidade civil do Estado (entendimento do STJ)", "itens": ["P2-M-Q46"] },
+    { "tema": "D3", "assunto": "Poderes da administração pública: excesso de poder, poder regulamentar e autoexecutoriedade do poder de polícia", "itens": ["P2-M-Q47"] },
+    { "tema": "D3", "assunto": "Responsabilidade civil do Estado: teorias, rompimento de barragem, prescrição e denunciação da lide", "itens": ["P2-M-Q49"] },
+    { "tema": "D4", "assunto": "Atos administrativos: reforma, exequibilidade, atos compostos, aprovação e delegação", "itens": ["P2-M-Q51"] },
+    { "tema": "D7", "assunto": "LGPD: propósito legítimo, limitação ao mínimo necessário e informação clara ao titular (aplicação integrada à segurança da informação/ISO 27002)", "itens": ["P3-E2-Q109"] },
+    { "tema": "D9", "assunto": "Licitação pública (Lei 14.133/2021 e Decreto 11.462/2013): registro de preços, responsabilidade, adesão a atas, carta de solidariedade e prazo de contratos", "itens": ["P2-M-Q45"] },
+    { "tema": "D9", "assunto": "Contratações de TIC (SISP): catálogos de soluções padronizadas, fiscalização e pesquisa de preços", "itens": ["P3-E2-Q112"] },
+    { "tema": "D9", "assunto": "Estudo técnico preliminar (ETP) para contratações de TIC (IN SGD/ME 94/2022)", "itens": ["P3-E2-Q113"] },
+    { "tema": "D9", "assunto": "Fiscalização da execução de contratos e figura do fiscal de contrato (Lei 14.133/2021)", "itens": ["P3-E2-Q114"] },
+    { "tema": "D9", "assunto": "Pesquisa de preços para aquisição de bens e serviços (IN SEGES/ME 65/2021)", "itens": ["P3-E2-Q115"] },
+    { "tema": "D9", "assunto": "Contratos baseados em unidade de serviço técnico (UST): renovação, escopo e memória de cálculo", "itens": ["P3-E2-Q116"] },
+    { "tema": "D10", "assunto": "Improbidade administrativa (Lei 8.429/1992, alterada pela Lei 14.230/2021): tutela provisória de indisponibilidade, exigência de dolo e responsabilidade dos sucessores", "itens": ["P2-M-Q42"] }
+  ]
+}

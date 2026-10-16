@@ -1,0 +1,46 @@
+{
+  "concurso": "tcu_25_aufc",
+  "arquivos": [
+    "Provas relevantes (CGU AFFC)/tcu_25_aufc/PROVA OBJETIVA CONHECIMENTOS BASICOS.md",
+    "Provas relevantes (CGU AFFC)/tcu_25_aufc/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS.md"
+  ],
+  "total_itens_direito": 58,
+  "por_tema": {
+    "D1": 12,
+    "D3": 6,
+    "D4": 1,
+    "D5": 17,
+    "D7": 3,
+    "D9": 15,
+    "D10": 4
+  },
+  "assuntos": [
+    { "tema": "D1", "assunto": "Poder constituinte (originário, derivado/decorrente), mutação constitucional e classificações da Constituição", "itens": [62, 63, 64, 65, 66] },
+    { "tema": "D1", "assunto": "Direito à licença-paternidade e mandado de injunção", "itens": [67, 68] },
+    { "tema": "D1", "assunto": "Organização do Estado, federalismo e repartição de competências", "itens": [69, 70, 71, 72, 73] },
+    { "tema": "D3", "assunto": "Teoria clássica da administração e funções administrativas", "itens": [52, 54] },
+    { "tema": "D3", "assunto": "Modernização da gestão pública", "itens": [53] },
+    { "tema": "D3", "assunto": "Agentes públicos: participação em conselho de cooperativa", "itens": [80] },
+    { "tema": "D3", "assunto": "Organização administrativa: OSCIP e fundações públicas", "itens": [82, 84] },
+    { "tema": "D4", "assunto": "Autotutela: anulação de atos administrativos por conveniência e oportunidade", "itens": [83] },
+    { "tema": "D5", "assunto": "Espécies e formas de controle (político, administrativo, legalidade, interno/externo)", "itens": [37, 38, 39, 40, 41] },
+    { "tema": "D5", "assunto": "Controle exercido pelos tribunais de contas", "itens": [42, 43] },
+    { "tema": "D5", "assunto": "Contencioso administrativo e sistema da jurisdição una", "itens": [46, 47] },
+    { "tema": "D5", "assunto": "Controle jurisdicional da administração pública", "itens": [48, 49] },
+    { "tema": "D5", "assunto": "Controle externo: sustação de contrato administrativo e de atos normativos", "itens": [50, 85] },
+    { "tema": "D5", "assunto": "TCU, TCEs e TCDF", "itens": [51] },
+    { "tema": "D5", "assunto": "Controle jurisdicional do processo administrativo disciplinar", "itens": [78] },
+    { "tema": "D5", "assunto": "Processo administrativo disciplinar e destituição de cargo em comissão", "itens": [79, 81] },
+    { "tema": "D7", "assunto": "Privacidade por padrão (privacy by default)", "itens": [139] },
+    { "tema": "D7", "assunto": "LGPD: computação em nuvem no governo federal", "itens": [162] },
+    { "tema": "D7", "assunto": "LGPD: tratamento de dados pessoais em contratos de TI", "itens": [189] },
+    { "tema": "D9", "assunto": "Licitações: margem de preferência e registro de preços", "itens": [74, 75] },
+    { "tema": "D9", "assunto": "Contratação de soluções de TI: estudo técnico preliminar e termo de referência", "itens": [177, 178, 190] },
+    { "tema": "D9", "assunto": "Modelos de contratação de software (fábrica de software, sob demanda e SaaS)", "itens": [179, 180, 181] },
+    { "tema": "D9", "assunto": "Sanções administrativas e responsabilização do contratado", "itens": [182, 184] },
+    { "tema": "D9", "assunto": "Gestão e fiscalização de contratos: SLA, reequilíbrio econômico-financeiro e multas", "itens": [183, 185, 186] },
+    { "tema": "D9", "assunto": "Pregão eletrônico e sustentabilidade/acessibilidade em licitações", "itens": [187, 188] },
+    { "tema": "D10", "assunto": "Improbidade administrativa (Lei 8.429/1992): sucessores, declaração de bens e pessoas jurídicas", "itens": [44, 45, 76] },
+    { "tema": "D10", "assunto": "Acordo de não persecução cível", "itens": [77] }
+  ]
+}
