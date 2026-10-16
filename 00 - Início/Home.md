@@ -32,12 +32,12 @@ tags:
 
 ## Provas
 
-| Prova | Área de conhecimento | Itens | Caráter |
-|---|---|---|---|
-| P1 | Conhecimentos básicos | 40 | Eliminatório e classificatório |
-| P2 | Conhecimentos complementares | 40 | Eliminatório e classificatório |
-| P3 | Conhecimentos específicos | 90 | Eliminatório e classificatório |
-| P4 | Discursiva — 2 questões (30 + 70 pontos) | 2 | Eliminatório e classificatório |
+| Prova | Área de conhecimento                     | Itens | Caráter                        |
+| ----- | ---------------------------------------- | ----- | ------------------------------ |
+| P1    | Conhecimentos básicos                    | 40    | Eliminatório e classificatório |
+| P2    | Conhecimentos complementares             | 40    | Eliminatório e classificatório |
+| P3    | Conhecimentos específicos                | 90    | Eliminatório e classificatório |
+| P4    | Discursiva — 2 questões (30 + 70 pontos) | 2     | Eliminatório e classificatório |
 
 - Prova objetiva: **260 pontos**, duração de 5 horas (turno da manhã).
 - Prova discursiva: **100 pontos**, duração de 3 h 30 min (turno da tarde).
