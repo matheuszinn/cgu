@@ -18,38 +18,38 @@ tags:
 
 ### 1 Decisão administrativa
 
-- [ ] 1.1 Competência, finalidade, motivação, proporcionalidade e segurança jurídica
-- [ ] 1.1 Consideração das consequências e das condições de atuação
-- [ ] 1.2 Dever de fundamentação e limites ao exercício do poder e à revisão de decisões.
+- [x] 1.1 Competência, finalidade, motivação, proporcionalidade e segurança jurídica
+- [x] 1.1 Consideração das consequências e das condições de atuação
+- [x] 1.2 Dever de fundamentação e limites ao exercício do poder e à revisão de decisões.
 
 ### 2 Processo e garantias
 
-- [ ] 2.1 Devido processo, contraditório, defesa e imparcialidade
-- [ ] 2.1 Finalidade da instrução e da prova
-- [ ] 2.2 Distinção entre procedimento investigativo e processo sancionador
-- [ ] 2.2 Proteção de direitos e necessidade de fundamentar conclusões
+- [x] 2.1 Devido processo, contraditório, defesa e imparcialidade
+- [x] 2.1 Finalidade da instrução e da prova
+- [x] 2.2 Distinção entre procedimento investigativo e processo sancionador
+- [x] 2.2 Proteção de direitos e necessidade de fundamentar conclusões
 
 ### 3 Funções de controle e melhoria da gestão
 
-- [ ] 3.1 Finalidades do controle interno, externo e social
-- [ ] 3.1 Inserção institucional da CGU no Poder Executivo federal
-- [ ] 3.2 Avaliação da ação governamental e apoio ao aprimoramento da gestão, da governança, dos controles e dos resultados das políticas públicas
-- [ ] 3.2 Prevenção, detecção e correção de irregularidades
-- [ ] 3.3 Autonomia técnica e responsabilidades dos gestores
-- [ ] 3.3 Diferenças de competências e complementaridade com o controle externo exercido pelo Congresso Nacional com o auxílio do TCU
-- [ ] 3.4 Distinção entre avaliar a gestão, apurar fatos e aplicar sanções
-- [ ] 3.4 Cooperação e compartilhamento lícito de informações
+- [x] 3.1 Finalidades do controle interno, externo e social
+- [x] 3.1 Inserção institucional da CGU no Poder Executivo federal
+- [x] 3.2 Avaliação da ação governamental e apoio ao aprimoramento da gestão, da governança, dos controles e dos resultados das políticas públicas
+- [x] 3.2 Prevenção, detecção e correção de irregularidades
+- [x] 3.3 Autonomia técnica e responsabilidades dos gestores
+- [x] 3.3 Diferenças de competências e complementaridade com o controle externo exercido pelo Congresso Nacional com o auxílio do TCU
+- [x] 3.4 Distinção entre avaliar a gestão, apurar fatos e aplicar sanções
+- [x] 3.4 Cooperação e compartilhamento lícito de informações
 
 ### 4 Responsabilização em nível introdutório
 
-- [ ] 4.1 Distinção entre indício, falha de gestão, irregularidade e responsabilidade.
-- [ ] 4.2 Finalidades e diferenças entre responsabilização de agentes públicos e de pessoas jurídicas
-- [ ] 4.2 Noções de admissibilidade, processo disciplinar, processo administrativo de responsabilização e acordo de leniência
+- [x] 4.1 Distinção entre indício, falha de gestão, irregularidade e responsabilidade.
+- [x] 4.2 Finalidades e diferenças entre responsabilização de agentes públicos e de pessoas jurídicas
+- [x] 4.2 Noções de admissibilidade, processo disciplinar, processo administrativo de responsabilização e acordo de leniência
 
 ### 5 Proteção e encaminhamento
 
-- [ ] 5.1 Distinção entre acolhimento, medidas de proteção, apuração de fatos e conclusão sancionadora, especialmente diante de assédio e discriminação
-- [ ] 5.1 Finalidades e garantias de cada atuação
+- [x] 5.1 Distinção entre acolhimento, medidas de proteção, apuração de fatos e conclusão sancionadora, especialmente diante de assédio e discriminação
+- [x] 5.1 Finalidades e garantias de cada atuação
 
 ## Notas atômicas
 

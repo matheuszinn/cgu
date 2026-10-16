@@ -18,38 +18,38 @@ tags:
 
 ### 1 Governança e responsabilidades
 
-- [ ] 1.1 Distinção entre direção, gestão, controle e prestação de contas
-- [ ] 1.1 Papéis, supervisão, transparência e responsabilização
-- [ ] 1.1 Relação entre decisões organizacionais, finalidade pública e direitos
+- [x] 1.1 Distinção entre direção, gestão, controle e prestação de contas
+- [x] 1.1 Papéis, supervisão, transparência e responsabilização
+- [x] 1.1 Relação entre decisões organizacionais, finalidade pública e direitos
 
 ### 2 Riscos e controles essenciais
 
-- [ ] 2.1 Risco, causa, consequência e controle
-- [ ] 2.1 Prevenção e detecção
-- [ ] 2.1 Proporcionalidade dos controles, segregação de funções e risco residual
-- [ ] 2.2 Identificação de vulnerabilidades e de controles compatíveis com situações usuais, a partir dos dados fornecidos.
+- [x] 2.1 Risco, causa, consequência e controle
+- [x] 2.1 Prevenção e detecção
+- [x] 2.1 Proporcionalidade dos controles, segregação de funções e risco residual
+- [x] 2.2 Identificação de vulnerabilidades e de controles compatíveis com situações usuais, a partir dos dados fornecidos.
 
 ### 3 Integridade pública
 
-- [ ] 3.1 Finalidades dos programas e medidas de integridade
-- [ ] 3.1 Compromisso da liderança, orientação ética, identificação de riscos, canais de relato e acompanhamento de ações
-- [ ] 3.2 Prevenção de favorecimento, assédio e discriminação
-- [ ] 3.2 Ambiente seguro e não retaliação
+- [x] 3.1 Finalidades dos programas e medidas de integridade
+- [x] 3.1 Compromisso da liderança, orientação ética, identificação de riscos, canais de relato e acompanhamento de ações
+- [x] 3.2 Prevenção de favorecimento, assédio e discriminação
+- [x] 3.2 Ambiente seguro e não retaliação
 
 ### 4 Integridade privada
 
-- [ ] 4.1 Finalidades dos programas de integridade e sua relação com o poder público
-- [ ] 4.1 Compromisso da direção, registros confiáveis, controles, diligência proporcional sobre terceiros, canais de relato e remediação
-- [ ] 4.2 Diferença entre existência documental, implementação e efetividade dos mecanismos.
+- [x] 4.1 Finalidades dos programas de integridade e sua relação com o poder público
+- [x] 4.1 Compromisso da direção, registros confiáveis, controles, diligência proporcional sobre terceiros, canais de relato e remediação
+- [x] 4.2 Diferença entre existência documental, implementação e efetividade dos mecanismos.
 
 ### 5 Prevenção e melhoria institucional
 
-- [ ] 5.1 Cultura, incentivos e confiança
-- [ ] 5.1 Diferenças de capacidade entre organizações
-- [ ] 5.1 Orientação e medidas proporcionais
-- [ ] 5.2 Denúncias e resultados de controle como insumos de melhoria.
-- [ ] 5.3 Distinção entre baixa ocorrência e baixa detecção de problemas
-- [ ] 5.3 Leitura de evidências simples sobre funcionamento e resultados das medidas
+- [x] 5.1 Cultura, incentivos e confiança
+- [x] 5.1 Diferenças de capacidade entre organizações
+- [x] 5.1 Orientação e medidas proporcionais
+- [x] 5.2 Denúncias e resultados de controle como insumos de melhoria.
+- [x] 5.3 Distinção entre baixa ocorrência e baixa detecção de problemas
+- [x] 5.3 Leitura de evidências simples sobre funcionamento e resultados das medidas
 
 ## Notas atômicas
 
