@@ -136,6 +136,18 @@ Essas funções podem ser exercidas por unidades distintas e em fases distintas,
 - A CGU é o **órgão central** do controle interno do Executivo federal (Lei nº 10.180/2001, art. 22) e **Ministério** (Lei nº 14.600/2023).
 - A LINDB (art. 28) limita a responsabilização pessoal a **dolo ou erro grosseiro** — crucial para a atuação técnica do auditor.
 
+## Base normativa (mapa rápido)
+
+| Norma | Dispositivo | Conteúdo-chave |
+| --- | --- | --- |
+| CF/88 | arts. 70 e 71 | Fiscalização contábil, financeira, orçamentária, operacional e patrimonial; controle externo |
+| CF/88 | art. 74 | Sistema de controle interno integrado e controle social |
+| Lei nº 10.180/2001 | arts. 19 a 24 | Sistema de Controle Interno do Executivo federal (finalidades, órgão central e competências) |
+| Lei nº 14.600/2023 | art. 49 | Áreas de competência e atribuições da CGU |
+| Lei nº 10.683/2003 | (organização) | Organização da Presidência da República e dos Ministérios (criação da CGU) |
+| LINDB | arts. 22 e 28 | Condições reais do gestor e responsabilidade por dolo/erro grosseiro |
+| Lei nº 12.527/2011 | (LAI) | Transparência e controle social |
+
 ## Comparações que a banca costuma cobrar (certo/errado)
 
 | Conceito A | Conceito B | Diferença-chave |

@@ -86,6 +86,17 @@ Somente após processo com **contraditório e ampla defesa** (CF, art. 5º, LV) 
 - A **CIPA** passou a ser "Comissão Interna de Prevenção de Acidentes **e de Assédio**" (CLT, art. 163, alterado pela Lei nº 14.457/2022).
 - A discriminação viola objetivo fundamental da República — **promover o bem de todos sem preconceitos** (CF, art. 3º, IV).
 
+## Base normativa (mapa rápido)
+
+| Norma | Dispositivo | Conteúdo-chave |
+| --- | --- | --- |
+| Lei nº 14.457/2022 | art. 1º, VI e art. 23 | Prevenção/combate ao assédio; medidas da CIPA e anonimato do denunciante |
+| Lei nº 14.540/2023 | (Programa) | Prevenção e enfrentamento ao assédio sexual na administração pública |
+| Lei nº 8.112/1990 | arts. 116, 117, 127, 132 e 147 | Deveres, proibições, penalidades e afastamento preventivo |
+| Código Penal | art. 216-A | Assédio sexual (crime) |
+| Lei nº 9.784/1999 | arts. 30 e 50 | Licitude da prova e motivação das conclusões |
+| CF/88 | arts. 3º, IV e 5º, LV | Vedação à discriminação e contraditório/ampla defesa |
+
 ## Comparações que a banca costuma cobrar (certo/errado)
 
 | Conceito A | Conceito B | Diferença-chave |

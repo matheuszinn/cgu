@@ -117,6 +117,18 @@ O **acordo de leniência** (art. 16 da Lei nº 12.846/2013) é instrumento **con
 - O **CNEP** (Cadastro Nacional de Empresas Punidas) e o **CEIS** (Cadastro Nacional de Empresas Inidôneas e Suspensas) dão publicidade às sanções (arts. 22 e 23).
 - A multa da Lei Anticorrupção é calculada sobre o **faturamento bruto do último exercício anterior** à instauração do PAR (art. 6º, I).
 
+## Base normativa (mapa rápido)
+
+| Norma | Dispositivo | Conteúdo-chave |
+| --- | --- | --- |
+| Lei nº 8.112/1990 | arts. 116, 117, 127 e 132 | Deveres, proibições, penalidades e casos de demissão |
+| Lei nº 8.112/1990 | arts. 143 a 153 | Sindicância e PAD (apuração e garantias) |
+| Lei nº 12.846/2013 | arts. 1º, 2º e 5º | Responsabilidade objetiva e atos lesivos |
+| Lei nº 12.846/2013 | arts. 6º e 7º | Sanções (multa e publicação) e critérios de dosimetria |
+| Lei nº 12.846/2013 | arts. 8 a 15 | PAR (instauração, comissão, defesa e julgamento) |
+| Lei nº 12.846/2013 | art. 16 | Acordo de leniência (requisitos e efeitos) |
+| LINDB | arts. 22 e 28 | Falha de gestão vs. responsabilidade; dolo/erro grosseiro |
+
 ## Comparações que a banca costuma cobrar (certo/errado)
 
 | Conceito A | Conceito B | Diferença-chave |

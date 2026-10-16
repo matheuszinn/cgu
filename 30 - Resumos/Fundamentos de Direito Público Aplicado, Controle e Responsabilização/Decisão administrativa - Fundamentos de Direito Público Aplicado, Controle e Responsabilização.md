@@ -134,6 +134,20 @@ A Administração **deve anular** seus atos quando eivados de **vício de legali
 - A convalidação pressupõe **defeito sanável** e ausência de lesão ao interesse público e a terceiros; vícios de **competência exclusiva** ou de **finalidade** não são sanáveis.
 - O regime de transição (LINDB, art. 23) e a proibição de "surpresa" por nova interpretação conectam segurança jurídica e **proteção da confiança legítima**.
 
+## Base normativa (mapa rápido)
+
+| Norma | Dispositivo | Conteúdo-chave |
+| --- | --- | --- |
+| Lei nº 9.784/1999 | art. 2º | Princípios (legalidade, finalidade, motivação, razoabilidade, proporcionalidade, segurança jurídica) |
+| Lei nº 9.784/1999 | arts. 11 a 17 | Competência, delegação e avocação (vedada delegação de atos normativos, recursos e competência exclusiva) |
+| Lei nº 9.784/1999 | art. 50 | Hipóteses de motivação obrigatória (8 incisos) |
+| Lei nº 9.784/1999 | arts. 53 a 55 | Autotutela (anular/revogar), decadência de 5 anos e convalidação |
+| Lei nº 9.784/1999 | arts. 56 a 65 | Recurso (legalidade e mérito; 10 dias; máx. 3 instâncias) e revisão (sem agravar) |
+| LINDB | arts. 20 e 21 | Consequências práticas da decisão e da invalidação |
+| LINDB | arts. 22 e 24 | Condições reais do gestor e orientações gerais da época |
+| LINDB | arts. 23 e 30 | Regime de transição e aumento da segurança jurídica |
+| LINDB | art. 28 | Responsabilidade pessoal apenas por dolo ou erro grosseiro |
+
 ## Comparações que a banca costuma cobrar (certo/errado)
 
 | Conceito A | Conceito B | Diferença-chave |

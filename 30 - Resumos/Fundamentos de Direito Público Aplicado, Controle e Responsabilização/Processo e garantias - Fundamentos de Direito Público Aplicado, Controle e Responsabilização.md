@@ -117,6 +117,20 @@ A conclusão sancionadora **não pode** decorrer de mero indício; exige a **com
 - O PAD deve ser conduzido por **comissão de 3 servidores estáveis** (art. 149), com **independência e imparcialidade** e sigilo quando necessário (art. 150), e concluído em **60 dias** prorrogáveis (art. 152).
 - A comissão do PAR é composta por **2 ou mais servidores estáveis**, com prazo de **180 dias** (Lei nº 12.846/2013, art. 10).
 
+## Base normativa (mapa rápido)
+
+| Norma | Dispositivo | Conteúdo-chave |
+| --- | --- | --- |
+| CF/88 | art. 5º, LIV, LV e LVI | Devido processo legal, contraditório/ampla defesa e vedação à prova ilícita |
+| Lei nº 9.784/1999 | art. 2º e 3º | Princípios e direitos dos administrados |
+| Lei nº 9.784/1999 | arts. 18 a 21 | Impedimento e suspeição (imparcialidade) |
+| Lei nº 9.784/1999 | arts. 29 a 44 | Instrução, ônus da prova e produção probatória |
+| Lei nº 9.784/1999 | art. 30 | Inadmissibilidade das provas ilícitas |
+| Lei nº 9.784/1999 | art. 50 | Motivação das conclusões |
+| Lei nº 8.112/1990 | arts. 143, 145 e 146 | Sindicância, PAD e obrigatoriedade |
+| Lei nº 8.112/1990 | arts. 149 a 153 | Comissão, fases e garantias do PAD |
+| Lei nº 12.846/2013 | arts. 8, 10 e 11 | PAR (instauração, comissão e defesa) |
+
 ## Comparações que a banca costuma cobrar (certo/errado)
 
 | Conceito A | Conceito B | Diferença-chave |
