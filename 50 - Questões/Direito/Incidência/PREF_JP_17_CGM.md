@@ -3,7 +3,7 @@ tipo: cruzamento
 concurso: "PREF_JP_17_CGM"
 cargo: "Auditor/Técnico Municipal de Controle Interno (CGM João Pessoa)"
 fonte_prova: "Provas relevantes (CGU AFFC)/PREF_JP_17_CGM/PROVA DISCURSIVA CARGO 1.md; Provas relevantes (CGU AFFC)/PREF_JP_17_CGM/PROVA DISCURSIVA CARGO 2.md; Provas relevantes (CGU AFFC)/PREF_JP_17_CGM/PROVA DISCURSIVA CARGO 3.md; Provas relevantes (CGU AFFC)/PREF_JP_17_CGM/PROVA DISCURSIVA CARGO 4.md"
-taxonomia: "_taxonomia CGU 2026 (Direito).md"
+taxonomia: "50 - Questões/Direito/Taxonomia - Direito.md"
 itens_direito: 2
 itens_fora: 2
 tags:

@@ -1,7 +1,7 @@
 # Cruzamento TI — tce_mg_25
 
 > Prova analisada: `Provas relevantes (CGU AFFC)/tce_mg_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md`
-> Taxonomia: `50 - Questões/_taxonomia CGU 2026 (Cargo 4 - TI).md`
+> Taxonomia: `50 - Questões/TI/Taxonomia - TI.md`
 > Itens de TI classificados: **30** (de 47 itens com enunciado). Fora do edital: **17**.
 
 ## Distribuição por tema

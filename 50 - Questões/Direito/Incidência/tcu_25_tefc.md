@@ -4,7 +4,7 @@ concurso: "tcu_25_tefc"
 cargo: "TEFC (Técnico Federal de Controle Externo)"
 fonte_prova: "Provas relevantes (CGU AFFC)/tcu_25_tefc/PROVA OBJETIVA CONHECIMENTOS BASICOS.md"
 fonte_prova_2: "Provas relevantes (CGU AFFC)/tcu_25_tefc/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS.md"
-taxonomia: "_taxonomia CGU 2026 (Direito).md"
+taxonomia: "50 - Questões/Direito/Taxonomia - Direito.md"
 itens_direito: 71
 itens_fora: 49
 tags:

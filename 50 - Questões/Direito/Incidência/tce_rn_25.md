@@ -24,7 +24,7 @@ tags:
 - `Provas relevantes (CGU AFFC)/tce_rn_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 12.md`
 - `Provas relevantes (CGU AFFC)/tce_rn_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 13.md`
 - `Provas relevantes (CGU AFFC)/tce_rn_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 14.md`
-- Taxonomia: `50 - Questões/_taxonomia CGU 2026 (Direito).md`
+- Taxonomia: `50 - Questões/Direito/Taxonomia - Direito.md`
 
 > **Nota de método:** foram considerados os itens que aparecem no formato `**N** enunciado` (numeração visível no markdown de origem). Trechos que, na conversão do PDF, perderam o número do item **não** foram classificados, para não inventar itens — mesma convenção do cruzamento de TI. Itens de áreas fora do recorte jurídico do edital (português, RLM, TI, auditoria governamental, direito orçamentário/financeiro, tributário, previdenciário, penal/processual, administração geral e história/geografia do RN) foram descartados. Alguns itens das provas de conhecimentos gerais se repetem entre cargos (a mesma prova é reutilizada); por isso a contagem é por arquivo.
 

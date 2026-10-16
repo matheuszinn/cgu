@@ -370,12 +370,12 @@ Formato **Certo/Errado** com apuração **líquida** = (acertos − erros) ÷ to
 
 **Arquivos do vault (base deste plano)**
 - `60 - Análises/Incidência TI - Cruzamento provas x edital CGU 2026 (Cargo 4).md` — painel de incidência (663 itens / 13 concursos).
-- `50 - Questões/_taxonomia CGU 2026 (Cargo 4 - TI).md` — taxonomia E1–E4.
+- `50 - Questões/TI/Taxonomia - TI.md` — taxonomia E1–E4.
 - `Ed_1_2026_CGU_Abertura.md` — itens 7, 8 (8.11), 9 (9.7), 11, 12 e 15.2.2/15.2.3/15.2.4 (Cargo 4).
 - `60 - Análises/Análise - Modelo e pontuação da prova (CGU 2026).md` — estrutura, pontuação, mínimos, discursiva, NFC.
 - `60 - Análises/Estimativa de nota de corte - CGU 2026 (Cargo 4).md` — cenários de NFC e metas por prova.
 - `60 - Análises/Incidência CEBRASPE - Conhecimentos Básicos.md` · `...Complementares.md` · `...Específicos (Cargo 4 - TI).md` · `Análise de Incidência CEBRASPE - CGU 2026 (visão geral).md`.
-- `50 - Questões/Cruzamento TI/` — dados brutos do cruzamento. `40 - Flashcards/` — baralhos existentes.
+- `50 - Questões/TI/Incidência/` — dados brutos do cruzamento. `40 - Flashcards/` — baralhos existentes.
 
 **Edital e concurso (oficial)**
 - Edital nº 1/2026 – CGU – AFFC: <https://cdn.cebraspe.org.br/concursos/cgu_26_affc/arquivos/C7A60D15CB0DDDFA92233056D728C555505D6B935D7048646D49445EB346F825.pdf>

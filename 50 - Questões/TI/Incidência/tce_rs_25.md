@@ -11,7 +11,7 @@ tags:
 # Cruzamento TI — tce_rs_25 (Cargo 4) × Edital CGU 2026 (Cargo 4 – TI)
 
 - **Arquivo da prova:** `Provas relevantes (CGU AFFC)/tce_rs_25/PROVA OBJETIVA MODELO CONHECIMENTOS ESPECIFICOS CARGO 4.md`
-- **Taxonomia:** `50 - Questões/_taxonomia CGU 2026 (Cargo 4 - TI).md`
+- **Taxonomia:** `50 - Questões/TI/Taxonomia - TI.md`
 - **Itens na prova:** 100
 - **Itens de TI classificados:** 58
 - **Fora do edital (descartados):** 42

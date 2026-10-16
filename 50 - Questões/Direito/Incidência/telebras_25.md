@@ -7,7 +7,7 @@
 > - `Provas relevantes (CGU AFFC)/telebras_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 3.md`
 > - `Provas relevantes (CGU AFFC)/telebras_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 4.md`
 >
-> **Taxonomia:** `50 - Questões/_taxonomia CGU 2026 (Direito).md`
+> **Taxonomia:** `50 - Questões/Direito/Taxonomia - Direito.md`
 >
 > **Critério:** itens objetivos cujo assunto seja Direito/direito público e que caibam em **um** código D1–D10. O restante (português, RLM, inglês, TI, gestão, contabilidade/orçamento, estatística e ramos de direito privado) foi descartado.
 >

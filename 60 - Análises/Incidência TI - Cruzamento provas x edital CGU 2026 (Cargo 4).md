@@ -13,7 +13,7 @@ tags:
 
 > **Método:** leitura apenas das **provas objetivas específicas de TI** (sem gabaritos) de 13 concursos Cebraspe, classificando cada item na taxonomia do **item 15.2.4 do Edital nº 1/2026 – CGU – AFFC (Cargo 4: TI/Desenvolvimento de Sistemas)**.
 > Itens de assunto alheio ao edital (redes/infra, SO, ITIL/COBIT/PMBOK, ISO 27001/27002, gestão de projetos, Office, etc.) foram **descartados**.
-> Taxonomia: `50 - Questões/_taxonomia CGU 2026 (Cargo 4 - TI).md` · Dados brutos: `50 - Questões/Cruzamento TI/`.
+> Taxonomia: `50 - Questões/TI/Taxonomia - TI.md` · Dados brutos: `50 - Questões/TI/Incidência/`.
 
 ## 1. Números gerais
 
@@ -89,4 +89,4 @@ tags:
 ## Fontes
 
 - Edital nº 1/2026 – CGU – AFFC, item **15.2.4** (Conhecimentos Específicos – Cargo 4).
-- Provas em `Provas relevantes (CGU AFFC)/`; cruzamentos em `50 - Questões/Cruzamento TI/`.
+- Provas em `Provas relevantes (CGU AFFC)/`; cruzamentos em `50 - Questões/TI/Incidência/`.

@@ -11,9 +11,9 @@ tags:
 
 # Incidência Direito — Cruzamento provas × edital CGU 2026
 
-> **Método:** leitura das **provas objetivas** de 17 concursos Cebraspe (sem gabaritos), selecionando os itens de **Direito** e classificando-os na taxonomia `50 - Questões/_taxonomia CGU 2026 (Direito).md` (recorte jurídico dos itens **15.2.2 e 15.2.3** do Edital nº 1/2026 – CGU – AFFC).
+> **Método:** leitura das **provas objetivas** de 17 concursos Cebraspe (sem gabaritos), selecionando os itens de **Direito** e classificando-os na taxonomia `50 - Questões/Direito/Taxonomia - Direito.md` (recorte jurídico dos itens **15.2.2 e 15.2.3** do Edital nº 1/2026 – CGU – AFFC).
 > Itens não-jurídicos (português, RLM, TI, contabilidade, economia, direito privado/tributário fora do recorte) foram **descartados**.
-> Dados brutos: `50 - Questões/Cruzamento Direito/`.
+> Dados brutos: `50 - Questões/Direito/Incidência/`.
 
 ## 1. Números gerais
 
@@ -73,4 +73,4 @@ tags:
 ## Fontes
 
 - Edital nº 1/2026 – CGU – AFFC, itens 15.2.2 e 15.2.3.
-- Provas em `Provas relevantes (CGU AFFC)/`; cruzamentos em `50 - Questões/Cruzamento Direito/`.
+- Provas em `Provas relevantes (CGU AFFC)/`; cruzamentos em `50 - Questões/Direito/Incidência/`.

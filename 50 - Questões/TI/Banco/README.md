@@ -10,7 +10,7 @@ tags:
 # Banco de questões — CGU 2026 · Cargo 4 (TI / Desenvolvimento de Sistemas)
 
 Banco de questões montado a partir das **provas específicas de TI** de 13 concursos Cebraspe,
-classificadas pela taxonomia do edital (`50 - Questões/_taxonomia CGU 2026 (Cargo 4 - TI).md`).
+classificadas pela taxonomia do edital (`50 - Questões/TI/Taxonomia - TI.md`).
 
 - **Arquivo único (consolidado):** `_banco_TI_completo.json`
 - **Por concurso:** `<concurso>.json` (13 arquivos)

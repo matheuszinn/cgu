@@ -3,7 +3,7 @@ tipo: cruzamento
 concurso: "tce_mg_25"
 cargo: "TCE/MG 2025 (Cebraspe) — provas objetivas de Conhecimentos Gerais e Específicos (Cargos 1 e 4)"
 fonte_prova: "Provas relevantes (CGU AFFC)/tce_mg_25/ (3 provas objetivas)"
-taxonomia: "_taxonomia CGU 2026 (Direito).md"
+taxonomia: "50 - Questões/Direito/Taxonomia - Direito.md"
 itens_direito: 39
 tags:
   - cgu-2026

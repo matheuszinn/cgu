@@ -3,7 +3,7 @@ tipo: cruzamento
 concurso: "sefaz_se_25_auditor"
 cargo: "Auditor Fiscal da Receita Estadual (SEFAZ/SE)"
 fonte_prova: "Provas relevantes (CGU AFFC)/sefaz_se_25_auditor/ (6 provas objetivas)"
-taxonomia: "_taxonomia CGU 2026 (Direito).md"
+taxonomia: "50 - Questões/Direito/Taxonomia - Direito.md"
 itens_direito: 27
 tags:
   - cgu-2026

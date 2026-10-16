@@ -10,7 +10,7 @@ tags:
 # Banco de questões — CGU 2026 · Direito
 
 Banco montado a partir das **provas objetivas** de 17 concursos Cebraspe, com os itens de **Direito**
-classificados pela taxonomia `50 - Questões/_taxonomia CGU 2026 (Direito).md` (recorte jurídico dos itens 15.2.2 e 15.2.3 do edital).
+classificados pela taxonomia `50 - Questões/Direito/Taxonomia - Direito.md` (recorte jurídico dos itens 15.2.2 e 15.2.3 do edital).
 
 - **Arquivo único (consolidado):** `_banco_Direito_completo.json`
 - **Por concurso:** `<concurso>.json` (17 arquivos)

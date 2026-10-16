@@ -3,7 +3,7 @@ tipo: cruzamento
 concurso: "tcu_25_aufc"
 cargo: "AFFC TI (Auditoria de TI)"
 fonte_prova: "Provas relevantes (CGU AFFC)/tcu_25_aufc/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS.md"
-taxonomia: "_taxonomia CGU 2026 (Cargo 4 - TI).md"
+taxonomia: "50 - Questões/TI/Taxonomia - TI.md"
 itens_ti: 71
 itens_fora: 29
 tags:

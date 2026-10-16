@@ -12,7 +12,7 @@ tags:
 # Cruzamento — tce_ms_25 × Edital CGU 2026 (Direito)
 
 > Prova analisada: 7 cadernos objetivos do concurso **TCE/MS 2025** (Cebraspe), em `Provas relevantes (CGU AFFC)/tce_ms_25/`.
-> Taxonomia: `50 - Questões/_taxonomia CGU 2026 (Direito).md` (D1–D10). Cada item recebeu **um** código; itens fora do recorte jurídico do edital (português, inglês, TI, contabilidade, direito tributário/civil/processual/ambiental/previdenciário/financeiro e técnica de auditoria) foram **descartados**.
+> Taxonomia: `50 - Questões/Direito/Taxonomia - Direito.md` (D1–D10). Cada item recebeu **um** código; itens fora do recorte jurídico do edital (português, inglês, TI, contabilidade, direito tributário/civil/processual/ambiental/previdenciário/financeiro e técnica de auditoria) foram **descartados**.
 > **Total de itens de Direito classificados: 108.**
 >
 > Legenda de prefixos (origem do item):
@@ -152,4 +152,4 @@ Foram descartados os itens que não se enquadram em D1–D10, inclusive:
 - As questões sobre **responsabilidade civil do Estado** (ex.: `CG2-4-Q15`, `CG5-Q22`, `CE1-Q23`, `CE3-Q43`) foram alocadas em **D5** (responsabilização), por não haver código específico na taxonomia.
 - As questões de **poderes administrativos** foram alocadas em **D3** (Administração pública) e as de **abuso de poder / atos administrativos / convalidação** em **D4**.
 - As questões de **controle externo estadual** (Lei Orgânica/Regimento Interno/MPC do TCE/MS) foram alocadas em **D5**, por analogia ao controle externo federal tratado na taxonomia.
-- Itens da **IN SGD/SEDGG/ME n.º 94/2022** e da **IN SEGES/ME n.º 65/2021** (`CE5`) foram classificados em **D9**, por tratarem de gestão/fiscalização de contratos e pesquisa de preços; há sobreposição com o recorte de TI (Cargo 5) já mapeado em `Cruzamento TI/tce_ms_25.md`.
+- Itens da **IN SGD/SEDGG/ME n.º 94/2022** e da **IN SEGES/ME n.º 65/2021** (`CE5`) foram classificados em **D9**, por tratarem de gestão/fiscalização de contratos e pesquisa de preços; há sobreposição com o recorte de TI (Cargo 5) já mapeado em `50 - Questões/TI/Incidência/tce_ms_25.md`.

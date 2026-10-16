@@ -10,7 +10,7 @@ tags:
 
 # Cruzamento Direito — tce_rs_25 × Edital CGU 2026 (AFFC)
 
-- **Taxonomia:** `50 - Questões/_taxonomia CGU 2026 (Direito).md` (D1–D10)
+- **Taxonomia:** `50 - Questões/Direito/Taxonomia - Direito.md` (D1–D10)
 - **Provas lidas (objetivas, sem gabaritos):**
   1. `Provas relevantes (CGU AFFC)/tce_rs_25/PROVA OBJETIVA MODELO CONHECIMENTOS GERAIS PARA OS CARGOS 1 A 4.md` — 80 itens (prefixo **`gerais1a4`**)
   2. `Provas relevantes (CGU AFFC)/tce_rs_25/PROVA OBJETIVA MODELO CONHECIMENTOS GERAIS PARA O CARGO 5.md` — 50 itens (prefixo **`gerais5`**)
@@ -88,5 +88,5 @@ tags:
 
 ## Fontes
 
-- Taxonomia: `50 - Questões/_taxonomia CGU 2026 (Direito).md`.
-- Provas em `Provas relevantes (CGU AFFC)/tce_rs_25/`; dados estruturados em `50 - Questões/Cruzamento Direito/tce_rs_25.json`.
+- Taxonomia: `50 - Questões/Direito/Taxonomia - Direito.md`.
+- Provas em `Provas relevantes (CGU AFFC)/tce_rs_25/`; dados estruturados em `50 - Questões/Direito/Incidência/tce_rs_25.json`.

@@ -5,7 +5,7 @@ cargo: "AUFC"
 fonte_prova:
   - "Provas relevantes (CGU AFFC)/tcu_25_aufc/PROVA OBJETIVA CONHECIMENTOS BASICOS.md"
   - "Provas relevantes (CGU AFFC)/tcu_25_aufc/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS.md"
-taxonomia: "_taxonomia CGU 2026 (Direito).md"
+taxonomia: "50 - Questões/Direito/Taxonomia - Direito.md"
 itens_direito: 58
 tags:
   - cgu-2026

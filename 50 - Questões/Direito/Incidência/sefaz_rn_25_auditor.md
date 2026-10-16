@@ -15,7 +15,7 @@ tags:
 > - `Provas relevantes (CGU AFFC)/sefaz_rn_25_auditor/PROVA OBJETIVA CONHECIMENTOS COMPLEMENTARES P2.md`
 > - `Provas relevantes (CGU AFFC)/sefaz_rn_25_auditor/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS P3.md`
 >
-> Classificação de cada item de Direito em **um** código da taxonomia `_taxonomia CGU 2026 (Direito).md` (D1–D10).
+> Classificação de cada item de Direito em **um** código da taxonomia `50 - Questões/Direito/Taxonomia - Direito.md` (D1–D10).
 > Item de Direito fora do recorte jurídico/direito público do edital CGU 2026 → **descartado** (ver seção final).
 > **Total de itens de Direito (D1–D10): 24** · **Fora do edital (Direito, descartados): 88** · **Direito no total: 112**.
 >
