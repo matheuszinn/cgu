@@ -17,12 +17,12 @@ tags:
 
 O exame de habilidades e conhecimentos é composto por **provas objetivas + prova discursiva**, ambas de caráter **eliminatório e classificatório** (item 7.1).
 
-| Prova | Área | Itens | Pontuação máxima | Turno |
-|---|---|:--:|:--:|---|
-| **P1** | Conhecimentos **básicos** | **40** | 40,00 | manhã |
-| **P2** | Conhecimentos **complementares** | **40** | 40,00 | manhã |
-| **P3** | Conhecimentos **específicos** (Cargo 4) | **90** | 180,00 | manhã |
-| **P4** | **Discursiva** (2 questões) | 2 | 100,00 | tarde |
+| Prova  | Área                                    | Itens  | Pontuação máxima | Turno |
+| ------ | --------------------------------------- | :----: | :--------------: | ----- |
+| **P1** | Conhecimentos **básicos**               | **40** |      40,00       | manhã |
+| **P2** | Conhecimentos **complementares**        | **40** |      40,00       | manhã |
+| **P3** | Conhecimentos **específicos** (Cargo 4) | **90** |      180,00      | manhã |
+| **P4** | **Discursiva** (2 questões)             |   2    |      100,00      | tarde |
 
 - **Formato dos itens:** todos os itens das provas objetivas são de **julgamento CERTO/ERRADO** (não há alternativas A–E na prova).
 - **Total de itens objetivos:** **170** (40 + 40 + 90).
