@@ -1,0 +1,528 @@
+{
+  "concurso": "tcu_25_aufc",
+  "banca": "Cebraspe",
+  "itens": [
+    {
+      "id": "basicos-37",
+      "tema": "D5",
+      "assunto": "Espécies e formas de controle (político, administrativo, legalidade, interno/externo)",
+      "enunciado": "A criação de comissões parlamentares de inquérito (CPI) no Congresso Nacional para a apuração de fato determinado, por prazo certo, é uma ferramenta de controle político que depende da aprovação da maioria absoluta dos membros da casa onde ficará instalada a CPI.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Básicos — item 37"
+    },
+    {
+      "id": "basicos-38",
+      "tema": "D5",
+      "assunto": "Espécies e formas de controle (político, administrativo, legalidade, interno/externo)",
+      "enunciado": "O controle administrativo, exercido de ofício pela administração pública, geralmente por meio do poder de recurso hierárquico, permite a órgão superior anular ou revogar atos praticados por órgão inferior, em decorrência do poder hierárquico.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Básicos — item 38"
+    },
+    {
+      "id": "basicos-39",
+      "tema": "D5",
+      "assunto": "Espécies e formas de controle (político, administrativo, legalidade, interno/externo)",
+      "enunciado": "O controle de legalidade incide sobre a oportunidade e a conveniência do ato administrativo, sendo reservado, em regra, à própria administração pública, que o exerce por meio da prerrogativa da revogação.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Básicos — item 39"
+    },
+    {
+      "id": "basicos-40",
+      "tema": "D5",
+      "assunto": "Espécies e formas de controle (político, administrativo, legalidade, interno/externo)",
+      "enunciado": "Pedido de informações dirigido por uma das casas do Congresso Nacional ou por qualquer de suas comissões a ministros de Estado e a titulares de órgãos diretamente subordinados à Presidência da República tem natureza de controle político, sendo tipificada como crime de responsabilidade a recusa injustificada de atendimento do pedido.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Básicos — item 40"
+    },
+    {
+      "id": "basicos-41",
+      "tema": "D5",
+      "assunto": "Espécies e formas de controle (político, administrativo, legalidade, interno/externo)",
+      "enunciado": "Quanto à sua origem, o controle exercido por um órgão superior sobre os atos de um órgão inferior dentro da mesma estrutura hierárquica é classificado como controle externo.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Básicos — item 41"
+    },
+    {
+      "id": "basicos-42",
+      "tema": "D5",
+      "assunto": "Controle exercido pelos tribunais de contas",
+      "enunciado": "O parecer prévio emitido pelos tribunais de contas sobre as contas do chefe do Poder Executivo tem natureza opinativa, e não vinculante.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Básicos — item 42"
+    },
+    {
+      "id": "basicos-43",
+      "tema": "D5",
+      "assunto": "Controle exercido pelos tribunais de contas",
+      "enunciado": "A fiscalização contábil, financeira, orçamentária, operacional e patrimonial da União e das entidades da administração pública direta e indireta, quando realizada pelo TCU, é exercida mediante controle externo e com auxílio do Poder Judiciário, que compartilha a responsabilidade pela fiscalização dos recursos públicos federais.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Básicos — item 43"
+    },
+    {
+      "id": "basicos-44",
+      "tema": "D10",
+      "assunto": "Improbidade administrativa (Lei 8.429/1992): sucessores, declaração de bens e pessoas jurídicas",
+      "enunciado": "O sucessor ou herdeiro de agente que tenha causado danos ao erário está sujeito às sanções da Lei de Improbidade Administrativa e deve responder pela integralidade das penalidades de ressarcimento integral do dano e multa civil, até o limite da herança.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Básicos — item 44"
+    },
+    {
+      "id": "basicos-45",
+      "tema": "D10",
+      "assunto": "Improbidade administrativa (Lei 8.429/1992): sucessores, declaração de bens e pessoas jurídicas",
+      "enunciado": "A recusa injustificada do agente público em prestar a declaração de bens e valores no momento da posse ou quando solicitado, porque sabe da existência de irregularidades, configura ato de improbidade autônomo.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Básicos — item 45"
+    },
+    {
+      "id": "basicos-46",
+      "tema": "D5",
+      "assunto": "Contencioso administrativo e sistema da jurisdição una",
+      "enunciado": "O Brasil adota o sistema de jurisdição una, podendo as decisões proferidas na esfera administrativa ser revisadas pelo Poder Judiciário.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Básicos — item 46"
+    },
+    {
+      "id": "basicos-47",
+      "tema": "D5",
+      "assunto": "Contencioso administrativo e sistema da jurisdição una",
+      "enunciado": "A jurisdição una brasileira impede que a administração pública exerça qualquer tipo de controle de legalidade sobre seus próprios atos, exceto em casos de análise de recursos e avocação.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Básicos — item 47"
+    },
+    {
+      "id": "basicos-48",
+      "tema": "D5",
+      "assunto": "Controle jurisdicional da administração pública",
+      "enunciado": "O mandado de segurança e a ação popular são remédios constitucionais que permitem o controle da legalidade dos atos administrativos, todavia o mandado de segurança não pode ser impetrado para proteger o patrimônio público, visto que a finalidade de proteger o erário é exclusiva da ação popular.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Básicos — item 48"
+    },
+    {
+      "id": "basicos-49",
+      "tema": "D5",
+      "assunto": "Controle jurisdicional da administração pública",
+      "enunciado": "O controle jurisdicional da administração pública no Brasil é exercido pelo Poder Judiciário, com o objetivo de reexaminar o mérito do ato administrativo, podendo a avaliação judicial substituir a análise de oportunidade e conveniência realizada pelo gestor público.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Básicos — item 49"
+    },
+    {
+      "id": "basicos-50",
+      "tema": "D5",
+      "assunto": "Controle externo: sustação de contrato administrativo e de atos normativos",
+      "enunciado": "Em caso de ilegalidade na execução de contrato administrativo federal, sua sustação será realizada diretamente pelo Congresso Nacional, sendo vedado ao TCU efetuá-la, mesmo na omissão do Poder Legislativo.",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Básicos — item 50"
+    },
+    {
+      "id": "basicos-51",
+      "tema": "D5",
+      "assunto": "TCU, TCEs e TCDF",
+      "enunciado": "Os TCEs e o TCDF atuam de forma coordenada e hierarquicamente subordinada ao TCU, conforme previsto na Constituição Federal de 1988.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Básicos — item 51"
+    },
+    {
+      "id": "basicos-52",
+      "tema": "D3",
+      "assunto": "Teoria clássica da administração e funções administrativas",
+      "enunciado": "Segundo a teoria clássica da administração, a estrutura de uma organização é sustentada por seis funções essenciais: técnicas, comerciais, financeiras, de segurança, contábeis e administrativas, sendo as administrativas responsáveis pela coordenação e sincronização das demais no nível de cúpula.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Básicos — item 52"
+    },
+    {
+      "id": "basicos-53",
+      "tema": "D3",
+      "assunto": "Modernização da gestão pública",
+      "enunciado": "A modernização da gestão pública brasileira é caracterizada pelo aumento do controle regulatório para o combate do custo Brasil, o que resulta na priorização da legalidade e da gestão de riscos em detrimento da inovação tecnológica e da melhoria da experiência do usuário.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Básicos — item 53"
+    },
+    {
+      "id": "basicos-54",
+      "tema": "D3",
+      "assunto": "Teoria clássica da administração e funções administrativas",
+      "enunciado": "Organização é a função administrativa que se concentra na definição de objetivos e metas de longo prazo, estabelecendo a direção futura e as decisões estratégicas a serem tomadas pelas organizações.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Básicos — item 54"
+    },
+    {
+      "id": "basicos-62",
+      "tema": "D1",
+      "assunto": "Poder constituinte (originário, derivado/decorrente), mutação constitucional e classificações da Constituição",
+      "enunciado": "O poder constituinte decorrente compreende, além do poder de reforma da constituição federal, o poder constituinte derivado, que consiste no poder atribuído pelo constituinte originário aos estados-membros de uma federação para a elaboração de suas constituições locais.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Básicos — item 62"
+    },
+    {
+      "id": "basicos-63",
+      "tema": "D1",
+      "assunto": "Poder constituinte (originário, derivado/decorrente), mutação constitucional e classificações da Constituição",
+      "enunciado": "Constituições rígidas são aquelas que só podem ser modificadas por mecanismos formais.",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Básicos — item 63"
+    },
+    {
+      "id": "basicos-64",
+      "tema": "D1",
+      "assunto": "Poder constituinte (originário, derivado/decorrente), mutação constitucional e classificações da Constituição",
+      "enunciado": "O poder constituinte originário existe em todas as sociedades politicamente organizadas.",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Básicos — item 64"
+    },
+    {
+      "id": "basicos-65",
+      "tema": "D1",
+      "assunto": "Poder constituinte (originário, derivado/decorrente), mutação constitucional e classificações da Constituição",
+      "enunciado": "O poder constituinte originário caracteriza-se pela instauração de uma nova ordem jurídica estatal, em uma ruptura da ordem anterior.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Básicos — item 65"
+    },
+    {
+      "id": "basicos-66",
+      "tema": "D1",
+      "assunto": "Poder constituinte (originário, derivado/decorrente), mutação constitucional e classificações da Constituição",
+      "enunciado": "Permanência, estabilidade e possibilidade de mudança são exigências recíprocas para que uma constituição permaneça em vigor não apenas simbolicamente.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Básicos — item 66"
+    },
+    {
+      "id": "basicos-67",
+      "tema": "D1",
+      "assunto": "Direito à licença-paternidade e mandado de injunção",
+      "enunciado": "O direito à licença-paternidade é extensível aos servidores públicos por força da própria Constituição Federal de 1988, sendo vedado o estabelecimento de prazos diferenciados da licença para trabalhadores celetistas e para servidores públicos.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Básicos — item 67"
+    },
+    {
+      "id": "basicos-68",
+      "tema": "D1",
+      "assunto": "Direito à licença-paternidade e mandado de injunção",
+      "enunciado": "Enquanto não editada a lei regulamentadora sobre a licença-paternidade, o trabalhador que desejar usufruir individualmente desse direito poderá impetrar mandado de injunção perante o juízo competente.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Básicos — item 68"
+    },
+    {
+      "id": "basicos-69",
+      "tema": "D1",
+      "assunto": "Organização do Estado, federalismo e repartição de competências",
+      "enunciado": "Em razão da competência concorrente para legislar sobre produção e consumo, aos estados-membros é facultado impor, por lei, às empresas seguradoras de automóveis a obrigação de comunicar ao DETRAN todos os sinistros de veículos registrados com perda total no respectivo território.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Básicos — item 69"
+    },
+    {
+      "id": "basicos-70",
+      "tema": "D1",
+      "assunto": "Organização do Estado, federalismo e repartição de competências",
+      "enunciado": "Por competir privativamente à União legislar sobre direito penal, a criação de tipo penal por meio de lei estadual consubstancia inconstitucionalidade formal manifesta e incontornável.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Básicos — item 70"
+    },
+    {
+      "id": "basicos-71",
+      "tema": "D1",
+      "assunto": "Organização do Estado, federalismo e repartição de competências",
+      "enunciado": "Em razão da competência concorrente para legislar sobre direito tributário, aos estados-membros é facultado instituir, por lei, programa de renegociação, regularização fiscal ou de parcelamento de débitos de ICMS que limite a fixação de honorários sucumbenciais a percentual estabelecido em lei estadual.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Básicos — item 71"
+    },
+    {
+      "id": "basicos-72",
+      "tema": "D1",
+      "assunto": "Organização do Estado, federalismo e repartição de competências",
+      "enunciado": "A pluralidade consorciada e coordenada de mais de uma ordem jurídica incidente sobre um mesmo território estatal é um elemento nuclear qualificador do Estado federal.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Básicos — item 72"
+    },
+    {
+      "id": "basicos-73",
+      "tema": "D1",
+      "assunto": "Organização do Estado, federalismo e repartição de competências",
+      "enunciado": "Na forma federativa de Estado, as unidades federadas são dotadas de autonomia e de capacidade de auto-organização, autolegislação, autogoverno e autoadministração.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Básicos — item 73"
+    },
+    {
+      "id": "basicos-74",
+      "tema": "D9",
+      "assunto": "Licitações: margem de preferência e registro de preços",
+      "enunciado": "É permitida a adoção de margem de preferência de até 25% nas licitações para a aquisição de produtos manufaturados advindos do MERCOSUL.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Básicos — item 74"
+    },
+    {
+      "id": "basicos-75",
+      "tema": "D9",
+      "assunto": "Licitações: margem de preferência e registro de preços",
+      "enunciado": "O edital de licitação para registro de preços pode prever diferentes preços em razão da forma e do local de acondicionamento dos objetos a serem adquiridos.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Básicos — item 75"
+    },
+    {
+      "id": "basicos-76",
+      "tema": "D10",
+      "assunto": "Improbidade administrativa (Lei 8.429/1992): sucessores, declaração de bens e pessoas jurídicas",
+      "enunciado": "Pessoa jurídica de direito privado à qual seja imputado ato ímprobo responderá integralmente pela prática do ato, ainda que demonstrado benefício direto a sócio.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Básicos — item 76"
+    },
+    {
+      "id": "basicos-77",
+      "tema": "D10",
+      "assunto": "Acordo de não persecução cível",
+      "enunciado": "O acordo de não persecução cível pode ser proposto em qualquer fase do processo, inclusive no grau recursal, desde que haja a confissão formal e a reparação integral do dano.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Básicos — item 77"
+    },
+    {
+      "id": "basicos-78",
+      "tema": "D5",
+      "assunto": "Controle jurisdicional do processo administrativo disciplinar",
+      "enunciado": "O controle jurisdicional do processo administrativo disciplinar restringe-se ao exame da regularidade do procedimento e da legalidade do ato, não sendo possível incursão no mérito administrativo, ressalvadas as hipóteses de flagrante ilegalidade, teratologia ou manifesta desproporcionalidade da sanção aplicada.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Básicos — item 78"
+    },
+    {
+      "id": "basicos-79",
+      "tema": "D5",
+      "assunto": "Processo administrativo disciplinar e destituição de cargo em comissão",
+      "enunciado": "A destituição de cargo em comissão em razão de falta grave praticada no exercício das atribuições do cargo exige a instauração de processo administrativo disciplinar somente quando o cargo é ocupado por servidor efetivo.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Básicos — item 79"
+    },
+    {
+      "id": "basicos-80",
+      "tema": "D3",
+      "assunto": "Agentes públicos: participação em conselho de cooperativa",
+      "enunciado": "É permitido ao servidor público participar do conselho de administração e fiscal em sociedade cooperativa prestadora de serviços a seus membros.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Básicos — item 80"
+    },
+    {
+      "id": "basicos-81",
+      "tema": "D5",
+      "assunto": "Processo administrativo disciplinar e destituição de cargo em comissão",
+      "enunciado": "É obrigatória a instauração de processo disciplinar quando ilícito praticado por servidor público ensejar a imposição da penalidade de suspensão por período superior a trinta dias.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Básicos — item 81"
+    },
+    {
+      "id": "basicos-82",
+      "tema": "D3",
+      "assunto": "Organização administrativa: OSCIP e fundações públicas",
+      "enunciado": "É vedado à administração pública exigir das organizações da sociedade civil de interesse público (OSCIP) contrapartida financeira como requisito para a celebração de parceria, sendo, contudo, permitida a exigência de contrapartida em serviços.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Básicos — item 82"
+    },
+    {
+      "id": "basicos-83",
+      "tema": "D4",
+      "assunto": "Autotutela: anulação de atos administrativos por conveniência e oportunidade",
+      "enunciado": "A administração pública pode anular os próprios atos administrativos por motivos de conveniência e oportunidade, desde que respeitado o interesse público primário.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Básicos — item 83"
+    },
+    {
+      "id": "basicos-84",
+      "tema": "D3",
+      "assunto": "Organização administrativa: OSCIP e fundações públicas",
+      "enunciado": "As fundações públicas não podem ser qualificadas como organizações da sociedade civil de interesse público (OSCIP).",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Básicos — item 84"
+    },
+    {
+      "id": "basicos-85",
+      "tema": "D5",
+      "assunto": "Controle externo: sustação de contrato administrativo e de atos normativos",
+      "enunciado": "O Congresso Nacional, no exercício do controle externo, somente poderá sustar atos normativos do Poder Executivo que exorbitem do poder regulamentar se houver parecer prévio do TCU.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Básicos — item 85"
+    },
+    {
+      "id": "especificos-139",
+      "tema": "D7",
+      "assunto": "Privacidade por padrão (privacy by default)",
+      "enunciado": "A adoção de privacidade por padrão em um serviço digital legitima que as configurações iniciais favoreçam a coleta ampliada de dados, desde que os mecanismos de segurança por padrão estejam habilitados para proteger essas informações.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Específicos — item 139"
+    },
+    {
+      "id": "especificos-162",
+      "tema": "D7",
+      "assunto": "LGPD: computação em nuvem no governo federal",
+      "enunciado": "O uso de computação em nuvem no governo federal deve obedecer à Lei Geral de Proteção de Dados Pessoais (LGPD), com garantia dos direitos fundamentais de titularidade, guarda de registros das operações de tratamento e adoção de responsabilidades compartilhadas entre órgãos e provedores.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Específicos — item 162"
+    },
+    {
+      "id": "especificos-177",
+      "tema": "D9",
+      "assunto": "Contratação de soluções de TI: estudo técnico preliminar e termo de referência",
+      "enunciado": "O estudo técnico preliminar pode substituir o termo de referência na contratação de alguns tipos de serviços que envolvam soluções de TI.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Específicos — item 177"
+    },
+    {
+      "id": "especificos-178",
+      "tema": "D9",
+      "assunto": "Contratação de soluções de TI: estudo técnico preliminar e termo de referência",
+      "enunciado": "A etapa inicial do processo de contratação de soluções de TI na administração pública consiste na elaboração do termo de referência.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Específicos — item 178"
+    },
+    {
+      "id": "especificos-179",
+      "tema": "D9",
+      "assunto": "Modelos de contratação de software (fábrica de software, sob demanda e SaaS)",
+      "enunciado": "Denomina-se fábrica de software um modelo de contratação com foco na produção contínua de sistemas e normalmente remunerado por ponto de função.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Específicos — item 179"
+    },
+    {
+      "id": "especificos-180",
+      "tema": "D9",
+      "assunto": "Modelos de contratação de software (fábrica de software, sob demanda e SaaS)",
+      "enunciado": "No que se refere à contratação sob demanda de software, os direitos patrimoniais do código-fonte desenvolvido devem ser cedidos à administração pública.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Específicos — item 180"
+    },
+    {
+      "id": "especificos-181",
+      "tema": "D9",
+      "assunto": "Modelos de contratação de software (fábrica de software, sob demanda e SaaS)",
+      "enunciado": "No modelo SaaS (Software as a Service), fica sob a responsabilidade do contratante a gestão de infraestrutura e do sistema operacional no qual o software é executado.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Específicos — item 181"
+    },
+    {
+      "id": "especificos-182",
+      "tema": "D9",
+      "assunto": "Sanções administrativas e responsabilização do contratado",
+      "enunciado": "A responsabilização do licitante que der causa à inexecução parcial do contrato ocorrerá apenas na esfera judicial.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Específicos — item 182"
+    },
+    {
+      "id": "especificos-183",
+      "tema": "D9",
+      "assunto": "Gestão e fiscalização de contratos: SLA, reequilíbrio econômico-financeiro e multas",
+      "enunciado": "Acordos de níveis de serviços, também denominados SLA (service level agreement), podem ser utilizados para medição do desempenho de contratos.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Específicos — item 183"
+    },
+    {
+      "id": "especificos-184",
+      "tema": "D9",
+      "assunto": "Sanções administrativas e responsabilização do contratado",
+      "enunciado": "As sanções administrativas aplicáveis ao responsável por infrações em licitações e contratos incluem advertência, multa, impedimento de licitar e declaração de inidoneidade.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Específicos — item 184"
+    },
+    {
+      "id": "especificos-185",
+      "tema": "D9",
+      "assunto": "Gestão e fiscalização de contratos: SLA, reequilíbrio econômico-financeiro e multas",
+      "enunciado": "O reequilíbrio econômico-financeiro poderá ser concedido de forma automática sempre que houver aumento de custos do contratado.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Específicos — item 185"
+    },
+    {
+      "id": "especificos-186",
+      "tema": "D9",
+      "assunto": "Gestão e fiscalização de contratos: SLA, reequilíbrio econômico-financeiro e multas",
+      "enunciado": "A administração pública contratante goza de total discricionariedade para definir, em edital, o valor das multas aplicáveis em função do cometimento de infrações administrativas pelo contratado, de acordo com o impacto da penalidade para a instituição.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Específicos — item 186"
+    },
+    {
+      "id": "especificos-187",
+      "tema": "D9",
+      "assunto": "Pregão eletrônico e sustentabilidade/acessibilidade em licitações",
+      "enunciado": "Em regra, para os órgãos da administração pública federal direta, é obrigatória a adoção do pregão na forma eletrônica para a aquisição de bens e contratação de serviços comuns.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Específicos — item 187"
+    },
+    {
+      "id": "especificos-188",
+      "tema": "D9",
+      "assunto": "Pregão eletrônico e sustentabilidade/acessibilidade em licitações",
+      "enunciado": "Em geral, sustentabilidade e acessibilidade são temas a serem considerados, espontânea e opcionalmente, pelo fornecedor, todavia, em se tratando de segurança da informação, sua observância é obrigatória.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Específicos — item 188"
+    },
+    {
+      "id": "especificos-189",
+      "tema": "D7",
+      "assunto": "LGPD: tratamento de dados pessoais em contratos de TI",
+      "enunciado": "No que tange ao tratamento de dados pessoais em contratos de TI, o controlador e o operador devem manter o registro das operações de tratamento de dados pessoais que realizarem, além de adotar medidas de segurança contra acessos não autorizados a tais dados.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Específicos — item 189"
+    },
+    {
+      "id": "especificos-190",
+      "tema": "D9",
+      "assunto": "Contratação de soluções de TI: estudo técnico preliminar e termo de referência",
+      "enunciado": "Na fase de planejamento da contratação de soluções de TIC, devem ser considerados os requisitos técnicos e não funcionais, que devem ser formalizados no termo de referência.",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "TCU 2025 (AUFC) — Conhecimentos Específicos — item 190"
+    }
+  ]
+}

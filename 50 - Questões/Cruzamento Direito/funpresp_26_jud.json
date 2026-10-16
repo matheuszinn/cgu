@@ -1,0 +1,136 @@
+{
+  "concurso": "funpresp_26_jud",
+  "arquivos": [
+    "Provas relevantes (CGU AFFC)/funpresp_26_jud/PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O EMPREGO 1.md",
+    "Provas relevantes (CGU AFFC)/funpresp_26_jud/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS EMPREGOS DE 2 A 8 E 12.md",
+    "Provas relevantes (CGU AFFC)/funpresp_26_jud/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS EMPREGOS 9 10 E 11.md",
+    "Provas relevantes (CGU AFFC)/funpresp_26_jud/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS EMPREGO 1.md",
+    "Provas relevantes (CGU AFFC)/funpresp_26_jud/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS EMPREGO 2.md",
+    "Provas relevantes (CGU AFFC)/funpresp_26_jud/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS EMPREGO 3.md",
+    "Provas relevantes (CGU AFFC)/funpresp_26_jud/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS EMPREGO 9.md",
+    "Provas relevantes (CGU AFFC)/funpresp_26_jud/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS EMPREGO 10.md",
+    "Provas relevantes (CGU AFFC)/funpresp_26_jud/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS EMPREGO 11.md"
+  ],
+  "total_itens_direito": 110,
+  "total_com_marcador": 52,
+  "total_sem_marcador": 58,
+  "por_tema": {
+    "D1": 9,
+    "D2": 18,
+    "D3": 9,
+    "D4": 5,
+    "D5": 5,
+    "D6": 1,
+    "D7": 13,
+    "D8": 33,
+    "D9": 11,
+    "D10": 6
+  },
+  "assuntos": [
+    {
+      "tema": "D1",
+      "assunto": "Direitos e garantias fundamentais (trabalho doméstico; eficácia contida; MS coletivo; tratados de DH; repouso semanal)",
+      "itens": ["EMP1-u01", "EMP1-u02", "EMP1-u03", "EMP1-u04", "EMP1-u05"]
+    },
+    {
+      "tema": "D1",
+      "assunto": "Nepotismo e princípio da impessoalidade",
+      "itens": ["EMP1-u06"]
+    },
+    {
+      "tema": "D1",
+      "assunto": "Poder Judiciário (RPV; subsídio dos ministros dos tribunais superiores)",
+      "itens": ["EMP1-u19", "EMP1-u20"]
+    },
+    {
+      "tema": "D1",
+      "assunto": "Mandado de segurança (parecer do Ministério Público)",
+      "itens": ["EMP1-111"]
+    },
+    {
+      "tema": "D2",
+      "assunto": "Ética e princípios/valores corporativos (compliance; transparência; assédio e discriminação)",
+      "itens": ["GER1-u01", "GER1-22", "GER1-23", "GER2-u01", "GER2-u02", "GER9-u01", "GER9-22", "GER9-23"]
+    },
+    {
+      "tema": "D2",
+      "assunto": "Código de Ética e de Conduta da FUNPRESP-JUD (informação privilegiada; responsabilidade; brindes; resultados)",
+      "itens": ["GER1-u02", "GER1-25", "GER1-26", "GER1-27", "GER2-u03", "GER2-u04", "GER9-u02", "GER9-25", "GER9-26"]
+    },
+    {
+      "tema": "D2",
+      "assunto": "Conflito de interesses (EFPC)",
+      "itens": ["EMP3-118"]
+    },
+    {
+      "tema": "D3",
+      "assunto": "Administração direta e indireta; empresa pública; cargos comissionados",
+      "itens": ["EMP1-u07", "EMP1-u08", "EMP1-u09", "EMP1-u10", "EMP1-u11", "EMP2-u04"]
+    },
+    {
+      "tema": "D3",
+      "assunto": "Servidores públicos (RPPS; adicional para atividades penosas/insalubres/perigosas)",
+      "itens": ["EMP1-u12", "EMP1-u14"]
+    },
+    {
+      "tema": "D3",
+      "assunto": "Concessões e permissões de serviços públicos (encampação)",
+      "itens": ["EMP2-u03"]
+    },
+    {
+      "tema": "D4",
+      "assunto": "Decisão administrativa, motivação e autotutela (revogação x anulação; licença; Lei 9.784/1999)",
+      "itens": ["EMP1-u15", "EMP1-u16", "EMP1-u17", "EMP1-u18", "EMP1-105"]
+    },
+    {
+      "tema": "D5",
+      "assunto": "Controle externo (Legislativo/TCU; mérito de atos discricionários; controle repressivo)",
+      "itens": ["EMP3-56", "EMP3-57", "EMP3-58", "EMP3-59", "EMP3-u01"]
+    },
+    {
+      "tema": "D6",
+      "assunto": "Transparência e accountability (audiências públicas e divulgação orçamentária)",
+      "itens": ["EMP2-90"]
+    },
+    {
+      "tema": "D7",
+      "assunto": "LGPD: conceitos, princípios e sanções administrativas",
+      "itens": ["EMP1-103", "EMP3-92", "GER1-u07", "GER1-u08", "GER2-u09", "GER2-u10", "GER9-u09", "GER9-u10"]
+    },
+    {
+      "tema": "D7",
+      "assunto": "LGPD: dados sensíveis e governança em privacidade",
+      "itens": ["GER1-u09", "GER1-u10", "GER2-u08", "GER9-u07", "GER9-u08"]
+    },
+    {
+      "tema": "D8",
+      "assunto": "Governança corporativa e gestão de riscos (controles internos, comitê de auditoria, COSO, ISO 31000, PLD)",
+      "itens": ["EMP2-86", "EMP2-87", "EMP2-88", "EMP2-89", "EMP2-103", "EMP2-104", "EMP2-105", "EMP3-63", "EMP3-64", "EMP3-65", "EMP3-66", "EMP3-67", "EMP3-68", "EMP3-69", "EMP3-70", "EMP3-94", "EMP3-95", "EMP3-u03"]
+    },
+    {
+      "tema": "D8",
+      "assunto": "Controles internos e segregação de funções",
+      "itens": ["EMP3-53", "EMP3-54", "EMP3-119", "EMP3-120"]
+    },
+    {
+      "tema": "D8",
+      "assunto": "Programas de integridade (Política e Programa de Integridade da FUNPRESP-JUD)",
+      "itens": ["GER1-u03", "GER1-u04", "GER1-u05", "GER1-u06", "GER2-u05", "GER2-u06", "GER2-u07", "GER9-u03", "GER9-u04", "GER9-u05", "GER9-u06"]
+    },
+    {
+      "tema": "D9",
+      "assunto": "Licitações e contratos (Regulamento Interno FUNPRESP-JUD; pregão; registro de preços; Lei das Estatais)",
+      "itens": ["EMP1-106", "EMP1-107", "EMP1-109", "EMP1-110", "EMP2-53", "EMP2-106", "EMP2-107", "EMP2-108", "EMP2-109", "EMP2-u01", "EMP2-u02"]
+    },
+    {
+      "tema": "D10",
+      "assunto": "Improbidade administrativa (Lei 8.429/1992)",
+      "itens": ["EMP1-85", "EMP1-86", "EMP1-87", "EMP1-88", "EMP1-u13"]
+    },
+    {
+      "tema": "D10",
+      "assunto": "Anticorrupção (Lei 12.846/2013): responsabilização de pessoas jurídicas",
+      "itens": ["EMP3-u02"]
+    }
+  ]
+}

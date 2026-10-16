@@ -1,0 +1,26 @@
+{
+  "concurso": "PREF_JP_17_CGM",
+  "banca": "Cebraspe",
+  "itens": [
+    {
+      "id": "DISC-C2",
+      "tema": "D9",
+      "assunto": "Regime Diferenciado de Contratações (RDC): inversão de fases, vícios sanáveis e fase recursal única; modos de disputa; orçamento sigiloso",
+      "enunciado": "Entre os objetivos da lei que rege as licitações e contratos na administração pública estão o de assegurar a observância do princípio constitucional da isonomia e o de garantir a seleção da proposta mais vantajosa para a administração pública. Por sua vez, o regime diferenciado de contratação (RDC) é caracterizado por uma série de peculiaridades que o diferem da referida lei, uma vez que entre seus objetivos incluem-se ampliar a eficiência nas contratações, aumentar a competitividade entre os licitantes, permitir troca de experiências e tecnologias e incentivar a inovação tecnológica, os quais evidenciam uma abrangência maior do que os previstos na norma geral de licitações.\n\nConsiderando os objetivos do RDC apresentados no texto acima, redija um texto dissertativo acerca das contribuições desse novo regime de contratação, abordando mecanismos previstos em lei bem como as contribuições destes para que se atinjam os objetivos citados. Em seu texto, discorra sobre: inversão de fases, vícios sanáveis e fase recursal única; [valor: 16,00 pontos] modos de disputa; [valor: 12,00 pontos] orçamento sigiloso. [valor: 10,00 pontos]",
+      "gabarito": null,
+      "anulado": false,
+      "fonte": "PMJP/CGM 2018 (Cebraspe) — Cargo 2: Auditor Municipal de Controle Interno — Área: Auditoria, Fiscalização, Ouvidoria e Transparência (Infraestrutura) — Prova Discursiva",
+      "tipo": "discursiva"
+    },
+    {
+      "id": "DISC-C4",
+      "tema": "D5",
+      "assunto": "Controle externo e transparência na administração pública: transparência como ferramenta de controle e controle externo exercido pelos tribunais de contas",
+      "enunciado": "Com o advento da Lei de Acesso à Informação — Lei Federal n.º 12.527/2011 —, que fortaleceu os mecanismos de controle e reforçou o dever do Estado de garantir a divulgação de informações claras e de forma transparente, a preocupação com a transparência e a divulgação de informações por parte das entidades públicas têm-se intensificado nos últimos anos.\n\nConsiderando que o fragmento de texto acima tem caráter unicamente motivador, redija um texto dissertativo acerca de controle externo e transparência na administração pública. Ao elaborar seu texto, aborde os seguintes aspectos. Transparência como ferramenta de controle. [valor: 19,00 pontos] Controle externo exercido pelos tribunais de contas com o propósito de garantir a transparência. [valor: 19,00 pontos]",
+      "gabarito": null,
+      "anulado": false,
+      "fonte": "PMJP/CGM 2018 (Cebraspe) — Cargo 4: Técnico Municipal de Controle Interno — Área: Auditoria, Fiscalização, Ouvidoria e Transparência (Geral) — Prova Discursiva",
+      "tipo": "discursiva"
+    }
+  ]
+}

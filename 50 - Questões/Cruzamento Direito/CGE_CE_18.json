@@ -1,0 +1,393 @@
+{
+  "concurso": "CGE_CE_18",
+  "arquivos": [
+    "Provas relevantes (CGU AFFC)/CGE_CE_18/PROVA OBJETIVA CONHECIMENTOS BASICOS PARA TODOS OS CARGOS AREAS CAMPOS DE ATUACAO.md",
+    "Provas relevantes (CGU AFFC)/CGE_CE_18/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS PARA TODOS OS CARGOS AREAS CAMPOS DE ATUACAO.md",
+    "Provas relevantes (CGU AFFC)/CGE_CE_18/PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 1.md",
+    "Provas relevantes (CGU AFFC)/CGE_CE_18/PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 2.md",
+    "Provas relevantes (CGU AFFC)/CGE_CE_18/PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 3.md",
+    "Provas relevantes (CGU AFFC)/CGE_CE_18/PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 4.md",
+    "Provas relevantes (CGU AFFC)/CGE_CE_18/PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 5.md",
+    "Provas relevantes (CGU AFFC)/CGE_CE_18/PROVA OBJETIVA CURSO DE FORMACAO.md"
+  ],
+  "chaves_arquivos": {
+    "BAS": "PROVA OBJETIVA CONHECIMENTOS BASICOS PARA TODOS OS CARGOS AREAS CAMPOS DE ATUACAO.md",
+    "ESP": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS PARA TODOS OS CARGOS AREAS CAMPOS DE ATUACAO.md",
+    "C1": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 1.md",
+    "C2": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 2.md",
+    "C3": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 3.md",
+    "C4": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 4.md",
+    "C5": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 5.md",
+    "CF": "PROVA OBJETIVA CURSO DE FORMACAO.md"
+  },
+  "total_itens_direito": 134,
+  "por_tema": {
+    "D1": 24,
+    "D2": 6,
+    "D3": 13,
+    "D4": 9,
+    "D5": 8,
+    "D6": 19,
+    "D7": 0,
+    "D8": 18,
+    "D9": 22,
+    "D10": 15
+  },
+  "assuntos": [
+    {
+      "tema": "D1",
+      "assunto": "Estado moderno e organização político-constitucional do Estado brasileiro (estágios de desenvolvimento; forma de Estado e de governo)",
+      "itens": ["BAS-11", "BAS-12"]
+    },
+    {
+      "tema": "D1",
+      "assunto": "Conceitos de poder e de Estado (autoridade, soberania, territorialidade)",
+      "itens": ["C5-61", "C5-62"]
+    },
+    {
+      "tema": "D1",
+      "assunto": "Pacto federativo e repartição de competências entre os entes",
+      "itens": ["ESP-57", "C5-63"]
+    },
+    {
+      "tema": "D1",
+      "assunto": "Separação e independência dos Poderes e equilíbrio institucional",
+      "itens": ["C5-64"]
+    },
+    {
+      "tema": "D1",
+      "assunto": "Teorias da democracia e representação política",
+      "itens": ["C5-65"]
+    },
+    {
+      "tema": "D1",
+      "assunto": "Democracia, representação e participação social no Brasil (plebiscito, referendo, iniciativa popular)",
+      "itens": ["C5-69", "C5-74"]
+    },
+    {
+      "tema": "D1",
+      "assunto": "Controle de constitucionalidade: aspectos gerais e ação direta de inconstitucionalidade (objeto e parâmetro)",
+      "itens": ["CF-11", "ESP-56"]
+    },
+    {
+      "tema": "D1",
+      "assunto": "Funções essenciais à justiça",
+      "itens": ["ESP-59"]
+    },
+    {
+      "tema": "D1",
+      "assunto": "Iniciativa privativa de leis orçamentárias na CF/1988",
+      "itens": ["ESP-54"]
+    },
+    {
+      "tema": "D1",
+      "assunto": "Direitos e garantias fundamentais e vedações constitucionais",
+      "itens": ["ESP-60", "C5-76"]
+    },
+    {
+      "tema": "D1",
+      "assunto": "Direitos humanos: fundamentos, dignidade da pessoa humana e princípios; obrigação de respeitar",
+      "itens": ["C5-72", "C5-84"]
+    },
+    {
+      "tema": "D1",
+      "assunto": "Proteção de grupos e direitos humanos (violência doméstica, atendimento prioritário, tortura, igualdade racial, criança)",
+      "itens": ["C5-73", "C5-75", "C5-77", "C5-79", "C5-80"]
+    },
+    {
+      "tema": "D1",
+      "assunto": "Princípios da administração pública (moralidade, impessoalidade, publicidade) e sua concretização (improbidade/LAI)",
+      "itens": ["CF-13"]
+    },
+    {
+      "tema": "D2",
+      "assunto": "Ética e reflexão sobre a conduta; eficiência de códigos de ética",
+      "itens": ["CF-1", "CF-2"]
+    },
+    {
+      "tema": "D2",
+      "assunto": "Ética e políticas públicas: formação do servidor e qualidade da decisão",
+      "itens": ["CF-3"]
+    },
+    {
+      "tema": "D2",
+      "assunto": "Conflito de interesses: caracterização e uso de informação privilegiada",
+      "itens": ["CF-4", "CF-6"]
+    },
+    {
+      "tema": "D2",
+      "assunto": "Conflito de interesses pós-aposentadoria (quarentena)",
+      "itens": ["CF-5"]
+    },
+    {
+      "tema": "D3",
+      "assunto": "Modelos de administração pública (burocrática, gerencial) e reformas administrativas",
+      "itens": ["BAS-13", "BAS-14", "BAS-15", "BAS-17"]
+    },
+    {
+      "tema": "D3",
+      "assunto": "Poder de polícia e agências reguladoras",
+      "itens": ["BAS-18"]
+    },
+    {
+      "tema": "D3",
+      "assunto": "Organização administrativa: prestação direta de serviço público, bens públicos e entidades paraestatais/terceiro setor",
+      "itens": ["ESP-47", "ESP-51", "ESP-53"]
+    },
+    {
+      "tema": "D3",
+      "assunto": "Agentes públicos: Estatuto dos Funcionários Públicos Civis do Ceará e teto remuneratório",
+      "itens": ["ESP-49", "CF-12"]
+    },
+    {
+      "tema": "D3",
+      "assunto": "Burocracia, insulamento burocrático e Estado-rede",
+      "itens": ["C5-66", "C5-82"]
+    },
+    {
+      "tema": "D3",
+      "assunto": "Arranjos de cooperação com organizações da sociedade civil (termos de colaboração)",
+      "itens": ["C5-71"]
+    },
+    {
+      "tema": "D4",
+      "assunto": "Ato administrativo: extinção (caducidade, cassação, revogação) e revogação",
+      "itens": ["ESP-48", "CF-14"]
+    },
+    {
+      "tema": "D4",
+      "assunto": "Processo administrativo (Estatuto dos Funcionários Públicos do Ceará): recursos e prescrição",
+      "itens": ["ESP-50"]
+    },
+    {
+      "tema": "D4",
+      "assunto": "Processo administrativo disciplinar: informalismo moderado, sanções, instauração e confissão",
+      "itens": ["CF-41", "CF-42", "CF-43", "CF-44"]
+    },
+    {
+      "tema": "D4",
+      "assunto": "Empréstimo de provas do processo penal ao processo administrativo disciplinar",
+      "itens": ["C4-95"]
+    },
+    {
+      "tema": "D4",
+      "assunto": "Devido processo legal e suas consequências",
+      "itens": ["C4-96"]
+    },
+    {
+      "tema": "D5",
+      "assunto": "Controle interno: competências constitucionais (CF e Constituição do Ceará) e distinção de auditoria interna",
+      "itens": ["ESP-46", "ESP-55", "CF-25"]
+    },
+    {
+      "tema": "D5",
+      "assunto": "Independência e objetividade da auditoria interna",
+      "itens": ["ESP-40"]
+    },
+    {
+      "tema": "D5",
+      "assunto": "Auditoria interna e avaliação de controles internos: papel e responsabilidade do auditor",
+      "itens": ["CF-26"]
+    },
+    {
+      "tema": "D5",
+      "assunto": "Accountability e controle social",
+      "itens": ["C5-68"]
+    },
+    {
+      "tema": "D5",
+      "assunto": "Ação civil pública e controle do patrimônio público",
+      "itens": ["C5-78"]
+    },
+    {
+      "tema": "D5",
+      "assunto": "Independência entre as instâncias administrativa e penal na responsabilização disciplinar",
+      "itens": ["C4-94"]
+    },
+    {
+      "tema": "D6",
+      "assunto": "Informação classificada e sigilo (Lei estadual n.º 15.175/2012)",
+      "itens": ["BAS-20"]
+    },
+    {
+      "tema": "D6",
+      "assunto": "Direito constitucional de acesso à informação",
+      "itens": ["ESP-58"]
+    },
+    {
+      "tema": "D6",
+      "assunto": "Participação e controle social na gestão de políticas públicas",
+      "itens": ["C5-67"]
+    },
+    {
+      "tema": "D6",
+      "assunto": "Transparência fiscal (LRF): instrumentos de transparência e divulgação em meio eletrônico",
+      "itens": ["C5-91", "C5-92"]
+    },
+    {
+      "tema": "D6",
+      "assunto": "Lei n.º 13.460/2017: direitos do usuário, carta de serviços e princípios de atendimento",
+      "itens": ["C5-93", "CF-54", "CF-55", "CF-56"]
+    },
+    {
+      "tema": "D6",
+      "assunto": "Lei n.º 13.726/2018 (desburocratização) e relação poder público-cidadão",
+      "itens": ["C5-94"]
+    },
+    {
+      "tema": "D6",
+      "assunto": "Ouvidoria pública: finalidade, criação e classificação das manifestações",
+      "itens": ["C5-95", "CF-51", "CF-52", "CF-53"]
+    },
+    {
+      "tema": "D6",
+      "assunto": "Lei de Acesso à Informação: abrangência, transparência passiva/ativa, informação pessoal e direito à informação",
+      "itens": ["C5-96", "CF-57", "CF-58", "CF-59", "CF-60"]
+    },
+    {
+      "tema": "D8",
+      "assunto": "Ciclo de governança na gestão pública",
+      "itens": ["BAS-16"]
+    },
+    {
+      "tema": "D8",
+      "assunto": "Gerenciamento de riscos corporativos (COSO): atividades de controle",
+      "itens": ["ESP-39"]
+    },
+    {
+      "tema": "D8",
+      "assunto": "Controle interno (COSO): deficiências significativas, objetivos, ambiente, risco, atividades, informação e monitoramento",
+      "itens": ["C1-94", "C1-95", "C1-96", "C1-97", "C1-98", "C1-99", "C1-100"]
+    },
+    {
+      "tema": "D8",
+      "assunto": "Princípios de integridade e accountability (Decreto n.º 9.203/2017)",
+      "itens": ["CF-21"]
+    },
+    {
+      "tema": "D8",
+      "assunto": "Governança pública: instâncias internas, dimensões das esferas e funções",
+      "itens": ["CF-22", "CF-23", "CF-24"]
+    },
+    {
+      "tema": "D8",
+      "assunto": "Classificação dos controles internos (preventivos e detectivos)",
+      "itens": ["CF-27"]
+    },
+    {
+      "tema": "D8",
+      "assunto": "Gestão de riscos: risco residual, apetite, tolerância e compartilhamento de riscos",
+      "itens": ["CF-28", "CF-29", "CF-30"]
+    },
+    {
+      "tema": "D8",
+      "assunto": "Linhas de defesa e terceira linha (auditoria interna)",
+      "itens": ["CF-32"]
+    },
+    {
+      "tema": "D9",
+      "assunto": "Lei n.º 8.666/1993: inexigibilidade, modalidades licitatórias e cláusulas exorbitantes",
+      "itens": ["C2-65", "C2-66", "C2-67"]
+    },
+    {
+      "tema": "D9",
+      "assunto": "Lei n.º 8.987/1995: regime de concessão e permissão de serviço público",
+      "itens": ["C2-63", "C2-64"]
+    },
+    {
+      "tema": "D9",
+      "assunto": "Parceria público-privada (Lei n.º 11.079/2004)",
+      "itens": ["C1-87", "ESP-52"]
+    },
+    {
+      "tema": "D9",
+      "assunto": "Lei n.º 13.303/2016: aditivos contratuais em empresa pública",
+      "itens": ["C1-81"]
+    },
+    {
+      "tema": "D9",
+      "assunto": "Reequilíbrio econômico-financeiro e reajuste contratual",
+      "itens": ["C1-82", "C2-74", "C2-94"]
+    },
+    {
+      "tema": "D9",
+      "assunto": "Modalidade pregão em obra/serviço de engenharia",
+      "itens": ["C1-83"]
+    },
+    {
+      "tema": "D9",
+      "assunto": "Contratação direta: dispensa e inexigibilidade (emergência)",
+      "itens": ["C1-84"]
+    },
+    {
+      "tema": "D9",
+      "assunto": "Sistema de registro de preços: adesão à ata por órgão não participante",
+      "itens": ["C1-85"]
+    },
+    {
+      "tema": "D9",
+      "assunto": "Regime Diferenciado de Contratações (RDC): modo de disputa e julgamento",
+      "itens": ["C1-86"]
+    },
+    {
+      "tema": "D9",
+      "assunto": "Execução contratual: atraso, penalidades e decisão da administração",
+      "itens": ["C1-88", "C2-100"]
+    },
+    {
+      "tema": "D9",
+      "assunto": "Limites legais de aditivos contratuais (acréscimos e supressões)",
+      "itens": ["C1-90"]
+    },
+    {
+      "tema": "D9",
+      "assunto": "Concessões: mecanismos privados de solução de controvérsias (arbitragem)",
+      "itens": ["C1-89"]
+    },
+    {
+      "tema": "D9",
+      "assunto": "Crimes licitatórios (Lei n.º 8.666/1993): dispensa indevida e admissão de empresa inidônea",
+      "itens": ["C4-84", "C4-90"]
+    },
+    {
+      "tema": "D9",
+      "assunto": "Fiscalização contratual: jogo de cronograma em obra pública",
+      "itens": ["CF-37"]
+    },
+    {
+      "tema": "D10",
+      "assunto": "Improbidade administrativa (Lei n.º 8.429/1992): enriquecimento ilícito e ação judicial",
+      "itens": ["CF-45", "CF-50"]
+    },
+    {
+      "tema": "D10",
+      "assunto": "Lei Anticorrupção (Lei n.º 12.846/2013): multa, atenuantes, prescrição e responsabilização",
+      "itens": ["CF-46", "CF-47", "CF-48", "CF-49", "C4-99"]
+    },
+    {
+      "tema": "D10",
+      "assunto": "Acordo de leniência (Lei n.º 12.846/2013)",
+      "itens": ["C4-100"]
+    },
+    {
+      "tema": "D10",
+      "assunto": "Crimes contra a administração pública (peculato, condescendência criminosa, corrupção)",
+      "itens": ["C4-83", "C4-85", "C4-87", "C4-92"]
+    },
+    {
+      "tema": "D10",
+      "assunto": "Lavagem de dinheiro (Lei n.º 9.613/1998)",
+      "itens": ["C4-93"]
+    },
+    {
+      "tema": "D10",
+      "assunto": "Anticorrupção internacional: FCPA e UK Bribery Act",
+      "itens": ["C4-98"]
+    },
+    {
+      "tema": "D10",
+      "assunto": "Fatores que favorecem a incidência de corrupção",
+      "itens": ["C5-85"]
+    }
+  ]
+}

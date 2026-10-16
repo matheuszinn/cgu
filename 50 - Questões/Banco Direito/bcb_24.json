@@ -1,0 +1,51 @@
+{
+  "concurso": "bcb_24",
+  "banca": "Cebraspe",
+  "itens": [
+    {
+      "id": 36,
+      "tema": "D3",
+      "assunto": "Autarquias: natureza pública dos bens, impenhorabilidade e inalienabilidade",
+      "enunciado": "Os bens das autarquias são, invariavelmente, de natureza pública, bem como impenhoráveis e inalienáveis.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "BCB 2024 — Conhecimentos Básicos — item 36"
+    },
+    {
+      "id": 37,
+      "tema": "D5",
+      "assunto": "Processo administrativo disciplinar (PAD): afastamento do servidor do exercício do cargo até a conclusão",
+      "enunciado": "A fim de evitar que servidor público submetido a processo administrativo disciplinar (PAD) interfira no curso do referido processo, a lei autoriza o seu afastamento do exercício do cargo até a conclusão do PAD.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "BCB 2024 — Conhecimentos Básicos — item 37"
+    },
+    {
+      "id": 38,
+      "tema": "D1",
+      "assunto": "Princípio da indisponibilidade do interesse público; inalienabilidade e indisponibilidade dos direitos geridos por administradores públicos",
+      "enunciado": "Em razão do princípio da indisponibilidade do interesse público, os direitos geridos por administradores públicos são, em regra, inalienáveis e indisponíveis.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "BCB 2024 — Conhecimentos Básicos — item 38"
+    },
+    {
+      "id": 39,
+      "tema": "D7",
+      "assunto": "LGPD: tratamento de dados pessoais sensíveis (saúde e vida sexual) para fins sanitários",
+      "enunciado": "Nos termos da LGPD, dados pessoais sensíveis, como os relativos à saúde e à vida sexual do titular, podem ser tratados para fins sanitários.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "BCB 2024 — Conhecimentos Básicos — item 39"
+    },
+    {
+      "id": 40,
+      "tema": "D2",
+      "assunto": "Código de Ética do servidor público federal: atendimento ao usuário, infração ética e dano moral",
+      "enunciado": "O ato de servidor público federal permitir que usuários aguardem atendimento por tempo excessivo é caracterizado pelo referido código de ética não só como infração ética, mas também como ação causadora de dano moral.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "BCB 2024 — Conhecimentos Básicos — item 40"
+    }
+  ]
+}

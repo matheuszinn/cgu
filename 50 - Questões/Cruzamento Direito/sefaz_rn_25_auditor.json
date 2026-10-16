@@ -1,0 +1,45 @@
+{
+  "concurso": "sefaz_rn_25_auditor",
+  "arquivos": [
+    "PROVA OBJETIVA CONHECIMENTOS GERAIS P1.md",
+    "PROVA OBJETIVA CONHECIMENTOS COMPLEMENTARES P2.md",
+    "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS P3.md"
+  ],
+  "total_itens_direito": 24,
+  "por_tema": {
+    "D1": 10,
+    "D3": 4,
+    "D4": 3,
+    "D5": 3,
+    "D6": 1,
+    "D7": 1,
+    "D9": 1,
+    "D10": 1
+  },
+  "assuntos": [
+    { "tema": "D1", "assunto": "Controle concentrado de constitucionalidade: legitimidade para opor embargos de declaração (STF)", "itens": [16] },
+    { "tema": "D1", "assunto": "Arguição de descumprimento de preceito fundamental (ADPF): hipóteses de cabimento (STF)", "itens": [17] },
+    { "tema": "D1", "assunto": "Ação direta de inconstitucionalidade por omissão (STF)", "itens": [18] },
+    { "tema": "D1", "assunto": "Legitimidade extraordinária dos sindicatos na defesa de direitos coletivos e individuais (STF)", "itens": [19] },
+    { "tema": "D1", "assunto": "Direitos políticos: idade mínima como condição de elegibilidade (CF/1988)", "itens": [20] },
+    { "tema": "D1", "assunto": "Cargos privativos de brasileiro nato (CF/1988)", "itens": [21] },
+    { "tema": "D1", "assunto": "Laicidade estatal, não discriminação e impessoalidade: símbolos religiosos em prédios públicos (STF)", "itens": [22] },
+    { "tema": "D1", "assunto": "Direitos políticos e posse em concurso público: condenação criminal transitada em julgado (STF)", "itens": [23] },
+    { "tema": "D1", "assunto": "Controle de constitucionalidade estadual × ADI com idêntico objeto no STF (STF)", "itens": [24] },
+    { "tema": "D1", "assunto": "Improbidade e limites à sanção: vedação perpétua de retorno ao serviço público (STF)", "itens": [25] },
+    { "tema": "D3", "assunto": "Distinção constitucional entre cargo, emprego e função pública", "itens": [28] },
+    { "tema": "D3", "assunto": "Regime jurídico da remuneração de agentes públicos", "itens": [29] },
+    { "tema": "D3", "assunto": "Organização administrativa: administração direta e indireta, autarquias, órgãos e descentralização", "itens": [32] },
+    { "tema": "D3", "assunto": "Prerrogativas e poderes da administração pública (hierárquico, disciplinar, de polícia e regulamentar)", "itens": [35] },
+    { "tema": "D4", "assunto": "Atributos do ato administrativo: presunção de legitimidade", "itens": [26] },
+    { "tema": "D4", "assunto": "Espécies de atos administrativos (ato ordinatório)", "itens": [27] },
+    { "tema": "D4", "assunto": "Autotutela administrativa: anulação e revogação de atos", "itens": [33] },
+    { "tema": "D5", "assunto": "Responsabilidade civil do Estado (regime constitucional)", "itens": [30] },
+    { "tema": "D5", "assunto": "Excludentes da responsabilidade civil do Estado", "itens": [31] },
+    { "tema": "D5", "assunto": "Fiscalização financeira e orçamentária e controle externo: parecer prévio de tribunal de contas e LRF", "itens": [52] },
+    { "tema": "D6", "assunto": "Serviço de Informação ao Cidadão (SIC): objetivos — Decreto n.º 7.724/2012 (regulamento da LAI)", "itens": [74] },
+    { "tema": "D7", "assunto": "LGPD: anonimização (processo pelo qual deixa de ser possível associar um dado a um indivíduo)", "itens": [71] },
+    { "tema": "D9", "assunto": "Participação de pessoas jurídicas em consórcio em licitação pública (Lei n.º 14.133/2021)", "itens": [34] },
+    { "tema": "D10", "assunto": "Crimes de corrupção contra a administração pública: concussão, peculato e corrupção ativa", "itens": [50] }
+  ]
+}

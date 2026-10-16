@@ -1,0 +1,411 @@
+{
+  "concurso": "tce_rs_25",
+  "banca": "Cebraspe",
+  "itens": [
+    {
+      "id": "gerais1a4-40",
+      "tema": "D9",
+      "assunto": "Licitações (Lei 14.133/2021): impugnação, pedidos de esclarecimento e recursos",
+      "enunciado": "Qualquer interessado poderá impugnar edital de licitação até a véspera da abertura do certame, devendo a administração pública responder à impugnação em até 5 dias úteis.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "gerais1a4 — TCE-RS 2025 — Cargo 1 a 4 (Conhecimentos Gerais) — item 40"
+    },
+    {
+      "id": "gerais1a4-41",
+      "tema": "D9",
+      "assunto": "Licitações (Lei 14.133/2021): impugnação, pedidos de esclarecimento e recursos",
+      "enunciado": "Os recursos e pedidos de reconsideração apresentados no processo licitatório não possuem efeito suspensivo, salvo em caso de previsão expressa no edital.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "gerais1a4 — TCE-RS 2025 — Cargo 1 a 4 (Conhecimentos Gerais) — item 41"
+    },
+    {
+      "id": "gerais1a4-42",
+      "tema": "D9",
+      "assunto": "Licitações (Lei 14.133/2021): impugnação, pedidos de esclarecimento e recursos",
+      "enunciado": "Da decisão que habilita ou inabilita licitante cabe recurso, mas sua apreciação ocorre em fase única, não sendo admitida a interposição sucessiva de recursos hierárquicos sobre o mesmo ato.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "gerais1a4 — TCE-RS 2025 — Cargo 1 a 4 (Conhecimentos Gerais) — item 42"
+    },
+    {
+      "id": "gerais1a4-43",
+      "tema": "D5",
+      "assunto": "Controle externo: parecer prévio do TCE/RS sobre contas do prefeito (Lei estadual 11.424/2000)",
+      "enunciado": "O parecer prévio do TCE/RS deve conter apreciação geral e fundamentada, com análise das gestões contábil, financeira, orçamentária, patrimonial e operacional, a fim de fornecer subsídios à decisão da Câmara Municipal.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "gerais1a4 — TCE-RS 2025 — Cargo 1 a 4 (Conhecimentos Gerais) — item 43"
+    },
+    {
+      "id": "gerais1a4-44",
+      "tema": "D5",
+      "assunto": "Controle externo: parecer prévio do TCE/RS sobre contas do prefeito (Lei estadual 11.424/2000)",
+      "enunciado": "O parecer prévio emitido pelo TCE/RS tem natureza de recomendação, podendo ser afastado pela Câmara Municipal apenas mediante decisão de dois terços de seus membros.",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "gerais1a4 — TCE-RS 2025 — Cargo 1 a 4 (Conhecimentos Gerais) — item 44"
+    },
+    {
+      "id": "gerais1a4-45",
+      "tema": "D5",
+      "assunto": "Controle externo: parecer prévio do TCE/RS sobre contas do prefeito (Lei estadual 11.424/2000)",
+      "enunciado": "A Câmara Municipal pode julgar as contas do prefeito mesmo sem a prévia emissão do parecer do TCE/RS, desde que haja maioria simples em plenário.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "gerais1a4 — TCE-RS 2025 — Cargo 1 a 4 (Conhecimentos Gerais) — item 45"
+    },
+    {
+      "id": "gerais1a4-46",
+      "tema": "D5",
+      "assunto": "Tribunais de contas: título executivo extrajudicial, função jurisdicional e sustação de contratos",
+      "enunciado": "As decisões dos tribunais de contas que resultarem em imputação de débito ou multa têm eficácia de título executivo extrajudicial, cabendo ao respectivo ente federativo promover a execução.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "gerais1a4 — TCE-RS 2025 — Cargo 1 a 4 (Conhecimentos Gerais) — item 46"
+    },
+    {
+      "id": "gerais1a4-47",
+      "tema": "D5",
+      "assunto": "Tribunais de contas: título executivo extrajudicial, função jurisdicional e sustação de contratos",
+      "enunciado": "Os tribunais de contas exercem função jurisdicional, razão pela qual suas decisões não podem ser revistas pelo Poder Judiciário.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "gerais1a4 — TCE-RS 2025 — Cargo 1 a 4 (Conhecimentos Gerais) — item 47"
+    },
+    {
+      "id": "gerais1a4-48",
+      "tema": "D5",
+      "assunto": "Tribunais de contas: título executivo extrajudicial, função jurisdicional e sustação de contratos",
+      "enunciado": "Os tribunais de contas podem sustar diretamente a execução de contratos administrativos irregulares celebrados pela administração pública, independentemente de prévia comunicação ao Poder Legislativo ou da concessão de prazo para saneamento das irregularidades constatadas.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "gerais1a4 — TCE-RS 2025 — Cargo 1 a 4 (Conhecimentos Gerais) — item 48"
+    },
+    {
+      "id": "gerais1a4-61",
+      "tema": "D1",
+      "assunto": "Classificações da Constituição Federal de 1988 (extensão, rigidez e origem)",
+      "enunciado": "A CF é classificada, quanto à extensão, como sintética, por reunir e sintetizar os dogmas e as ideias fundamentais predominantes no momento de sua promulgação.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "gerais1a4 — TCE-RS 2025 — Cargo 1 a 4 (Conhecimentos Gerais) — item 61"
+    },
+    {
+      "id": "gerais1a4-62",
+      "tema": "D1",
+      "assunto": "Classificações da Constituição Federal de 1988 (extensão, rigidez e origem)",
+      "enunciado": "Quanto à rigidez, a CF classifica-se como semirrígida, em virtude do procedimento especial que se exige para sua alteração.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "gerais1a4 — TCE-RS 2025 — Cargo 1 a 4 (Conhecimentos Gerais) — item 62"
+    },
+    {
+      "id": "gerais1a4-63",
+      "tema": "D1",
+      "assunto": "Classificações da Constituição Federal de 1988 (extensão, rigidez e origem)",
+      "enunciado": "A CF classifica-se, quanto à origem, como promulgada, por ter sido elaborada por representantes eleitos pelo povo.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "gerais1a4 — TCE-RS 2025 — Cargo 1 a 4 (Conhecimentos Gerais) — item 63"
+    },
+    {
+      "id": "gerais1a4-64",
+      "tema": "D1",
+      "assunto": "Poder Legislativo: competências, fiscalização, imunidades e prisão de parlamentar",
+      "enunciado": "Ao Congresso Nacional compete a edição de lei complementar para fixar os subsídios do presidente e do vice-presidente da República.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "gerais1a4 — TCE-RS 2025 — Cargo 1 a 4 (Conhecimentos Gerais) — item 64"
+    },
+    {
+      "id": "gerais1a4-65",
+      "tema": "D1",
+      "assunto": "Poder Legislativo: competências, fiscalização, imunidades e prisão de parlamentar",
+      "enunciado": "Compete exclusivamente ao Congresso Nacional fiscalizar e controlar, diretamente ou por qualquer de suas casas, os atos do Poder Executivo, incluídos os da administração indireta.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "gerais1a4 — TCE-RS 2025 — Cargo 1 a 4 (Conhecimentos Gerais) — item 65"
+    },
+    {
+      "id": "gerais1a4-66",
+      "tema": "D1",
+      "assunto": "Poder Legislativo: competências, fiscalização, imunidades e prisão de parlamentar",
+      "enunciado": "Desde a expedição do diploma, os membros do Congresso Nacional não poderão ser presos, salvo em flagrante de crime inafiançável, caso em que os autos serão remetidos à respectiva casa legislativa, para que nela se resolva sobre a prisão.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "gerais1a4 — TCE-RS 2025 — Cargo 1 a 4 (Conhecimentos Gerais) — item 66"
+    },
+    {
+      "id": "gerais1a4-67",
+      "tema": "D1",
+      "assunto": "Poder Legislativo: competências, fiscalização, imunidades e prisão de parlamentar",
+      "enunciado": "Em razão da imunidade parlamentar material, os congressistas não podem ser responsabilizados, civil ou penalmente, por suas opiniões, palavras e votos, independentemente da vinculação da manifestação com o exercício do mandato.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "gerais1a4 — TCE-RS 2025 — Cargo 1 a 4 (Conhecimentos Gerais) — item 67"
+    },
+    {
+      "id": "gerais1a4-68",
+      "tema": "D3",
+      "assunto": "Agentes públicos: acumulação de cargos e teto remuneratório",
+      "enunciado": "Nos casos de acumulação de cargos, empregos e funções autorizados constitucionalmente, a incidência do teto remuneratório pressupõe a consideração de cada um dos vínculos formalizados, afastada a observância do teto remuneratório quanto ao somatório dos ganhos do agente público.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "gerais1a4 — TCE-RS 2025 — Cargo 1 a 4 (Conhecimentos Gerais) — item 68"
+    },
+    {
+      "id": "gerais1a4-69",
+      "tema": "D3",
+      "assunto": "Concurso público: cláusula restritiva por inquérito/ação penal",
+      "enunciado": "Sem previsão constitucionalmente adequada e instituída por lei, não é legítima a cláusula de edital de concurso público que restrinja a participação de candidato pelo simples fato de ele responder a inquérito ou ação penal.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "gerais1a4 — TCE-RS 2025 — Cargo 1 a 4 (Conhecimentos Gerais) — item 69"
+    },
+    {
+      "id": "gerais1a4-70",
+      "tema": "D1",
+      "assunto": "Princípios da administração pública: publicidade e vedação à promoção pessoal",
+      "enunciado": "A publicidade dos atos, dos programas, das obras, dos serviços e das campanhas dos órgãos públicos pode incluir nomes e imagens de autoridades, ainda que isso caracterize promoção pessoal.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "gerais1a4 — TCE-RS 2025 — Cargo 1 a 4 (Conhecimentos Gerais) — item 70"
+    },
+    {
+      "id": "gerais1a4-71",
+      "tema": "D3",
+      "assunto": "Servidores públicos civis do RS (LC 10.098/1994): vedações e deveres funcionais",
+      "enunciado": "É vedado ao servidor público civil do estado atuar como procurador junto a repartição pública, ainda que para tratar de benefícios previdenciários de parentes de primeiro grau.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "gerais1a4 — TCE-RS 2025 — Cargo 1 a 4 (Conhecimentos Gerais) — item 71"
+    },
+    {
+      "id": "gerais1a4-72",
+      "tema": "D3",
+      "assunto": "Servidores públicos civis do RS (LC 10.098/1994): vedações e deveres funcionais",
+      "enunciado": "Constitui dever funcional do servidor do estado manter atualizado o assentamento funcional no que diz respeito ao endereço residencial e à declaração de família, sendo passível de responsabilização administrativa o descumprimento desse dever.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "gerais1a4 — TCE-RS 2025 — Cargo 1 a 4 (Conhecimentos Gerais) — item 72"
+    },
+    {
+      "id": "gerais1a4-73",
+      "tema": "D3",
+      "assunto": "Servidores públicos civis do RS (LC 10.098/1994): vedações e deveres funcionais",
+      "enunciado": "É vedado ao servidor público do estado realizar, ainda que fora do horário de expediente, atividades político-partidárias, independentemente de sua localização, por configurar violação à neutralidade funcional.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "gerais1a4 — TCE-RS 2025 — Cargo 1 a 4 (Conhecimentos Gerais) — item 73"
+    },
+    {
+      "id": "gerais1a4-74",
+      "tema": "D4",
+      "assunto": "Processo administrativo: revisão de ofício e vedação ao agravamento no recurso (reformatio in pejus)",
+      "enunciado": "Mesmo após o julgamento do recurso administrativo, a administração pública poderá revisar o processo de Ricardo, desde que haja novos fatos relevantes e que estes justifiquem a inadequação da penalidade anteriormente aplicada.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "gerais1a4 — TCE-RS 2025 — Cargo 1 a 4 (Conhecimentos Gerais) — item 74"
+    },
+    {
+      "id": "gerais1a4-75",
+      "tema": "D4",
+      "assunto": "Processo administrativo: revisão de ofício e vedação ao agravamento no recurso (reformatio in pejus)",
+      "enunciado": "No julgamento do recurso administrativo interposto, é vedado à administração pública agravar a penalidade imposta, ainda que o recorrente seja previamente cientificado.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "gerais1a4 — TCE-RS 2025 — Cargo 1 a 4 (Conhecimentos Gerais) — item 75"
+    },
+    {
+      "id": "gerais1a4-76",
+      "tema": "D1",
+      "assunto": "Responsabilidade civil do Estado (ato lícito, risco administrativo e omissão)",
+      "enunciado": "Caso um ato lícito do Estado cause dano anormal e específico a determinado indivíduo, o dever de indenizar se fundamenta no princípio da isonomia, e não no princípio da legalidade.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "gerais1a4 — TCE-RS 2025 — Cargo 1 a 4 (Conhecimentos Gerais) — item 76"
+    },
+    {
+      "id": "gerais1a4-77",
+      "tema": "D1",
+      "assunto": "Responsabilidade civil do Estado (ato lícito, risco administrativo e omissão)",
+      "enunciado": "Como regra geral, adota-se a teoria do risco integral como fundamento para a responsabilidade civil objetiva do Estado, que somente é afastada em caso de comprovação de culpa exclusiva da vítima ou de terceiro, ou em caso de força maior.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "gerais1a4 — TCE-RS 2025 — Cargo 1 a 4 (Conhecimentos Gerais) — item 77"
+    },
+    {
+      "id": "gerais1a4-78",
+      "tema": "D1",
+      "assunto": "Responsabilidade civil do Estado (ato lícito, risco administrativo e omissão)",
+      "enunciado": "A responsabilidade civil do Estado por omissão é, em regra, subjetiva, admitindo-se, entretanto, o reconhecimento da responsabilidade objetiva caso a omissão estatal viole um dever jurídico específico de agir previsto na ordem normativa, como ocorre na hipótese de morte de detento sob custódia do Estado.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "gerais1a4 — TCE-RS 2025 — Cargo 1 a 4 (Conhecimentos Gerais) — item 78"
+    },
+    {
+      "id": "gerais1a4-79",
+      "tema": "D4",
+      "assunto": "Poder hierárquico: avocação de competência",
+      "enunciado": "A avocação de competência no âmbito da administração pública, quando exercida com fundamento no poder hierárquico, é admitida apenas de forma excepcional, sendo vedada nos casos em que implique reexame de decisão final já proferida por autoridade competente no processo administrativo.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "gerais1a4 — TCE-RS 2025 — Cargo 1 a 4 (Conhecimentos Gerais) — item 79"
+    },
+    {
+      "id": "gerais1a4-80",
+      "tema": "D5",
+      "assunto": "Poder disciplinar: cassação de aposentadoria de servidor inativo",
+      "enunciado": "O poder disciplinar autoriza a administração pública a aplicar penalidade de cassação de aposentadoria a servidor público que, embora já inativo, tenha cometido falta funcional grave durante o exercício do cargo, desde que observado o devido processo legal.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "gerais1a4 — TCE-RS 2025 — Cargo 1 a 4 (Conhecimentos Gerais) — item 80"
+    },
+    {
+      "id": "gerais5-39",
+      "tema": "D5",
+      "assunto": "TCE/RS (LO e RI): recursos, conselheiros, tomada de contas especial e auditorias",
+      "enunciado": "Conforme o RI, a interposição de recursos pode ser efetuada pelo responsável, por terceiros com interesse jurídico comprovado, pelo representante do estado ou pelo Ministério Público de Contas.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "gerais5 — TCE-RS 2025 — Cargo 5 (Conhecimentos Gerais) — item 39"
+    },
+    {
+      "id": "gerais5-40",
+      "tema": "D5",
+      "assunto": "TCE/RS (LO e RI): recursos, conselheiros, tomada de contas especial e auditorias",
+      "enunciado": "Segundo a LO, os conselheiros são nomeados pelo presidente do tribunal.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "gerais5 — TCE-RS 2025 — Cargo 5 (Conhecimentos Gerais) — item 40"
+    },
+    {
+      "id": "gerais5-41",
+      "tema": "D5",
+      "assunto": "TCE/RS (LO e RI): recursos, conselheiros, tomada de contas especial e auditorias",
+      "enunciado": "Conforme a LO, no julgamento de tomada de contas especial, o tribunal poderá determinar a repercussão da matéria nas contas do administrador.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "gerais5 — TCE-RS 2025 — Cargo 5 (Conhecimentos Gerais) — item 41"
+    },
+    {
+      "id": "gerais5-42",
+      "tema": "D5",
+      "assunto": "TCE/RS (LO e RI): recursos, conselheiros, tomada de contas especial e auditorias",
+      "enunciado": "De acordo com o RI, as auditorias e inspeções têm por objetivo verificar a legalidade, a legitimidade e a moralidade de condutas e de atos administrativos, salvo aqueles relacionados à concessão de subvenções e a renúncias de receitas.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "gerais5 — TCE-RS 2025 — Cargo 5 (Conhecimentos Gerais) — item 42"
+    },
+    {
+      "id": "gerais5-43",
+      "tema": "D5",
+      "assunto": "Ministério Público de Contas (STF): legitimidade para mandado de segurança e autonomia",
+      "enunciado": "O MPC não tem legitimidade para impetrar mandado de segurança em face de acórdão do tribunal de contas perante o qual atua.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "gerais5 — TCE-RS 2025 — Cargo 5 (Conhecimentos Gerais) — item 43"
+    },
+    {
+      "id": "gerais5-44",
+      "tema": "D5",
+      "assunto": "Ministério Público de Contas (STF): legitimidade para mandado de segurança e autonomia",
+      "enunciado": "O MPC é órgão dotado de autonomia administrativa e orçamentária.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "gerais5 — TCE-RS 2025 — Cargo 5 (Conhecimentos Gerais) — item 44"
+    },
+    {
+      "id": "gerais5-45",
+      "tema": "D5",
+      "assunto": "Controle externo no Brasil: momento, registro de aposentadoria e contas de governo × contas de gestão",
+      "enunciado": "No sistema brasileiro, o controle externo da administração pública é realizado a posteriori, não sendo possível realizá-lo de maneira prévia ou concomitante.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "gerais5 — TCE-RS 2025 — Cargo 5 (Conhecimentos Gerais) — item 45"
+    },
+    {
+      "id": "gerais5-46",
+      "tema": "D5",
+      "assunto": "Controle externo no Brasil: momento, registro de aposentadoria e contas de governo × contas de gestão",
+      "enunciado": "Considera-se posterior e de legalidade o controle exercido pelo TCE/RS sobre o registro da aposentadoria de servidor público estadual.",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "gerais5 — TCE-RS 2025 — Cargo 5 (Conhecimentos Gerais) — item 46"
+    },
+    {
+      "id": "gerais5-47",
+      "tema": "D5",
+      "assunto": "Controle externo no Brasil: momento, registro de aposentadoria e contas de governo × contas de gestão",
+      "enunciado": "As contas de gestão dizem respeito ao exame minucioso de cada ação administrativa executada nas esferas contábil, financeira, orçamentária, operacional e patrimonial, com base nos critérios de legalidade e legitimidade, excluindo-se a análise quanto à economicidade.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "gerais5 — TCE-RS 2025 — Cargo 5 (Conhecimentos Gerais) — item 47"
+    },
+    {
+      "id": "gerais5-48",
+      "tema": "D5",
+      "assunto": "Controle externo no Brasil: momento, registro de aposentadoria e contas de governo × contas de gestão",
+      "enunciado": "Consoante a Constituição Federal de 1988, apenas os chefes dos três poderes constitucionais prestam contas de governo.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "gerais5 — TCE-RS 2025 — Cargo 5 (Conhecimentos Gerais) — item 48"
+    },
+    {
+      "id": "gerais5-49",
+      "tema": "D5",
+      "assunto": "Controle externo no Brasil: momento, registro de aposentadoria e contas de governo × contas de gestão",
+      "enunciado": "As contas de governo compreendem a análise global dos resultados alcançados pela administração pública, considerando-se os efeitos amplos das políticas adotadas e o desempenho institucional de forma abrangente, sem a verificação específica de atos administrativos.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "gerais5 — TCE-RS 2025 — Cargo 5 (Conhecimentos Gerais) — item 49"
+    },
+    {
+      "id": "esp4-94",
+      "tema": "D9",
+      "assunto": "Contratação de soluções de TI: diálogo competitivo, fiscalização, planejamento e remuneração",
+      "enunciado": "Em licitações realizadas na modalidade diálogo competitivo, conforme previsto na Lei de Licitações e Contratos Administrativos, a administração pública deve apresentar previamente aos licitantes uma solução técnica detalhada e definitiva, sendo vedada qualquer alteração posterior durante o processo de diálogo.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "esp4 — TCE-RS 2025 — Cargo 4 (TI) — Conhecimentos Específicos — item 94"
+    },
+    {
+      "id": "esp4-95",
+      "tema": "D9",
+      "assunto": "Contratação de soluções de TI: diálogo competitivo, fiscalização, planejamento e remuneração",
+      "enunciado": "Suponha que, durante a execução de contrato firmado entre a administração pública e certa contratada para a aquisição de software, o fiscal do contrato identifique falhas contratuais recorrentes e que, em caráter de urgência, o fiscal opte por não envolver seus superiores, notificando diretamente o funcionário responsável da contratada e solicitando correções imediatas. Nesse caso, a conduta do fiscal do contrato está de acordo com a legislação, pois prioriza a agilidade e não compromete a formalidade da sua função de fiscalização.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "esp4 — TCE-RS 2025 — Cargo 4 (TI) — Conhecimentos Específicos — item 95"
+    },
+    {
+      "id": "esp4-96",
+      "tema": "D9",
+      "assunto": "Contratação de soluções de TI: diálogo competitivo, fiscalização, planejamento e remuneração",
+      "enunciado": "A fase de planejamento de uma contratação pública voltada à aquisição de solução de TI deve contemplar a estimativa de preços da contratação e aspectos técnicos que garantam que a solução atenda aos objetivos institucionais previamente definidos.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "esp4 — TCE-RS 2025 — Cargo 4 (TI) — Conhecimentos Específicos — item 96"
+    },
+    {
+      "id": "esp4-97",
+      "tema": "D9",
+      "assunto": "Contratação de soluções de TI: diálogo competitivo, fiscalização, planejamento e remuneração",
+      "enunciado": "Na contratação de soluções de TI, é possível combinar critérios de remuneração por esforço e por produto, desde que o contrato contenha indicadores de nível de serviço e o fiscal atue na verificação da conformidade das entregas.",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "esp4 — TCE-RS 2025 — Cargo 4 (TI) — Conhecimentos Específicos — item 97"
+    },
+    {
+      "id": "esp4-100",
+      "tema": "D7",
+      "assunto": "LGPD: anonimização de dados pessoais e uso de IA",
+      "enunciado": "O auditor deve evitar a anonimização dos dados pessoais dos beneficiários do programa social, para não comprometer o desempenho do modelo de IAG.",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "esp4 — TCE-RS 2025 — Cargo 4 (TI) — Conhecimentos Específicos — item 100"
+    }
+  ]
+}

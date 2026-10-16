@@ -1,0 +1,80 @@
+{
+  "concurso": "telebras_25",
+  "arquivos": [
+    "Provas relevantes (CGU AFFC)/telebras_25/PROVA OBJETIVA CONHECIMENTOS BASICOS PARA TODOS OS CARGOS.md",
+    "Provas relevantes (CGU AFFC)/telebras_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md",
+    "Provas relevantes (CGU AFFC)/telebras_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md",
+    "Provas relevantes (CGU AFFC)/telebras_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 3.md",
+    "Provas relevantes (CGU AFFC)/telebras_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 4.md"
+  ],
+  "total_itens_direito": 136,
+  "por_tema": {
+    "D1": 25,
+    "D2": 5,
+    "D3": 18,
+    "D4": 4,
+    "D5": 37,
+    "D6": 1,
+    "D7": 1,
+    "D8": 26,
+    "D9": 17,
+    "D10": 2
+  },
+  "assuntos": [
+    { "tema": "D1", "assunto": "Controle de constitucionalidade — ADI, reserva de plenário e efeito vinculante", "itens": ["cargo1:51", "cargo1:53", "cargo1:54"] },
+    { "tema": "D1", "assunto": "Organização político-administrativa e competência legislativa", "itens": ["cargo1:52"] },
+    { "tema": "D1", "assunto": "Processo legislativo — veto, sanção, plebiscito e cláusulas pétreas", "itens": ["cargo1:55", "cargo1:56", "cargo1:57", "cargo1:58", "cargo1:59"] },
+    { "tema": "D1", "assunto": "Funções essenciais à justiça — teto remuneratório das defensorias públicas", "itens": ["cargo1:60"] },
+    { "tema": "D1", "assunto": "Princípios da administração pública — moralidade", "itens": ["basicos:42", "cargo1:63"] },
+    { "tema": "D1", "assunto": "Direitos políticos — cidadania", "itens": ["basicos:43"] },
+    { "tema": "D1", "assunto": "Princípios da administração pública — publicidade e impessoalidade (estatais)", "itens": ["basicos:45"] },
+    { "tema": "D1", "assunto": "Funções essenciais à justiça — Ministério Público, Defensoria Pública e advocacia pública", "itens": ["cargo3:51", "cargo3:52", "cargo3:53", "cargo3:54", "cargo3:55"] },
+    { "tema": "D1", "assunto": "Direitos políticos e sociais — partidos, sindicatos e piso do magistério", "itens": ["cargo3:56", "cargo3:57", "cargo3:58", "cargo3:59"] },
+    { "tema": "D1", "assunto": "Princípios da administração pública — legalidade e princípios implícitos", "itens": ["cargo3:65", "cargo3:66"] },
+
+    { "tema": "D2", "assunto": "Fundamentos da ética pública", "itens": ["basicos:44"] },
+    { "tema": "D2", "assunto": "Ética e conduta do servidor — deveres profissionais", "itens": ["basicos:48", "basicos:49"] },
+    { "tema": "D2", "assunto": "Impedimento e suspeição no processo administrativo (Lei 9.784/1999)", "itens": ["cargo1:68"] },
+    { "tema": "D2", "assunto": "Conflito de interesses na atividade de auditoria interna", "itens": ["cargo4:61"] },
+
+    { "tema": "D3", "assunto": "Organização administrativa — administração direta e indireta (ANATEL e TELEBRAS)", "itens": ["basicos:31", "basicos:32"] },
+    { "tema": "D3", "assunto": "Organização administrativa — empresas públicas e sociedades de economia mista", "itens": ["cargo1:64", "cargo3:63"] },
+    { "tema": "D3", "assunto": "Agentes públicos — provimento e concurso público", "itens": ["cargo1:66"] },
+    { "tema": "D3", "assunto": "Agentes públicos — remuneração, gratificações e salário mínimo", "itens": ["cargo3:60", "cargo3:61", "cargo3:62"] },
+    { "tema": "D3", "assunto": "Desconcentração administrativa — criação de ministérios", "itens": ["cargo3:64"] },
+    { "tema": "D3", "assunto": "Administração pública em sentido objetivo — atividades administrativas", "itens": ["cargo3:67"] },
+    { "tema": "D3", "assunto": "Agentes públicos — conceito e classificação (agentes políticos)", "itens": ["cargo3:69"] },
+    { "tema": "D3", "assunto": "Poderes da administração — poder de polícia", "itens": ["cargo3:70", "cargo3:71"] },
+    { "tema": "D3", "assunto": "Agentes públicos — recondução", "itens": ["cargo3:68"] },
+    { "tema": "D3", "assunto": "Empresas públicas — regime de pessoal", "itens": ["cargo3:72"] },
+    { "tema": "D3", "assunto": "Modelos de administração — reforma do aparelho do Estado", "itens": ["cargo3:75"] },
+    { "tema": "D3", "assunto": "Regime jurídico dos servidores — licenças e aposentadoria por invalidez", "itens": ["cargo3:88", "cargo3:89"] },
+
+    { "tema": "D4", "assunto": "Efeitos do silêncio administrativo", "itens": ["cargo1:62"] },
+    { "tema": "D4", "assunto": "Processo administrativo — forma dos atos e delegação (Lei 9.784/1999)", "itens": ["cargo3:73", "cargo3:74"] },
+    { "tema": "D4", "assunto": "Atos administrativos — motivação (vinculados e discricionários)", "itens": ["cargo3:87"] },
+
+    { "tema": "D5", "assunto": "Auditoria interna governamental — conceitos, finalidades e normas", "itens": ["cargo4:51", "cargo4:52", "cargo4:53", "cargo4:54", "cargo4:55", "cargo4:56", "cargo4:57", "cargo4:58", "cargo4:59", "cargo4:60", "cargo4:62", "cargo4:63", "cargo4:64", "cargo4:65", "cargo4:66", "cargo4:67", "cargo4:68", "cargo4:69", "cargo4:70", "cargo4:71", "cargo4:72"] },
+    { "tema": "D5", "assunto": "Auditoria interna governamental — planejamento, parecer e qualidade (IN 5/2021 e IN 8/2017)", "itens": ["cargo4:103", "cargo4:104", "cargo4:105", "cargo4:106", "cargo4:107", "cargo4:108", "cargo4:109", "cargo4:110", "cargo4:111", "cargo4:112", "cargo4:113"] },
+    { "tema": "D5", "assunto": "Auditoria interna — matriz de achados e relatório (Portaria 1.037/2019)", "itens": ["cargo4:114", "cargo4:115", "cargo4:116"] },
+    { "tema": "D5", "assunto": "Controle interno — auditoria interna na TELEBRAS", "itens": ["basicos:36"] },
+    { "tema": "D5", "assunto": "Sistema de Controle Interno do Poder Executivo federal", "itens": ["basicos:38"] },
+
+    { "tema": "D6", "assunto": "Lei de Acesso à Informação — aplicação às sociedades de economia mista", "itens": ["basicos:47"] },
+
+    { "tema": "D7", "assunto": "LGPD — fundamentos (direitos humanos, dignidade e cidadania)", "itens": ["basicos:46"] },
+
+    { "tema": "D8", "assunto": "Compliance e integridade", "itens": ["basicos:41"] },
+    { "tema": "D8", "assunto": "Governança pública — valor público e conformidade", "itens": ["cargo3:76"] },
+    { "tema": "D8", "assunto": "Controles internos — componentes, ambiente, riscos, atividades, informação e monitoramento", "itens": ["cargo4:73", "cargo4:74", "cargo4:75", "cargo4:76", "cargo4:77", "cargo4:78", "cargo4:79", "cargo4:80", "cargo4:81", "cargo4:82", "cargo4:83", "cargo4:84", "cargo4:85", "cargo4:86", "cargo4:87", "cargo4:88", "cargo4:89", "cargo4:90", "cargo4:91", "cargo4:92"] },
+    { "tema": "D8", "assunto": "Governança pública — Comitê Interministerial de Governança (Decreto 9.203/2017)", "itens": ["cargo4:117", "cargo4:118", "cargo4:119", "cargo4:120"] },
+
+    { "tema": "D9", "assunto": "Licitações — exigências legais e contratação direta", "itens": ["cargo1:65", "cargo1:67"] },
+    { "tema": "D9", "assunto": "Alienação do controle de subsidiárias de sociedades de economia mista", "itens": ["cargo1:70"] },
+    { "tema": "D9", "assunto": "Lei 13.303/2016 — licitações e contratos de estatais", "itens": ["cargo3:107", "cargo3:108", "cargo3:109", "cargo3:110", "cargo3:111", "cargo3:112", "cargo3:113", "cargo3:114"] },
+    { "tema": "D9", "assunto": "Regulamento de Licitações e Contratos da TELEBRAS", "itens": ["cargo3:115", "cargo3:116", "cargo3:117", "cargo3:118"] },
+    { "tema": "D9", "assunto": "Contratos de serviços — repactuação e terceirização (IN 5/2017)", "itens": ["cargo3:119", "cargo3:120"] },
+
+    { "tema": "D10", "assunto": "Improbidade administrativa — coautoria e enriquecimento ilícito (Lei 8.429/1992)", "itens": ["basicos:50", "cargo1:69"] }
+  ]
+}

@@ -1,0 +1,961 @@
+{
+  "concurso": "seplad_df_22_auditor",
+  "arquivos": [
+    "PROVA DE VERIFICACAO DE APRENDIZAGEM CURSO DE FORMACAO PROFISSIONAL 2aTURMA SUB JUDICE.md",
+    "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 1.md",
+    "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+    "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+    "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+    "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+    "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 2.md"
+  ],
+  "total_itens_direito": 175,
+  "por_tema": {
+    "D1": 48,
+    "D2": 3,
+    "D3": 46,
+    "D4": 6,
+    "D5": 24,
+    "D6": 2,
+    "D7": 0,
+    "D8": 30,
+    "D9": 13,
+    "D10": 3
+  },
+  "assuntos": [
+    {
+      "tema": "D1",
+      "assunto": "Ordem constitucional, Estado e direitos",
+      "itens": [
+        {
+          "arquivo": "PROVA DE VERIFICACAO DE APRENDIZAGEM CURSO DE FORMACAO PROFISSIONAL 2aTURMA SUB JUDICE.md",
+          "questao": 20,
+          "assunto": "Organização do Distrito Federal: competência legislativa e regiões administrativas"
+        },
+        {
+          "arquivo": "PROVA DE VERIFICACAO DE APRENDIZAGEM CURSO DE FORMACAO PROFISSIONAL 2aTURMA SUB JUDICE.md",
+          "questao": 23,
+          "assunto": "Fundo Constitucional do Distrito Federal (FCDF)"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 26,
+          "assunto": "Sistema de freios e contrapesos"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 27,
+          "assunto": "Controle parlamentar: pedido escrito de informações (art. 50 CF)"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 29,
+          "assunto": "Jurisdição una"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 11,
+          "assunto": "Eficácia das normas constitucionais (questão anulada)"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 12,
+          "assunto": "Prestação de serviços públicos: concessão e permissão (questão anulada)"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 13,
+          "assunto": "Princípios gerais da atividade econômica (art. 170 CF) (questão anulada)"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 14,
+          "assunto": "Ação declaratória de constitucionalidade (questão anulada)"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 15,
+          "assunto": "ADPF: omissão do poder público (questão anulada)"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 16,
+          "assunto": "ADPF: proposta de acordo (questão anulada)"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 17,
+          "assunto": "Cobrança de taxa para cópias e atestados (questão anulada)"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 18,
+          "assunto": "Nacionalidade brasileira (questão anulada)"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 19,
+          "assunto": "Condições de elegibilidade (questão anulada)"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 20,
+          "assunto": "Direitos políticos: perda e suspensão (questão anulada)"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 21,
+          "assunto": "Eficácia das normas constitucionais"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 23,
+          "assunto": "Serviços públicos: concessão e permissão (art. 175 CF)"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 24,
+          "assunto": "Princípios gerais da atividade econômica (art. 170 CF)"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 25,
+          "assunto": "Ação declaratória de constitucionalidade: competência do STF"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 26,
+          "assunto": "Ação declaratória de constitucionalidade: modalidade de controle"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 27,
+          "assunto": "ADPF: omissão do poder público"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 28,
+          "assunto": "ADPF: proposta de acordo"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 29,
+          "assunto": "Cobrança de taxa para cópias e atestados"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 30,
+          "assunto": "Nacionalidade brasileira"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 31,
+          "assunto": "Condições de elegibilidade"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 32,
+          "assunto": "Direitos políticos: improbidade e cancelamento de naturalização"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 34,
+          "assunto": "Competência do DF em comum com a União (LODF)"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 36,
+          "assunto": "Imunidade de membros da Câmara Legislativa do DF"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 55,
+          "assunto": "Princípios da administração pública"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 56,
+          "assunto": "Responsabilidade extracontratual do Estado"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 21,
+          "assunto": "Eficácia das normas constitucionais"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 23,
+          "assunto": "Disciplina do Sistema Financeiro Nacional por lei complementar"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 24,
+          "assunto": "Princípios da atividade econômica e objetivos fundamentais da República"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 25,
+          "assunto": "Ação declaratória de constitucionalidade: objeto"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 26,
+          "assunto": "ADPF: modalidade de controle de constitucionalidade"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 27,
+          "assunto": "ADPF: hipóteses de cabimento"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 28,
+          "assunto": "Ação declaratória de constitucionalidade: legitimidade"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 29,
+          "assunto": "Dissolução compulsória de associação (art. 5.º, XIX, CF)"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 30,
+          "assunto": "Direito de petição (art. 5.º, XXXIV, CF)"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 31,
+          "assunto": "Nacionalidade e cargos privativos de brasileiro nato"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 32,
+          "assunto": "Inelegibilidades"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 33,
+          "assunto": "LODF: direito de petição e de representação"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 34,
+          "assunto": "LODF: criação de regiões administrativas"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 35,
+          "assunto": "LODF: competência privativa do DF"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 54,
+          "assunto": "Princípios da administração pública"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 55,
+          "assunto": "Responsabilidade do Estado"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 56,
+          "assunto": "Delegação de serviços públicos"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 2.md",
+          "questao": 19,
+          "assunto": "Fundo Constitucional do Distrito Federal (FCDF)"
+        }
+      ]
+    },
+    {
+      "tema": "D2",
+      "assunto": "Ética pública e responsabilidade profissional",
+      "itens": [
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 70,
+          "assunto": "Ética na função pública: civilidade"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 70,
+          "assunto": "Ética na função pública"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 2.md",
+          "questao": 2,
+          "assunto": "Conflito de interesses"
+        }
+      ]
+    },
+    {
+      "tema": "D3",
+      "assunto": "Administração pública e agentes",
+      "itens": [
+        {
+          "arquivo": "PROVA DE VERIFICACAO DE APRENDIZAGEM CURSO DE FORMACAO PROFISSIONAL 2aTURMA SUB JUDICE.md",
+          "questao": 24,
+          "assunto": "Contrato de gestão"
+        },
+        {
+          "arquivo": "PROVA DE VERIFICACAO DE APRENDIZAGEM CURSO DE FORMACAO PROFISSIONAL 2aTURMA SUB JUDICE.md",
+          "questao": 33,
+          "assunto": "LC 840/2011: estágio probatório e cargos em comissão"
+        },
+        {
+          "arquivo": "PROVA DE VERIFICACAO DE APRENDIZAGEM CURSO DE FORMACAO PROFISSIONAL 2aTURMA SUB JUDICE.md",
+          "questao": 34,
+          "assunto": "LC 840/2011: recondução"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 1.md",
+          "questao": 20,
+          "assunto": "Estrutura administrativa do Governo do DF"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 1.md",
+          "questao": 21,
+          "assunto": "Atribuições do servidor da carreira de auditoria de controle interno do DF"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 1.md",
+          "questao": 24,
+          "assunto": "Lei 13.019/2014: parcerias com organizações da sociedade civil"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 1.md",
+          "questao": 33,
+          "assunto": "LC 840/2011: servidores públicos civis do DF"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 1.md",
+          "questao": 34,
+          "assunto": "LC 840/2011: estabilidade e provimento"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 33,
+          "assunto": "LODF: Conselho de Representantes Comunitários"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 35,
+          "assunto": "LODF: proteção à servidora gestante ou lactante"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 38,
+          "assunto": "LC 840/2011: ausência por casamento"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 39,
+          "assunto": "LC 840/2011: faltas injustificadas (abandono e inassiduidade)"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 40,
+          "assunto": "LC 840/2011: licença para atividade política"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 41,
+          "assunto": "LC 840/2011: contagem de tempo de serviço"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 42,
+          "assunto": "LC 840/2011: reincidência em infração disciplinar"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 43,
+          "assunto": "LC 840/2011: infração grave"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 44,
+          "assunto": "LC 840/2011: recusa de fé a documento público"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 51,
+          "assunto": "Fontes do direito administrativo"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 53,
+          "assunto": "Direitos e deveres dos agentes públicos"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 54,
+          "assunto": "Poder regulamentar da administração pública"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 58,
+          "assunto": "Lei 13.303/2016: estatuto das empresas públicas e sociedades de economia mista"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 61,
+          "assunto": "Acumulação de cargos públicos"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 62,
+          "assunto": "Servidores públicos: remuneração e aposentadoria (CF)"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 63,
+          "assunto": "Modelo de administração pública gerencial"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 64,
+          "assunto": "Competências do gerente público"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 65,
+          "assunto": "Modernização da gestão pública"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 36,
+          "assunto": "LODF: proibição de designação de condenado para função de confiança"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 37,
+          "assunto": "LODF: iniciativa de leis sobre servidores públicos"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 38,
+          "assunto": "LC 840/2011: promoção"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 39,
+          "assunto": "LC 840/2011: ampliação do regime de trabalho"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 40,
+          "assunto": "LC 840/2011: horário especial"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 41,
+          "assunto": "LC 840/2011: vantagens remuneratórias"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 42,
+          "assunto": "LC 840/2011: auxílio-natalidade"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 43,
+          "assunto": "LC 840/2011: infração média"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 44,
+          "assunto": "LC 840/2011: sanção de suspensão"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 53,
+          "assunto": "Poder de polícia"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 57,
+          "assunto": "Organizações da sociedade civil de interesse público (OSCIP)"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 61,
+          "assunto": "Acumulação de cargo público com mandato eletivo"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 62,
+          "assunto": "Organização da administração pública (CF)"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 63,
+          "assunto": "Modelo burocrático de administração pública"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 64,
+          "assunto": "Modernização da administração pública: racionalidade"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 65,
+          "assunto": "Modernização da administração pública"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 2.md",
+          "questao": 15,
+          "assunto": "Estrutura da administração do Distrito Federal"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 2.md",
+          "questao": 26,
+          "assunto": "LC 840/2011: investidura, estágio probatório e reversão"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 2.md",
+          "questao": 27,
+          "assunto": "LC 840/2011: cargos efetivos e em comissão"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 2.md",
+          "questao": 50,
+          "assunto": "Termo de fomento e termo de colaboração (MROSC)"
+        }
+      ]
+    },
+    {
+      "tema": "D4",
+      "assunto": "Direito público aplicado: decisão e processo administrativo",
+      "itens": [
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 52,
+          "assunto": "Decadência dos atos administrativos"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 45,
+          "assunto": "Sindicância: prazo de conclusão (LC 840/2011)"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 51,
+          "assunto": "Revogação dos atos administrativos"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 52,
+          "assunto": "Sindicância e responsabilidade disciplinar"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 86,
+          "assunto": "Controle de mérito"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 90,
+          "assunto": "Controle administrativo e autotutela"
+        }
+      ]
+    },
+    {
+      "tema": "D5",
+      "assunto": "Controle e responsabilização",
+      "itens": [
+        {
+          "arquivo": "PROVA DE VERIFICACAO DE APRENDIZAGEM CURSO DE FORMACAO PROFISSIONAL 2aTURMA SUB JUDICE.md",
+          "questao": 8,
+          "assunto": "Documentos do controle interno na análise de atos concessórios (TCE)"
+        },
+        {
+          "arquivo": "PROVA DE VERIFICACAO DE APRENDIZAGEM CURSO DE FORMACAO PROFISSIONAL 2aTURMA SUB JUDICE.md",
+          "questao": 9,
+          "assunto": "Apreciação da legalidade de atos de admissão de pessoal"
+        },
+        {
+          "arquivo": "PROVA DE VERIFICACAO DE APRENDIZAGEM CURSO DE FORMACAO PROFISSIONAL 2aTURMA SUB JUDICE.md",
+          "questao": 10,
+          "assunto": "Competências da Controladoria-Geral do DF (CGDF)"
+        },
+        {
+          "arquivo": "PROVA DE VERIFICACAO DE APRENDIZAGEM CURSO DE FORMACAO PROFISSIONAL 2aTURMA SUB JUDICE.md",
+          "questao": 11,
+          "assunto": "Tomada de contas especial (TCE)"
+        },
+        {
+          "arquivo": "PROVA DE VERIFICACAO DE APRENDIZAGEM CURSO DE FORMACAO PROFISSIONAL 2aTURMA SUB JUDICE.md",
+          "questao": 12,
+          "assunto": "Tomada de contas especial (TCE): procedimentos"
+        },
+        {
+          "arquivo": "PROVA DE VERIFICACAO DE APRENDIZAGEM CURSO DE FORMACAO PROFISSIONAL 2aTURMA SUB JUDICE.md",
+          "questao": 21,
+          "assunto": "Finalidade dos sistemas de controle interno"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 1.md",
+          "questao": 10,
+          "assunto": "Tomada de contas especial (TCE): objetivos"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 1.md",
+          "questao": 11,
+          "assunto": "Tomada de contas especial (TCE)"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 1.md",
+          "questao": 12,
+          "assunto": "Tomada de contas especial (TCE): ritos"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 30,
+          "assunto": "Tribunal de Contas da União: dispositivos constitucionais"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 22,
+          "assunto": "TCU: julgamento da legalidade de atos de concessão inicial"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 37,
+          "assunto": "TCDF: requisitos dos conselheiros (LODF)"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 45,
+          "assunto": "LC 840/2011: afastamento cautelar em processo disciplinar"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 59,
+          "assunto": "Controle legislativo da administração pública"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 22,
+          "assunto": "TCU: contraditório e ampla defesa (Súmula Vinculante 3)"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 87,
+          "assunto": "Controle financeiro da administração pública: interno e externo"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 88,
+          "assunto": "Controle parlamentar da execução orçamentária"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 89,
+          "assunto": "Controle externo das contas municipais"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 2.md",
+          "questao": 5,
+          "assunto": "Documento do controle interno: parecer sobre atos concessórios"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 2.md",
+          "questao": 6,
+          "assunto": "Procedimentos correcionais na administração do DF"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 2.md",
+          "questao": 7,
+          "assunto": "Responsabilização disciplinar de agente público por solicitação de propina"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 2.md",
+          "questao": 8,
+          "assunto": "Poder disciplinar na administração do DF"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 2.md",
+          "questao": 16,
+          "assunto": "Competências da Controladoria-Geral do Distrito Federal"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 2.md",
+          "questao": 17,
+          "assunto": "SICON: subsistema de orçamento"
+        }
+      ]
+    },
+    {
+      "tema": "D6",
+      "assunto": "Transparência, acesso à informação e ouvidoria",
+      "itens": [
+        {
+          "arquivo": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 22,
+          "assunto": "Governo Aberto (Decreto federal 10.160/2019)"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 27,
+          "assunto": "Instituições participativas na elaboração de políticas públicas"
+        }
+      ]
+    },
+    {
+      "tema": "D7",
+      "assunto": "Proteção de dados pessoais (LGPD)",
+      "itens": []
+    },
+    {
+      "tema": "D8",
+      "assunto": "Governança, riscos e integridade (recorte jurídico-institucional)",
+      "itens": [
+        {
+          "arquivo": "PROVA DE VERIFICACAO DE APRENDIZAGEM CURSO DE FORMACAO PROFISSIONAL 2aTURMA SUB JUDICE.md",
+          "questao": 1,
+          "assunto": "Modelo das três linhas no governo do DF"
+        },
+        {
+          "arquivo": "PROVA DE VERIFICACAO DE APRENDIZAGEM CURSO DE FORMACAO PROFISSIONAL 2aTURMA SUB JUDICE.md",
+          "questao": 3,
+          "assunto": "Governança, controles internos e gestão de riscos"
+        },
+        {
+          "arquivo": "PROVA DE VERIFICACAO DE APRENDIZAGEM CURSO DE FORMACAO PROFISSIONAL 2aTURMA SUB JUDICE.md",
+          "questao": 22,
+          "assunto": "Teoria da agência na administração pública"
+        },
+        {
+          "arquivo": "PROVA DE VERIFICACAO DE APRENDIZAGEM CURSO DE FORMACAO PROFISSIONAL 2aTURMA SUB JUDICE.md",
+          "questao": 27,
+          "assunto": "Decreto Distrital 39.736/2019: gestão de riscos e integridade"
+        },
+        {
+          "arquivo": "PROVA DE VERIFICACAO DE APRENDIZAGEM CURSO DE FORMACAO PROFISSIONAL 2aTURMA SUB JUDICE.md",
+          "questao": 28,
+          "assunto": "Modelo de Três Linhas do IIA"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 1.md",
+          "questao": 2,
+          "assunto": "Tratamento de riscos (mitigação)"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 1.md",
+          "questao": 3,
+          "assunto": "Integridade no setor público"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 1.md",
+          "questao": 22,
+          "assunto": "Teoria de governança"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 1.md",
+          "questao": 27,
+          "assunto": "Gestão de riscos corporativos para integridade pública (SAEWEB)"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 1.md",
+          "questao": 28,
+          "assunto": "Gestão de riscos no sistema de controle interno (SAEWEB)"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 1.md",
+          "questao": 47,
+          "assunto": "Módulo de gestão de riscos da ferramenta SAEWEB"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 1.md",
+          "questao": 48,
+          "assunto": "SAEWEB: análise e avaliação de riscos"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 21,
+          "assunto": "COSO: ambiente de controle"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 22,
+          "assunto": "Sistema de controle interno"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 23,
+          "assunto": "Avaliação e gestão de riscos"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 24,
+          "assunto": "Controles detectivos e preventivos"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 25,
+          "assunto": "Atividades de monitoramento"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 24,
+          "assunto": "Princípios de governabilidade e governança"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 25,
+          "assunto": "Referenciais básicos de governança organizacional"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 66,
+          "assunto": "Nova gestão pública: accountability, governança e governabilidade"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 67,
+          "assunto": "Gestão de compliance"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 66,
+          "assunto": "Governabilidade, governança e accountability"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 67,
+          "assunto": "Gestão de compliance"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 81,
+          "assunto": "Controle interno: definição"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 82,
+          "assunto": "Ambiente de controle"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 83,
+          "assunto": "Gestão de riscos: respostas ao risco"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 84,
+          "assunto": "Atividades de controle: prevenção e detecção"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 85,
+          "assunto": "Sistema de controles internos"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 2.md",
+          "questao": 18,
+          "assunto": "Governança pública: liderança"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 2.md",
+          "questao": 22,
+          "assunto": "Gestão de riscos corporativos (SAEWEB)"
+        }
+      ]
+    },
+    {
+      "tema": "D9",
+      "assunto": "Licitações e contratos administrativos",
+      "itens": [
+        {
+          "arquivo": "PROVA DE VERIFICACAO DE APRENDIZAGEM CURSO DE FORMACAO PROFISSIONAL 2aTURMA SUB JUDICE.md",
+          "questao": 25,
+          "assunto": "Contratos administrativos: equilíbrio econômico-financeiro"
+        },
+        {
+          "arquivo": "PROVA DE VERIFICACAO DE APRENDIZAGEM CURSO DE FORMACAO PROFISSIONAL 2aTURMA SUB JUDICE.md",
+          "questao": 26,
+          "assunto": "Fiscalização dos contratos administrativos"
+        },
+        {
+          "arquivo": "PROVA DE VERIFICACAO DE APRENDIZAGEM CURSO DE FORMACAO PROFISSIONAL 2aTURMA SUB JUDICE.md",
+          "questao": 50,
+          "assunto": "Parcerias público-privadas e concessões"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 1.md",
+          "questao": 25,
+          "assunto": "Sistema de registro de preços"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 1.md",
+          "questao": 26,
+          "assunto": "Fiscalização de contratos administrativos no DF"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 1.md",
+          "questao": 49,
+          "assunto": "Concessão comum"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 1.md",
+          "questao": 50,
+          "assunto": "Parcerias público-privadas: centros administrativos e restaurantes comunitários"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 57,
+          "assunto": "Permissão e concessão de serviços públicos"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 60,
+          "assunto": "Decreto Distrital 6.851/2006: sanções em licitações e contratos"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 59,
+          "assunto": "Pregão (Lei 10.520/2002)"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 60,
+          "assunto": "Sistema de registro de preços"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 2.md",
+          "questao": 20,
+          "assunto": "Modalidades contratuais da administração pública"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 2.md",
+          "questao": 21,
+          "assunto": "Contratos administrativos: equilíbrio econômico-financeiro (revisão)"
+        }
+      ]
+    },
+    {
+      "tema": "D10",
+      "assunto": "Improbidade e anticorrupção",
+      "itens": [
+        {
+          "arquivo": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md",
+          "questao": 28,
+          "assunto": "Improbidade administrativa (Lei 8.429/1992)"
+        },
+        {
+          "arquivo": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 26,
+          "assunto": "Mecanismos de combate à corrupção"
+        },
+        {
+          "arquivo": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md",
+          "questao": 58,
+          "assunto": "Lei 8.429/1992: improbidade administrativa"
+        }
+      ]
+    }
+  ]
+}

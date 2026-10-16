@@ -1,0 +1,645 @@
+{
+  "concurso": "tcu_25_tefc",
+  "banca": "Cebraspe",
+  "itens": [
+    {
+      "id": "CB-24",
+      "tema": "D1",
+      "assunto": "Ordem social e meio ambiente: sanções penais e administrativas e dever de reparar o dano",
+      "enunciado": "As condutas e atividades consideradas lesivas ao meio ambiente sujeitam os infratores, pessoas físicas ou jurídicas, a sanções penais e administrativas, independentemente da obrigação de reparar os danos causados.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Básicos — item 24"
+    },
+    {
+      "id": "CB-25",
+      "tema": "D1",
+      "assunto": "Direitos indígenas: organização social, costumes, línguas e direitos originários sobre terras tradicionalmente ocupadas",
+      "enunciado": "Ao reconhecer aos povos indígenas sua organização social, costumes, línguas, crenças e tradições, bem como os direitos originários sobre as terras que tradicionalmente ocupam, a Constituição Federal de 1988 assegura aos povos indígenas direitos fundamentais, com as consequentes garantias inerentes à sua proteção, quais sejam, cláusulas pétreas, anteparo em face de maiorias eventuais, interpretação extensiva e vedação ao retrocesso.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Básicos — item 25"
+    },
+    {
+      "id": "CB-26",
+      "tema": "D1",
+      "assunto": "Demarcação de terras indígenas: natureza do procedimento administrativo",
+      "enunciado": "O procedimento administrativo demarcatório possui natureza constitutiva, razão pela qual ele confere aos povos indígenas a titularidade definitiva dos direitos territoriais.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Básicos — item 26"
+    },
+    {
+      "id": "CB-27",
+      "tema": "D1",
+      "assunto": "Meio ambiente e patrimônio cultural: manifestações culturais com animais",
+      "enunciado": "São consideradas cruéis, para fins de proteção constitucional ao meio ambiente, manifestações culturais com animais registradas como bem de natureza imaterial integrante do patrimônio cultural brasileiro, ainda que haja lei específica que garanta o bem-estar dos animais envolvidos nessas práticas.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Básicos — item 27"
+    },
+    {
+      "id": "CB-28",
+      "tema": "D1",
+      "assunto": "Meio ambiente ecologicamente equilibrado: participação popular na gestão do bem de uso comum",
+      "enunciado": "Ao conferir à coletividade o direito-dever de tutelar e preservar o meio ambiente ecologicamente equilibrado, a Constituição Federal de 1988 exige a participação popular na administração desse bem de uso comum e de interesse de toda a sociedade.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Básicos — item 28"
+    },
+    {
+      "id": "CB-29",
+      "tema": "D1",
+      "assunto": "Direitos políticos: cassação, perda e suspensão",
+      "enunciado": "É vedada a cassação de direitos políticos, mas não sua perda ou suspensão.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Básicos — item 29"
+    },
+    {
+      "id": "CB-30",
+      "tema": "D1",
+      "assunto": "Direitos políticos: cassação, perda e suspensão",
+      "enunciado": "A suspensão dos direitos políticos caracteriza-se pela temporariedade, pois é possível que o titular volte a exercê-los no futuro, enquanto a perda desses direitos é definitiva, sem possibilidade de reaquisição.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Básicos — item 30"
+    },
+    {
+      "id": "CB-31",
+      "tema": "D1",
+      "assunto": "Soberania popular: sufrágio universal, voto direto e secreto e cláusula pétrea",
+      "enunciado": "A soberania popular é exercida pelo sufrágio universal e pelo voto direto, secreto, obrigatório e com valor igual para todos, características estas protegidas por cláusula pétrea.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Básicos — item 31"
+    },
+    {
+      "id": "CB-32",
+      "tema": "D1",
+      "assunto": "Candidaturas avulsas e filiação partidária como condição de elegibilidade",
+      "enunciado": "A admissão, pelo Supremo Tribunal Federal, das candidaturas avulsas para eleições majoritárias justifica-se em razão de a filiação partidária não ser constitucionalmente prevista como condição de elegibilidade.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Básicos — item 32"
+    },
+    {
+      "id": "CB-33",
+      "tema": "D1",
+      "assunto": "Direito de reunião: autorização prévia e não frustração de reunião anterior",
+      "enunciado": "Todos podem reunir-se pacificamente, sem armas, em locais abertos ao público, desde que previamente autorizados pela autoridade competente e desde que não frustrem outra reunião anteriormente convocada para o mesmo local.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Básicos — item 33"
+    },
+    {
+      "id": "CE-51",
+      "tema": "D3",
+      "assunto": "Reforma administrativa: criação do DASP e atuação restrita à União",
+      "enunciado": "A primeira experiência de reforma de longo alcance da administração pública brasileira originou a criação do Departamento Administrativo do Serviço Público (DASP), que funcionava apenas no âmbito da União, sem interferência ou influência nas unidades federadas.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 51"
+    },
+    {
+      "id": "CE-52",
+      "tema": "D3",
+      "assunto": "Sistema burocrático: mudança organizacional de baixo para cima e universal",
+      "enunciado": "Dentro de um sistema burocrático, a mudança deve operar-se de baixo para cima e ser universal, isto é, deve afetar o conjunto da organização como um todo.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 52"
+    },
+    {
+      "id": "CE-53",
+      "tema": "D3",
+      "assunto": "Plano Diretor da Reforma do Aparelho do Estado e administração gerencial",
+      "enunciado": "O Plano Diretor da Reforma do Aparelho do Estado tinha como proposta explícita inaugurar a chamada administração gerencial e partia da premissa de que a crise latino-americana era uma crise do Estado.",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 53"
+    },
+    {
+      "id": "CE-54",
+      "tema": "D3",
+      "assunto": "Autoridade legal e dominação legítima na organização burocrática",
+      "enunciado": "A autoridade legal, típica da organização burocrática, é um tipo de dominação legítima que depende da criação de normas legais no seio de um grupo e do acordo entre os membros do grupo para sujeitá-los aos ditames do sistema legal.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 54"
+    },
+    {
+      "id": "CE-59",
+      "tema": "D3",
+      "assunto": "Nova administração pública e gerencialismo (Bresser-Pereira)",
+      "enunciado": "Segundo Luiz Carlos Bresser-Pereira, protagonista da implementação da nova administração pública no Brasil, esse novo modelo se diferencia da administração pública burocrática por seguir princípios do gerencialismo, visando, entre outros objetivos, à melhoria das decisões estratégicas do governo e da burocracia e à garantia da democracia por meio da prestação de serviços públicos orientados para o cidadão-cliente e controlados pela sociedade.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 59"
+    },
+    {
+      "id": "CE-66",
+      "tema": "D3",
+      "assunto": "Responsabilidade do Estado por atos de agentes públicos, inclusive omissivos",
+      "enunciado": "A possibilidade de responsabilização do Estado por atos praticados por seus agentes públicos no exercício da função não alcança os atos omissivos.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 66"
+    },
+    {
+      "id": "CE-68",
+      "tema": "D3",
+      "assunto": "Autarquia: descentralização, administração indireta e personalidade de direito público",
+      "enunciado": "Autarquia é entidade descentralizada da administração pública indireta com personalidade jurídica de direito público.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 68"
+    },
+    {
+      "id": "CE-70",
+      "tema": "D3",
+      "assunto": "Ato administrativo praticado por agente sem cargo público efetivo",
+      "enunciado": "Ato comissivo ou omissivo de João é considerado ato administrativo, mesmo que ele não exerça cargo público efetivo.",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 70"
+    },
+    {
+      "id": "CE-74",
+      "tema": "D3",
+      "assunto": "Ministério de Estado como órgão público sem personalidade jurídica",
+      "enunciado": "Ministério de Estado é órgão público sem personalidade jurídica.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 74"
+    },
+    {
+      "id": "CE-78",
+      "tema": "D3",
+      "assunto": "Estrutura desconcentrada da administração pública federal",
+      "enunciado": "O órgão público que firmou o contrato integra a estrutura desconcentrada da administração pública federal.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 78"
+    },
+    {
+      "id": "CE-80",
+      "tema": "D3",
+      "assunto": "Sociedade de economia mista com capital social integralmente público",
+      "enunciado": "O contrato foi celebrado com sociedade de economia mista.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 80"
+    },
+    {
+      "id": "CE-69",
+      "tema": "D4",
+      "assunto": "Presunção de legitimidade e veracidade do ato administrativo e ônus da prova",
+      "enunciado": "Dada a presunção de legitimidade e veracidade dos atos administrativos, cabe a Caio o ônus de comprovar o alegado prejuízo decorrente da omissão de João.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 69"
+    },
+    {
+      "id": "CE-71",
+      "tema": "D4",
+      "assunto": "Poder administrativo disciplinar: aplicação de multa contratual",
+      "enunciado": "A aplicação da multa contratual configura exercício do poder administrativo disciplinar.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 71"
+    },
+    {
+      "id": "CE-72",
+      "tema": "D4",
+      "assunto": "Controle administrativo e poder hierárquico: recurso à autoridade superior",
+      "enunciado": "A apreciação do segundo recurso representa controle administrativo fundamentado no poder hierárquico.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 72"
+    },
+    {
+      "id": "CE-75",
+      "tema": "D4",
+      "assunto": "Poder de polícia administrativo: apreciação de recurso administrativo",
+      "enunciado": "A apreciação do primeiro recurso administrativo apresentado pela empresa contratada configura exercício do poder de polícia administrativo.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 75"
+    },
+    {
+      "id": "CB-41",
+      "tema": "D5",
+      "assunto": "Regimento Interno do TCU: delegação de atribuições administrativas pelo presidente",
+      "enunciado": "O presidente do TCU pode delegar algumas de suas atribuições administrativas, como, por exemplo, a assinatura de acordos de cooperação e a publicação do relatório de gestão fiscal exigido pela Lei de Responsabilidade Fiscal.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Básicos — item 41"
+    },
+    {
+      "id": "CB-42",
+      "tema": "D5",
+      "assunto": "Regimento Interno do TCU: composição das câmaras e permuta de ministros",
+      "enunciado": "Cada câmara do TCU será composta por quatro ministros, indicados pelo presidente do tribunal, sendo possível a permuta ou remoção deles, a pedido dos próprios, para outra câmara, desde que haja a anuência do Plenário.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Básicos — item 42"
+    },
+    {
+      "id": "CB-43",
+      "tema": "D5",
+      "assunto": "Regimento Interno do TCU: competência do Plenário",
+      "enunciado": "Compete ao Plenário do TCU deliberar sobre o relatório de auditoria operacional, bem como sobre a prestação e tomada de contas especial.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Básicos — item 43"
+    },
+    {
+      "id": "CB-44",
+      "tema": "D5",
+      "assunto": "Regimento Interno do TCU: contas julgadas irregulares e comprovação de pagamento",
+      "enunciado": "No caso de contas julgadas irregulares, a decisão definitiva publicada constituirá a obrigação do responsável de comprovar, no prazo de trinta dias, perante o TCU, o pagamento da quantia correspondente ao débito que lhe tiver sido imputado ou da multa cominada.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Básicos — item 44"
+    },
+    {
+      "id": "CB-45",
+      "tema": "D5",
+      "assunto": "Regimento Interno do TCU: empate em julgamento no Plenário",
+      "enunciado": "No caso de empate em julgamento no Plenário, o processo será retirado de pauta e reincluído na próxima sessão, cabendo ao ministro relator adotar medidas para que o colegiado esteja composto com a totalidade do quórum de nove ministros ou ministros-substitutos convocados, aptos a votar, reiniciando-se, assim, a votação.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Básicos — item 45"
+    },
+    {
+      "id": "CB-46",
+      "tema": "D5",
+      "assunto": "Regimento Interno do TCU: prova documental",
+      "enunciado": "As provas produzidas pelas partes devem ser apresentadas, sempre que possível, de forma documental, inclusive as declarações pessoais de terceiros.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Básicos — item 46"
+    },
+    {
+      "id": "CB-47",
+      "tema": "D5",
+      "assunto": "Regimento Interno do TCU: manifestação obrigatória do Ministério Público e nulidade",
+      "enunciado": "A falta de manifestação do Ministério Público em processo no qual a sua intervenção seja obrigatória gera nulidade a partir do momento em que esse órgão deveria ter-se pronunciado.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Básicos — item 47"
+    },
+    {
+      "id": "CB-48",
+      "tema": "D5",
+      "assunto": "Regimento Interno do TCU: defesa de corresponsáveis",
+      "enunciado": "Quando houver mais de um responsável pelo mesmo fato, a defesa apresentada por um deles aproveitará a todos, mesmo ao revel, no que concerne às circunstâncias objetivas, e não aproveitará no tocante aos fundamentos de natureza exclusivamente pessoal.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Básicos — item 48"
+    },
+    {
+      "id": "CB-49",
+      "tema": "D5",
+      "assunto": "Regimento Interno do TCU: sustentação oral em agravo e medida cautelar",
+      "enunciado": "Não é admitida sustentação oral no julgamento de agravo e de medida cautelar.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Básicos — item 49"
+    },
+    {
+      "id": "CB-50",
+      "tema": "D5",
+      "assunto": "Regimento Interno do TCU: instrumento de auditoria",
+      "enunciado": "A auditoria é o instrumento destinado a subsidiar a apreciação dos atos sujeitos a registro, suprir omissões e lacunas de informações, esclarecer dúvidas e apurar denúncias ou representações.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Básicos — item 50"
+    },
+    {
+      "id": "CE-64",
+      "tema": "D5",
+      "assunto": "Função de controle: atuação dos órgãos do Estado e da iniciativa privada em regime de colaboração",
+      "enunciado": "O controle deve ser desenvolvido por todos os órgãos do aparelho do Estado e pela iniciativa privada, quando no exercício de função estatal, mesmo que em regime de colaboração.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 64"
+    },
+    {
+      "id": "CE-65",
+      "tema": "D5",
+      "assunto": "Estrutura de controle e ação individual do cidadão",
+      "enunciado": "Uma estrutura adequada de controle pode prescindir da ação individual do cidadão, desde que seu sistema esteja bem consistente e preparado para o exercício de tal função.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 65"
+    },
+    {
+      "id": "CE-67",
+      "tema": "D5",
+      "assunto": "Ação judicial de obrigação de fazer e controle administrativo",
+      "enunciado": "Se Caio promover ação judicial de obrigação de fazer em face da autarquia federal com o objetivo de ser providenciada a resposta ao requerimento apresentado na esfera administrativa, essa medida, caso julgada procedente, resultará em controle administrativo.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 67"
+    },
+    {
+      "id": "CE-102",
+      "tema": "D5",
+      "assunto": "Controle interno: responsabilidade solidária do ordenador de despesa e prazo",
+      "enunciado": "A responsabilidade solidária entre o ordenador de despesa e o responsável pela conformidade documental subsiste por prazo de dez anos, contados da data da aprovação das contas pelo órgão de controle externo competente.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 102"
+    },
+    {
+      "id": "CE-103",
+      "tema": "D5",
+      "assunto": "Controle interno: conformidade documental e prosseguimento da execução",
+      "enunciado": "A ausência de conformidade documental em processo de despesa constitui irregularidade que impede o prosseguimento da execução, devendo ser sanada antes da efetivação do pagamento ao credor.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 103"
+    },
+    {
+      "id": "CE-104",
+      "tema": "D5",
+      "assunto": "Controle interno: manutenção do rol de responsáveis",
+      "enunciado": "O rol de responsáveis deve ser mantido permanentemente atualizado, incluindo-se todos os ordenadores de despesa e demais servidores com atribuições relacionadas à gestão de recursos públicos.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 104"
+    },
+    {
+      "id": "CE-105",
+      "tema": "D5",
+      "assunto": "Controle interno: atestação diária da conformidade documental e vedação de delegação",
+      "enunciado": "A conformidade documental deve ser atestada diariamente pelo responsável designado, abrangendo todos os documentos de receita e despesa processados no período, sendo vedada a delegação dessa atribuição.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 105"
+    },
+    {
+      "id": "CE-106",
+      "tema": "D5",
+      "assunto": "Controle concomitante",
+      "enunciado": "O controle concomitante ocorre durante a execução de um ato ou processo administrativo, tendo como principal vantagem a possibilidade de correção de rumos antes da sua finalização, o que minimiza danos e irregularidades.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 106"
+    },
+    {
+      "id": "CE-107",
+      "tema": "D5",
+      "assunto": "Controle de mérito (conveniência e oportunidade) pelo controle interno e externo",
+      "enunciado": "O controle de mérito, também conhecido como controle de conveniência e oportunidade, é diretamente exercido tanto pelo controle interno quanto pelo controle externo, sendo-lhe pertinente a revisão de atos discricionários da administração pública.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 107"
+    },
+    {
+      "id": "CE-108",
+      "tema": "D5",
+      "assunto": "Controle interno como prerrogativa exclusiva do Poder Judiciário",
+      "enunciado": "O controle interno é prerrogativa exclusiva do Poder Judiciário, visando à regularidade e eficiência de suas atividades.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 108"
+    },
+    {
+      "id": "CE-109",
+      "tema": "D5",
+      "assunto": "Controle administrativo: iniciativa de ofício ou por provocação e exame de legalidade e mérito",
+      "enunciado": "O controle administrativo, inerente à própria administração pública, pode ser exercido de ofício ou mediante provocação de terceiros e abrange tanto a análise de legalidade quanto a de mérito do ato ou da conduta administrativa.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 109"
+    },
+    {
+      "id": "CE-110",
+      "tema": "D5",
+      "assunto": "Autotutela: anulação e revogação de atos pela administração",
+      "enunciado": "Dado o princípio da autotutela, que embasa o controle administrativo, a administração pública tem o poder-dever de anular seus próprios atos eivados de ilegalidade, mas não de revogá-los por motivo de conveniência ou oportunidade.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 110"
+    },
+    {
+      "id": "CE-111",
+      "tema": "D5",
+      "assunto": "Controle parlamentar: instalação de CPI",
+      "enunciado": "A instalação de comissão parlamentar de inquérito (CPI) no âmbito do Congresso Nacional exige a aprovação da maioria absoluta dos membros de cada uma das casas (Câmara dos Deputados e Senado Federal), além da indicação de fato determinado e prazo certo de duração.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 111"
+    },
+    {
+      "id": "CE-112",
+      "tema": "D5",
+      "assunto": "Controle parlamentar: sustação de atos normativos do Poder Executivo",
+      "enunciado": "Uma das prerrogativas do Congresso Nacional, no exercício do controle externo, é a possibilidade de sustar atos normativos do Poder Executivo que exorbitem do poder regulamentar ou dos limites de delegação legislativa.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 112"
+    },
+    {
+      "id": "CE-113",
+      "tema": "D5",
+      "assunto": "Contencioso administrativo e tribunal administrativo com decisão definitiva",
+      "enunciado": "A criação de um tribunal administrativo com poder de julgamento definitivo, cuja decisão impedisse a revisão judicial sobre o mérito do ato, seria compatível com o sistema brasileiro de controle da administração pública, desde que a Constituição Federal fosse alterada para prever expressamente essa competência excepcional.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 113"
+    },
+    {
+      "id": "CE-114",
+      "tema": "D5",
+      "assunto": "Sistema de jurisdição una e processo administrativo exauriente",
+      "enunciado": "No sistema brasileiro de jurisdição una, a existência de um processo administrativo prévio e exauriente, com trânsito em julgado na esfera administrativa, impede a posterior apreciação da matéria pelo Poder Judiciário, ressalvadas as hipóteses de vícios insanáveis de legalidade.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 114"
+    },
+    {
+      "id": "CE-115",
+      "tema": "D5",
+      "assunto": "Controle jurisdicional: efeitos da anulação de ato administrativo",
+      "enunciado": "A anulação de um ato administrativo pelo Poder Judiciário possui, em regra, efeitos ex nunc, ou seja, a partir da decisão judicial, sendo preservados os efeitos já produzidos pelo ato enquanto este esteve em vigor.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 115"
+    },
+    {
+      "id": "CE-116",
+      "tema": "D5",
+      "assunto": "Direito de acesso ao Poder Judiciário para revisão de decisões",
+      "enunciado": "Todo cidadão tem o direito de buscar a revisão judicial de qualquer decisão, se entender que seu direito foi lesado ou ameaçado.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 116"
+    },
+    {
+      "id": "CE-117",
+      "tema": "D5",
+      "assunto": "Controle externo do TCU: abrangência da fiscalização e operações sigilosas",
+      "enunciado": "A fiscalização do TCU abrange, além dos aspectos contábil, financeiro, orçamentário e patrimonial, a avaliação da legalidade, legitimidade, economicidade, eficiência e eficácia dos atos de gestão, podendo, inclusive, proceder à fiscalização de operações de natureza sigilosa.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 117"
+    },
+    {
+      "id": "CE-118",
+      "tema": "D5",
+      "assunto": "Tribunais de contas e Poder Judiciário: eficácia das decisões",
+      "enunciado": "As prerrogativas dos tribunais de contas de determinar a indisponibilidade de bens e de aplicar sanções a gestores públicos elevam tais tribunais à condição de órgãos do Poder Judiciário para a eficácia de suas decisões, dispensando-se a homologação judicial para a execução de suas deliberações.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 118"
+    },
+    {
+      "id": "CE-119",
+      "tema": "D5",
+      "assunto": "Controle interno: apoio ao controle externo e competência sancionatória",
+      "enunciado": "No Brasil, o sistema de controle interno de cada Poder da República tem como uma de suas atribuições precípuas apoiar o controle externo, fornecendo informações e realizando auditorias, mas sem competência para aplicar sanções aos responsáveis por irregularidades financeiras.",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 119"
+    },
+    {
+      "id": "CE-120",
+      "tema": "D5",
+      "assunto": "Controle da atividade financeira do Estado: finalidade",
+      "enunciado": "O principal objetivo do controle da atividade financeira do Estado é assegurar que a arrecadação de receitas e a realização de despesas públicas ocorram em conformidade com as leis e os princípios da administração pública, como os de legalidade e economicidade.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 120"
+    },
+    {
+      "id": "CE-73",
+      "tema": "D9",
+      "assunto": "Contratação direta por dispensa de licitação",
+      "enunciado": "No caso, a contratação direta deve ter sido realizada por dispensa de licitação.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 73"
+    },
+    {
+      "id": "CE-76",
+      "tema": "D9",
+      "assunto": "Princípio do julgamento objetivo das propostas",
+      "enunciado": "A análise das propostas feita de forma imparcial e técnica baseia-se no princípio do julgamento objetivo.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 76"
+    },
+    {
+      "id": "CE-77",
+      "tema": "D9",
+      "assunto": "Critério de julgamento por maior desconto em contratos de eficiência",
+      "enunciado": "Maior desconto é o critério de julgamento das propostas destinadas a contratos de eficiência, em que o contratado busca gerar economia para a administração pública.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 77"
+    },
+    {
+      "id": "CE-79",
+      "tema": "D9",
+      "assunto": "Modalidade de licitação: pregão",
+      "enunciado": "A modalidade de licitação mais adequada à hipótese é o pregão.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 79"
+    },
+    {
+      "id": "CE-81",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021: princípio da motivação",
+      "enunciado": "O princípio da motivação nas licitações públicas associa-se à necessidade de se substituírem a improvisação e o empirismo por métodos planejados e testados, com vistas à otimização do uso de recursos e à minimização de riscos.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 81"
+    },
+    {
+      "id": "CE-82",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021: alienação e concessão de direito real de uso de bens",
+      "enunciado": "Embora não se aplique à concessão e permissão de uso de bens públicos, a referida lei é aplicável à alienação e concessão de direito real de uso de bens.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 82"
+    },
+    {
+      "id": "CE-83",
+      "tema": "D9",
+      "assunto": "IN 5/2017: contratação de instituição sem fins lucrativos",
+      "enunciado": "Na contratação de instituição sem fins lucrativos, o serviço contratado deve ser executado obrigatoriamente pelos profissionais integrantes dos quadros funcionais da instituição.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 83"
+    },
+    {
+      "id": "CE-84",
+      "tema": "D9",
+      "assunto": "IN 5/2017: vedação a atos de ingerência na administração da contratada",
+      "enunciado": "É vedada aos servidores públicos a prática de atos de ingerência na administração da contratada, a exemplo do direcionamento da contratação de pessoas para a composição de sua equipe de trabalho.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 84"
+    },
+    {
+      "id": "CE-85",
+      "tema": "D9",
+      "assunto": "Execução contratual: produtividade de referência",
+      "enunciado": "Para definir a produtividade de referência contratual, deve-se atentar para os fatores que estejam fora do controle do prestador e que possam interferir no atendimento das metas, bem como para o uso de indicadores complexos e sobrepostos.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 85"
+    },
+    {
+      "id": "CE-86",
+      "tema": "D9",
+      "assunto": "Execução contratual: instrumentos de acompanhamento e fiscalização",
+      "enunciado": "A execução dos contratos deve ser acompanhada e fiscalizada por meio de instrumentos de controle que compreendam os recursos humanos empregados em função da quantidade e da formação profissional exigidas.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 86"
+    },
+    {
+      "id": "CE-87",
+      "tema": "D9",
+      "assunto": "Fiscalização contratual: preposto da contratada",
+      "enunciado": "Conforme a natureza dos serviços, pode-se exigir a manutenção do preposto da contratada no local da execução do objeto, bem como estabelecer sistema de escala semanal ou mensal.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 87"
+    },
+    {
+      "id": "CE-88",
+      "tema": "D9",
+      "assunto": "Fiscalização contratual: documentos fornecidos aos fiscais",
+      "enunciado": "Para o exercício da função de fiscalização, são suficientes as cópias dos estudos preliminares, do edital e seus anexos, fornecidos pelo setor de licitação e contratos da organização aos fiscais do contrato.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 88"
+    },
+    {
+      "id": "CE-89",
+      "tema": "D9",
+      "assunto": "Irregularidades contratuais: obrigações trabalhistas e rescisão",
+      "enunciado": "O descumprimento das obrigações trabalhistas ou a não manutenção das condições de habilitação pela contratada pode ensejar a rescisão contratual, sem prejuízo das demais sanções.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 89"
+    },
+    {
+      "id": "CE-90",
+      "tema": "D9",
+      "assunto": "Irregularidade no FGTS: comunicação ao órgão competente",
+      "enunciado": "Em caso de indício de irregularidade no recolhimento da contribuição para o FGTS, os fiscais ou gestores de contratos de serviços com regime de dedicação exclusiva de mão de obra devem oficiar, precipuamente, o Ministério da Fazenda.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "TCU 2025 — TEFC — Conhecimentos Específicos — item 90"
+    }
+  ]
+}

@@ -1,0 +1,510 @@
+{
+  "concurso": "inpi_23",
+  "banca": "Cebraspe",
+  "itens": [
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md#60",
+      "tema": "D1",
+      "assunto": "Princípios da administração pública (confiança legítima, impessoalidade, publicidade)",
+      "enunciado": "A confiança legítima e a boa-fé, embora semelhantes, são princípios autônomos e distintos, de modo que, para o reconhecimento da confiança legítima, não se faz necessária a presença da boa-fé.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md — item 60"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md#61",
+      "tema": "D1",
+      "assunto": "Princípios da administração pública (confiança legítima, impessoalidade, publicidade)",
+      "enunciado": "O nepotismo, o partidarismo e a promoção pessoal são vícios que maculam o princípio da impessoalidade.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md — item 61"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md#62",
+      "tema": "D1",
+      "assunto": "Princípios da administração pública (confiança legítima, impessoalidade, publicidade)",
+      "enunciado": "O princípio da publicidade encerra o seu escopo na publicação oficial dos atos administrativos.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md — item 62"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md#67",
+      "tema": "D1",
+      "assunto": "Separação dos Poderes (jurisprudência do STF)",
+      "enunciado": "A intervenção do Poder Judiciário em políticas públicas voltadas à realização de direitos fundamentais, em caso de deficiência do serviço, viola o princípio da separação dos Poderes.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md — item 67"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md#68",
+      "tema": "D1",
+      "assunto": "Separação dos Poderes (jurisprudência do STF)",
+      "enunciado": "Para fins de proteção ao princípio da separação dos Poderes, é inadmissível que o Poder Judiciário faça o controle jurisdicional de atos interna corporis das Casas Legislativas, ainda que caracterizado o desrespeito às normas constitucionais pertinentes ao processo legislativo.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md — item 68"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md#69",
+      "tema": "D1",
+      "assunto": "Direitos e garantias fundamentais",
+      "enunciado": "É assegurada, nos termos da lei, a proteção às participações individuais em obras coletivas e à reprodução da imagem e da voz humanas, salvo nas atividades desportivas.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md — item 69"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md#70",
+      "tema": "D1",
+      "assunto": "Direitos e garantias fundamentais",
+      "enunciado": "A liberdade de associação, segundo a Constituição Federal de 1988 (CF), compreende o direito de criar associação, mas depende, em determinados casos, de autorização legal.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md — item 70"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md#71",
+      "tema": "D1",
+      "assunto": "Direitos e garantias fundamentais",
+      "enunciado": "A lei assegura aos autores de inventos industriais privilégio temporário para sua utilização.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md — item 71"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md#72",
+      "tema": "D1",
+      "assunto": "Atribuições do presidente da República",
+      "enunciado": "É competência privativa do presidente da República conceder indulto e comutar penas, com audiência, se necessário, dos órgãos instituídos em lei, podendo delegar tal atribuição ao advogado-geral da União.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md — item 72"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md#73",
+      "tema": "D1",
+      "assunto": "Atribuições do presidente da República",
+      "enunciado": "Compete ao presidente da República, na condição de chefe de Estado, proceder à autorização de guerra no caso de agressão estrangeira.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md — item 73"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md#74",
+      "tema": "D1",
+      "assunto": "Atribuições do presidente da República",
+      "enunciado": "A competência privativa do presidente da República para iniciar o processo legislativo das leis ordinárias e complementares não pode ser delegada.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md — item 74"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS BASICOS PARA TODOS OS CARGOS.md#47",
+      "tema": "D3",
+      "assunto": "Organização administrativa — INPI (autarquia federal)",
+      "enunciado": "É finalidade do INPI pronunciar-se quanto à conveniência de assinatura, de ratificação e de denúncia de convenções, tratados, convênios e acordos sobre propriedade industrial.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS BASICOS PARA TODOS OS CARGOS.md — item 47"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS BASICOS PARA TODOS OS CARGOS.md#48",
+      "tema": "D3",
+      "assunto": "Organização administrativa — INPI (autarquia federal)",
+      "enunciado": "O diretor de administração do INPI tem a atribuição de coordenar, consolidar e submeter ao presidente do instituto o plano de ação global dessa autarquia.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS BASICOS PARA TODOS OS CARGOS.md — item 48"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS BASICOS PARA TODOS OS CARGOS.md#49",
+      "tema": "D3",
+      "assunto": "Organização administrativa — INPI (autarquia federal)",
+      "enunciado": "A Ouvidoria do INPI é órgão de assistência direta e imediata ao presidente do instituto.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS BASICOS PARA TODOS OS CARGOS.md — item 49"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS BASICOS PARA TODOS OS CARGOS.md#50",
+      "tema": "D3",
+      "assunto": "Organização administrativa — INPI (autarquia federal)",
+      "enunciado": "É competência da Diretoria-Executiva do INPI prestar assistência ao presidente do instituto no que concerne à coordenação do processo de planejamento estratégico do INPI.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS BASICOS PARA TODOS OS CARGOS.md — item 50"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md#69",
+      "tema": "D3",
+      "assunto": "Agentes públicos — provimento e posse",
+      "enunciado": "A inspeção médica oficial é um requisito necessário para a posse em cargo público.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md — item 69"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md#70",
+      "tema": "D3",
+      "assunto": "Agentes públicos — provimento e posse",
+      "enunciado": "Ascenção e transferência são admitidas como formas de provimento para cargos públicos.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md — item 70"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md#71",
+      "tema": "D3",
+      "assunto": "Agentes públicos — provimento e posse",
+      "enunciado": "Admite-se a prestação de serviços gratuitos por servidor da administração pública, desde que devidamente justificada e aprovada pela chefia imediata do servidor.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md — item 71"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md#55",
+      "tema": "D3",
+      "assunto": "Autarquias",
+      "enunciado": "Desde que promovida por lei de iniciativa privativa do chefe do Poder Executivo, é possível a extinção de autarquia que desenvolva atividades já atendidas satisfatoriamente pela iniciativa privada ou não previstas no seu objeto social.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md — item 55"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md#56",
+      "tema": "D3",
+      "assunto": "Autarquias",
+      "enunciado": "Às autarquias qualificadas como agências executivas ou reguladoras é facultado o uso do regime celetista para os seus servidores.",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md — item 56"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md#57",
+      "tema": "D3",
+      "assunto": "Autarquias",
+      "enunciado": "No caso das autarquias, a supervisão ministerial incluirá a aprovação anual da proposta de orçamento-programa e da programação financeira da entidade.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md — item 57"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md#58",
+      "tema": "D3",
+      "assunto": "Autarquias",
+      "enunciado": "As autarquias gozam de imunidade tributária recíproca, que veda a instituição de impostos sobre o seu patrimônio, ainda que o imóvel seja arrendado ou locado a empresa privada exploradora de atividade econômica com fins lucrativos.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md — item 58"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md#116",
+      "tema": "D3",
+      "assunto": "Agências reguladoras e empresas estatais",
+      "enunciado": "A lei que cria a agência reguladora pode legitimamente conferir-lhe competência para efetuar busca e apreensão no setor regulado, haja vista o poder de polícia atribuído à agência.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md — item 116"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md#119",
+      "tema": "D3",
+      "assunto": "Agências reguladoras e empresas estatais",
+      "enunciado": "É necessária lei específica para a inclusão de sociedade de economia mista ou de empresa pública em programa de desestatização.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md — item 119"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md#51",
+      "tema": "D4",
+      "assunto": "Atos administrativos",
+      "enunciado": "O decreto é ato administrativo privativo do chefe do Poder Executivo, podendo ser classificado em decreto normativo e decreto individual.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md — item 51"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md#52",
+      "tema": "D4",
+      "assunto": "Atos administrativos",
+      "enunciado": "A caducidade, a cassação e a anulação são formas de extinção do ato administrativo por manifestação de vontade da administração pública que pressupõem a existência de ilegalidade.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md — item 52"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md#53",
+      "tema": "D4",
+      "assunto": "Atos administrativos",
+      "enunciado": "É cabível a decisão administrativa coordenada entre os entes federativos para, conjuntamente, deliberarem sobre a execução de políticas públicas comuns, como saúde e educação.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md — item 53"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md#54",
+      "tema": "D4",
+      "assunto": "Atos administrativos",
+      "enunciado": "Caso um parecer obrigatório e vinculante não seja emitido no prazo fixado, o processo administrativo não poderá ter seguimento.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md — item 54"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md#59",
+      "tema": "D4",
+      "assunto": "Decisão administrativa — motivação e fundamentação",
+      "enunciado": "A motivação do ato administrativo será obrigatória quando dela depender o exercício do contraditório e da ampla defesa.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md — item 59"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md#115",
+      "tema": "D4",
+      "assunto": "Lei 9.784/1999 — delegação e avocação de competência",
+      "enunciado": "Será permitida, em qualquer caso, a avocação temporária de competência atribuída a órgão hierarquicamente inferior.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md — item 115"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md#116",
+      "tema": "D4",
+      "assunto": "Lei 9.784/1999 — delegação e avocação de competência",
+      "enunciado": "As decisões tomadas por delegação devem mencionar, explicitamente, essa qualidade.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md — item 116"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md#117",
+      "tema": "D4",
+      "assunto": "Lei 9.784/1999 — delegação e avocação de competência",
+      "enunciado": "As matérias de competência exclusiva do órgão ou da autoridade, a edição de atos de caráter enunciativo e a decisão de recursos administrativos não podem ser objetos de delegação.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md — item 117"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS COMPLEMENTARES CARGOS 9 10 E 11.md#90",
+      "tema": "D6",
+      "assunto": "Lei 12.527/2011 (LAI)",
+      "enunciado": "As entidades privadas sem fins lucrativos que tenham recebido recursos públicos para a realização de ações de interesse público estão subordinadas, no que couber, à Lei n.º 12.527/2011 (Lei de Acesso à Informação).",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS COMPLEMENTARES CARGOS 9 10 E 11.md — item 90"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS COMPLEMENTARES CARGOS 9 10 E 11.md#91",
+      "tema": "D6",
+      "assunto": "Lei 12.527/2011 (LAI)",
+      "enunciado": "O acesso às informações de interesse público exige a necessária solicitação do interessado, que deve ser dirigida ao gestor máximo do órgão detentor dessa informação.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS COMPLEMENTARES CARGOS 9 10 E 11.md — item 91"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS COMPLEMENTARES CARGOS 9 10 E 11.md#92",
+      "tema": "D6",
+      "assunto": "Lei 12.527/2011 (LAI)",
+      "enunciado": "Para efeitos da Lei de Acesso à Informação (Lei n.º 12.527/2011), documento é considerado como a unidade física de registro de informações, utilizada para materializar conhecimento.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS COMPLEMENTARES CARGOS 9 10 E 11.md — item 92"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS COMPLEMENTARES CARGOS 9 10 E 11.md#93",
+      "tema": "D7",
+      "assunto": "LGPD (Lei 13.709/2018) e proteção de dados pessoais",
+      "enunciado": "A proteção dos dados pessoais, que visa garantir a privacidade das pessoas, está prevista na Lei n.º 13.709/2018 (Lei Geral de Proteção de Dados Pessoais – LGPD) e na Lei n.º 12.965/2014 (Marco Civil da Internet).",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS COMPLEMENTARES CARGOS 9 10 E 11.md — item 93"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS COMPLEMENTARES CARGOS 9 10 E 11.md#94",
+      "tema": "D7",
+      "assunto": "LGPD (Lei 13.709/2018) e proteção de dados pessoais",
+      "enunciado": "A proteção de dados pessoais é um dos princípios elencados na Política Nacional de Segurança da Informação (Decreto n.º 9.637/2018).",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS COMPLEMENTARES CARGOS 9 10 E 11.md — item 94"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS COMPLEMENTARES CARGOS 9 10 E 11.md#95",
+      "tema": "D7",
+      "assunto": "LGPD (Lei 13.709/2018) e proteção de dados pessoais",
+      "enunciado": "É permitido o tratamento de dados pessoais durante estudos realizados por órgãos de pesquisas, sendo obrigatória a anonimização desses dados.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS COMPLEMENTARES CARGOS 9 10 E 11.md — item 95"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md#65",
+      "tema": "D8",
+      "assunto": "Governança das contratações — linhas de defesa",
+      "enunciado": "Os servidores, os empregados públicos e os agentes de licitação das autarquias integram a primeira linha de defesa das contratações públicas no âmbito da entidade, segundo a Lei n.º 14.133/2021.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md — item 65"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md#72",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — modalidades, critérios de julgamento e contratação direta",
+      "enunciado": "Na modalidade de licitação leilão, admite-se que um servidor seja designado para a condução do processo.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md — item 72"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md#73",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — modalidades, critérios de julgamento e contratação direta",
+      "enunciado": "No Brasil, a vigente legislação de compras determina que, ao se executar indiretamente serviços de engenharia, pode-se adotar o regime por preço unitário.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md — item 73"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md#111",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — modalidades, critérios de julgamento e contratação direta",
+      "enunciado": "Maior desconto, maior retorno econômico, menor preço, melhor técnica ou conteúdo artístico, e técnica e preço são critérios de julgamento que podem ser utilizados na modalidade de licitação concorrência.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md — item 111"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md#112",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — modalidades, critérios de julgamento e contratação direta",
+      "enunciado": "As disposições da Lei n.º 14.133/2021 são aplicáveis às empresas públicas, uma vez que o governo detém parte do capital social destas ou a sua totalidade.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md — item 112"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md#113",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — modalidades, critérios de julgamento e contratação direta",
+      "enunciado": "O diálogo competitivo é modalidade de licitação obrigatória para aquisição de bens e serviços comuns, cujo critério de julgamento poderá ser o de menor preço ou o de maior desconto.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md — item 113"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md#114",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — modalidades, critérios de julgamento e contratação direta",
+      "enunciado": "As contratações realizadas no âmbito das repartições públicas sediadas no exterior obedecerão às peculiaridades locais e aos princípios básicos estabelecidos pela Lei n.º 14.133/2021, sob a forma de regulamentação específica a ser editada pelo Senado Federal.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md — item 114"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md#63",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — modalidades, critérios de julgamento e contratação direta",
+      "enunciado": "Na dispensa de licitação em razão do valor reduzido, a Lei n.º 8.666/1993 prevê limites dobrados para compras, serviços e obras contratados por autarquia qualificada como agência executiva, estando tal previsão preservada na Lei n.º 14.133/2021.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md — item 63"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md#64",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — modalidades, critérios de julgamento e contratação direta",
+      "enunciado": "A locação, pela administração pública, de imóvel destinado ao atendimento das finalidades precípuas da administração pública cujas características ou necessidades de instalação e de localização tornem necessária a sua escolha configura hipótese de dispensa de licitação segundo a Lei n.º 8.666/1993, ao passo que figura como causa de inexigibilidade de licitação na Lei n.º 14.133/2021.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md — item 64"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md#66",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — modalidades, critérios de julgamento e contratação direta",
+      "enunciado": "De acordo com a Lei n.º 14.133/2021, a sanção de declaração de inidoneidade para licitar ou contratar a ser aplicada pelas autarquias federais é ato que compete ao ministro de Estado a que se subordina a entidade.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md — item 66"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md#74",
+      "tema": "D9",
+      "assunto": "Governança e planejamento das contratações",
+      "enunciado": "Os órgãos públicos municipais, ao estabelecerem seu planejamento de contratações públicas, devem atender às determinações da Portaria n.º 8.678/2021, que dispõe sobre a governança das contratações públicas.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md — item 74"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md#75",
+      "tema": "D9",
+      "assunto": "Governança e planejamento das contratações",
+      "enunciado": "Ao elaborar seus planos de contratações anuais, os órgãos devem planejar o fracionamento de despesas prevendo a máxima eficiência nas contratações.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md — item 75"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md#118",
+      "tema": "D9",
+      "assunto": "Sistema de registro de preços",
+      "enunciado": "Nas adesões a atas de registro de preços, caso haja a necessidade de estudo técnico preliminar que contenha as informações que caracterizam a contratação, é dispensada a elaboração do termo de referência.",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md — item 118"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md#119",
+      "tema": "D9",
+      "assunto": "Sistema de registro de preços",
+      "enunciado": "A adoção do sistema de registro de preços pela administração pública vincula-se às hipóteses previstas no Decreto n.º 11.462/2023, não sendo possível a adoção de juízo de conveniência.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md — item 119"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md#120",
+      "tema": "D9",
+      "assunto": "Sistema de registro de preços",
+      "enunciado": "Caracteriza ato de ingerência, cuja prática é vedada à administração pública, direcionar a contratação de pessoas para trabalhar nas empresas contratadas.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md — item 120"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md#87",
+      "tema": "D9",
+      "assunto": "Preferência em aquisições públicas — microempresa e EPP (LC 123/2006)",
+      "enunciado": "O enquadramento como microempresa e empresa de pequeno porte é condição indispensável para a verificação do direito de preferência nas aquisições de bens e serviços pelos poderes públicos.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md — item 87"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md#118",
+      "tema": "D9",
+      "assunto": "Concessões e parcerias público-privadas",
+      "enunciado": "Não é possível a transferência do controle societário das concessionárias de serviços públicos, visto que tal ato viola o princípio da vinculação do edital.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md — item 118"
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md#120",
+      "tema": "D9",
+      "assunto": "Concessões e parcerias público-privadas",
+      "enunciado": "Os municípios não podem legitimamente criar novas hipóteses de parcerias público-privadas.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md — item 120"
+    }
+  ]
+}

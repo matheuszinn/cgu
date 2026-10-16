@@ -1,0 +1,65 @@
+{
+  "concurso": "tce_mg_25",
+  "arquivos": [
+    "Provas relevantes (CGU AFFC)/tce_mg_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA TODOS OS CARGOS.md",
+    "Provas relevantes (CGU AFFC)/tce_mg_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md",
+    "Provas relevantes (CGU AFFC)/tce_mg_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 4.md"
+  ],
+  "total_itens_direito": 39,
+  "por_tema": {
+    "D1": 11,
+    "D3": 5,
+    "D4": 4,
+    "D5": 7,
+    "D7": 4,
+    "D9": 4,
+    "D10": 4
+  },
+  "assuntos": [
+    { "tema": "D1", "assunto": "Classificação das normas constitucionais quanto à eficácia: norma de eficácia contida (art. 5.º, XIII, CF/1988)", "itens": ["Geral-18"] },
+    { "tema": "D1", "assunto": "Patrimônio cultural (modo de fazer queijo minas artesanal), objetivos do Estado de Minas Gerais e direito de reunião em praça pública (CF/1988 e Constituição do Estado de MG)", "itens": ["Geral-19"] },
+    { "tema": "D1", "assunto": "Funções essenciais à justiça: AGU, Ministério Público, advocacia-geral do estado, defensoria pública e MP junto aos tribunais de contas", "itens": ["Geral-20"] },
+    { "tema": "D1", "assunto": "Proteção internacional dos direitos humanos: direito internacional humanitário (conflitos armados) e direito internacional dos refugiados", "itens": ["Geral-27"] },
+    { "tema": "D1", "assunto": "Concepção contemporânea dos direitos humanos: universalidade e indivisibilidade (DUDH/1948)", "itens": ["Geral-29"] },
+    { "tema": "D1", "assunto": "Estatuto da Igualdade Racial (Lei 12.288/2010): discriminação étnico-racial", "itens": ["Geral-30"] },
+    { "tema": "D1", "assunto": "Controle de constitucionalidade: legitimados, amicus curiae, modulação de efeitos e eficácia das decisões do STF", "itens": ["C4-39"] },
+    { "tema": "D1", "assunto": "Orçamentos na CF/1988 e jurisprudência do STF: transposição/remanejamento, emendas parlamentares impositivas e LOA", "itens": ["C4-40"] },
+    { "tema": "D1", "assunto": "Direitos e garantias fundamentais na jurisprudência do STF: controle do TCU sobre entidades sindicais, quebra de sigilo bancário/empresarial e contraditório na apreciação de aposentadoria", "itens": ["C4-42"] },
+    { "tema": "D1", "assunto": "Controle recíproco entre os Poderes: sustação de contratos, atos administrativos ilegais e atos normativos do Executivo (Congresso Nacional × TCU)", "itens": ["C4-43"] },
+    { "tema": "D1", "assunto": "Remédios constitucionais: mandado de segurança e mandado de injunção (legitimidade e cabimento)", "itens": ["C4-44"] },
+
+    { "tema": "D3", "assunto": "Organização administrativa: administração direta e indireta, empresas públicas, sociedades de economia mista e autarquias", "itens": ["Geral-11"] },
+    { "tema": "D3", "assunto": "Agentes públicos: agentes políticos, acumulação de cargos, funções de confiança e vantagens incorporáveis à remuneração", "itens": ["Geral-12"] },
+    { "tema": "D3", "assunto": "Responsabilidade civil do Estado: teorias, responsabilidade por omissão e culpa concorrente da vítima", "itens": ["Geral-15"] },
+    { "tema": "D3", "assunto": "Convênios e consórcios administrativos: contrapartida, personalidade jurídica e protocolo de intenções", "itens": ["C4-31"] },
+    { "tema": "D3", "assunto": "Estágio probatório e vacância do cargo público efetivo (exoneração)", "itens": ["C4-34"] },
+
+    { "tema": "D4", "assunto": "Recurso hierárquico impróprio no âmbito do controle administrativo", "itens": ["Geral-24"] },
+    { "tema": "D4", "assunto": "Convalidação do ato administrativo: vícios sanáveis (competência, finalidade, forma, motivo e objeto)", "itens": ["C4-32"] },
+    { "tema": "D4", "assunto": "Atos administrativos: licença como ato unilateral e vinculado de reconhecimento de direito", "itens": ["C4-33"] },
+    { "tema": "D4", "assunto": "Prazo para a administração decidir em processo administrativo federal (Lei 9.784/1999; prioridade de tramitação)", "itens": ["C4-37"] },
+
+    { "tema": "D5", "assunto": "Competências do tribunal de contas: julgamento de contas, sanções, sustação de contrato e registro de admissão de pessoal", "itens": ["Geral-14"] },
+    { "tema": "D5", "assunto": "Disciplina constitucional do Poder Legislativo e dos tribunais de contas estaduais: fiscalização, parecer prévio e escolha de conselheiros", "itens": ["Geral-17"] },
+    { "tema": "D5", "assunto": "Controle da administração pública: princípio da economicidade e transição do Estado burocrático para o gerencial", "itens": ["Geral-21"] },
+    { "tema": "D5", "assunto": "Controle jurisdicional da administração pública: limites, momento (prévio/posterior) e mérito administrativo", "itens": ["Geral-22"] },
+    { "tema": "D5", "assunto": "Regimento Interno do TCE/MG: decisões, recursos ordinário e de reexame, pedido de rescisão e eficácia de título executivo", "itens": ["Geral-23"] },
+    { "tema": "D5", "assunto": "Regimento Interno do TCE/MG: conselheiro substituto (garantias, subsídios e direito a voto)", "itens": ["Geral-25"] },
+    { "tema": "D5", "assunto": "Ministério Público de Contas (MPC): autonomia, requisição de documentos e posição institucional no controle externo", "itens": ["C4-53"] },
+
+    { "tema": "D7", "assunto": "Proteção de dados pessoais × acesso à informação (LGPD e LAI): compartilhamento, consentimento e restrição de acesso", "itens": ["Geral-16"] },
+    { "tema": "D7", "assunto": "LGPD: tratamento de dados mediante consentimento viciado (informações enganosas, sem transparência)", "itens": ["C1-54"] },
+    { "tema": "D7", "assunto": "LGPD: pseudonimização frágil, reidentificação de dados sensíveis e relatório de impacto", "itens": ["C1-55"] },
+    { "tema": "D7", "assunto": "LGPD: princípio da necessidade (minimização) e coleta de dados sensíveis (religião e orientação sexual)", "itens": ["C1-62"] },
+
+    { "tema": "D9", "assunto": "Modalidade de licitação: diálogo competitivo (Lei 14.133/2021)", "itens": ["Geral-13"] },
+    { "tema": "D9", "assunto": "Contratação de solução de TIC/SaaS (Lei 14.133/2021 e IN SGD/ME 94/2022): ETP, mapa de riscos, termo de referência e DOD", "itens": ["C1-63"] },
+    { "tema": "D9", "assunto": "Contratação direta: inexigibilidade e dispensabilidade de licitação e responsabilidade solidária", "itens": ["C4-35"] },
+    { "tema": "D9", "assunto": "Extinção da concessão de serviço público: encampação", "itens": ["C4-36"] },
+
+    { "tema": "D10", "assunto": "Improbidade administrativa (Lei 8.429/1992): elemento subjetivo necessário (dolo)", "itens": ["Geral-26"] },
+    { "tema": "D10", "assunto": "Corrupção e desenvolvimento sustentável: ODS 16 (redução substancial da corrupção e do suborno)", "itens": ["Geral-28"] },
+    { "tema": "D10", "assunto": "Improbidade administrativa (Lei 8.429/1992): omissão intencional no dever de fiscalizar parcerias com entidades privadas", "itens": ["C4-38"] },
+    { "tema": "D10", "assunto": "Crimes contra a administração pública e contra as finanças públicas: corrupção passiva, peculato e advocacia administrativa (Código Penal)", "itens": ["C4-72"] }
+  ]
+}
