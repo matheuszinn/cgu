@@ -1,0 +1,1230 @@
+{
+  "concurso": "telebras_25",
+  "banca": "Cebraspe",
+  "itens": [
+    {
+      "id": "cargo1-51",
+      "tema": "D1",
+      "assunto": "Controle de constitucionalidade — ADI, reserva de plenário e efeito vinculante",
+      "enunciado": "Constitui uso indevido da ação civil pública como sucedâneo da ação direta de inconstitucionalidade a demanda coletiva em que a inconstitucionalidade de norma geral e abstrata é deduzida como causa de pedir e a declaração de sua nulidade constitui o pedido principal.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo1 — Telebras 2025 — Cargo 1 (Especialista em Gestão de Telecomunicações – Advogado) — item 51"
+    },
+    {
+      "id": "cargo1-53",
+      "tema": "D1",
+      "assunto": "Controle de constitucionalidade — ADI, reserva de plenário e efeito vinculante",
+      "enunciado": "Configura violação à cláusula de reserva de plenário a decisão proferida por juiz singular que, embora sem declarar expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua aplicação, total ou parcialmente.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo1 — Telebras 2025 — Cargo 1 (Especialista em Gestão de Telecomunicações – Advogado) — item 53"
+    },
+    {
+      "id": "cargo1-54",
+      "tema": "D1",
+      "assunto": "Controle de constitucionalidade — ADI, reserva de plenário e efeito vinculante",
+      "enunciado": "Possui eficácia erga omnes e efeito vinculante a decisão proferida pelo STF em recurso extraordinário em ação direta de inconstitucionalidade estadual em que seja apreciado o mérito da controvérsia.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo1 — Telebras 2025 — Cargo 1 (Especialista em Gestão de Telecomunicações – Advogado) — item 54"
+    },
+    {
+      "id": "cargo1-52",
+      "tema": "D1",
+      "assunto": "Organização político-administrativa e competência legislativa",
+      "enunciado": "Compete à União e aos estados legislar sobre serviços de telecomunicações.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo1 — Telebras 2025 — Cargo 1 (Especialista em Gestão de Telecomunicações – Advogado) — item 52"
+    },
+    {
+      "id": "cargo1-55",
+      "tema": "D1",
+      "assunto": "Processo legislativo — veto, sanção, plebiscito e cláusulas pétreas",
+      "enunciado": "O emprego do plebiscito como técnica legislativa complementar, ressalvadas as hipóteses constitucionalmente previstas, insere-se no âmbito da discricionariedade do Poder Legislativo.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo1 — Telebras 2025 — Cargo 1 (Especialista em Gestão de Telecomunicações – Advogado) — item 55"
+    },
+    {
+      "id": "cargo1-56",
+      "tema": "D1",
+      "assunto": "Processo legislativo — veto, sanção, plebiscito e cláusulas pétreas",
+      "enunciado": "Ultrapassado o prazo constitucional de 15 dias úteis sem manifestação do presidente da República a respeito de projeto de lei enviado pela casa do Congresso Nacional que concluiu sua votação, opera-se a sanção tácita do projeto, ficando definitivamente precluso o exercício do poder de veto presidencial.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo1 — Telebras 2025 — Cargo 1 (Especialista em Gestão de Telecomunicações – Advogado) — item 56"
+    },
+    {
+      "id": "cargo1-57",
+      "tema": "D1",
+      "assunto": "Processo legislativo — veto, sanção, plebiscito e cláusulas pétreas",
+      "enunciado": "Por constituir cláusula pétrea, o princípio da anterioridade eleitoral é aplicável e oponível às emendas à Constituição Federal que alterem o processo eleitoral.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo1 — Telebras 2025 — Cargo 1 (Especialista em Gestão de Telecomunicações – Advogado) — item 57"
+    },
+    {
+      "id": "cargo1-58",
+      "tema": "D1",
+      "assunto": "Processo legislativo — veto, sanção, plebiscito e cláusulas pétreas",
+      "enunciado": "O poder de veto parcial atribuído ao chefe do Poder Executivo impõe que, uma vez vetado o caput do artigo, seus parágrafos sejam necessariamente vetados, em razão da relação de dependência normativa que estes mantêm com o dispositivo principal.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo1 — Telebras 2025 — Cargo 1 (Especialista em Gestão de Telecomunicações – Advogado) — item 58"
+    },
+    {
+      "id": "cargo1-59",
+      "tema": "D1",
+      "assunto": "Processo legislativo — veto, sanção, plebiscito e cláusulas pétreas",
+      "enunciado": "Esgotado o prazo constitucional para apreciação do veto presidencial em sessão conjunta do Congresso Nacional, ocorre a caducidade ou preclusão dessa prerrogativa do Poder Legislativo.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo1 — Telebras 2025 — Cargo 1 (Especialista em Gestão de Telecomunicações – Advogado) — item 59"
+    },
+    {
+      "id": "cargo1-60",
+      "tema": "D1",
+      "assunto": "Funções essenciais à justiça — teto remuneratório das defensorias públicas",
+      "enunciado": "As defensorias públicas dos estados submetem-se ao teto remuneratório correspondente ao subsídio dos desembargadores do respectivo tribunal de justiça.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo1 — Telebras 2025 — Cargo 1 (Especialista em Gestão de Telecomunicações – Advogado) — item 60"
+    },
+    {
+      "id": "basicos-42",
+      "tema": "D1",
+      "assunto": "Princípios da administração pública — moralidade",
+      "enunciado": "A inclusão da moralidade entre os princípios da administração pública está relacionada à preocupação com a ética e com o combate à corrupção e à impunidade no setor público.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "basicos — Telebras 2025 — Conhecimentos Básicos para Todos os Cargos — item 42"
+    },
+    {
+      "id": "cargo1-63",
+      "tema": "D1",
+      "assunto": "Princípios da administração pública — moralidade",
+      "enunciado": "Concretiza o princípio da moralidade administrativa a regra legal que prevê a exigência de transcurso de 24 meses, contados do término do contrato, antes de nova admissão de professor temporário anteriormente contratado.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo1 — Telebras 2025 — Cargo 1 (Especialista em Gestão de Telecomunicações – Advogado) — item 63"
+    },
+    {
+      "id": "basicos-43",
+      "tema": "D1",
+      "assunto": "Direitos políticos — cidadania",
+      "enunciado": "Sob a perspectiva jurídico-constitucional, a cidadania é o conjunto de saberes e experiências que permite aos cidadãos o exercício da função pública.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "basicos — Telebras 2025 — Conhecimentos Básicos para Todos os Cargos — item 43"
+    },
+    {
+      "id": "basicos-45",
+      "tema": "D1",
+      "assunto": "Princípios da administração pública — publicidade e impessoalidade (estatais)",
+      "enunciado": "É permitido à sociedade de economia mista realizar, em ano de eleição para cargos do ente federativo a que seja vinculada, despesas com publicidade e patrocínio, desde que não excedam a média dos gastos nos três últimos anos que antecederam o pleito ou no último ano imediatamente anterior à eleição.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "basicos — Telebras 2025 — Conhecimentos Básicos para Todos os Cargos — item 45"
+    },
+    {
+      "id": "cargo3-51",
+      "tema": "D1",
+      "assunto": "Funções essenciais à justiça — Ministério Público, Defensoria Pública e advocacia pública",
+      "enunciado": "Não viola o princípio da independência funcional lei estadual que promova a divisão de atribuições entre membros do Ministério Público para a atuação em inquéritos civis e em ações civis públicas.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo3 — Telebras 2025 — Cargo 3 (Analista Superior – Administrativo) — item 51"
+    },
+    {
+      "id": "cargo3-52",
+      "tema": "D1",
+      "assunto": "Funções essenciais à justiça — Ministério Público, Defensoria Pública e advocacia pública",
+      "enunciado": "Inexiste norma constitucional de reprodução obrigatória que imponha ao Poder Legislativo municipal a criação de órgãos próprios de advocacia pública municipal e a obrigatoriedade de implementação de procuradorias municipais.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo3 — Telebras 2025 — Cargo 3 (Analista Superior – Administrativo) — item 52"
+    },
+    {
+      "id": "cargo3-53",
+      "tema": "D1",
+      "assunto": "Funções essenciais à justiça — Ministério Público, Defensoria Pública e advocacia pública",
+      "enunciado": "Compete ao defensor público-geral da União representar judicial e extrajudicialmente a Defensoria Pública da União, em defesa de sua autonomia, de suas prerrogativas e de suas funções institucionais.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo3 — Telebras 2025 — Cargo 3 (Analista Superior – Administrativo) — item 53"
+    },
+    {
+      "id": "cargo3-54",
+      "tema": "D1",
+      "assunto": "Funções essenciais à justiça — Ministério Público, Defensoria Pública e advocacia pública",
+      "enunciado": "O delegado de polícia pode requisitar ao Ministério Público a propositura de ação cautelar de antecipação de produção de prova nos casos que envolvam violência contra criança ou adolescente, cabendo ao membro do parquet promover a medida, sob pena de responsabilização por eventual descumprimento de seus deveres funcionais.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo3 — Telebras 2025 — Cargo 3 (Analista Superior – Administrativo) — item 54"
+    },
+    {
+      "id": "cargo3-55",
+      "tema": "D1",
+      "assunto": "Funções essenciais à justiça — Ministério Público, Defensoria Pública e advocacia pública",
+      "enunciado": "De acordo com a CF, o Ministério Público do Distrito Federal e Territórios (MPDFT) integra os Ministérios Públicos dos estados.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo3 — Telebras 2025 — Cargo 3 (Analista Superior – Administrativo) — item 55"
+    },
+    {
+      "id": "cargo3-56",
+      "tema": "D1",
+      "assunto": "Direitos políticos e sociais — partidos, sindicatos e piso do magistério",
+      "enunciado": "Os órgãos partidários provisórios estão sujeitos a prazo máximo de vigência de quatro anos, sendo vedada qualquer forma de prorrogação ou substituição subsequente por outro órgão provisório, ainda que com composição diversa.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo3 — Telebras 2025 — Cargo 3 (Analista Superior – Administrativo) — item 56"
+    },
+    {
+      "id": "cargo3-57",
+      "tema": "D1",
+      "assunto": "Direitos políticos e sociais — partidos, sindicatos e piso do magistério",
+      "enunciado": "A CF estabelece os requisitos para a escolha da chefia das procuradorias dos estados e do Distrito Federal, bem como para o cargo de advogado-geral da União.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo3 — Telebras 2025 — Cargo 3 (Analista Superior – Administrativo) — item 57"
+    },
+    {
+      "id": "cargo3-58",
+      "tema": "D1",
+      "assunto": "Direitos políticos e sociais — partidos, sindicatos e piso do magistério",
+      "enunciado": "Em observância ao princípio da unicidade sindical, a quantidade de empregados ou qualquer outro critério relativo à dimensão da empresa constitui parâmetro idôneo para a definição de categoria econômica ou profissional, para fins de criação de sindicatos de microempresas e pequenas empresas.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo3 — Telebras 2025 — Cargo 3 (Analista Superior – Administrativo) — item 58"
+    },
+    {
+      "id": "cargo3-59",
+      "tema": "D1",
+      "assunto": "Direitos políticos e sociais — partidos, sindicatos e piso do magistério",
+      "enunciado": "É constitucional a fixação do piso nacional do magistério público da educação básica, mas sua atualização não pode ser utilizada como indexador para reajuste automático e geral da carreira do magistério municipal.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo3 — Telebras 2025 — Cargo 3 (Analista Superior – Administrativo) — item 59"
+    },
+    {
+      "id": "cargo3-65",
+      "tema": "D1",
+      "assunto": "Princípios da administração pública — legalidade e princípios implícitos",
+      "enunciado": "Haja vista o dever de transparência da administração pública, somente se admite a existência de princípios explícitos em relação a ela, sendo vedada a utilização de princípios implícitos.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo3 — Telebras 2025 — Cargo 3 (Analista Superior – Administrativo) — item 65"
+    },
+    {
+      "id": "cargo3-66",
+      "tema": "D1",
+      "assunto": "Princípios da administração pública — legalidade e princípios implícitos",
+      "enunciado": "A aplicação do princípio da legalidade na administração pública pressupõe a possibilidade de o agente público fazer ou deixar de fazer algo, salvo quando estiver defeso em lei, haja vista a prevalência do interesse público sobre o privado.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo3 — Telebras 2025 — Cargo 3 (Analista Superior – Administrativo) — item 66"
+    },
+    {
+      "id": "basicos-44",
+      "tema": "D2",
+      "assunto": "Fundamentos da ética pública",
+      "enunciado": "Uma vez que a ética tem um caráter normativo, prescrevendo as condutas que são consideradas socialmente aceitáveis, é correto concluir que problemas e preceitos éticos referem-se a ações de um indivíduo que podem ser maléficas ou benéficas para outrem.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "basicos — Telebras 2025 — Conhecimentos Básicos para Todos os Cargos — item 44"
+    },
+    {
+      "id": "basicos-48",
+      "tema": "D2",
+      "assunto": "Ética e conduta do servidor — deveres profissionais",
+      "enunciado": "Jamais retardar qualquer prestação de contas é dever fundamental do servidor público civil do Poder Executivo federal.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "basicos — Telebras 2025 — Conhecimentos Básicos para Todos os Cargos — item 48"
+    },
+    {
+      "id": "basicos-49",
+      "tema": "D2",
+      "assunto": "Ética e conduta do servidor — deveres profissionais",
+      "enunciado": "De acordo com o Código de Conduta e Integridade da TELEBRAS, em observância ao direito à liberdade religiosa, é permitida a participação em atividades religiosas durante o horário de trabalho, sem necessidade de autorização da TELEBRAS.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "basicos — Telebras 2025 — Conhecimentos Básicos para Todos os Cargos — item 49"
+    },
+    {
+      "id": "cargo1-68",
+      "tema": "D2",
+      "assunto": "Impedimento e suspeição no processo administrativo (Lei 9.784/1999)",
+      "enunciado": "Ficam impedidos de atuar no processo administrativo o servidor público ou a autoridade que possuam apenas interesse indireto na questão em análise.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo1 — Telebras 2025 — Cargo 1 (Especialista em Gestão de Telecomunicações – Advogado) — item 68"
+    },
+    {
+      "id": "cargo4-61",
+      "tema": "D2",
+      "assunto": "Conflito de interesses na atividade de auditoria interna",
+      "enunciado": "O fato de um auditor manter relacionamento que resulte em interesse pessoal concorrente, de modo a dificultar o cumprimento imparcial das funções da auditoria interna, caracteriza conflito de interesses, ainda que o referido auditor não pratique qualquer ato antiético ou impróprio.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 61"
+    },
+    {
+      "id": "basicos-31",
+      "tema": "D3",
+      "assunto": "Organização administrativa — administração direta e indireta (ANATEL e TELEBRAS)",
+      "enunciado": "A Lei n.º 9.472/1997 determinou a criação da Agência Nacional de Telecomunicações (ANATEL) como entidade integrante da administração pública direta cuja função é atuar como operadora estatal das telecomunicações no País.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "basicos — Telebras 2025 — Conhecimentos Básicos para Todos os Cargos — item 31"
+    },
+    {
+      "id": "basicos-32",
+      "tema": "D3",
+      "assunto": "Organização administrativa — administração direta e indireta (ANATEL e TELEBRAS)",
+      "enunciado": "A TELEBRAS integrava a administração pública indireta, na forma de empresa estatal, antes do processo de desestatização previsto na Lei n.º 9.472/1997.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "basicos — Telebras 2025 — Conhecimentos Básicos para Todos os Cargos — item 32"
+    },
+    {
+      "id": "cargo1-64",
+      "tema": "D3",
+      "assunto": "Organização administrativa — empresas públicas e sociedades de economia mista",
+      "enunciado": "Na composição societária da TELEBRAS admite-se exclusivamente capital de origem pública.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo1 — Telebras 2025 — Cargo 1 (Especialista em Gestão de Telecomunicações – Advogado) — item 64"
+    },
+    {
+      "id": "cargo3-63",
+      "tema": "D3",
+      "assunto": "Organização administrativa — empresas públicas e sociedades de economia mista",
+      "enunciado": "Apesar de pertencerem à administração indireta, as empresas públicas são pessoas jurídicas de direito privado.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo3 — Telebras 2025 — Cargo 3 (Analista Superior – Administrativo) — item 63"
+    },
+    {
+      "id": "cargo1-66",
+      "tema": "D3",
+      "assunto": "Agentes públicos — provimento e concurso público",
+      "enunciado": "É constitucional a lei que prevê modalidade de provimento em cargo público para possibilitar ao servidor investir-se, sem prévia aprovação em concurso público destinado ao seu provimento, em cargo que não integra a carreira na qual ele tenha sido anteriormente investido.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo1 — Telebras 2025 — Cargo 1 (Especialista em Gestão de Telecomunicações – Advogado) — item 66"
+    },
+    {
+      "id": "cargo3-60",
+      "tema": "D3",
+      "assunto": "Agentes públicos — remuneração, gratificações e salário mínimo",
+      "enunciado": "O cálculo de gratificações e outras vantagens do servidor público não incide sobre o abono utilizado para se atingir o salário mínimo.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo3 — Telebras 2025 — Cargo 3 (Analista Superior – Administrativo) — item 60"
+    },
+    {
+      "id": "cargo3-61",
+      "tema": "D3",
+      "assunto": "Agentes públicos — remuneração, gratificações e salário mínimo",
+      "enunciado": "A CF autoriza, em regra, a utilização do salário mínimo como indexador da base de cálculo de qualquer vantagem a ser paga a servidor público.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo3 — Telebras 2025 — Cargo 3 (Analista Superior – Administrativo) — item 61"
+    },
+    {
+      "id": "cargo3-62",
+      "tema": "D3",
+      "assunto": "Agentes públicos — remuneração, gratificações e salário mínimo",
+      "enunciado": "A retribuição pecuniária dos servidores públicos está sujeita à reserva legal absoluta, sendo indispensável que o legislador estabeleça critérios mínimos para o cálculo e a aferição de gratificações.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo3 — Telebras 2025 — Cargo 3 (Analista Superior – Administrativo) — item 62"
+    },
+    {
+      "id": "cargo3-64",
+      "tema": "D3",
+      "assunto": "Desconcentração administrativa — criação de ministérios",
+      "enunciado": "A criação de ministérios no Poder Executivo federal é exemplo de desconcentração administrativa, e não de descentralização.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo3 — Telebras 2025 — Cargo 3 (Analista Superior – Administrativo) — item 64"
+    },
+    {
+      "id": "cargo3-67",
+      "tema": "D3",
+      "assunto": "Administração pública em sentido objetivo — atividades administrativas",
+      "enunciado": "Em sentido objetivo, a administração pública abrange as atividades exercidas por pessoas jurídicas, órgãos e agentes incumbidos de atender concretamente às necessidade coletivas, havendo pelo menos três modalidades de atividades: fomento, polícia administrativa e serviço público.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo3 — Telebras 2025 — Cargo 3 (Analista Superior – Administrativo) — item 67"
+    },
+    {
+      "id": "cargo3-69",
+      "tema": "D3",
+      "assunto": "Agentes públicos — conceito e classificação (agentes políticos)",
+      "enunciado": "Os ministros e secretários de Estado são considerados agentes políticos, apesar de serem investidos no cargo por livre nomeação do chefe do Poder Executivo.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo3 — Telebras 2025 — Cargo 3 (Analista Superior – Administrativo) — item 69"
+    },
+    {
+      "id": "cargo3-70",
+      "tema": "D3",
+      "assunto": "Poderes da administração — poder de polícia",
+      "enunciado": "O poder de polícia é aquele que possibilita à administração pública apurar infrações e aplicar penalidades aos servidores públicos e demais pessoas sujeitas à disciplina administrativa.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo3 — Telebras 2025 — Cargo 3 (Analista Superior – Administrativo) — item 70"
+    },
+    {
+      "id": "cargo3-71",
+      "tema": "D3",
+      "assunto": "Poderes da administração — poder de polícia",
+      "enunciado": "São atributos do poder de polícia a discricionariedade, a autoexecutoriedade e a coercibilidade.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo3 — Telebras 2025 — Cargo 3 (Analista Superior – Administrativo) — item 71"
+    },
+    {
+      "id": "cargo3-68",
+      "tema": "D3",
+      "assunto": "Agentes públicos — recondução",
+      "enunciado": "Denomina-se recondução a investidura do servidor em cargo de atribuições e responsabilidades compatíveis com a limitação que tenha sofrido em sua capacidade física ou mental, segundo laudo decorrente de inspeção médica.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo3 — Telebras 2025 — Cargo 3 (Analista Superior – Administrativo) — item 68"
+    },
+    {
+      "id": "cargo3-72",
+      "tema": "D3",
+      "assunto": "Empresas públicas — regime de pessoal",
+      "enunciado": "As empresas públicas devem promover concurso para a contratação de seus colaboradores, os quais devem ser submetidos a regime estatutário e ocupar cargo público previamente previsto em lei.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo3 — Telebras 2025 — Cargo 3 (Analista Superior – Administrativo) — item 72"
+    },
+    {
+      "id": "cargo3-75",
+      "tema": "D3",
+      "assunto": "Modelos de administração — reforma do aparelho do Estado",
+      "enunciado": "Para aumentar a governança e a eficiência administrativa, a reforma do aparelho do Estado estabeleceu a transferência integral da propriedade de serviços não exclusivos para a iniciativa privada, visando à obtenção de lucro e à total desoneração do ente público quanto à regulação dessas atividades.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo3 — Telebras 2025 — Cargo 3 (Analista Superior – Administrativo) — item 75"
+    },
+    {
+      "id": "cargo3-88",
+      "tema": "D3",
+      "assunto": "Regime jurídico dos servidores — licenças e aposentadoria por invalidez",
+      "enunciado": "Caso um servidor público efetivo que já tenha concluído o estágio probatório solicite licença para tratar de interesses particulares, de março de 2026 a dezembro de 2028, o pedido deverá ser indeferido por vedação legal, uma vez que o período pretendido extrapola o limite de afastamento previsto em lei.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo3 — Telebras 2025 — Cargo 3 (Analista Superior – Administrativo) — item 88"
+    },
+    {
+      "id": "cargo3-89",
+      "tema": "D3",
+      "assunto": "Regime jurídico dos servidores — licenças e aposentadoria por invalidez",
+      "enunciado": "A licença para tratamento de saúde e a aposentadoria por invalidez são atos de natureza precária, que autorizam a administração a convocar o servidor, discricionariamente e a qualquer tempo, para a reavaliação da permanência das condições médicas que motivaram o afastamento.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo3 — Telebras 2025 — Cargo 3 (Analista Superior – Administrativo) — item 89"
+    },
+    {
+      "id": "cargo1-62",
+      "tema": "D4",
+      "assunto": "Efeitos do silêncio administrativo",
+      "enunciado": "Os efeitos do silêncio administrativo são idênticos tanto para a administração pública quanto para os administrados.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo1 — Telebras 2025 — Cargo 1 (Especialista em Gestão de Telecomunicações – Advogado) — item 62"
+    },
+    {
+      "id": "cargo3-73",
+      "tema": "D4",
+      "assunto": "Processo administrativo — forma dos atos e delegação (Lei 9.784/1999)",
+      "enunciado": "Os atos do processo administrativo não dependem de forma determinada senão quando a lei expressamente a exigir.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo3 — Telebras 2025 — Cargo 3 (Analista Superior – Administrativo) — item 73"
+    },
+    {
+      "id": "cargo3-74",
+      "tema": "D4",
+      "assunto": "Processo administrativo — forma dos atos e delegação (Lei 9.784/1999)",
+      "enunciado": "No processo administrativo, a possibilidade de delegação dos atos normativos está restrita ao substituto direto.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo3 — Telebras 2025 — Cargo 3 (Analista Superior – Administrativo) — item 74"
+    },
+    {
+      "id": "cargo3-87",
+      "tema": "D4",
+      "assunto": "Atos administrativos — motivação (vinculados e discricionários)",
+      "enunciado": "Atos administrativos vinculados prescindem de motivação, ao passo que os atos discricionários devem ser motivados para que seja validada a vontade do administrador, de modo a garantir que o interesse público se sobreponha à observância estrita do ordenamento jurídico-legal.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo3 — Telebras 2025 — Cargo 3 (Analista Superior – Administrativo) — item 87"
+    },
+    {
+      "id": "cargo4-51",
+      "tema": "D5",
+      "assunto": "Auditoria interna governamental — conceitos, finalidades e normas",
+      "enunciado": "Além da realização de avaliações objetivas para o fornecimento de garantia, os serviços de auditoria interna também incluem orientação aos stakeholders da organização.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 51"
+    },
+    {
+      "id": "cargo4-52",
+      "tema": "D5",
+      "assunto": "Auditoria interna governamental — conceitos, finalidades e normas",
+      "enunciado": "Um dos elementos do programa de trabalho da auditoria interna é a descrição dos critérios de auditoria, definidos como as técnicas utilizadas pelo auditor para analisar, avaliar e documentar as informações durante a execução do trabalho.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 52"
+    },
+    {
+      "id": "cargo4-53",
+      "tema": "D5",
+      "assunto": "Auditoria interna governamental — conceitos, finalidades e normas",
+      "enunciado": "A avaliação da eficácia dos sistemas de informação, que visa auxiliar o cumprimento dos objetivos da administração de uma organização, integra o conjunto de competências próprias da auditoria interna.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 53"
+    },
+    {
+      "id": "cargo4-54",
+      "tema": "D5",
+      "assunto": "Auditoria interna governamental — conceitos, finalidades e normas",
+      "enunciado": "A prática de supervisionar a execução dos procedimentos de auditoria interna não se coaduna com as normas vigentes, pois reduz a independência do auditor, essencial para a imparcialidade na análise aos achados de auditoria.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 54"
+    },
+    {
+      "id": "cargo4-55",
+      "tema": "D5",
+      "assunto": "Auditoria interna governamental — conceitos, finalidades e normas",
+      "enunciado": "Os testes de observância objetivam a obtenção de evidência quanto à suficiência, exatidão e validade dos dados produzidos pelos sistemas de informação da entidade.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 55"
+    },
+    {
+      "id": "cargo4-56",
+      "tema": "D5",
+      "assunto": "Auditoria interna governamental — conceitos, finalidades e normas",
+      "enunciado": "Para responder à questão de auditoria em apreço, a equipe pode utilizar procedimentos analíticos para comparar a evolução da despesa referente à aquisição de combustível com a evolução da quilometragem rodada pelos veículos.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 56"
+    },
+    {
+      "id": "cargo4-57",
+      "tema": "D5",
+      "assunto": "Auditoria interna governamental — conceitos, finalidades e normas",
+      "enunciado": "A questão de auditoria mencionada deve ser incluída no programa de trabalho de avaliação.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 57"
+    },
+    {
+      "id": "cargo4-58",
+      "tema": "D5",
+      "assunto": "Auditoria interna governamental — conceitos, finalidades e normas",
+      "enunciado": "Para utilizar como base o mapa de processo existente, a equipe de auditoria deve, antes, testar os fluxos e verificar se o mapeamento realizado corresponde à realidade e se atende às necessidades do trabalho que será desenvolvido.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 58"
+    },
+    {
+      "id": "cargo4-59",
+      "tema": "D5",
+      "assunto": "Auditoria interna governamental — conceitos, finalidades e normas",
+      "enunciado": "Em decorrência do princípio da independência organizacional, o executivo-chefe da auditoria deve se reportar diretamente ao dirigente máximo da entidade.",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 59"
+    },
+    {
+      "id": "cargo4-60",
+      "tema": "D5",
+      "assunto": "Auditoria interna governamental — conceitos, finalidades e normas",
+      "enunciado": "Entre os requisitos previstos para a elaboração de um plano de auditoria eficaz está o correto entendimento dos processos de governança, que incluem a forma como as informações de riscos e de controle são comunicadas na organização.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 60"
+    },
+    {
+      "id": "cargo4-62",
+      "tema": "D5",
+      "assunto": "Auditoria interna governamental — conceitos, finalidades e normas",
+      "enunciado": "Ao utilizar um método de amostragem não estatística, o auditor deve estar ciente que obterá evidência apropriada, mas não suficiente.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 62"
+    },
+    {
+      "id": "cargo4-63",
+      "tema": "D5",
+      "assunto": "Auditoria interna governamental — conceitos, finalidades e normas",
+      "enunciado": "Ao executar serviços de consultoria, o auditor interno assume, juntamente com os responsáveis pela administração, a responsabilidade pelo alcance dos resultados da gestão.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 63"
+    },
+    {
+      "id": "cargo4-64",
+      "tema": "D5",
+      "assunto": "Auditoria interna governamental — conceitos, finalidades e normas",
+      "enunciado": "Papéis de trabalho destinam-se a orientar os responsáveis pela gestão na correta execução dos processos sob sua responsabilidade, por isso devem ser bem construídos e organizados.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 64"
+    },
+    {
+      "id": "cargo4-65",
+      "tema": "D5",
+      "assunto": "Auditoria interna governamental — conceitos, finalidades e normas",
+      "enunciado": "Na execução de testes de controle, caso o auditor não possa aplicar a um item, selecionado mediante amostragem, os procedimentos de auditoria definidos ou procedimentos alternativos, ele deve tratar esse item como uma distorção.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 65"
+    },
+    {
+      "id": "cargo4-66",
+      "tema": "D5",
+      "assunto": "Auditoria interna governamental — conceitos, finalidades e normas",
+      "enunciado": "Mesmo após a aprovação do relatório de auditoria definitivo, os papéis de trabalho incluídos no arquivo final de auditoria não devem ser descartados antes do fim do seu período de guarda.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 66"
+    },
+    {
+      "id": "cargo4-67",
+      "tema": "D5",
+      "assunto": "Auditoria interna governamental — conceitos, finalidades e normas",
+      "enunciado": "Ao usar técnicas de amostragem estatística em uma auditoria, o auditor deve fazê-lo de modo que cada unidade de amostragem da população tenha a mesma chance de ser selecionada.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 67"
+    },
+    {
+      "id": "cargo4-68",
+      "tema": "D5",
+      "assunto": "Auditoria interna governamental — conceitos, finalidades e normas",
+      "enunciado": "Um dos propósitos da atividade de auditoria interna governamental é auxiliar a organização pública a melhorar a eficácia dos processos de governança.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 68"
+    },
+    {
+      "id": "cargo4-69",
+      "tema": "D5",
+      "assunto": "Auditoria interna governamental — conceitos, finalidades e normas",
+      "enunciado": "Na situação hipotética em questão, não é necessário que o registro da revisão dos papéis de trabalho, bem como a indicação de quem os revisou e de quando o fez, sejam incluídos em cada papel de trabalho individualmente.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 69"
+    },
+    {
+      "id": "cargo4-70",
+      "tema": "D5",
+      "assunto": "Auditoria interna governamental — conceitos, finalidades e normas",
+      "enunciado": "A avaliação mencionada no caso em apreço é do tipo operacional.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 70"
+    },
+    {
+      "id": "cargo4-71",
+      "tema": "D5",
+      "assunto": "Auditoria interna governamental — conceitos, finalidades e normas",
+      "enunciado": "Para testar o funcionamento dos controles, a equipe deve realizar testes substantivos.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 71"
+    },
+    {
+      "id": "cargo4-72",
+      "tema": "D5",
+      "assunto": "Auditoria interna governamental — conceitos, finalidades e normas",
+      "enunciado": "Para verificar a adequação dos controles, a equipe de auditoria pode executar diversos procedimentos, entre os quais se incluem a verificação de documentos e a realização de entrevistas com pessoas internas e externas à entidade.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 72"
+    },
+    {
+      "id": "cargo4-103",
+      "tema": "D5",
+      "assunto": "Auditoria interna governamental — planejamento, parecer e qualidade (IN 5/2021 e IN 8/2017)",
+      "enunciado": "As informações sobre a execução do plano anual de auditoria interna e a análise dos resultados decorrentes dos trabalhos de auditoria devem ser apresentadas a cada semestre no relatório das atividades de auditoria, devendo o plano ser adaptado após a avaliação do primeiro semestre.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 103"
+    },
+    {
+      "id": "cargo4-104",
+      "tema": "D5",
+      "assunto": "Auditoria interna governamental — planejamento, parecer e qualidade (IN 5/2021 e IN 8/2017)",
+      "enunciado": "O plano anual de auditoria interna deve ser elaborado com a finalidade de definir os trabalhos prioritários a serem realizados no período objeto do plano, devendo considerar, entre outros aspectos, os riscos significativos a que a unidade auditada está exposta e os seus processos de governança, de gerenciamento de riscos e de controles internos.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 104"
+    },
+    {
+      "id": "cargo4-105",
+      "tema": "D5",
+      "assunto": "Auditoria interna governamental — planejamento, parecer e qualidade (IN 5/2021 e IN 8/2017)",
+      "enunciado": "O parecer da auditoria interna deve expressar opinião geral, com base nos trabalhos de auditorias individuais previstos e executados no âmbito do plano anual de auditoria interna, sobre a adequação dos processos de governança, gestão de riscos e controles internos instituídos pela entidade para fornecer segurança razoável quanto ao processo de elaboração das informações contábeis e financeiras.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 105"
+    },
+    {
+      "id": "cargo4-106",
+      "tema": "D5",
+      "assunto": "Auditoria interna governamental — planejamento, parecer e qualidade (IN 5/2021 e IN 8/2017)",
+      "enunciado": "Parte das atividades de auditoria interna, a avaliação é composta basicamente das etapas de planejamento, execução, comunicação dos resultados e monitoramento, que devem ser observadas de forma sequencial, não havendo possibilidade de alteração do planejamento após o início da execução.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 106"
+    },
+    {
+      "id": "cargo4-107",
+      "tema": "D5",
+      "assunto": "Auditoria interna governamental — planejamento, parecer e qualidade (IN 5/2021 e IN 8/2017)",
+      "enunciado": "A unidade de auditoria interna governamental deve formalmente instituir e manter um programa de gestão e melhoria da qualidade (PGMQ) com o objetivo de promover a avaliação e a melhoria contínua dos processos de trabalho, dos produtos emitidos, da eficácia e da eficiência da atividade de auditoria interna governamental.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 107"
+    },
+    {
+      "id": "cargo4-108",
+      "tema": "D5",
+      "assunto": "Auditoria interna governamental — planejamento, parecer e qualidade (IN 5/2021 e IN 8/2017)",
+      "enunciado": "A independência e a objetividade são dois pressupostos fundamentais para o exercício da auditoria interna, tanto na condução dos trabalhos quanto na emissão de opinião pela unidade de auditoria interna governamental (UAIG).",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 108"
+    },
+    {
+      "id": "cargo4-109",
+      "tema": "D5",
+      "assunto": "Auditoria interna governamental — planejamento, parecer e qualidade (IN 5/2021 e IN 8/2017)",
+      "enunciado": "Em razão da independência da atividade de autoria interna governamental, é vedado aos auditores internos realizar atividade de consultoria, assessoramento, aconselhamento e outros serviços relacionados, ainda que fornecidos à alta administração com a finalidade de respaldar as operações de determinada unidade.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 109"
+    },
+    {
+      "id": "cargo4-110",
+      "tema": "D5",
+      "assunto": "Auditoria interna governamental — planejamento, parecer e qualidade (IN 5/2021 e IN 8/2017)",
+      "enunciado": "O responsável pela unidade de auditoria interna governamental tem a responsabilidade geral pela supervisão dos trabalhos, sendo vedada sua delegação.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 110"
+    },
+    {
+      "id": "cargo4-111",
+      "tema": "D5",
+      "assunto": "Auditoria interna governamental — planejamento, parecer e qualidade (IN 5/2021 e IN 8/2017)",
+      "enunciado": "O plano de auditoria interna dos órgãos setoriais e das unidades do sistema de controle interno (SCI) e suas eventuais alterações devem ser encaminhados anualmente ao órgão central do SCI ou à secretaria de controle interno (CISET), conforme o caso, para exercício da supervisão técnica.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 111"
+    },
+    {
+      "id": "cargo4-112",
+      "tema": "D5",
+      "assunto": "Auditoria interna governamental — planejamento, parecer e qualidade (IN 5/2021 e IN 8/2017)",
+      "enunciado": "O processo de gerenciamento dos riscos, de responsabilidade da unidade de auditoria interna governamental, deve alcançar toda a organização, contemplando a identificação, a análise, a avaliação, o tratamento, o monitoramento e a comunicação dos riscos a que a unidade auditada esteja exposta.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 112"
+    },
+    {
+      "id": "cargo4-113",
+      "tema": "D5",
+      "assunto": "Auditoria interna governamental — planejamento, parecer e qualidade (IN 5/2021 e IN 8/2017)",
+      "enunciado": "A ausência de manifestação tempestiva da CGU e das secretarias de controle interno (CISET) acerca das propostas de planos de auditoria interna recebidas não impede a adoção, pelas auditorias internas singulares e pelas unidades setoriais, das providências necessárias à aprovação interna do planejamento.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 113"
+    },
+    {
+      "id": "cargo4-114",
+      "tema": "D5",
+      "assunto": "Auditoria interna — matriz de achados e relatório (Portaria 1.037/2019)",
+      "enunciado": "A matriz de achados consiste em documento auxiliar para a estruturação dos achados, o exercício da supervisão e o planejamento da redação do relatório.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 114"
+    },
+    {
+      "id": "cargo4-115",
+      "tema": "D5",
+      "assunto": "Auditoria interna — matriz de achados e relatório (Portaria 1.037/2019)",
+      "enunciado": "O detalhamento da metodologia é seção obrigatória do relatório de auditoria, a fim de possibilitar correta manifestação da unidade auditada.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 115"
+    },
+    {
+      "id": "cargo4-116",
+      "tema": "D5",
+      "assunto": "Auditoria interna — matriz de achados e relatório (Portaria 1.037/2019)",
+      "enunciado": "As recomendações consistem em ações que a CGU indica às unidades auditadas para a correção de desconformidades, tratamento de riscos e aperfeiçoamento de processos de trabalho e controles, devendo ser elaborada uma recomendação para cada achado da auditoria.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 116"
+    },
+    {
+      "id": "basicos-36",
+      "tema": "D5",
+      "assunto": "Controle interno — auditoria interna na TELEBRAS",
+      "enunciado": "É vedada a participação dos auditores internos da TELEBRAS em atos de gestão externos à atividade da auditoria interna.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "basicos — Telebras 2025 — Conhecimentos Básicos para Todos os Cargos — item 36"
+    },
+    {
+      "id": "basicos-38",
+      "tema": "D5",
+      "assunto": "Sistema de Controle Interno do Poder Executivo federal",
+      "enunciado": "Compete ao Sistema de Controle Interno do Poder Executivo Federal coordenar as ações do governo federal relativas à segurança da informação, definindo padrões mínimos a serem atendidos em âmbito nacional.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "basicos — Telebras 2025 — Conhecimentos Básicos para Todos os Cargos — item 38"
+    },
+    {
+      "id": "basicos-47",
+      "tema": "D6",
+      "assunto": "Lei de Acesso à Informação — aplicação às sociedades de economia mista",
+      "enunciado": "Por ser uma sociedade de economia mista, a TELEBRAS não é obrigada a se subordinar ao regime legal previsto na Lei de Acesso à Informação.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "basicos — Telebras 2025 — Conhecimentos Básicos para Todos os Cargos — item 47"
+    },
+    {
+      "id": "basicos-46",
+      "tema": "D7",
+      "assunto": "LGPD — fundamentos (direitos humanos, dignidade e cidadania)",
+      "enunciado": "Os direitos humanos, a dignidade e o exercício da cidadania pelas pessoas naturais são fundamentos da Lei Geral de Proteção de Dados (LGPD).",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "basicos — Telebras 2025 — Conhecimentos Básicos para Todos os Cargos — item 46"
+    },
+    {
+      "id": "basicos-41",
+      "tema": "D8",
+      "assunto": "Compliance e integridade",
+      "enunciado": "Compliance é um conjunto de regras, princípios, controles e práticas desenvolvido para garantir que organizações estejam em conformidade com normas internas e externas.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "basicos — Telebras 2025 — Conhecimentos Básicos para Todos os Cargos — item 41"
+    },
+    {
+      "id": "cargo3-76",
+      "tema": "D8",
+      "assunto": "Governança pública — valor público e conformidade",
+      "enunciado": "No contexto da governança pública, a entrega de resultados e a geração de valor público devem ser buscadas de forma indissociável da conformidade, exigindo-se que as decisões estratégicas dos agentes públicos sejam pautadas pela legitimidade ética e pelo cumprimento do ordenamento jurídico.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo3 — Telebras 2025 — Cargo 3 (Analista Superior – Administrativo) — item 76"
+    },
+    {
+      "id": "cargo4-73",
+      "tema": "D8",
+      "assunto": "Controles internos — componentes, ambiente, riscos, atividades, informação e monitoramento",
+      "enunciado": "As atividades de controle, a avaliação de riscos e as atividades de monitoramento estão entre os componentes dos controles internos.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 73"
+    },
+    {
+      "id": "cargo4-74",
+      "tema": "D8",
+      "assunto": "Controles internos — componentes, ambiente, riscos, atividades, informação e monitoramento",
+      "enunciado": "As limitações dos controles internos podem ser resultado de erros humanos, como julgamento falho e tendencioso, ou simples enganos.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 74"
+    },
+    {
+      "id": "cargo4-75",
+      "tema": "D8",
+      "assunto": "Controles internos — componentes, ambiente, riscos, atividades, informação e monitoramento",
+      "enunciado": "Os objetivos dos controles internos limitam-se a duas categorias, quais sejam, a operacional, relacionada à eficácia das operações da organização, e a de conformidade, associada ao cumprimento de leis e regulamentações.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 75"
+    },
+    {
+      "id": "cargo4-76",
+      "tema": "D8",
+      "assunto": "Controles internos — componentes, ambiente, riscos, atividades, informação e monitoramento",
+      "enunciado": "Os controles internos são acompanhados pela própria organização, mediante uma unidade que integra a sua estrutura administrativa, visando proporcionar segurança absoluta em relação à consecução dos objetivos finalísticos de cada unidade gestora.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 76"
+    },
+    {
+      "id": "cargo4-77",
+      "tema": "D8",
+      "assunto": "Controles internos — componentes, ambiente, riscos, atividades, informação e monitoramento",
+      "enunciado": "Para alcançar um ambiente de controle, a administração deve estabelecer, com a supervisão da estrutura de governança, as estruturas, os níveis de subordinação e as autoridades e responsabilidades adequadas na busca dos objetivos organizacionais.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 77"
+    },
+    {
+      "id": "cargo4-78",
+      "tema": "D8",
+      "assunto": "Controles internos — componentes, ambiente, riscos, atividades, informação e monitoramento",
+      "enunciado": "Os componentes dos controles internos são independentes entre si, o que pode gerar uma deficiência em relação à presença e ao funcionamento de um componente e impactar o atingimento dos objetivos especificados.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 78"
+    },
+    {
+      "id": "cargo4-79",
+      "tema": "D8",
+      "assunto": "Controles internos — componentes, ambiente, riscos, atividades, informação e monitoramento",
+      "enunciado": "A manutenção de registros precisos e completos de todas as transações e atividades caracterizam a base da integridade e da ética da organização.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 79"
+    },
+    {
+      "id": "cargo4-80",
+      "tema": "D8",
+      "assunto": "Controles internos — componentes, ambiente, riscos, atividades, informação e monitoramento",
+      "enunciado": "A análise da probabilidade e do impacto dos riscos identificados é atividade específica a ser trabalhada no componente ambiente de controle como um dos constituintes dos controles internos organizacionais.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 80"
+    },
+    {
+      "id": "cargo4-81",
+      "tema": "D8",
+      "assunto": "Controles internos — componentes, ambiente, riscos, atividades, informação e monitoramento",
+      "enunciado": "Um ambiente de controle robusto deve dispor de um código de ética claro, divulgado a todos os colaboradores, fornecedores e clientes, bem como de um canal de denúncias anônimo e protegido para se reportarem violações.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 81"
+    },
+    {
+      "id": "cargo4-82",
+      "tema": "D8",
+      "assunto": "Controles internos — componentes, ambiente, riscos, atividades, informação e monitoramento",
+      "enunciado": "A priorização dos riscos com base no apetite ao risco definido pela gestão e o desenvolvimento de respostas aos riscos identificados constituem boas práticas organizacionais.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 82"
+    },
+    {
+      "id": "cargo4-83",
+      "tema": "D8",
+      "assunto": "Controles internos — componentes, ambiente, riscos, atividades, informação e monitoramento",
+      "enunciado": "A importância da avaliação de riscos reside no fato de que ela permite que a gestão antecipe e mitigue proativamente os obstáculos aos objetivos organizacionais, garantindo a sustentabilidade do negócio.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 83"
+    },
+    {
+      "id": "cargo4-84",
+      "tema": "D8",
+      "assunto": "Controles internos — componentes, ambiente, riscos, atividades, informação e monitoramento",
+      "enunciado": "Os controles físicos sobre ativos e as revisões de desempenho operacional e financeiro são atividades primordiais do componente avaliação de riscos nos controles internos.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 84"
+    },
+    {
+      "id": "cargo4-85",
+      "tema": "D8",
+      "assunto": "Controles internos — componentes, ambiente, riscos, atividades, informação e monitoramento",
+      "enunciado": "A seleção e o desenvolvimento das atividades específicas de controle sobre a tecnologia são suficientes para o alcance dos objetivos estratégicos da organização.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 85"
+    },
+    {
+      "id": "cargo4-86",
+      "tema": "D8",
+      "assunto": "Controles internos — componentes, ambiente, riscos, atividades, informação e monitoramento",
+      "enunciado": "As atividades de controle, apesar de custosas, não estão suscetíveis a redundâncias, burocracia ou conluio.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 86"
+    },
+    {
+      "id": "cargo4-87",
+      "tema": "D8",
+      "assunto": "Controles internos — componentes, ambiente, riscos, atividades, informação e monitoramento",
+      "enunciado": "A segregação de funções, as autorizações e aprovações com alçadas, bem como as reconciliações e verificações independentes, são exemplos típicos de ações de atividades de controle organizacionais.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 87"
+    },
+    {
+      "id": "cargo4-88",
+      "tema": "D8",
+      "assunto": "Controles internos — componentes, ambiente, riscos, atividades, informação e monitoramento",
+      "enunciado": "O acesso a informações externas relevantes e a aplicação consistente de medidas disciplinares são amostras clássicas de ações realizadas por meio do componente informação e comunicação nos controles internos.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 88"
+    },
+    {
+      "id": "cargo4-89",
+      "tema": "D8",
+      "assunto": "Controles internos — componentes, ambiente, riscos, atividades, informação e monitoramento",
+      "enunciado": "A informação e a comunicação nos controles internos visam melhorar a tomada de decisão, aumentar a transparência e a responsabilidade e garantir que as deficiências sejam reportadas.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 89"
+    },
+    {
+      "id": "cargo4-90",
+      "tema": "D8",
+      "assunto": "Controles internos — componentes, ambiente, riscos, atividades, informação e monitoramento",
+      "enunciado": "O monitoramento dos controles internos é considerado ineficaz quando a gestão não revisa, não identifica, não acompanha e não corrige deficiências de controle.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 90"
+    },
+    {
+      "id": "cargo4-91",
+      "tema": "D8",
+      "assunto": "Controles internos — componentes, ambiente, riscos, atividades, informação e monitoramento",
+      "enunciado": "O monitoramento dos controles internos pode envolver altos custos, especialmente com auditorias externas frequentes, e grandes investimentos em tecnologia, dada a necessidade de avaliações contínuas.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 91"
+    },
+    {
+      "id": "cargo4-92",
+      "tema": "D8",
+      "assunto": "Controles internos — componentes, ambiente, riscos, atividades, informação e monitoramento",
+      "enunciado": "As verificações práticas dos processos-chave para a confirmação da execução dos controles e a realização esporádica de auditorias internas são as práticas de monitoramento dos controles internos mais recomendáveis nas organizações públicas.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 92"
+    },
+    {
+      "id": "cargo4-117",
+      "tema": "D8",
+      "assunto": "Governança pública — Comitê Interministerial de Governança (Decreto 9.203/2017)",
+      "enunciado": "A participação no Comitê Interministerial de Governança ou nos grupos de trabalho por ele constituídos é considerada prestação de serviço público relevante, e sua remuneração não poderá ser superior a 10% do maior subsídio previsto no Poder Executivo federal.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 117"
+    },
+    {
+      "id": "cargo4-118",
+      "tema": "D8",
+      "assunto": "Governança pública — Comitê Interministerial de Governança (Decreto 9.203/2017)",
+      "enunciado": "Entre os mecanismos para o exercício da governança pública está a estratégia, que compreende processos estruturados para mitigar os possíveis riscos com vistas ao alcance dos objetivos institucionais e à garantia da execução ordenada, ética, econômica, eficiente e eficaz das atividades da organização, com preservação da legalidade e da economicidade no dispêndio de recursos públicos.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 118"
+    },
+    {
+      "id": "cargo4-119",
+      "tema": "D8",
+      "assunto": "Governança pública — Comitê Interministerial de Governança (Decreto 9.203/2017)",
+      "enunciado": "Assessorar o presidente da República na condução da política de governança da administração pública federal é a finalidade do Comitê Interministerial de Governança (CIG), cujos membros titulares são ministros de Estado.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 119"
+    },
+    {
+      "id": "cargo4-120",
+      "tema": "D8",
+      "assunto": "Governança pública — Comitê Interministerial de Governança (Decreto 9.203/2017)",
+      "enunciado": "O coordenador do Comitê Interministerial de Governança, além do voto ordinário, tem direito a voto de qualidade, no caso de empate.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo4 — Telebras 2025 — Cargo 4 (Analista Superior – Auditoria) — item 120"
+    },
+    {
+      "id": "cargo1-65",
+      "tema": "D9",
+      "assunto": "Licitações — exigências legais e contratação direta",
+      "enunciado": "É constitucional a exigência pelo Estado, nos procedimentos licitatórios, de percentuais mínimos e máximos a serem observados pelas emissoras de rádio na produção e transmissão de programas culturais, artísticos e jornalísticos locais.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo1 — Telebras 2025 — Cargo 1 (Especialista em Gestão de Telecomunicações – Advogado) — item 65"
+    },
+    {
+      "id": "cargo1-67",
+      "tema": "D9",
+      "assunto": "Licitações — exigências legais e contratação direta",
+      "enunciado": "Em caso de contratação direta indevida em decorrência de erro grosseiro, o contratado e o agente público responsável responderão solidariamente pelo dano causado ao erário, sem prejuízo de outras sanções legais cabíveis.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo1 — Telebras 2025 — Cargo 1 (Especialista em Gestão de Telecomunicações – Advogado) — item 67"
+    },
+    {
+      "id": "cargo1-70",
+      "tema": "D9",
+      "assunto": "Alienação do controle de subsidiárias de sociedades de economia mista",
+      "enunciado": "De acordo com o entendimento do STF, a alienação do controle de empresas subsidiárias das sociedades de economia mista exige autorização legislativa e licitação.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo1 — Telebras 2025 — Cargo 1 (Especialista em Gestão de Telecomunicações – Advogado) — item 70"
+    },
+    {
+      "id": "cargo3-107",
+      "tema": "D9",
+      "assunto": "Lei 13.303/2016 — licitações e contratos de estatais",
+      "enunciado": "A atribuição de ônus real a bens integrantes do acervo patrimonial das empresas públicas e das sociedades de economia mista dispensa licitação, devendo, no entanto, ser precedida de avaliação formal do bem.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo3 — Telebras 2025 — Cargo 3 (Analista Superior – Administrativo) — item 107"
+    },
+    {
+      "id": "cargo3-108",
+      "tema": "D9",
+      "assunto": "Lei 13.303/2016 — licitações e contratos de estatais",
+      "enunciado": "É vedada a contratação direta de serviços de patrocínio ou defesa de causas judiciais ou administrativas de empresas públicas e sociedades de economia mista.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo3 — Telebras 2025 — Cargo 3 (Analista Superior – Administrativo) — item 108"
+    },
+    {
+      "id": "cargo3-109",
+      "tema": "D9",
+      "assunto": "Lei 13.303/2016 — licitações e contratos de estatais",
+      "enunciado": "A ocorrência de dano ao patrimônio de empresa pública ou sociedade de economia mista caracterizado pela deficiência na execução de obras e serviços de engenharia que resulte em diminuição da qualidade, da vida útil ou da segurança é situação apta à caracterização de superfaturamento.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo3 — Telebras 2025 — Cargo 3 (Analista Superior – Administrativo) — item 109"
+    },
+    {
+      "id": "cargo3-110",
+      "tema": "D9",
+      "assunto": "Lei 13.303/2016 — licitações e contratos de estatais",
+      "enunciado": "As licitações na modalidade de pregão eletrônico devem ser realizadas, exclusivamente, em portais de compras de acesso público na Internet.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo3 — Telebras 2025 — Cargo 3 (Analista Superior – Administrativo) — item 110"
+    },
+    {
+      "id": "cargo3-111",
+      "tema": "D9",
+      "assunto": "Lei 13.303/2016 — licitações e contratos de estatais",
+      "enunciado": "Os contratos destinados à execução de obras e serviços de engenharia admitem contratação por tarefa nos casos em que o contratante necessite receber empreendimento de alta complexidade em condição de operação imediata.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo3 — Telebras 2025 — Cargo 3 (Analista Superior – Administrativo) — item 111"
+    },
+    {
+      "id": "cargo3-112",
+      "tema": "D9",
+      "assunto": "Lei 13.303/2016 — licitações e contratos de estatais",
+      "enunciado": "Nos casos de pequenas despesas de pronta entrega e pronto pagamento das quais não resultem obrigações futuras por parte da empresa pública ou da sociedade de economia mista, é dispensável a redução a termo do contrato.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo3 — Telebras 2025 — Cargo 3 (Analista Superior – Administrativo) — item 112"
+    },
+    {
+      "id": "cargo3-113",
+      "tema": "D9",
+      "assunto": "Lei 13.303/2016 — licitações e contratos de estatais",
+      "enunciado": "No caso de inexecução total ou parcial do contrato, são aplicáveis penas de multa, advertência e impedimento de contratar com a entidade sancionadora, sendo estas duas últimas penalidades passíveis de aplicação cumulativa entre si.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo3 — Telebras 2025 — Cargo 3 (Analista Superior – Administrativo) — item 113"
+    },
+    {
+      "id": "cargo3-114",
+      "tema": "D9",
+      "assunto": "Lei 13.303/2016 — licitações e contratos de estatais",
+      "enunciado": "A fim de garantir equilíbrio econômico-financeiro inicial do contrato, admite-se a celebração de aditivos decorrentes de eventos supervenientes que tenham sido alocados, na matriz de riscos, como de responsabilidade da contratada.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo3 — Telebras 2025 — Cargo 3 (Analista Superior – Administrativo) — item 114"
+    },
+    {
+      "id": "cargo3-115",
+      "tema": "D9",
+      "assunto": "Regulamento de Licitações e Contratos da TELEBRAS",
+      "enunciado": "As compras e contratações da TELEBRAS deverão observar a licitação na modalidade pregão ou a licitação por modo de disputa aberto, vedada a adoção de modo de disputa exclusivamente fechado.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo3 — Telebras 2025 — Cargo 3 (Analista Superior – Administrativo) — item 115"
+    },
+    {
+      "id": "cargo3-116",
+      "tema": "D9",
+      "assunto": "Regulamento de Licitações e Contratos da TELEBRAS",
+      "enunciado": "A avaliação e valoração documental e(ou) presencial realizada na etapa de pré-qualificação dos licitantes, cujo prazo de validade máximo é de 1 ano no caso de deferimento, não substitui os requisitos de habilitação exigidos pela Lei n.º 13.303/2016.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo3 — Telebras 2025 — Cargo 3 (Analista Superior – Administrativo) — item 116"
+    },
+    {
+      "id": "cargo3-117",
+      "tema": "D9",
+      "assunto": "Regulamento de Licitações e Contratos da TELEBRAS",
+      "enunciado": "A contratação de serviços de publicidade prestados necessariamente por intermédio de agências de propaganda não configura hipótese de inexigibilidade e deverá, obrigatoriamente, ser julgada pelos critérios de melhor técnica ou melhor combinação de técnica e preço.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo3 — Telebras 2025 — Cargo 3 (Analista Superior – Administrativo) — item 117"
+    },
+    {
+      "id": "cargo3-118",
+      "tema": "D9",
+      "assunto": "Regulamento de Licitações e Contratos da TELEBRAS",
+      "enunciado": "Todas as licitações ou contratações devem ser precedidas de adequado planejamento consolidado em projeto básico, anteprojeto de engenharia ou termo de referência aprovado pela Gerência Financeira e Orçamentária da TELEBRAS.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "cargo3 — Telebras 2025 — Cargo 3 (Analista Superior – Administrativo) — item 118"
+    },
+    {
+      "id": "cargo3-119",
+      "tema": "D9",
+      "assunto": "Contratos de serviços — repactuação e terceirização (IN 5/2017)",
+      "enunciado": "Nas contratações de serviços continuados com regime de dedicação exclusiva de mão de obra, a repactuação para reajuste do contrato em razão de novo acordo, convenção ou dissídio coletivo de trabalho deve repassar integralmente o aumento de custos da mão de obra decorrente desses instrumentos.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo3 — Telebras 2025 — Cargo 3 (Analista Superior – Administrativo) — item 119"
+    },
+    {
+      "id": "cargo3-120",
+      "tema": "D9",
+      "assunto": "Contratos de serviços — repactuação e terceirização (IN 5/2017)",
+      "enunciado": "A administração pública poderá contratar, mediante terceirização, atividades de cargos extintos ou em extinção.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo3 — Telebras 2025 — Cargo 3 (Analista Superior – Administrativo) — item 120"
+    },
+    {
+      "id": "basicos-50",
+      "tema": "D10",
+      "assunto": "Improbidade administrativa — coautoria e enriquecimento ilícito (Lei 8.429/1992)",
+      "enunciado": "Configura ato de improbidade administrativa que importa em enriquecimento ilícito perceber vantagem econômica indireta para facilitar o fornecimento de serviço, por ente estatal, por preço inferior ao valor de mercado.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "basicos — Telebras 2025 — Conhecimentos Básicos para Todos os Cargos — item 50"
+    },
+    {
+      "id": "cargo1-69",
+      "tema": "D10",
+      "assunto": "Improbidade administrativa — coautoria e enriquecimento ilícito (Lei 8.429/1992)",
+      "enunciado": "Aquele que não é agente público pode ser responsabilizado como coautor de ato de improbidade consumada caso induza ou concorra dolosamente para a prática do ilícito.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "cargo1 — Telebras 2025 — Cargo 1 (Especialista em Gestão de Telecomunicações – Advogado) — item 69"
+    }
+  ]
+}

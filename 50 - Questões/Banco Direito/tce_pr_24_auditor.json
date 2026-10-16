@@ -1,0 +1,1587 @@
+{
+  "concurso": "tce_pr_24_auditor",
+  "banca": "Cebraspe",
+  "itens": [
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA TODOS OS CARGOS.md#11",
+      "tema": "D1",
+      "assunto": "Normas constitucionais: objetivos fundamentais da República e aplicabilidade (programática)",
+      "enunciado": "Considere o seguinte dispositivo da Constituição Federal de 1988.\n“Art. 3.º Constituem objetivos fundamentais da República Federativa do Brasil: I - construir uma sociedade livre, justa e solidária; (...)”.\nEsse dispositivo é considerado norma constitucional",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA TODOS OS CARGOS.md (Questão 11)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "de aplicação imediata."
+        },
+        {
+          "letra": "B",
+          "texto": "de eficácia contida."
+        },
+        {
+          "letra": "C",
+          "texto": "imperfeita."
+        },
+        {
+          "letra": "D",
+          "texto": "programática."
+        },
+        {
+          "letra": "E",
+          "texto": "de eficácia plena."
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA TODOS OS CARGOS.md#12",
+      "tema": "D1",
+      "assunto": "Competência legislativa sobre proteção de dados pessoais (federalismo / competência concorrente)",
+      "enunciado": "Se um estado da Federação publicar uma lei que regule, de forma geral, a proteção e o tratamento de dados pessoais, essa lei será",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA TODOS OS CARGOS.md (Questão 12)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "constitucional, pois legislar acerca desse tema é competência exclusiva dos estados."
+        },
+        {
+          "letra": "B",
+          "texto": "inconstitucional, pois legislar acerca desse tema é competência privativa da União."
+        },
+        {
+          "letra": "C",
+          "texto": "constitucional, pois legislar acerca desse tema é competência concorrente da União, dos estados ou do Distrito Federal, e dos municípios."
+        },
+        {
+          "letra": "D",
+          "texto": "constitucional, pois legislar acerca desse tema é competência concorrente da União e dos estados ou do Distrito Federal."
+        },
+        {
+          "letra": "E",
+          "texto": "inconstitucional, pois legislar acerca desse tema é competência dos municípios."
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA TODOS OS CARGOS.md#13",
+      "tema": "D5",
+      "assunto": "Controle externo: registro da legalidade de atos de admissão (TCU)",
+      "enunciado": "Ana foi nomeada para provimento em comissão na administração direta da União; Patrícia foi nomeada para provimento na administração indireta da União; e Robson passou a ocupar cargo em fundação instituída e mantida pelo poder público.\nNessas situações, competirá ao controle externo, a cargo do Congresso Nacional, exercido com o auxílio do Tribunal de Contas da União, apreciar, para fins de registro, somente a legalidade dos atos de admissão de",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA TODOS OS CARGOS.md (Questão 13)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ana e Patrícia."
+        },
+        {
+          "letra": "B",
+          "texto": "Ana e Robson."
+        },
+        {
+          "letra": "C",
+          "texto": "Ana."
+        },
+        {
+          "letra": "D",
+          "texto": "Robson."
+        },
+        {
+          "letra": "E",
+          "texto": "Patrícia."
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA TODOS OS CARGOS.md#14",
+      "tema": "D3",
+      "assunto": "Acumulação de proventos de aposentadoria com remuneração de novo cargo (CF/88)",
+      "enunciado": "Três aposentados, Cláudio, Lucas e Pedro, prestaram concurso público e foram aprovados para determinado cargo público no estado do Paraná. Cláudio é aposentado de sociedade de economia mista; Lucas, aposentado de empresa pública; e Pedro, servidor público aposentado do estado do Paraná.\nAcerca da situação hipotética precedente, assinale a opção correta, com base na Constituição Federal de 1988.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA TODOS OS CARGOS.md (Questão 14)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente Lucas e Pedro poderão acumular os proventos da aposentadoria com a remuneração do novo cargo."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente Pedro e Cláudio poderão acumular os proventos da aposentadoria com a remuneração do novo cargo."
+        },
+        {
+          "letra": "C",
+          "texto": "Nenhum dos três aprovados poderá acumular os proventos da aposentadoria com a remuneração do novo cargo."
+        },
+        {
+          "letra": "D",
+          "texto": "Os três aprovados poderão acumular os proventos da aposentadoria com a remuneração do novo cargo."
+        },
+        {
+          "letra": "E",
+          "texto": "Somente Cláudio e Lucas poderão acumular os proventos da aposentadoria com a remuneração do novo cargo."
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA TODOS OS CARGOS.md#15",
+      "tema": "D1",
+      "assunto": "Direito à saúde: atribuições do SUS (CF/88)",
+      "enunciado": "De acordo com a Constituição Federal de 1988, compete ao Sistema Único de Saúde, além de outras atribuições, a",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA TODOS OS CARGOS.md (Questão 15)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "proteção à maternidade, especialmente à gestante."
+        },
+        {
+          "letra": "B",
+          "texto": "proteção à família e à maternidade."
+        },
+        {
+          "letra": "C",
+          "texto": "colaboração na proteção do meio ambiente."
+        },
+        {
+          "letra": "D",
+          "texto": "reabilitação de pessoas com deficiência."
+        },
+        {
+          "letra": "E",
+          "texto": "proteção à infância e à velhice."
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA TODOS OS CARGOS.md#16",
+      "tema": "D4",
+      "assunto": "Efeitos da declaração de inconstitucionalidade sobre atos administrativos",
+      "enunciado": "Determinada lei entrou em vigor em 2023 e, com base nela, a administração pública praticou determinados atos administrativos. Em 2024, em controle concentrado de constitucionalidade, o Supremo Tribunal Federal (STF) a declarou inconstitucional.\nNessa situação hipotética, os atos administrativos praticados com base na referida lei",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA TODOS OS CARGOS.md (Questão 16)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "são incapazes de produzir efeitos no plano factual."
+        },
+        {
+          "letra": "B",
+          "texto": "devem ser revogados."
+        },
+        {
+          "letra": "C",
+          "texto": "são inválidos e devem ser considerados não passíveis de convalidação, segundo a jurisprudência do Superior Tribunal de Justiça (STJ)."
+        },
+        {
+          "letra": "D",
+          "texto": "não são irregulares, por terem sido praticados antes da declaração de inconstitucionalidade."
+        },
+        {
+          "letra": "E",
+          "texto": "podem produzir efeitos válidos até a declaração de inconstitucionalidade."
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA TODOS OS CARGOS.md#17",
+      "tema": "D5",
+      "assunto": "Poder disciplinar e processo administrativo disciplinar",
+      "enunciado": "Um servidor público foi punido disciplinarmente por ter adotado conduta desidiosa, definida em norma como infração disciplinar. Em sua defesa administrativa, ele alegou que a punição era indevida, porque a descrição legal se mostrava excessivamente vaga. Além da punição, a autoridade competente enviou cópia do processo disciplinar ao Ministério Público, por entender presentes indícios de crime.\nEm referência a essa situação hipotética, assinale a opção correta, acerca do poder disciplinar.",
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA TODOS OS CARGOS.md (Questão 17)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "As normas que tipificam infrações disciplinares podem ser mais abertas do que as da legislação criminal."
+        },
+        {
+          "letra": "B",
+          "texto": "Descabe o envio de cópia do processo disciplinar ao Ministério Público, pois isso implica dupla punição pelo mesmo ato (bis in idem)."
+        },
+        {
+          "letra": "C",
+          "texto": "No caso de infrações disciplinares leves, a autoridade pode deixar de instaurar procedimento administrativo."
+        },
+        {
+          "letra": "D",
+          "texto": "Qualquer pessoa no gozo dos direitos políticos está sujeita ao poder disciplinar da administração pública."
+        },
+        {
+          "letra": "E",
+          "texto": "O processo administrativo disciplinar apresenta o mesmo grau de formalidade das ações penais."
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA TODOS OS CARGOS.md#18",
+      "tema": "D4",
+      "assunto": "Princípio da proporcionalidade em ato administrativo",
+      "enunciado": "Certa prefeitura, com o objetivo de realizar reparo em pequeno trecho de via pública, interditou parcela muito maior desta do que a necessária ao serviço, o que causou prejuízo à circulação das pessoas e perdas econômicas importantes ao comércio local.\nNessa situação hipotética, a inadequação da restrição excessiva a direitos promovida com o ato da prefeitura caracteriza, de maneira mais específica, lesão ao princípio da",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA TODOS OS CARGOS.md (Questão 18)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "eficiência."
+        },
+        {
+          "letra": "B",
+          "texto": "economicidade."
+        },
+        {
+          "letra": "C",
+          "texto": "legalidade."
+        },
+        {
+          "letra": "D",
+          "texto": "proporcionalidade."
+        },
+        {
+          "letra": "E",
+          "texto": "moralidade."
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA TODOS OS CARGOS.md#19",
+      "tema": "D3",
+      "assunto": "Entidades paraestatais e terceiro setor",
+      "enunciado": "A respeito das entidades paraestatais e do terceiro setor, assinale a opção correta.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA TODOS OS CARGOS.md (Questão 19)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "As organizações da sociedade civil de interesse público (OSCIP) devem atuar com base em contratos de gestão firmados com a administração pública."
+        },
+        {
+          "letra": "B",
+          "texto": "Consoante o entendimento majoritário da doutrina, as entidades paraestatais têm natureza de autarquia."
+        },
+        {
+          "letra": "C",
+          "texto": "Os serviços sociais autônomos prestam serviço público por delegação estatal prevista em lei."
+        },
+        {
+          "letra": "D",
+          "texto": "As entidades de apoio são instituídas por lei e adotam, necessariamente, a forma jurídica de fundação."
+        },
+        {
+          "letra": "E",
+          "texto": "Entidades do terceiro setor são, em linhas gerais, pessoas jurídicas de direito privado, não estatais, sem fins lucrativos e que desempenham atividade de interesse público."
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA TODOS OS CARGOS.md#20",
+      "tema": "D4",
+      "assunto": "Lei 9.784/1999: revisão de atos administrativos, decadência e prescrição",
+      "enunciado": "Um órgão público reconheceu e acresceu à remuneração de Silvana, servidora pública, certa gratificação, por decisão administrativa de 2/4/2010. Os pagamentos da gratificação começaram a ocorrer em 25/5/2010. A dezenas de outras servidoras foi reconhecido o mesmo direito à gratificação, na mesma época. Em junho de 2016, por suspeita de fraudes (as quais não vieram a se confirmar), o poder público iniciou processo de revisão dessas gratificações e concluiu que, apesar de não ter havido má-fé das servidoras, a concessão da vantagem fora indevida. Por essa razão, determinou a suspensão do pagamento dessa gratificação.\nA partir dessa situação hipotética, julgue os itens a seguir de acordo com a Lei n.º 9.784/1999, que dispõe sobre o processo administrativo.\nI É dever da administração pública, na forma da legislação, rever atos administrativos que possam conter vício de ilegalidade.\nII Não poderia ter havido a suspensão do pagamento da gratificação deferida às servidoras, em virtude de prescrição.\nIII Se a administração pública houvesse comprovado má-fé das servidoras destinatárias da gratificação, teria sido possível, em princípio, do ponto de vista temporal, invalidar a concessão da vantagem.\nIV Para efeito de cômputo da decadência, a data de referência é 25/5/2010, e não 2/4/2010.\nAssinale a opção correta.",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA TODOS OS CARGOS.md (Questão 20)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas o item I está certo."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas os itens I e III estão certos."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas os itens II e IV estão certos."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas os itens II, III e IV estão certos."
+        },
+        {
+          "letra": "E",
+          "texto": "Todos os itens estão certos."
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA TODOS OS CARGOS.md#21",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021: conceitos e disposições gerais",
+      "enunciado": "Considerando a Lei n.º 14.133/2021, que dispõe sobre licitações e contratos administrativos, assinale a opção correta.",
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA TODOS OS CARGOS.md (Questão 21)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Com a finalidade de evitar nulidades e aumentar a eficiência do procedimento licitatório, a Lei n.º 14.133/2021 adota o conceito de linhas de defesa, as quais envolvem, entre outros, agentes de licitação e órgãos de assessoramento jurídico e de controle."
+        },
+        {
+          "letra": "B",
+          "texto": "O credenciamento, na hipótese de inexigibilidade de licitação, destina-se a casos em que o profissional a ser contratado detém notória especialização."
+        },
+        {
+          "letra": "C",
+          "texto": "Os concursos, como modalidade destinada à escolha de trabalhos intelectuais, devem ser abertos a qualquer pessoa interessada."
+        },
+        {
+          "letra": "D",
+          "texto": "A fim de dar celeridade ao procedimento de licitação, atualmente a fase de habilitação é sempre posterior à de julgamento."
+        },
+        {
+          "letra": "E",
+          "texto": "Quando a licitação adotar julgamento por técnica e preço, cada um dos fatores deverá ter peso de 50%."
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA TODOS OS CARGOS.md#22",
+      "tema": "D5",
+      "assunto": "Natureza jurídica e posição institucional dos tribunais de contas",
+      "enunciado": "Acerca da natureza jurídica dos tribunais de contas, da sua posição institucional e da sua relação com o Poder Legislativo, julgue os próximos itens, considerando, no que couber, o entendimento do STF.\nI O tribunal de contas não é órgão integrante do Poder Legislativo e não há entre eles submissão hierárquica ou funcional, o que, entretanto, não afasta o dever de o tribunal de contas prestar contas ao parlamento.\nII Tanto o Poder Legislativo quanto o tribunal de contas detêm competência para julgar.\nIII Não é cabível nenhum recurso ao Poder Legislativo contra as decisões proferidas pelo tribunal de contas.\nAssinale a opção correta.",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA TODOS OS CARGOS.md (Questão 22)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas o item I está certo."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas o item II está certo."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas os itens I e III estão certos."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas os itens II e III estão certos."
+        },
+        {
+          "letra": "E",
+          "texto": "Todos os itens estão certos."
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA TODOS OS CARGOS.md#23",
+      "tema": "D5",
+      "assunto": "Entidades fiscalizadoras superiores: Declaração de Lima e ISSAI 10/20",
+      "enunciado": "Em relação às entidades fiscalizadoras superiores (EFS), julgue os itens a seguir, considerando a Declaração de Lima (ISSAI 1), a Declaração do México — Independência das EFS (ISSAI 10) e os princípios de transparência e de accountability estabelecidos na ISSAI 20.\nI A Declaração de Lima, um dos marcos da evolução do controle externo das EFS, prevê a necessidade e a prevalência da auditoria operacional em relação aos controles formais e tradicionais de legalidade e regularidade da gestão financeira e da contabilidade.\nII Os princípios de transparência e de accountability consolidados na ISSAI 20 têm por escopo definir as regras fundamentais de transparência e boa governança que as EFS devem exigir dos órgãos públicos que elas fiscalizam.\nIII Um dos princípios fundamentais que a Declaração do México estabelece para o exercício do controle pelas EFS prevê a fixação de um mandato suficientemente amplo e total discricionariedade no exercício das funções das EFS.\nAssinale a opção correta.",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA TODOS OS CARGOS.md (Questão 23)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas o item II está certo."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas o item III está certo."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas os itens I e II estão certos."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas os itens I e III estão certos."
+        },
+        {
+          "letra": "E",
+          "texto": "Todos os itens estão certos."
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA TODOS OS CARGOS.md#24",
+      "tema": "D5",
+      "assunto": "TCE/PR: contas de governo omitidas e intervenção estadual",
+      "enunciado": "O prefeito de um município paranaense deixou de prestar suas contas anuais de governo, relativas a determinado exercício financeiro, ao Tribunal de Contas do Estado do Paraná (TCE/PR). Ao ter constatado essa irregularidade, o TCE/PR adotou as seguintes providências: instaurou tomada de contas especial e solicitou ao governador do estado do Paraná a decretação de intervenção estadual no citado município.\nEm referência a essa situação hipotética, julgue os itens que se seguem, à luz da Lei Orgânica do TCE/PR.\nI As duas providências adotadas pelo TCE/PR estão amparadas pela sua lei orgânica, ainda que a situação envolva contas de governo.\nII No caso, compete ao Plenário do TCE/PR aprovar a solicitação de intervenção, apesar desse colegiado não possuir competência para emitir parecer prévio sobre as contas de governo omitidas.\nIII Tão logo recebida a solicitação do TCE/PR, o governador do estado do Paraná deverá decretar a intervenção estadual no município, pois a omissão do dever de prestar contas configura violação grave e direta ao princípio republicano.\nAssinale a opção correta.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA TODOS OS CARGOS.md (Questão 24)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas o item I está certo."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas o item III está certo."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas os itens I e II estão certos."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas os itens II e III estão certos."
+        },
+        {
+          "letra": "E",
+          "texto": "Todos os itens estão certos."
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA TODOS OS CARGOS.md#25",
+      "tema": "D5",
+      "assunto": "TCE/PR: sustação de licitação/contrato por ilegalidade",
+      "enunciado": "Na fiscalização de atos e contratos de determinada secretaria de estado do Paraná, a equipe técnica do TCE/PR, com base em forte conjunto probatório, identificou grave ilegalidade em processo licitatório que se encontrava em estado avançado de conclusão, com possibilidade de acarretar iminente dano ao erário estadual. No interstício entre a conclusão da instrução e a remessa dos autos do processo ao conselheiro relator, a licitação foi finalizada, tendo havido a contratação da empresa vencedora.\nConsiderando a situação hipotética apresentada, julgue os itens seguintes, de acordo com a Constituição Federal de 1988, a Lei Orgânica do TCE/PR e, no que couber, a jurisprudência do STF.\nI Apesar do risco de lesão grave ao erário, o TCE/PR não poderá sustar diretamente o contrato sem a oitiva prévia da Assembleia Legislativa do Estado do Paraná.\nII A Assembleia Legislativa do Estado do Paraná poderia sustar tanto o processo licitatório quanto o contrato dele decorrente.\nIII Caso a contratação não tivesse sido formalizada, o TCE/PR poderia assinar prazo para a secretaria de estado corrigir a ilegalidade e, se tal prazo não fosse atendido, poderia sustar o processo licitatório.\nAssinale a opção correta.",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA TODOS OS CARGOS.md (Questão 25)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Nenhum item está certo."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas o item I está certo."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas o item II está certo."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas os itens I e III estão certos."
+        },
+        {
+          "letra": "E",
+          "texto": "Apenas os itens II e III estão certos."
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA TODOS OS CARGOS.md#26",
+      "tema": "D5",
+      "assunto": "TCE/PR: medida cautelar de indisponibilidade de bens",
+      "enunciado": "No curso de um processo de denúncia de desvio de recursos públicos do instituto de previdência própria de determinado município paranaense, a equipe técnica do TCE/PR constatou que o denunciado, ex-diretor daquele instituto, estava transferindo parte do seu patrimônio, na tentativa de ocultá-lo e dificultar a reparação do potencial dano ao erário. Em virtude da gravidade e da urgência da situação, o conselheiro relator levou o processo em mesa na sessão colegiada mais próxima e requereu, de ofício, a concessão da medida cautelar de indisponibilidade de bens do denunciado.\nTendo em vista essa situação hipotética, julgue os itens a seguir, conforme a Lei Orgânica do TCE/PR.\nI O órgão colegiado competente para apreciar o processo é o Plenário do TCE/PR, por se tratar de deliberação sobre medida cautelar.\nII O proceder do conselheiro relator foi correto, pois o julgamento de medida cautelar independe de sua inclusão prévia na pauta da sessão, possuindo ele legitimidade para requerer, de ofício, a medida, ainda que seja o relator do feito.\nIII Contra a decisão denegatória do pedido de medida cautelar não cabe recurso de agravo.\nAssinale a opção correta.",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA TODOS OS CARGOS.md (Questão 26)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas o item I está certo."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas o item III está certo."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas os itens I e II estão certos."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas os itens II e III estão certos."
+        },
+        {
+          "letra": "E",
+          "texto": "Todos os itens estão certos."
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA TODOS OS CARGOS.md#27",
+      "tema": "D5",
+      "assunto": "Sistema de controle externo e Lei Orgânica do TCE/PR",
+      "enunciado": "Acerca das regras constitucionais do sistema de controle externo, assinale a opção correta, com base na Constituição Federal de 1988 e na Lei Orgânica do TCE/PR (Lei Complementar n.º 113/2005).",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA TODOS OS CARGOS.md (Questão 27)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "No âmbito do TCE/PR, nos casos de lesão ao erário, a multa proporcional ao dano, quando arbitrada em seu percentual máximo, abarcará em seu montante o valor da multa administrativa."
+        },
+        {
+          "letra": "B",
+          "texto": "Os tribunais de contas apreciam, para fins de registro, a legalidade dos atos de aposentadoria dos empregados das empresas públicas e sociedades de economia mista."
+        },
+        {
+          "letra": "C",
+          "texto": "As normas constitucionais sobre a organização, a composição e a quantidade de membros do Tribunal de Contas da União são aplicáveis, no que couber, aos tribunais de contas dos estados."
+        },
+        {
+          "letra": "D",
+          "texto": "A jurisdição do TCE/PR abrange as entidades privadas que se vinculam ao estado ou aos municípios em regime de colaboração, desde que recebam recursos públicos."
+        },
+        {
+          "letra": "E",
+          "texto": "No TCE/PR, os prazos de interposição para os recursos de revista e de revisão são os mesmos, assim como os legitimados para interpô-los, porém, enquanto o recurso de revista tem efeitos devolutivo e suspensivo, o de revisão tem apenas efeito suspensivo."
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA TODOS OS CARGOS.md#28",
+      "tema": "D2",
+      "assunto": "Princípios fundamentais de ética profissional das EFS (NBASP 130/140; ISSAI 130/140)",
+      "enunciado": "O tribunal de contas de determinado estado constatou, em pesquisa, drástica redução da confiança da população em sua atuação. Em resposta, o tribunal de contas decidiu revisar suas políticas internas para garantir a observância dos princípios fundamentais de ética profissional previstos nas normas NBASP 130 e 140 e ISSAI 130 e 140, priorizando, sobretudo, o restabelecimento da confiança e da integridade nos processos administrativos.\nNessa situação hipotética, conforme as normas e os regulamentos aplicáveis, um princípio fundamental de ética profissional a ser considerado diz respeito",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA TODOS OS CARGOS.md (Questão 28)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "à maximização dos resultados."
+        },
+        {
+          "letra": "B",
+          "texto": "ao comportamento profissional."
+        },
+        {
+          "letra": "C",
+          "texto": "à transparência da divulgação financeira."
+        },
+        {
+          "letra": "D",
+          "texto": "à inovação e criatividade nas soluções."
+        },
+        {
+          "letra": "E",
+          "texto": "à flexibilidade nos procedimentos operacionais."
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA TODOS OS CARGOS.md#45",
+      "tema": "D6",
+      "assunto": "Transparência na administração pública, controle social e accountability",
+      "enunciado": "Acerca de transparência na administração pública, controle social e accountability, julgue os seguintes itens.\nI A instituição de mecanismos que possibilitem a responsabilização de gestores, por exemplo, modelos de supervisão, controle e auditoria, é iniciativa que promove o enfrentamento à corrupção.\nII Para que o controle social seja efetivo, é imprescindível que a participação do cidadão ocorra por intermédio de grupos organizados.\nIII Considerando a accountability, o agente público deve prestar contas da sua atuação, evidenciando o ideal tratamento da coisa pública, e assumir integralmente as consequências dos seus atos e de suas eventuais omissões.\nAssinale a opção correta.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA TODOS OS CARGOS.md (Questão 45)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas o item I está certo."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas o item II está certo."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas os itens I e III estão certos."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas os itens II e III estão certos."
+        },
+        {
+          "letra": "E",
+          "texto": "Todos os itens estão certos."
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6.md#51",
+      "tema": "D3",
+      "assunto": "Parcerias com organizações da sociedade civil: termo de fomento (Lei 13.019/2014)",
+      "enunciado": "Determinada pessoa jurídica de direito privado e sem fins lucrativos pretende participar de um chamamento público realizado pelo Ministério do Esporte, que prevê a transferência de recursos financeiros para a execução de projeto com vistas à prática esportiva educacional, que caracteriza uma atividade de interesse público e recíproco entre o ente público e o particular. Para tanto, a entidade interessada elaborará e apresentará plano de trabalho para a execução do projeto. Ela nunca solicitou qualquer qualificação perante o Ministério da Justiça e os recursos auferidos com sua atividade são integralmente aplicados na consecução do respectivo objeto social, de forma imediata, não havendo qualquer distribuição de eventuais resultados, sobras, excedentes operacionais, brutos ou líquidos, aos integrantes de seu quadro estatutário.\nNessa situação hipotética, caso a entidade seja selecionada para a execução do projeto, o instrumento jurídico que deverá ser celebrado entre ela e o Ministério do Esporte será o",
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6.md (Questão 51)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "termo de fomento, previsto pela Lei n.º 13.019/2014, que estabelece o regime jurídico das parcerias entre a administração pública e as organizações da sociedade civil."
+        },
+        {
+          "letra": "B",
+          "texto": "contrato de prestação de serviço, previsto pela Lei n.º 8.987/1995, que estabelece o regime de concessão e permissão da prestação de serviços públicos."
+        },
+        {
+          "letra": "C",
+          "texto": "contrato de concessão, previsto pela Lei n.º 8.987/1995, que estabelece o regime de concessão e permissão da prestação de serviços públicos."
+        },
+        {
+          "letra": "D",
+          "texto": "acordo de cooperação, previsto pela Lei n.º 13.019/2014, que estabelece o regime jurídico das parcerias entre a administração pública e as organizações da sociedade civil."
+        },
+        {
+          "letra": "E",
+          "texto": "termo de parceria, previsto pela Lei n.º 9.790/1999, que, além de instituir esse instrumento jurídico, trata das organizações da sociedade civil de interesse público (OSCIP)."
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6.md#52",
+      "tema": "D9",
+      "assunto": "Parcerias público-privadas: limites de valor e de tempo (Lei estadual 17.046/2012)",
+      "enunciado": "No estado do Paraná, a Lei estadual n.º 17.046/2012 disciplina a contratação de parcerias público-privadas, estabelecendo os requisitos para sua pactuação, entre os quais há um limite mínimo de valor e um limite mínimo de tempo, que, nos termos da referida lei, consistem, respectivamente, em",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6.md (Questão 52)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "R$ 30 milhões e 15 anos."
+        },
+        {
+          "letra": "B",
+          "texto": "R$ 25 milhões e 10 anos."
+        },
+        {
+          "letra": "C",
+          "texto": "R$ 20 milhões e 5 anos."
+        },
+        {
+          "letra": "D",
+          "texto": "R$ 15 milhões e 3 anos."
+        },
+        {
+          "letra": "E",
+          "texto": "R$ 10 milhões e 2 anos."
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6.md#53",
+      "tema": "D3",
+      "assunto": "Poderes administrativos: poder regulamentar (decreto)",
+      "enunciado": "No estado do Paraná, foi publicada uma lei prevendo regras específicas funcionais relacionadas aos servidores do Poder Executivo estadual. O governador do estado, então, editou um decreto com maior detalhamento das previsões estabelecidas na lei, visando à sua execução.\nConsiderando a situação hipotética precedente, assinale a opção que corresponde ao poder da administração que fundamenta a atuação do chefe do Poder Executivo estadual no caso.",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6.md (Questão 53)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "poder de mando"
+        },
+        {
+          "letra": "B",
+          "texto": "poder regulamentar"
+        },
+        {
+          "letra": "C",
+          "texto": "poder hierárquico"
+        },
+        {
+          "letra": "D",
+          "texto": "poder de polícia"
+        },
+        {
+          "letra": "E",
+          "texto": "poder disciplinar"
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6.md#54",
+      "tema": "D1",
+      "assunto": "Princípio da continuidade do serviço público (corte de fornecimento)",
+      "enunciado": "O STJ, no julgamento do Recurso Especial n.º 1.836.088/MT, proferiu acórdão com a seguinte ementa.\n“ADMINISTRATIVO. AÇÃO CIVIL. CONCESSÃO DE SERVIÇO PÚBLICO. ENERGIA ELÉTRICA. CORTE NO FORNECIMENTO. EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE VIOLAÇÃO DO ART. 535 DO CPC/73. INEXISTÊNCIA DE VÍCIOS. AÇÃO PARA AFASTAMENTO DE APLICAÇÃO DE NORMA POR INCONSTITUCIONALIDADE. POSSIBILIDADE. TUTELA ANTECIPADA SEM OITIVA DO PODER PÚBLICO. CABIMENTO. EXCEPCIONALIDADE. CORTE DE ENERGIA ELÉTRICA. DESCABIMENTO. ACÓRDÃO MAIS ABRANGENTE. CONFRONTO COM A JURISPRUDÊNCIA DESTA CORTE. POSSIBILIDADE DE CORTE DE FORNECIMENTO DE SERVIÇOS PÚBLICOS NÃO ESSENCIAIS.”\nAssinale a opção que indica o princípio do direito administrativo que foi o principal objeto do julgamento mencionado anteriormente, tendo em vista a ementa transcrita.",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6.md (Questão 54)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "princípio da presunção de legitimidade"
+        },
+        {
+          "letra": "B",
+          "texto": "princípio da moralidade"
+        },
+        {
+          "letra": "C",
+          "texto": "princípio da impessoalidade"
+        },
+        {
+          "letra": "D",
+          "texto": "princípio da continuidade"
+        },
+        {
+          "letra": "E",
+          "texto": "princípio da publicidade"
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6.md#55",
+      "tema": "D5",
+      "assunto": "Responsabilidade civil do Estado",
+      "enunciado": "De acordo com a doutrina majoritária acerca da responsabilidade civil do Estado, julgue os itens a seguir.\nI Em regra, a responsabilidade do Estado é subjetiva.\nII A responsabilidade civil do Estado, em qualquer hipótese, exige a prática de uma conduta comissiva.\nIII No Brasil, como regra, adota-se a teoria do risco administrativo, que admite a exclusão da responsabilidade civil do Estado, por exemplo, na hipótese de culpa exclusiva da vítima.\nIV O nexo de causalidade entre a lesão e a conduta atribuível ao Estado é um dos requisitos indispensáveis para a configuração da responsabilidade civil do Estado.\nEstão certos apenas os itens",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6.md (Questão 55)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II."
+        },
+        {
+          "letra": "B",
+          "texto": "II e III."
+        },
+        {
+          "letra": "C",
+          "texto": "III e IV."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II e IV."
+        },
+        {
+          "letra": "E",
+          "texto": "I, III e IV."
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6.md#56",
+      "tema": "D4",
+      "assunto": "Teoria dos defeitos do ato administrativo",
+      "enunciado": "Situação hipotética 6A1-I: José é servidor do estado do Paraná e exerce a função de coordenador-geral da Secretaria do Estado de Infraestrutura, situada na capital paranaense, não possuindo competência para assinar ordens bancárias de pagamento, que constitui atribuição de Eduardo, diretor na citada secretaria. Em uma segunda-feira, após a ocorrência de intensas chuvas que interromperam o funcionamento do aeroporto de Curitiba, Eduardo, que estava em viagem, não conseguiu retornar para trabalhar. José, no mesmo dia (segunda-feira), assinou ordens bancárias para o imediato início de obras fundamentais para a contenção de encostas, visando mitigar o agravamento de deslizamentos de terra decorrentes da chuva.\nConsiderando a situação hipotética 6A1-I e a teoria dos defeitos do ato administrativo, assinale a opção que corresponde ao resultado jurídico do ato praticado por José.",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6.md (Questão 56)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "regularidade completa"
+        },
+        {
+          "letra": "B",
+          "texto": "inexistência jurídica"
+        },
+        {
+          "letra": "C",
+          "texto": "irregularidade irrelevante"
+        },
+        {
+          "letra": "D",
+          "texto": "nulidade relativa"
+        },
+        {
+          "letra": "E",
+          "texto": "irregularidade suprível"
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6.md#57",
+      "tema": "D4",
+      "assunto": "Convalidação de atos administrativos",
+      "enunciado": "Situação hipotética 6A1-I: José é servidor do estado do Paraná e exerce a função de coordenador-geral da Secretaria do Estado de Infraestrutura, situada na capital paranaense, não possuindo competência para assinar ordens bancárias de pagamento, que constitui atribuição de Eduardo, diretor na citada secretaria. Em uma segunda-feira, após a ocorrência de intensas chuvas que interromperam o funcionamento do aeroporto de Curitiba, Eduardo, que estava em viagem, não conseguiu retornar para trabalhar. José, no mesmo dia (segunda-feira), assinou ordens bancárias para o imediato início de obras fundamentais para a contenção de encostas, visando mitigar o agravamento de deslizamentos de terra decorrentes da chuva.\nA partir da situação hipotética 6A1-I e da teoria da convalidação dos atos administrativos, julgue os próximos itens.\nI O ato praticado por José não pode ser convalidado, devido à ausência de conformidade entre ele, o ato concreto e o modelo normativo abstrato.\nII O ato de José poderá ser convalidado de ofício por Eduardo.\nIII A preservação da ordem jurídica e social, dado o interesse público envolvido, é fundamento para a convalidação do ato praticado por José.\nIV A convalidação opera efeitos retroativos, desde o momento em que foi editado o ato.\nAssinale a opção correta.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6.md (Questão 57)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Nenhum item está certo."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas o item I está certo."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas os itens I e IV estão certos."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas os itens II e III estão certos."
+        },
+        {
+          "letra": "E",
+          "texto": "Apenas os itens II, III e IV estão certos."
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6.md#58",
+      "tema": "D1",
+      "assunto": "Controle de constitucionalidade: ação declaratória de constitucionalidade (ADC)",
+      "enunciado": "No que se refere ao processamento e ao julgamento da ação declaratória de constitucionalidade (ADC), julgue os itens que se seguem.\nI É obrigatória a manifestação do procurador-geral da República, por meio de parecer opinativo, acerca da constitucionalidade de lei ou ato normativo.\nII A ADC admite como objeto leis ou atos normativos federais ou estaduais.\nIII A decisão de mérito em sede de ADC produz eficácia erga omnes, efeitos ex nunc e efeito vinculante em relação aos órgãos do Poder Judiciário e à administração pública federal, estadual, municipal e distrital.\nIV O Supremo Tribunal Federal (STF), por decisão da maioria absoluta de seus membros, pode deferir pedido de medida cautelar na ADC, determinando que o julgamento dos processos que envolvam a aplicação da lei ou do ato normativo objeto da ação seja suspenso até o julgamento definitivo da ADC.\nEstão certos apenas os itens",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6.md (Questão 58)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II."
+        },
+        {
+          "letra": "B",
+          "texto": "I e IV."
+        },
+        {
+          "letra": "C",
+          "texto": "II e III."
+        },
+        {
+          "letra": "D",
+          "texto": "I, III e IV."
+        },
+        {
+          "letra": "E",
+          "texto": "II, III e IV."
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6.md#59",
+      "tema": "D1",
+      "assunto": "Controle de constitucionalidade: arguição de descumprimento de preceito fundamental (ADPF)",
+      "enunciado": "Foi ajuizada no STF ação de arguição de descumprimento de preceito fundamental (ADPF) na qual se alega lesão a preceito fundamental ocasionada por determinado ato do poder público.\nConforme o entendimento do STF, a ADPF é cabível para impugnar",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6.md (Questão 59)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "parecer jurídico meramente opinativo."
+        },
+        {
+          "letra": "B",
+          "texto": "lei ou ato normativo do poder público, desde que não se trate de decreto regulamentar, por ser incabível sua impugnação por tal via processual."
+        },
+        {
+          "letra": "C",
+          "texto": "normas constitucionais originárias."
+        },
+        {
+          "letra": "D",
+          "texto": "decisão transitada em julgado."
+        },
+        {
+          "letra": "E",
+          "texto": "ato do poder público que não possa ser impugnado por meio de ação direta de inconstitucionalidade perante tribunal de justiça."
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6.md#60",
+      "tema": "D1",
+      "assunto": "Poder constituinte e controle de constitucionalidade de emendas",
+      "enunciado": "Conforme jurisprudência do STF, “o exercício do poder constituinte de maneira legítima precisa estar acorde ao pensamento social vigente ao momento em que as alterações constitucionais são processadas. Esta é, em verdade, umas das implicações da teoria dos ‘momentos constitucionais’, desenvolvida por Bruce Ackerman” (STF, Tribunal Pleno, ADI n.º 7.047/DF, relator ministro Luiz Fux, julgamento em 1.º/12/2023, DJe-s/n.º, divulgação em 18/12/2023, publicação em 19/12/2023).\nNo que se refere ao poder constituinte, o STF entende que",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6.md (Questão 60)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "os estados-membros, ao editarem as respectivas constituições, não estão condicionados aos limites impostos pela Constituição Federal, pois atuam como poder constituinte originário."
+        },
+        {
+          "letra": "B",
+          "texto": "é cabível o controle jurisdicional da constitucionalidade de emendas constitucionais, observadas as limitações formais e materiais impostas pelo constituinte originário."
+        },
+        {
+          "letra": "C",
+          "texto": "o poder constituinte originário não está sujeito a limitação normativa formal, mas sim apenas a limitação normativa material."
+        },
+        {
+          "letra": "D",
+          "texto": "é vedado ao poder constituinte derivado alterar, por meio de emendas constitucionais, as chamadas cláusulas pétreas."
+        },
+        {
+          "letra": "E",
+          "texto": "não se admite o controle de constitucionalidade de emendas constitucionais."
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6.md#61",
+      "tema": "D5",
+      "assunto": "Tribunais de contas e Ministério Público de Contas (STF)",
+      "enunciado": "A respeito dos tribunais de contas conforme o entendimento jurisprudencial do STF, assinale a opção correta.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6.md (Questão 61)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O ingresso na carreira de membro do Ministério Público especial junto ao tribunal de contas dá-se mediante concurso público de provas e títulos, exigindo-se bacharelado em direito e dois anos de atividade jurídica."
+        },
+        {
+          "letra": "B",
+          "texto": "Os membros do Ministério Público de Contas gozam de todas as garantias conferidas aos membros do Ministério Público comum."
+        },
+        {
+          "letra": "C",
+          "texto": "O Ministério Público não tem legitimidade para executar decisões de tribunal de contas."
+        },
+        {
+          "letra": "D",
+          "texto": "Configura equiparação remuneratória a previsão normativa que autoriza o auditor de contas a receber os mesmos vencimentos e as mesmas vantagens do conselheiro de contas, quando aquele estiver atuando em substituição a este."
+        },
+        {
+          "letra": "E",
+          "texto": "Com base no princípio da simetria, a escolha do procurador-geral do Ministério Público junto ao tribunal de contas dos estados deve seguir a forma prevista na Constituição Federal de 1988 quanto à indicação do procurador-geral do Tribunal de Contas da União."
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6.md#62",
+      "tema": "D1",
+      "assunto": "Remédio constitucional: habeas data (STJ)",
+      "enunciado": "O habeas data visa assegurar o direito de obter informações relativas à pessoa do impetrante, e não referentes a terceiros, nos termos do inciso LXXII do art. 5.º da Constituição Federal de 1988. De acordo com a jurisprudência do STJ referente ao habeas data, é correto afirmar que",
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6.md (Questão 62)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a prova do anterior indeferimento do pedido de informação de dados pessoais, ou da omissão em atendê-lo, é requisito indispensável para que se concretize o interesse de agir."
+        },
+        {
+          "letra": "B",
+          "texto": "a petição inicial deve ser instruída com prova da recusa ao acesso às informações ou do decurso de mais de quinze dias sem decisão."
+        },
+        {
+          "letra": "C",
+          "texto": "é cabível sua impetração ainda que os registros ou bancos de dados não sejam compartilhados com terceiros, por servirem as informações apenas para orientação da política interna de negócios da própria entidade privada detentora das informações."
+        },
+        {
+          "letra": "D",
+          "texto": "é cabível, em ações de habeas data, a condenação em honorários advocatícios."
+        },
+        {
+          "letra": "E",
+          "texto": "compete ao STF processar e julgar, originariamente, o habeas data que tratar de ato praticado por ministro de Estado."
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6.md#63",
+      "tema": "D1",
+      "assunto": "Remédio constitucional: mandado de injunção (STF)",
+      "enunciado": "Consoante a jurisprudência do STF, é cabível a impetração de mandado de injunção quando",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6.md (Questão 63)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "se pretender discutir a abrangência e a eficácia de norma que houver regulamentado o exercício de prerrogativas inerentes à nacionalidade, à soberania ou à cidadania."
+        },
+        {
+          "letra": "B",
+          "texto": "omissão legislativa dificultar o exercício de direitos e liberdades constitucionalmente assegurados."
+        },
+        {
+          "letra": "C",
+          "texto": "houver incompatibilidade de norma regulamentadora editada com a Constituição Federal de 1988."
+        },
+        {
+          "letra": "D",
+          "texto": "estiver configurada mora em regulamentar norma constitucional de eficácia limitada que impõe o dever de legislar."
+        },
+        {
+          "letra": "E",
+          "texto": "houver conflito entre normas regulamentadoras que restrinjam o exercício de prerrogativas inerentes à nacionalidade, à soberania ou à cidadania."
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6.md#64",
+      "tema": "D1",
+      "assunto": "Nacionalidade: perda da nacionalidade brasileira (CF/88)",
+      "enunciado": "Nos termos da Constituição Federal de 1988, será declarada a perda da nacionalidade do brasileiro",
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6.md (Questão 64)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "cuja naturalização seja cancelada por sentença judicial devido a fraude relacionada ao processo de naturalização."
+        },
+        {
+          "letra": "B",
+          "texto": "que adquirir outra nacionalidade por naturalização voluntária."
+        },
+        {
+          "letra": "C",
+          "texto": "quando norma estrangeira impor ao brasileiro que estiver a residir em Estado estrangeiro a aquisição da nacionalidade do país onde se encontrar, para permitir a permanência dele em seu território."
+        },
+        {
+          "letra": "D",
+          "texto": "cuja naturalização seja cancelada por ato do ministro da Justiça em razão de atentado contra a ordem constitucional e o Estado democrático."
+        },
+        {
+          "letra": "E",
+          "texto": "quando norma estrangeira impor ao brasileiro que estiver a residir em Estado estrangeiro a aquisição da nacionalidade do país onde se encontrar, para permitir-lhe o exercício de direitos civis."
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6.md#71",
+      "tema": "D1",
+      "assunto": "ADI: emissão de moeda e vício de iniciativa (STF)",
+      "enunciado": "Foi publicada lei federal, de iniciativa do Poder Legislativo, que autorizou o Banco Central do Brasil a adquirir papel-moeda e moeda metálica fabricados fora do país por fornecedor estrangeiro, com o objetivo de abastecer o meio circulante nacional. Em face dos referidos dispositivos legais, foi proposta uma ação direta de inconstitucionalidade (ADI). Em suma, alegou o autor da ação a inconstitucionalidade da norma pelas seguintes razões:\nI a norma afronta o regime de exclusividade do Estado brasileiro de, por meio da União, emitir moeda;\nII o regime de exclusividade da atividade de emissão de moeda fundamenta-se na soberania nacional, portanto cabe à Casa da Moeda, por meio de outorga e sob monopólio, executar e prestar serviço público de emissão de moeda;\nIII a norma padece de vício de iniciativa, porquanto é vedado ao Poder Legislativo se imiscuir nos assuntos de política regulatória do Banco Central do Brasil.\nA partir da situação hipotética precedente, assinale a opção correta de acordo com a jurisprudência do STF.",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6.md (Questão 71)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Todas as razões alegadas pelo autor da ADI encontram amparo na jurisprudência do STF, portanto a norma deve ser declarada inconstitucional."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente a razão (I) encontra amparo na jurisprudência do STF, portanto a norma é parcialmente inconstitucional."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente as razões (II) e (III) encontram amparo na jurisprudência do STF, portanto a norma é parcialmente inconstitucional."
+        },
+        {
+          "letra": "D",
+          "texto": "Todas as razões alegadas pelo autor da ADI estão em desacordo com a jurisprudência do STF, portanto não cabe a declaração de inconstitucionalidade da norma com base em tais fundamentos."
+        },
+        {
+          "letra": "E",
+          "texto": "Somente a razão (III) encontra amparo na jurisprudência do STF, portanto a norma é parcialmente inconstitucional."
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6.md#91",
+      "tema": "D5",
+      "assunto": "Execução de multa aplicada por tribunal de contas (STF)",
+      "enunciado": "Determinado estado da Federação ajuizou reclamação no STF contra decisão colegiada do tribunal de justiça desse mesmo estado que havia reconhecido que o crédito decorrente de multa aplicada por aquele tribunal de contas a agente público municipal, por danos causados ao erário municipal, não poderia ser executada pelo estado-membro ao qual está vinculado o tribunal de contas.\nConsiderando a situação hipotética apresentada, assinale a opção correta de acordo com a jurisprudência do STF.",
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6.md (Questão 91)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A decisão questionada está de acordo com tese fixada pelo STF em paradigma de repercussão geral, motivo pelo qual a reclamação deve ser rejeitada, visto que o legitimado ativo para a execução do crédito relativo à multa é o ente municipal ao qual o agente público esteja subordinado."
+        },
+        {
+          "letra": "B",
+          "texto": "A reclamação deve ser conhecida e provida, porque há legitimidade concorrente entre estado e município para executar a multa e essa seria a medida processual idônea para a reforma da decisão."
+        },
+        {
+          "letra": "C",
+          "texto": "Embora haja legitimidade exclusiva do estado para executar a multa, a reclamação não pode ser utilizada como sucedâneo recursal no caso."
+        },
+        {
+          "letra": "D",
+          "texto": "A reclamação deve ser conhecida e provida, porque há legitimidade exclusiva do estado para executar a multa e essa seria a medida processual idônea para a reforma da decisão."
+        },
+        {
+          "letra": "E",
+          "texto": "Embora haja legitimidade concorrente entre estado e o próprio tribunal de contas para executar a multa, a reclamação não pode ser utilizada como sucedâneo recursal no caso."
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6.md#93",
+      "tema": "D10",
+      "assunto": "Lei 8.429/1992: indisponibilidade de bens em ação de improbidade",
+      "enunciado": "Em junho de 2024, o Ministério Público de determinado estado da Federação ajuizou ação de improbidade administrativa contra três servidores públicos municipais que haviam praticado conduta dolosa prevista na Lei de Improbidade Administrativa (Lei n.º 8.429/1992) e, com isso, causado lesão ao erário, conforme apurado administrativamente. Na petição inicial, o autor, embora tenha reconhecido não ter havido o enriquecimento ilícito dos réus, tendo ocorrido apenas imputação de lesão ao erário, requereu a indisponibilidade dos bens relativos a cada um deles, a fim de garantir a integral recomposição do dano causado ao erário.\nConsiderando essa situação hipotética, assinale a opção correta à luz da Lei de Improbidade Administrativa.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6.md (Questão 93)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "É vedado ao magistrado, em qualquer circunstância, deferir a medida de indisponibilidade dos bens dos réus antes da oitiva prévia de, pelo menos, um deles."
+        },
+        {
+          "letra": "B",
+          "texto": "O pedido de indisponibilidade dos bens dos réus deve ser indeferido, porque a tutela provisória de indisponibilidade dos bens dos réus somente seria admitida se tivesse havido o manifesto enriquecimento ilícito deles."
+        },
+        {
+          "letra": "C",
+          "texto": "Como o pedido de indisponibilidade de bens somente pode ser deferido quando requerido em caráter antecedente, o juiz deve determinar a emenda da petição inicial."
+        },
+        {
+          "letra": "D",
+          "texto": "A concessão da indisponibilidade dos bens dos réus independe da demonstração de perigo de dano irreparável no caso concreto."
+        },
+        {
+          "letra": "E",
+          "texto": "Caso o pedido de indisponibilidade dos bens dos réus seja deferido, o somatório dos valores declarados indisponíveis não poderá ultrapassar o montante total do prejuízo causado ao erário."
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6.md#100",
+      "tema": "D5",
+      "assunto": "Tribunal de contas: acesso a informações e sigilo fiscal (CTN/STF)",
+      "enunciado": "O TCE/PR formalizou, perante o fisco do Paraná, a requisição de informações relativas às inscrições de municípios paranaenses no âmbito da dívida ativa da fazenda pública do Paraná, bem como de informações sobre parcelamentos de determinados contribuintes e informações sobre benefícios fiscais concedidos a determinadas empresas.\nAcerca da situação hipotética precedente, assinale a opção correta, relativa a sigilo fiscal, em conformidade com o CTN e a jurisprudência do STF.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6.md (Questão 100)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O TCE/PR não tem competência para requisitar as informações solicitadas, uma vez que não lhe foi atribuída pelo ordenamento jurídico a prerrogativa de quebra de sigilo fiscal."
+        },
+        {
+          "letra": "B",
+          "texto": "O TCE/PR somente poderá ter acesso às informações relativas às inscrições de dívida ativa dos municípios paranaenses, uma vez que o direito ao sigilo fiscal desses entes é flexibilizado em razão da natureza pública que lhes é inerente."
+        },
+        {
+          "letra": "C",
+          "texto": "O TCE/PR tem legitimidade para a quebra de sigilo fiscal, de forma que poderá ter acesso a todos os dados requeridos, desde que o sigilo seja precedido da instauração de processo administrativo."
+        },
+        {
+          "letra": "D",
+          "texto": "O TCE/PR, embora não tenha legitimidade para a quebra de sigilo fiscal, poderá ter acesso aos dados solicitados, exceto àqueles relativos aos benefícios fiscais concedidos às empresas, pois ausente permissão legal nesse sentido."
+        },
+        {
+          "letra": "E",
+          "texto": "O TCE/PR, embora não tenha legitimidade para a quebra de sigilo fiscal, poderá ter acesso aos dados solicitados, uma vez que é autorizado pelo CTN o acesso a todas essas informações."
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.md#76",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 e IN SGD/ME 94/2022: julgamento por técnica e preço",
+      "enunciado": "No desenvolvimento dos estudos preliminares para a contratação de serviços, identificou-se que o objeto a ser contratado era classificado como bens e serviços especiais de tecnologia da informação e comunicação. Deliberou-se, então, que, no processo de licitação, seria admitido o julgamento com base em técnica e preço.\nConforme a Lei n.º 14.133/2021 e a Instrução Normativa SGD/ME n.º 94/2022, na situação hipotética apresentada,",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.md (Questão 76)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "deve ser adotado o critério de julgamento baseado em maior retorno econômico, caso os estudos preliminares comprovem que haja economia efetivamente obtida na execução do contrato, sendo vedada, nesse caso, a celebração de contrato de eficiência."
+        },
+        {
+          "letra": "B",
+          "texto": "a adoção do critério de julgamento baseado em técnica e preço é lícita, desde que devidamente justificada nos autos."
+        },
+        {
+          "letra": "C",
+          "texto": "para se utilizar o critério de julgamento baseado em técnica e preço, faz-se necessário combinar as modalidades de licitação pregão e diálogo competitivo, desde que o objeto possua padrões de desempenho e qualidade que possam ser objetivamente definidos no edital e, concomitantemente, seja caracterizado como inovação tecnológica ou técnica."
+        },
+        {
+          "letra": "D",
+          "texto": "a licitação é inexigível, sendo suficiente que o estudo técnico preliminar comprove que o objeto é composto de serviços especiais e majoritariamente dependentes de tecnologia sofisticada e de domínio restrito."
+        },
+        {
+          "letra": "E",
+          "texto": "cabe a dispensa da licitação, sendo suficiente que estudo técnico preliminar demonstre que a avaliação e a ponderação da qualidade técnica das propostas dos serviços especiais superam os requisitos mínimos relevantes aos fins pretendidos pela administração pública e estabelecidos no edital."
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.md#77",
+      "tema": "D9",
+      "assunto": "IN SGD/ME 94/2022: critérios de habilitação técnica e julgamento",
+      "enunciado": "Conforme dispõe a Instrução Normativa SGD/ME n.º 94/2022, os critérios para habilitação técnica e para julgamento das propostas devem ser definidos",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.md (Questão 77)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "pelo fiscal administrativo do contrato e pelo integrante técnico, respectivamente."
+        },
+        {
+          "letra": "B",
+          "texto": "pelo integrante administrativo e pelo fiscal técnico do contrato, respectivamente."
+        },
+        {
+          "letra": "C",
+          "texto": "pelo gestor do contrato e pelo fiscal técnico do contrato, respectivamente."
+        },
+        {
+          "letra": "D",
+          "texto": "pelo gestor do contrato."
+        },
+        {
+          "letra": "E",
+          "texto": "pelo integrante técnico."
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.md#78",
+      "tema": "D9",
+      "assunto": "IN SGD/ME 94/2022: gestão e fiscalização do contrato",
+      "enunciado": "À luz do modelo de gestão do contrato, considerando-se as regras da Instrução Normativa SGD/ME n.º 94/2022, é correto afirmar que a responsabilidade de acompanhar a manutenção das condições de habilitação do contratado cabe ao",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.md (Questão 78)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "fiscal administrativo do contrato, que, contudo, somente pode executar a atividade descrita com a anuência do gestor do contrato; além dessa atividade, o fiscal administrativo deve identificar não conformidades com os termos contratuais e apoiar o fiscal técnico na elaboração do termo de recebimento provisório."
+        },
+        {
+          "letra": "B",
+          "texto": "fiscal administrativo do contrato, que deve, ainda, anotar no histórico de gerenciamento do contrato todas as ocorrências relacionadas à execução do contrato."
+        },
+        {
+          "letra": "C",
+          "texto": "fiscal administrativo do contrato, que deve, ainda, avaliar a qualidade dos serviços realizados, a partir da aplicação das listas de verificação, em conjunto com o integrante requisitante do contrato."
+        },
+        {
+          "letra": "D",
+          "texto": "gestor do contrato, que também deve confeccionar o termo de recebimento definitivo."
+        },
+        {
+          "letra": "E",
+          "texto": "gestor do contrato, que também deve emitir notificações para a correção de rotinas ou de qualquer inexatidão ou irregularidade constatada e confeccionar o termo de recebimento provisório."
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.md#79",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021: pregão e critério de julgamento de maior desconto",
+      "enunciado": "Durante o curso de uma licitação regida pela Lei n.º 14.133/2021, observou-se que o objeto da contratação tinha padrão de desempenho e qualidade objetivamente definidos por meio de especificações usuais de mercado. Por se tratar de um serviço comum, decidiu-se que: (i) a modalidade de licitação obrigatoriamente seria o pregão; e (ii) o critério de julgamento seria o de maior desconto.\nA partir dessa situação hipotética, assinale a opção correta.",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.md (Questão 79)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ambas as decisões, (i) e (ii), são erradas: embora o pregão possa ser utilizado, ele não é imperioso no caso; não cabe o maior desconto como critério de julgamento no pregão, que é modalidade de licitação destinada à venda de objetos de tecnologia da informação legalmente apreendidos a quem oferecer o maior lance."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas a decisão (ii) é correta, pois, para aquisição de bens e serviços, pode ser utilizado o critério de julgamento de maior desconto, sendo a modalidade de licitação pregão preferencial, mas não obrigatória."
+        },
+        {
+          "letra": "C",
+          "texto": "A decisão (i) é errada, pois a modalidade de licitação pregão é vedada no caso; a decisão (ii) somente estará correta se o objeto da licitação envolver a escolha de trabalho técnico, cujo critério de julgamento deve ser o de maior desconto."
+        },
+        {
+          "letra": "D",
+          "texto": "Ambas as decisões, (i) e (ii), são corretas, pois é obrigatório, no caso em questão, utilizar a modalidade pregão, e o critério de julgamento poderá ser o de menor preço ou o de maior desconto."
+        },
+        {
+          "letra": "E",
+          "texto": "Ambas as decisões, (i) e (ii), são erradas: não é obrigatória a utilização do pregão para a contratação de serviços comuns; o critério de julgamento do maior desconto somente pode ser utilizado no diálogo competitivo, com o intuito de desenvolver uma ou mais alternativas capazes de atender às necessidades do contratante."
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.md#80",
+      "tema": "D9",
+      "assunto": "IN SGD/ME 94/2022: fiscalização em unidades desconcentradas",
+      "enunciado": "De acordo com a Instrução Normativa SGD/ME n.º 94/2022, o acompanhamento da execução do contrato de licitação nas unidades desconcentradas do órgão público contratante deve ficar a cargo do",
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.md (Questão 80)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "fiscal setorial do contrato, a quem cabe avaliar os aspectos técnicos."
+        },
+        {
+          "letra": "B",
+          "texto": "fiscal técnico do contrato, a quem cabe avaliar o contrato juntamente com o fiscal requisitante, por envolver unidades desconcentradas."
+        },
+        {
+          "letra": "C",
+          "texto": "fiscal técnico do contrato, a quem cabe avaliar os aspectos administrativos."
+        },
+        {
+          "letra": "D",
+          "texto": "fiscal técnico do contrato, a quem cabe avaliar somente os aspectos técnicos da execução do contrato."
+        },
+        {
+          "letra": "E",
+          "texto": "integrante requisitante do contrato, a quem cabe avaliar os aspectos administrativos."
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md#81",
+      "tema": "D8",
+      "assunto": "Gestão de riscos institucionais e linhas de defesa",
+      "enunciado": "Considere que o servidor responsável pela área de gestão de riscos de determinada organização pública esteja realizando, atualmente, o remodelamento da política de gestão de riscos institucionais e dos processos ligados à cadeia de valor. Acerca desse cenário hipotético, julgue os itens que se seguem.\nI Para que as tomadas de decisão pelas áreas sejam fluidas e céleres, o servidor deve apartar a gestão de riscos da condução dos processos organizacionais.\nII A priorização da fiscalização de políticas e serviços públicos de maior relevância para a sociedade com o uso da análise de riscos é um objetivo a ser considerado pelo servidor no remodelamento da política de riscos institucionais.\nIII O servidor deve considerar que os gestores são diretamente responsáveis por apoiar a cultura de gestão de riscos e por gerenciar riscos dentro de suas esferas de responsabilidade, constituindo a segunda linha de defesa.\nAssinale a opção correta.",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md (Questão 81)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas o item I está certo."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas o item II está certo."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas os itens I e III estão certos."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas os itens II e III estão certos."
+        },
+        {
+          "letra": "E",
+          "texto": "Todos os itens estão certos."
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md#82",
+      "tema": "D8",
+      "assunto": "Resposta a riscos: evitação do risco",
+      "enunciado": "A decisão organizacional de não iniciar ou de descontinuar uma atividade que enseje a possibilidade de risco ou, ainda, de desfazer-se do objeto sujeito ao risco está associada",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md (Questão 82)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "à protelação do risco."
+        },
+        {
+          "letra": "B",
+          "texto": "à aceitação do risco."
+        },
+        {
+          "letra": "C",
+          "texto": "à redução do risco."
+        },
+        {
+          "letra": "D",
+          "texto": "ao compartilhamento do risco."
+        },
+        {
+          "letra": "E",
+          "texto": "à evitação do risco."
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md#83",
+      "tema": "D6",
+      "assunto": "Ações de transparência pública e acesso às informações",
+      "enunciado": "Acerca das ações de transparência pública realizadas por órgãos e entidades jurisdicionados, assinale a opção correta.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md (Questão 83)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O esforço para o cumprimento do arcabouço legal referente ao acesso às informações públicas contribui para a transparência dos jurisdicionados, mas não para o controle da conduta de agentes públicos."
+        },
+        {
+          "letra": "B",
+          "texto": "O estabelecimento de modelos de gestão da estratégia que consideram aspectos como ampla divulgação colabora com os aspectos de transparência pública, mas não tem apresentado resultados promissores quanto à melhora do relacionamento com os usuários dos serviços públicos prestados."
+        },
+        {
+          "letra": "C",
+          "texto": "A reformulação de sítios eletrônicos para ampliar a acessibilidade às informações públicas auxilia na transparência, mas não no controle social, que deve ser fortalecido a partir de políticas públicas."
+        },
+        {
+          "letra": "D",
+          "texto": "Embora propicie menos transparência e controle, o crescente uso do pregão eletrônico tem reduzido o tempo dispensado aos processos de compras públicas e intensificado o relacionamento entre comprador e fornecedor."
+        },
+        {
+          "letra": "E",
+          "texto": "Mesmo com a prática de dados abertos, os jurisdicionados devem situar a transparência pública dentro de limites de exposição que não sejam conflitantes com a salvaguarda legal de informações."
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md#85",
+      "tema": "D8",
+      "assunto": "Boas práticas de accountability em organizações públicas",
+      "enunciado": "Configura uma boa prática das organizações públicas para assegurar a accountability",
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md (Questão 85)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o aumento da motivação para a denúncia de atos ilegais ou ilegítimos."
+        },
+        {
+          "letra": "B",
+          "texto": "a molificação na identificação de ilegalidades ou ineficiências na utilização dos recursos públicos."
+        },
+        {
+          "letra": "C",
+          "texto": "o alinhamento das decisões organizacionais aos interesses neocorporativistas."
+        },
+        {
+          "letra": "D",
+          "texto": "o direcionamento das atividades de auditoria interna para as prioridades de questões acessórias da organização."
+        },
+        {
+          "letra": "E",
+          "texto": "a garantia de que a liderança atenda aos critérios e perfis vinculados às necessidades e aos objetivos dos fornecedores de bens e serviços."
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md#86",
+      "tema": "D6",
+      "assunto": "Conselhos de políticas públicas: participação popular na gestão",
+      "enunciado": "Maria pertence ao conselho de gestores de políticas públicas da área de educação de seu município. No momento, o conselho se concentra nas atividades de estímulo à participação popular na gestão pública e às contribuições para a formulação e a disseminação de estratégias de informação para a sociedade sobre as aludidas políticas públicas governamentais.\nDe acordo com a descrição apresentada na situação hipotética precedente, o conselho do qual Maria participa desempenha atualmente a função",
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md (Questão 86)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "mobilizadora."
+        },
+        {
+          "letra": "B",
+          "texto": "fiscalizadora."
+        },
+        {
+          "letra": "C",
+          "texto": "observadora."
+        },
+        {
+          "letra": "D",
+          "texto": "deliberativa."
+        },
+        {
+          "letra": "E",
+          "texto": "consultiva."
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md#87",
+      "tema": "D8",
+      "assunto": "Governança pública: diretrizes e boas práticas",
+      "enunciado": "A respeito da aplicação de diretrizes e boas práticas de governança pelos órgãos sob a jurisdição do tribunal de contas, julgue os itens seguintes.\nI É legítimo que os gestores das organizações públicas considerem os interesses, os direitos e as expectativas das partes interessadas nos processos de tomada de decisão.\nII É de se esperar que os jurisdicionados estabeleçam processos decisórios transparentes, baseados em evidências, orientados a riscos e motivados pela equidade e pelo compromisso de atender ao interesse público.\nIII O mecanismo de liderança dos auditados deve se circunscrever à definição do modelo de governança e à promoção da integridade organizacional.\nIV As práticas para garantia da accountability e promoção da transparência devem estar abarcadas no mecanismo de controle organizacional.\nAssinale a opção correta.",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md (Questão 87)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas os itens I, II e III estão certos."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas os itens I, II e IV estão certos."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas os itens I, III e IV estão certos."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas os itens II, III e IV estão certos."
+        },
+        {
+          "letra": "E",
+          "texto": "Todos os itens estão certos."
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md#88",
+      "tema": "D8",
+      "assunto": "Princípios de governança pública: capacidade de resposta",
+      "enunciado": "O auditor de controle externo de determinado tribunal de contas averiguou que alguns dos jurisdicionados não vinham cumprindo com sua capacidade de minimizar as incertezas dos cidadãos quanto aos ambientes econômico, social e político. Considerando que uma organização pública deve se manter o mais fiel possível aos seus objetivos e diretrizes previamente definidos, passar segurança à sociedade em relação à sua atuação e, por fim, manter ações consistentes com a sua missão institucional, as características descritas na situação hipotética precedente evidenciam o desrespeito do princípio de governança pública denominado",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md (Questão 88)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "equidade e participação."
+        },
+        {
+          "letra": "B",
+          "texto": "integridade."
+        },
+        {
+          "letra": "C",
+          "texto": "capacidade de resposta."
+        },
+        {
+          "letra": "D",
+          "texto": "confiabilidade."
+        },
+        {
+          "letra": "E",
+          "texto": "transparência."
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md#91",
+      "tema": "D6",
+      "assunto": "Orçamento público participativo e parcerias governo–sociedade civil",
+      "enunciado": "A respeito do orçamento público participativo e das parcerias entre o governo e a sociedade civil, assinale a opção correta.",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md (Questão 91)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O trabalho das organizações da sociedade civil que desenvolvem projetos em rede deve pressupor a predominância da capilaridade, da verticalidade e da descentralização das ações."
+        },
+        {
+          "letra": "B",
+          "texto": "As relações de parceria entre o governo e as organizações da sociedade civil devem observar a priorização do controle de resultados e o uso de tecnologias de informação e comunicação."
+        },
+        {
+          "letra": "C",
+          "texto": "Ainda que o formato de elaboração do orçamento público participativo seja invariável, ele é um mecanismo governamental de democracia participativa."
+        },
+        {
+          "letra": "D",
+          "texto": "O processo do orçamento participativo costuma contar com assembleias fechadas e periódicas e etapas de negociação indireta com o governo."
+        },
+        {
+          "letra": "E",
+          "texto": "O engessamento orçamentário dos municípios não impede que a definição da aplicação dos recursos pela própria sociedade seja de grande vulto financeiro."
+        }
+      ]
+    },
+    {
+      "id": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md#92",
+      "tema": "D10",
+      "assunto": "Fatores de corrupção e controles preventivos organizacionais",
+      "enunciado": "No que concerne a fatores que influenciam a incidência de corrupção e fatores que promovem a qualidade das políticas públicas, assinale a opção correta.",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md (Questão 92)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A falta de mecanismos apropriados para apurar irregularidades e tomar as medidas necessárias à sanção dos responsáveis não impede as organizações de recuperarem os prejuízos financeiros causados por fraude e corrupção."
+        },
+        {
+          "letra": "B",
+          "texto": "O estabelecimento de política e plano de combate à fraude e à corrupção é uma prática que pertence aos controles preventivos organizacionais."
+        },
+        {
+          "letra": "C",
+          "texto": "A prevenção evita a ocorrência de corrupção e, habitualmente, é mais dispendiosa que as medidas corretivas."
+        },
+        {
+          "letra": "D",
+          "texto": "Embora poupe a reputação e a credibilidade da organização, a inércia no tratamento de denúncias gera um ambiente propício a irregularidades e à propagação de atos de fraude e corrupção."
+        },
+        {
+          "letra": "E",
+          "texto": "O risco de fraude e corrupção deve ser considerado já na etapa de avaliação ex post de políticas públicas, denominada análise de impacto."
+        }
+      ]
+    }
+  ]
+}

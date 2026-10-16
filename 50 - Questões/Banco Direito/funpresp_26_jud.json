@@ -1,0 +1,996 @@
+{
+  "concurso": "funpresp_26_jud",
+  "banca": "Cebraspe",
+  "itens": [
+    {
+      "id": "EMP1-u01",
+      "tema": "D1",
+      "assunto": "Direitos e garantias fundamentais (trabalho doméstico; eficácia contida; MS coletivo; tratados de DH; repouso semanal)",
+      "enunciado": "A duração do trabalho normal não superior a oito horas diárias e quarenta e quatro semanais, facultada a compensação de horários e a redução da jornada, mediante acordo ou convenção coletiva de trabalho, é um direito constitucional assegurado à categoria dos trabalhadores domésticos.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "EMP1 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 1"
+    },
+    {
+      "id": "EMP1-u02",
+      "tema": "D1",
+      "assunto": "Direitos e garantias fundamentais (trabalho doméstico; eficácia contida; MS coletivo; tratados de DH; repouso semanal)",
+      "enunciado": "É de eficácia contida a norma constitucional que afirma que qualquer discriminação atentatória dos direitos e liberdades fundamentais será punida por lei.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "EMP1 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 1"
+    },
+    {
+      "id": "EMP1-u03",
+      "tema": "D1",
+      "assunto": "Direitos e garantias fundamentais (trabalho doméstico; eficácia contida; MS coletivo; tratados de DH; repouso semanal)",
+      "enunciado": "O mandado de segurança coletivo pode ser impetrado por associação, desde que seja legalmente constituída e em funcionamento há pelo menos seis meses.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "EMP1 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 1"
+    },
+    {
+      "id": "EMP1-u04",
+      "tema": "D1",
+      "assunto": "Direitos e garantias fundamentais (trabalho doméstico; eficácia contida; MS coletivo; tratados de DH; repouso semanal)",
+      "enunciado": "Os tratados internacionais sobre direitos humanos serão equivalentes às emendas constitucionais, se forem aprovados, em cada Casa do Congresso Nacional, em dois turnos, por maioria simples dos votos dos respectivos membros.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "EMP1 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 1"
+    },
+    {
+      "id": "EMP1-u05",
+      "tema": "D1",
+      "assunto": "Direitos e garantias fundamentais (trabalho doméstico; eficácia contida; MS coletivo; tratados de DH; repouso semanal)",
+      "enunciado": "Um dos direitos dos trabalhadores previstos no texto constitucional é o repouso semanal remunerado, concedido preferencialmente aos domingos.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "EMP1 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 1"
+    },
+    {
+      "id": "EMP1-u06",
+      "tema": "D1",
+      "assunto": "Nepotismo e princípio da impessoalidade",
+      "enunciado": "A nomeação do filho de Caio tem amparo legal, porquanto, de acordo com entendimento firmado pelo STF, apenas a indicação de familiares para cargos políticos configura nepotismo.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "EMP1 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 1"
+    },
+    {
+      "id": "EMP1-u07",
+      "tema": "D3",
+      "assunto": "Administração direta e indireta; empresa pública; cargos comissionados",
+      "enunciado": "Denomina-se ministério a unidade de atuação integrante da estrutura da administração direta com personalidade jurídica de direito público.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "EMP1 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 1"
+    },
+    {
+      "id": "EMP1-u08",
+      "tema": "D3",
+      "assunto": "Administração direta e indireta; empresa pública; cargos comissionados",
+      "enunciado": "A nomeação realizada por Caio não configura ato administrativo, porquanto o ato nomeador foi praticado por agente público sem cargo efetivo.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "EMP1 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 1"
+    },
+    {
+      "id": "EMP1-u09",
+      "tema": "D3",
+      "assunto": "Administração direta e indireta; empresa pública; cargos comissionados",
+      "enunciado": "A empresa pública criada constitui, em termos jurídicos, entidade descentralizada com personalidade jurídica de direito privado.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "EMP1 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 1"
+    },
+    {
+      "id": "EMP1-u10",
+      "tema": "D3",
+      "assunto": "Administração direta e indireta; empresa pública; cargos comissionados",
+      "enunciado": "A investidura em cargo comissionado independe de aprovação prévia em concurso público, sendo tal cargo declarado em lei de livre nomeação e exoneração, independentemente de motivação.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "EMP1 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 1"
+    },
+    {
+      "id": "EMP1-u11",
+      "tema": "D3",
+      "assunto": "Administração direta e indireta; empresa pública; cargos comissionados",
+      "enunciado": "A criação da empresa pública somente poderia ser autorizada por meio de lei ordinária específica.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "EMP1 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 1"
+    },
+    {
+      "id": "EMP1-u12",
+      "tema": "D3",
+      "assunto": "Servidores públicos (RPPS; adicional para atividades penosas/insalubres/perigosas)",
+      "enunciado": "Com relação ao regime próprio de previdência social dos servidores titulares de cargos efetivos, nenhuma lei poderá estabelecer qualquer forma de contagem de tempo de contribuição fictício.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "EMP1 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 1"
+    },
+    {
+      "id": "EMP1-u13",
+      "tema": "D10",
+      "assunto": "Improbidade administrativa (Lei 8.429/1992)",
+      "enunciado": "Além de outras sanções, os atos de improbidade administrativa importarão a cassação dos direitos políticos.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "EMP1 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 1"
+    },
+    {
+      "id": "EMP1-u14",
+      "tema": "D3",
+      "assunto": "Servidores públicos (RPPS; adicional para atividades penosas/insalubres/perigosas)",
+      "enunciado": "O adicional de remuneração para as atividades penosas, insalubres ou perigosas é direito que se aplica aos servidores ocupantes de cargo público.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "EMP1 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 1"
+    },
+    {
+      "id": "EMP1-u15",
+      "tema": "D4",
+      "assunto": "Decisão administrativa, motivação e autotutela (revogação x anulação; licença; Lei 9.784/1999)",
+      "enunciado": "Toda revogação de licença deve ser motivada com a necessária indicação dos fatos e dos fundamentos jurídicos pertinentes.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "EMP1 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 1"
+    },
+    {
+      "id": "EMP1-u16",
+      "tema": "D4",
+      "assunto": "Decisão administrativa, motivação e autotutela (revogação x anulação; licença; Lei 9.784/1999)",
+      "enunciado": "A revogação da licença está eivada de incorreção, uma vez que o ato praticado deveria ter sido anulado, e não revogado.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "EMP1 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 1"
+    },
+    {
+      "id": "EMP1-u17",
+      "tema": "D4",
+      "assunto": "Decisão administrativa, motivação e autotutela (revogação x anulação; licença; Lei 9.784/1999)",
+      "enunciado": "Ato revocatório de licença caracteriza autotutela administrativa, que compreende a prerrogativa de imposição da vontade administrativa, independentemente de recurso ao Poder Judiciário.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "EMP1 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 1"
+    },
+    {
+      "id": "EMP1-u18",
+      "tema": "D4",
+      "assunto": "Decisão administrativa, motivação e autotutela (revogação x anulação; licença; Lei 9.784/1999)",
+      "enunciado": "A licença constitui ato administrativo vinculado classificado como ato negocial.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "EMP1 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 1"
+    },
+    {
+      "id": "EMP1-u19",
+      "tema": "D1",
+      "assunto": "Poder Judiciário (RPV; subsídio dos ministros dos tribunais superiores)",
+      "enunciado": "Para fins de requisição de pequeno valor (RPV), cada ente da Federação pode fixar, por lei própria, valores diferentes segundo as suas capacidades econômicas, não podendo o valor ser menor que o maior benefício do regime geral de previdência social.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "EMP1 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 1"
+    },
+    {
+      "id": "EMP1-u20",
+      "tema": "D1",
+      "assunto": "Poder Judiciário (RPV; subsídio dos ministros dos tribunais superiores)",
+      "enunciado": "O subsídio dos ministros dos tribunais superiores deve corresponder a 95% do subsídio mensal fixado para os ministros do Supremo Tribunal Federal.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "EMP1 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 1"
+    },
+    {
+      "id": "EMP1-85",
+      "tema": "D10",
+      "assunto": "Improbidade administrativa (Lei 8.429/1992)",
+      "enunciado": "As alterações da Lei n.º 8.429/1992 que exigem dolo específico para a configuração do ato de improbidade retroagem para alcançar fatos anteriores à sua vigência, em razão do princípio da retroatividade da lei mais benéfica.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "EMP1 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 1"
+    },
+    {
+      "id": "EMP1-86",
+      "tema": "D10",
+      "assunto": "Improbidade administrativa (Lei 8.429/1992)",
+      "enunciado": "As sentenças proferidas em ações de improbidade administrativa não se sujeitam ao reexame necessário, independentemente do valor da condenação ou da natureza da decisão.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "EMP1 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 1"
+    },
+    {
+      "id": "EMP1-87",
+      "tema": "D10",
+      "assunto": "Improbidade administrativa (Lei 8.429/1992)",
+      "enunciado": "A legitimidade ativa para a propositura de ação de improbidade administrativa é exclusiva do Ministério Público, de modo que eventual ajuizamento direto por pessoa jurídica de direito público interessada acarreta extinção do processo sem resolução do mérito por ilegitimidade ativa.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "EMP1 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 1"
+    },
+    {
+      "id": "EMP1-88",
+      "tema": "D10",
+      "assunto": "Improbidade administrativa (Lei 8.429/1992)",
+      "enunciado": "É constitucional e juridicamente válida a conversão, na fase de cumprimento de sentença, da pena de perda de cargo público em cassação de aposentadoria caso o agente público condenado por improbidade já se encontre inativo ao tempo da execução.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "EMP1 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 1"
+    },
+    {
+      "id": "EMP1-103",
+      "tema": "D7",
+      "assunto": "LGPD: conceitos, princípios e sanções administrativas",
+      "enunciado": "De acordo com a Lei Geral de Proteção de Dados Pessoais, no âmbito das relações de consumo, às hipóteses de violação do direito do titular dos dados não se aplicam as regras de responsabilidade previstas na legislação pertinente.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "EMP1 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 1"
+    },
+    {
+      "id": "EMP1-105",
+      "tema": "D4",
+      "assunto": "Decisão administrativa, motivação e autotutela (revogação x anulação; licença; Lei 9.784/1999)",
+      "enunciado": "Nos termos da Lei n.º 9.784/1999, a motivação do ato administrativo deve ser explícita, clara e congruente, razão pela qual é defeso à autoridade administrativa utilizar-se da fundamentação per relationem ou aliunde.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "EMP1 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 1"
+    },
+    {
+      "id": "EMP1-106",
+      "tema": "D9",
+      "assunto": "Licitações e contratos (Regulamento Interno FUNPRESP-JUD; pregão; registro de preços; Lei das Estatais)",
+      "enunciado": "De acordo com o Regulamento Interno de Licitações e Contratos da FUNPRESP-JUD, nenhum procedimento licitatório será instaurado sem a existência de recursos orçamentários devidamente aprovados, sendo vedada, em qualquer caso, a autorização de despesa não prevista.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "EMP1 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 1"
+    },
+    {
+      "id": "EMP1-107",
+      "tema": "D9",
+      "assunto": "Licitações e contratos (Regulamento Interno FUNPRESP-JUD; pregão; registro de preços; Lei das Estatais)",
+      "enunciado": "As licitações na modalidade de pregão, na forma eletrônica, somente deverão ser realizadas em portais de compras de acesso público na Internet.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "EMP1 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 1"
+    },
+    {
+      "id": "EMP1-109",
+      "tema": "D9",
+      "assunto": "Licitações e contratos (Regulamento Interno FUNPRESP-JUD; pregão; registro de preços; Lei das Estatais)",
+      "enunciado": "A realização de licitação por empresas públicas e sociedades de economia mista será dispensável quando as propostas apresentadas consignarem preços manifestamente superiores aos praticados no mercado nacional ou incompatíveis com os fixados pelos órgãos oficiais competentes.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "EMP1 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 1"
+    },
+    {
+      "id": "EMP1-110",
+      "tema": "D9",
+      "assunto": "Licitações e contratos (Regulamento Interno FUNPRESP-JUD; pregão; registro de preços; Lei das Estatais)",
+      "enunciado": "Pregão e concorrência são modalidades compatíveis com o processo licitatório para registro de preços.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "EMP1 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 1"
+    },
+    {
+      "id": "EMP1-111",
+      "tema": "D1",
+      "assunto": "Mandado de segurança (parecer do Ministério Público)",
+      "enunciado": "Segundo a Lei n.º 12.016/2009, a decisão relativa à concessão de mandado de segurança pelo juízo competente prescinde de parecer do Ministério Público.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "EMP1 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 1"
+    },
+    {
+      "id": "EMP2-u01",
+      "tema": "D9",
+      "assunto": "Licitações e contratos (Regulamento Interno FUNPRESP-JUD; pregão; registro de preços; Lei das Estatais)",
+      "enunciado": "No caso de inaplicabilidade de licitação, a FUNPRESP-JUD poderá realizar chamada pública, direcionada estritamente a entidades privadas.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "EMP2 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 2"
+    },
+    {
+      "id": "EMP2-u02",
+      "tema": "D9",
+      "assunto": "Licitações e contratos (Regulamento Interno FUNPRESP-JUD; pregão; registro de preços; Lei das Estatais)",
+      "enunciado": "O critério de julgamento pelo menor preço ou pelo maior desconto e a vedação da exigência de garantia de proposta são requisitos para a realização de procedimento licitatório na modalidade pregão FUNPRESP-JUD.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "EMP2 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 2"
+    },
+    {
+      "id": "EMP2-u03",
+      "tema": "D3",
+      "assunto": "Concessões e permissões de serviços públicos (encampação)",
+      "enunciado": "A encampação da concessão representa a retomada do serviço pelo poder concedente durante o prazo contratual por motivo de interesse público, demandando lei autorizativa específica e indenização prévia.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "EMP2 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 2"
+    },
+    {
+      "id": "EMP2-u04",
+      "tema": "D3",
+      "assunto": "Administração direta e indireta; empresa pública; cargos comissionados",
+      "enunciado": "Por integrarem a administração indireta, as sociedades de economia mista possuem personalidade jurídica de direito público e são criadas mediante publicação de lei específica.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "EMP2 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 2"
+    },
+    {
+      "id": "EMP2-53",
+      "tema": "D9",
+      "assunto": "Licitações e contratos (Regulamento Interno FUNPRESP-JUD; pregão; registro de preços; Lei das Estatais)",
+      "enunciado": "Os contratos provenientes do sistema de registro de preços podem ser acrescidos ou suprimidos em até 25% do seu valor, nas mesmas condições contratuais, caso o contratado aceite o aditamento proposto.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "EMP2 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 2"
+    },
+    {
+      "id": "EMP2-86",
+      "tema": "D8",
+      "assunto": "Governança corporativa e gestão de riscos (controles internos, comitê de auditoria, COSO, ISO 31000, PLD)",
+      "enunciado": "Conflitos de interesse e falhas de transparência não são objeto da gestão de riscos, porque não se classificam como riscos organizacionais.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "EMP2 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 2"
+    },
+    {
+      "id": "EMP2-87",
+      "tema": "D8",
+      "assunto": "Governança corporativa e gestão de riscos (controles internos, comitê de auditoria, COSO, ISO 31000, PLD)",
+      "enunciado": "A gestão de riscos deve ser aplicada após a execução do planejamento estratégico, pois sua função se restringe à correção de falhas identificadas.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "EMP2 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 2"
+    },
+    {
+      "id": "EMP2-88",
+      "tema": "D8",
+      "assunto": "Governança corporativa e gestão de riscos (controles internos, comitê de auditoria, COSO, ISO 31000, PLD)",
+      "enunciado": "A auditoria interna de uma organização deve exercer função preventiva e propor aperfeiçoamentos para fortalecer programas de compliance.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "EMP2 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 2"
+    },
+    {
+      "id": "EMP2-89",
+      "tema": "D8",
+      "assunto": "Governança corporativa e gestão de riscos (controles internos, comitê de auditoria, COSO, ISO 31000, PLD)",
+      "enunciado": "No contexto da gestão pública, a governança restringe-se à atuação dos órgãos de controle externo e à fiscalização da legalidade administrativa.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "EMP2 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 2"
+    },
+    {
+      "id": "EMP2-90",
+      "tema": "D6",
+      "assunto": "Transparência e accountability (audiências públicas e divulgação orçamentária)",
+      "enunciado": "Uma prefeitura que realiza audiências públicas para discutir o plano plurianual e divulga previamente dados orçamentários em linguagem acessível aplica simultaneamente os princípios da transparência e da accountability.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "EMP2 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 2"
+    },
+    {
+      "id": "EMP2-103",
+      "tema": "D8",
+      "assunto": "Governança corporativa e gestão de riscos (controles internos, comitê de auditoria, COSO, ISO 31000, PLD)",
+      "enunciado": "A secretaria de governança, órgão de apoio técnico, pode, entre outras atribuições, coordenar fluxos de informações estratégicas, auxiliar os conselhos e acompanhar os riscos institucionais.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "EMP2 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 2"
+    },
+    {
+      "id": "EMP2-104",
+      "tema": "D8",
+      "assunto": "Governança corporativa e gestão de riscos (controles internos, comitê de auditoria, COSO, ISO 31000, PLD)",
+      "enunciado": "Conselhos e comitês técnicos fortalecem o processo de deliberação institucional e reduzem a concentração decisória.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "EMP2 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 2"
+    },
+    {
+      "id": "EMP2-105",
+      "tema": "D8",
+      "assunto": "Governança corporativa e gestão de riscos (controles internos, comitê de auditoria, COSO, ISO 31000, PLD)",
+      "enunciado": "O conselho fiscal é o órgão responsável pela execução direta das estratégias financeiras da instituição.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "EMP2 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 2"
+    },
+    {
+      "id": "EMP2-106",
+      "tema": "D9",
+      "assunto": "Licitações e contratos (Regulamento Interno FUNPRESP-JUD; pregão; registro de preços; Lei das Estatais)",
+      "enunciado": "No âmbito das licitações para contratação de obras e serviços realizada por empresas públicas, caso o critério de julgamento adotado seja o de menor preço, o prazo mínimo para a apresentação de propostas ou lances será de 15 dias corridos, contados a partir da divulgação do instrumento convocatório.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "EMP2 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 2"
+    },
+    {
+      "id": "EMP2-107",
+      "tema": "D9",
+      "assunto": "Licitações e contratos (Regulamento Interno FUNPRESP-JUD; pregão; registro de preços; Lei das Estatais)",
+      "enunciado": "A duração dos contratos destinados à prestação de serviços às empresas públicas não poderá exceder o prazo de 5 anos, contado a partir da data de sua celebração, exceto para projetos contemplados no plano de negócios e investimentos da empresa pública, caso em que o contrato poderá ser realizado por prazo indeterminado.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "EMP2 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 2"
+    },
+    {
+      "id": "EMP2-108",
+      "tema": "D9",
+      "assunto": "Licitações e contratos (Regulamento Interno FUNPRESP-JUD; pregão; registro de preços; Lei das Estatais)",
+      "enunciado": "Nos contratos regidos pela Lei das Estatais, a inclusão de matriz de riscos é considerada cláusula facultativa, devendo sua utilização ser justificada tecnicamente apenas nos regimes de contratação integrada.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "EMP2 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 2"
+    },
+    {
+      "id": "EMP2-109",
+      "tema": "D9",
+      "assunto": "Licitações e contratos (Regulamento Interno FUNPRESP-JUD; pregão; registro de preços; Lei das Estatais)",
+      "enunciado": "É dispensável a realização de licitação por empresas públicas para a contratação de serviços que não sejam de engenharia e compras no valor de até R$ 50.000 e para alienações, desde que não se refiram a parcelas de um mesmo serviço, compra ou alienação de maior vulto que possa ser realizado de uma só vez.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "EMP2 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 2"
+    },
+    {
+      "id": "EMP3-u01",
+      "tema": "D5",
+      "assunto": "Controle externo (Legislativo/TCU; mérito de atos discricionários; controle repressivo)",
+      "enunciado": "Sob a égide do princípio da separação de Poderes, o controle externo é absolutamente impedido de examinar o mérito de atos discricionários do administrador público.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "EMP3 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 3"
+    },
+    {
+      "id": "EMP3-u02",
+      "tema": "D10",
+      "assunto": "Anticorrupção (Lei 12.846/2013): responsabilização de pessoas jurídicas",
+      "enunciado": "A responsabilização administrativa e civil de pessoas jurídicas prevista na Lei Anticorrupção independe da responsabilização individual de seus dirigentes ou administradores.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "EMP3 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 3"
+    },
+    {
+      "id": "EMP3-u03",
+      "tema": "D8",
+      "assunto": "Governança corporativa e gestão de riscos (controles internos, comitê de auditoria, COSO, ISO 31000, PLD)",
+      "enunciado": "Segundo o modelo COSO de controle interno, o gerenciamento de riscos corporativos constitui atividade restrita à alta administração, não integrando as atividades operacionais ordinárias nem os processos internos de monitoramento contínuo da organização.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "EMP3 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 3"
+    },
+    {
+      "id": "EMP3-53",
+      "tema": "D8",
+      "assunto": "Controles internos e segregação de funções",
+      "enunciado": "Entre as características de um sistema de controle interno eficiente destaca-se a segregação de funções.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "EMP3 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 3"
+    },
+    {
+      "id": "EMP3-54",
+      "tema": "D8",
+      "assunto": "Controles internos e segregação de funções",
+      "enunciado": "O sistema de controle interno é concebido como um processo estruturado, conduzido pelo conselho de administração e pela gerência da entidade e destinado a fornecer segurança absoluta quanto à realização dos seus objetivos.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "EMP3 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 3"
+    },
+    {
+      "id": "EMP3-56",
+      "tema": "D5",
+      "assunto": "Controle externo (Legislativo/TCU; mérito de atos discricionários; controle repressivo)",
+      "enunciado": "A forma de controle externo exercida mediante a realização de inspeções e auditorias nos órgãos públicos é denominada controle repressivo.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "EMP3 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 3"
+    },
+    {
+      "id": "EMP3-57",
+      "tema": "D5",
+      "assunto": "Controle externo (Legislativo/TCU; mérito de atos discricionários; controle repressivo)",
+      "enunciado": "O princípio da eficiência permite ao órgão de controle externo relevar a inobservância da legalidade formal pelo gestor, desde que provado que a decisão adotada foi benéfica para o interesse público.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "EMP3 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 3"
+    },
+    {
+      "id": "EMP3-58",
+      "tema": "D5",
+      "assunto": "Controle externo (Legislativo/TCU; mérito de atos discricionários; controle repressivo)",
+      "enunciado": "O controle externo exercido pelo Poder Legislativo, com o auxílio do tribunal de contas, incide sobre a legalidade dos atos de admissão de pessoal na administração pública direta e indireta, mas não alcança o exame da conveniência e da oportunidade de tais contratações.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "EMP3 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 3"
+    },
+    {
+      "id": "EMP3-59",
+      "tema": "D5",
+      "assunto": "Controle externo (Legislativo/TCU; mérito de atos discricionários; controle repressivo)",
+      "enunciado": "De acordo com a técnica de elaboração de papéis de trabalho, toda evidência obtida deve apresentar marcas de auditoria (ticks) explicativas, sob pena de a prova ser considerada insuficiente para sustentar a opinião do auditor.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "EMP3 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 3"
+    },
+    {
+      "id": "EMP3-63",
+      "tema": "D8",
+      "assunto": "Governança corporativa e gestão de riscos (controles internos, comitê de auditoria, COSO, ISO 31000, PLD)",
+      "enunciado": "Dada a natureza restrita das EFPC, a elas não se aplica a obrigatoriedade de instituir políticas de prevenção à lavagem de dinheiro e ao financiamento do terrorismo.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "EMP3 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 3"
+    },
+    {
+      "id": "EMP3-64",
+      "tema": "D8",
+      "assunto": "Governança corporativa e gestão de riscos (controles internos, comitê de auditoria, COSO, ISO 31000, PLD)",
+      "enunciado": "É inviável a adoção de controles internos ou mecanismos de gestão capazes de mitigar os impactos financeiros decorrentes da oscilação das taxas de juros e o aumento da inflação, visto que taxa de juros e inflação são variáveis macroeconômicas que estão fora do controle da administração da entidade.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "EMP3 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 3"
+    },
+    {
+      "id": "EMP3-65",
+      "tema": "D8",
+      "assunto": "Governança corporativa e gestão de riscos (controles internos, comitê de auditoria, COSO, ISO 31000, PLD)",
+      "enunciado": "O risco operacional é definido como a possibilidade de ocorrência de perdas resultantes de falhas, deficiências ou inadequação de processos internos, pessoas e sistemas, ou de eventos externos.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "EMP3 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 3"
+    },
+    {
+      "id": "EMP3-66",
+      "tema": "D8",
+      "assunto": "Governança corporativa e gestão de riscos (controles internos, comitê de auditoria, COSO, ISO 31000, PLD)",
+      "enunciado": "O comitê de auditoria deve ser composto majoritariamente por conselheiros internos ou executivos, de modo a ampliar a integração com a gestão operacional.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "EMP3 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 3"
+    },
+    {
+      "id": "EMP3-67",
+      "tema": "D8",
+      "assunto": "Governança corporativa e gestão de riscos (controles internos, comitê de auditoria, COSO, ISO 31000, PLD)",
+      "enunciado": "Nas organizações com estrutura formal de governança corporativa, a auditoria interna tende a subordinar-se ao conselho de administração por intermédio do comitê de auditoria.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "EMP3 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 3"
+    },
+    {
+      "id": "EMP3-68",
+      "tema": "D8",
+      "assunto": "Governança corporativa e gestão de riscos (controles internos, comitê de auditoria, COSO, ISO 31000, PLD)",
+      "enunciado": "Entre as atribuições do comitê de auditoria inclui-se a supervisão das atividades da auditoria interna, abrangendo a qualidade dos trabalhos, planejamento anual e resultados obtidos.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "EMP3 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 3"
+    },
+    {
+      "id": "EMP3-69",
+      "tema": "D8",
+      "assunto": "Governança corporativa e gestão de riscos (controles internos, comitê de auditoria, COSO, ISO 31000, PLD)",
+      "enunciado": "A governança corporativa pode ser compreendida como um sistema por meio do qual as organizações são dirigidas, monitoradas e incentivadas.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "EMP3 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 3"
+    },
+    {
+      "id": "EMP3-70",
+      "tema": "D8",
+      "assunto": "Governança corporativa e gestão de riscos (controles internos, comitê de auditoria, COSO, ISO 31000, PLD)",
+      "enunciado": "A governança corporativa em instituições públicas envolve os relacionamentos entre acionistas, diretoria e conselho de administração, sem abranger órgãos de controle, como os de auditoria interna e externa.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "EMP3 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 3"
+    },
+    {
+      "id": "EMP3-92",
+      "tema": "D7",
+      "assunto": "LGPD: conceitos, princípios e sanções administrativas",
+      "enunciado": "Em caso de infrações cometidas contra as normas previstas na LGPD, os agentes de tratamento de dados ficam sujeitos a sanções administrativas, que podem variar desde advertências, com indicação de prazo para adoção de medidas corretivas, à proibição parcial ou total do exercício de atividades relacionadas a tratamento de dados.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "EMP3 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 3"
+    },
+    {
+      "id": "EMP3-94",
+      "tema": "D8",
+      "assunto": "Governança corporativa e gestão de riscos (controles internos, comitê de auditoria, COSO, ISO 31000, PLD)",
+      "enunciado": "De acordo com o modelo COSO, o ambiente de controle é considerado fundamento da estrutura de controles internos, abrangendo aspectos relacionados à ética, integridade, estrutura organizacional e definição de responsabilidades dentro da entidade.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "EMP3 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 3"
+    },
+    {
+      "id": "EMP3-95",
+      "tema": "D8",
+      "assunto": "Governança corporativa e gestão de riscos (controles internos, comitê de auditoria, COSO, ISO 31000, PLD)",
+      "enunciado": "A ISO 31.000 estabelece modelo normativo obrigatório de certificação internacional para sistemas de gestão de riscos, impondo requisitos vinculantes exclusivamente às organizações do setor financeiro.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "EMP3 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 3"
+    },
+    {
+      "id": "EMP3-118",
+      "tema": "D2",
+      "assunto": "Conflito de interesses (EFPC)",
+      "enunciado": "Na situação narrada, o conflito de interesses na EFPC somente seria configurado caso houvesse a efetiva obtenção de vantagem financeira por algum gestor ou a comprovação de prejuízo material mensurável ao plano de benefícios.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "EMP3 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 3"
+    },
+    {
+      "id": "EMP3-119",
+      "tema": "D8",
+      "assunto": "Controles internos e segregação de funções",
+      "enunciado": "No quadro de pessoal e de prestadores de serviços da EFPC, deve haver efetiva segregação de atividades e funções para se evitar que uma mesma pessoa assuma simultaneamente responsabilidades das quais decorram interesses conflitantes, exceto nas hipóteses em que a acumulação de responsabilidades ocorra de forma meramente esporádica ou eventual.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "EMP3 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 3"
+    },
+    {
+      "id": "EMP3-120",
+      "tema": "D8",
+      "assunto": "Controles internos e segregação de funções",
+      "enunciado": "Todas as deficiências de controles internos, sejam elas identificadas pelas próprias áreas, pela auditoria interna ou por qualquer outra instância de controle, devem ser reportadas em tempo hábil ao nível gerencial adequado e ao conselho fiscal, e tratadas prontamente.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "EMP3 — PROVA OBJETIVA CONHECIMENTOS ESPECÍFICOS EMPREGO 3"
+    },
+    {
+      "id": "GER1-u01",
+      "tema": "D2",
+      "assunto": "Ética e princípios/valores corporativos (compliance; transparência; assédio e discriminação)",
+      "enunciado": "Um comitê de compliance age de forma ética ao punir rigorosamente diretor que tenha fraudado relatório financeiro, ainda que a fraude tenha evitado a demissão imediata de centenas de colaboradores da organização.",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "GER1 — PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O EMPREGO 1"
+    },
+    {
+      "id": "GER1-u02",
+      "tema": "D2",
+      "assunto": "Código de Ética e de Conduta da FUNPRESP-JUD (informação privilegiada; responsabilidade; brindes; resultados)",
+      "enunciado": "A proibição do uso de informação privilegiada pelos colaboradores da FUNPRESP-JUD está condicionada à ocorrência de efetivo prejuízo financeiro ou patrimonial para a fundação.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "GER1 — PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O EMPREGO 1"
+    },
+    {
+      "id": "GER1-u03",
+      "tema": "D8",
+      "assunto": "Programas de integridade (Política e Programa de Integridade da FUNPRESP-JUD)",
+      "enunciado": "O Comitê de Riscos e Integridade da FUNPRESP-JUD, órgão de assessoramento temático à governança, é responsável pela fiscalização e pelo monitoramento da implementação do Programa de Integridade da FUNPRESP-JUD.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "GER1 — PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O EMPREGO 1"
+    },
+    {
+      "id": "GER1-u04",
+      "tema": "D8",
+      "assunto": "Programas de integridade (Política e Programa de Integridade da FUNPRESP-JUD)",
+      "enunciado": "A Política de Integridade da FUNPRESP-JUD tem como objetivo principal estabelecer padrões de conduta para minimizar potenciais riscos financeiros decorrentes de investimentos.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "GER1 — PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O EMPREGO 1"
+    },
+    {
+      "id": "GER1-u05",
+      "tema": "D8",
+      "assunto": "Programas de integridade (Política e Programa de Integridade da FUNPRESP-JUD)",
+      "enunciado": "O Programa de Integridade da FUNPRESP-JUD define-se normativamente como a adesão institucional contínua e o alinhamento consistente aos valores, aos princípios e às normas de alto padrão ético que norteiam o propósito da fundação.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "GER1 — PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O EMPREGO 1"
+    },
+    {
+      "id": "GER1-u06",
+      "tema": "D8",
+      "assunto": "Programas de integridade (Política e Programa de Integridade da FUNPRESP-JUD)",
+      "enunciado": "O Programa de Integridade da FUNPRESP-JUD, cujo caráter é essencialmente preventivo, tem o objetivo de identificar e gerir os riscos de integridade inerentes à fundação.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "GER1 — PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O EMPREGO 1"
+    },
+    {
+      "id": "GER1-u07",
+      "tema": "D7",
+      "assunto": "LGPD: conceitos, princípios e sanções administrativas",
+      "enunciado": "O dado pessoal qualifica-se formalmente, conforme o ordenamento jurídico, como qualquer informação relacionada a uma pessoa natural identificada ou puramente identificável.",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "GER1 — PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O EMPREGO 1"
+    },
+    {
+      "id": "GER1-u08",
+      "tema": "D7",
+      "assunto": "LGPD: conceitos, princípios e sanções administrativas",
+      "enunciado": "A disciplina legal relativa à proteção de dados pessoais fundamenta-se no respeito à privacidade, na autodeterminação informativa e na defesa do consumidor.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "GER1 — PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O EMPREGO 1"
+    },
+    {
+      "id": "GER1-u09",
+      "tema": "D7",
+      "assunto": "LGPD: dados sensíveis e governança em privacidade",
+      "enunciado": "De acordo com a LGPD, o tratamento de dados pessoais sensíveis prescinde de anonimização em qualquer estudo conduzido por órgão de pesquisa.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "GER1 — PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O EMPREGO 1"
+    },
+    {
+      "id": "GER1-u10",
+      "tema": "D7",
+      "assunto": "LGPD: dados sensíveis e governança em privacidade",
+      "enunciado": "A implementação de programa de governança em privacidade deve adaptar-se à sensibilidade dos dados tratados, independentemente da estrutura, da escala e do volume das operações.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "GER1 — PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O EMPREGO 1"
+    },
+    {
+      "id": "GER1-22",
+      "tema": "D2",
+      "assunto": "Ética e princípios/valores corporativos (compliance; transparência; assédio e discriminação)",
+      "enunciado": "Uma liderança organizacional pratica o valor da transparência radical ao omitir dos colaboradores os dados sobre crise financeira iminente, sob a justificativa de que o sigilo evita o pânico e mantém o foco na produtividade.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "GER1 — PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O EMPREGO 1"
+    },
+    {
+      "id": "GER1-23",
+      "tema": "D2",
+      "assunto": "Ética e princípios/valores corporativos (compliance; transparência; assédio e discriminação)",
+      "enunciado": "Uma corporação global que fundamenta sua governança no princípio da tolerância e do respeito à diversidade cultural atua de forma ética ao tolerar e silenciar práticas de assédio e discriminação de gênero em suas filiais estrangeiras, sob a justificativa de respeito aos costumes locais.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "GER1 — PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O EMPREGO 1"
+    },
+    {
+      "id": "GER1-25",
+      "tema": "D2",
+      "assunto": "Código de Ética e de Conduta da FUNPRESP-JUD (informação privilegiada; responsabilidade; brindes; resultados)",
+      "enunciado": "É vedado aos integrantes da FUNPRESP-JUD eximir-se da responsabilidade oriunda de seus atos ou inerente ao seu mandato ou emprego.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "GER1 — PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O EMPREGO 1"
+    },
+    {
+      "id": "GER1-26",
+      "tema": "D2",
+      "assunto": "Código de Ética e de Conduta da FUNPRESP-JUD (informação privilegiada; responsabilidade; brindes; resultados)",
+      "enunciado": "O colaborador da FUNPRESP-JUD pode aceitar gestos de cortesia como brindes ou convites de organizações interessadas nos negócios da fundação, contanto que o valor desses gestos de cortesia não ultrapasse meio salário mínimo.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "GER1 — PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O EMPREGO 1"
+    },
+    {
+      "id": "GER1-27",
+      "tema": "D2",
+      "assunto": "Código de Ética e de Conduta da FUNPRESP-JUD (informação privilegiada; responsabilidade; brindes; resultados)",
+      "enunciado": "De acordo com o referido código, o foco na otimização de resultados, quando voltado ao cumprimento dos objetivos da fundação, pode ser priorizado em detrimento da responsabilidade socioambiental.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "GER1 — PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O EMPREGO 1"
+    },
+    {
+      "id": "GER2-u01",
+      "tema": "D2",
+      "assunto": "Ética e princípios/valores corporativos (compliance; transparência; assédio e discriminação)",
+      "enunciado": "Uma liderança organizacional pratica o valor da transparência radical ao omitir dos colaboradores os dados sobre crise financeira iminente, sob a justificativa de que o sigilo evita o pânico e mantém o foco na produtividade.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "GER2 — PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS EMPREGOS DE 2 A 8 E 12"
+    },
+    {
+      "id": "GER2-u02",
+      "tema": "D2",
+      "assunto": "Ética e princípios/valores corporativos (compliance; transparência; assédio e discriminação)",
+      "enunciado": "Um comitê de compliance age de forma ética ao punir rigorosamente diretor que tenha fraudado relatório financeiro, ainda que a fraude tenha evitado a demissão imediata de centenas de colaboradores da organização.",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "GER2 — PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS EMPREGOS DE 2 A 8 E 12"
+    },
+    {
+      "id": "GER2-u03",
+      "tema": "D2",
+      "assunto": "Código de Ética e de Conduta da FUNPRESP-JUD (informação privilegiada; responsabilidade; brindes; resultados)",
+      "enunciado": "O colaborador da FUNPRESP-JUD pode aceitar gestos de cortesia como brindes ou convites de organizações interessadas nos negócios da fundação, contanto que o valor desses gestos de cortesia não ultrapasse meio salário mínimo.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "GER2 — PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS EMPREGOS DE 2 A 8 E 12"
+    },
+    {
+      "id": "GER2-u04",
+      "tema": "D2",
+      "assunto": "Código de Ética e de Conduta da FUNPRESP-JUD (informação privilegiada; responsabilidade; brindes; resultados)",
+      "enunciado": "A proibição do uso de informação privilegiada pelos colaboradores da FUNPRESP-JUD está condicionada à ocorrência de efetivo prejuízo financeiro ou patrimonial para a fundação.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "GER2 — PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS EMPREGOS DE 2 A 8 E 12"
+    },
+    {
+      "id": "GER2-u05",
+      "tema": "D8",
+      "assunto": "Programas de integridade (Política e Programa de Integridade da FUNPRESP-JUD)",
+      "enunciado": "O Programa de Integridade da FUNPRESP-JUD define-se normativamente como a adesão institucional contínua e o alinhamento consistente aos valores, aos princípios e às normas de alto padrão ético que norteiam o propósito da fundação.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "GER2 — PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS EMPREGOS DE 2 A 8 E 12"
+    },
+    {
+      "id": "GER2-u06",
+      "tema": "D8",
+      "assunto": "Programas de integridade (Política e Programa de Integridade da FUNPRESP-JUD)",
+      "enunciado": "O Comitê de Riscos e Integridade da FUNPRESP-JUD, órgão de assessoramento temático à governança, é responsável pela fiscalização e pelo monitoramento da implementação do Programa de Integridade da FUNPRESP-JUD.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "GER2 — PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS EMPREGOS DE 2 A 8 E 12"
+    },
+    {
+      "id": "GER2-u07",
+      "tema": "D8",
+      "assunto": "Programas de integridade (Política e Programa de Integridade da FUNPRESP-JUD)",
+      "enunciado": "O Programa de Integridade da FUNPRESP-JUD, cujo caráter é essencialmente preventivo, tem o objetivo de identificar e gerir os riscos de integridade inerentes à fundação.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "GER2 — PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS EMPREGOS DE 2 A 8 E 12"
+    },
+    {
+      "id": "GER2-u08",
+      "tema": "D7",
+      "assunto": "LGPD: dados sensíveis e governança em privacidade",
+      "enunciado": "A implementação de programa de governança em privacidade deve adaptar-se à sensibilidade dos dados tratados, independentemente da estrutura, da escala e do volume das operações.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "GER2 — PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS EMPREGOS DE 2 A 8 E 12"
+    },
+    {
+      "id": "GER2-u09",
+      "tema": "D7",
+      "assunto": "LGPD: conceitos, princípios e sanções administrativas",
+      "enunciado": "A disciplina legal relativa à proteção de dados pessoais fundamenta-se no respeito à privacidade, na autodeterminação informativa e na defesa do consumidor.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "GER2 — PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS EMPREGOS DE 2 A 8 E 12"
+    },
+    {
+      "id": "GER2-u10",
+      "tema": "D7",
+      "assunto": "LGPD: conceitos, princípios e sanções administrativas",
+      "enunciado": "O dado pessoal qualifica-se formalmente, conforme o ordenamento jurídico, como qualquer informação relacionada a uma pessoa natural identificada ou puramente identificável.",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "GER2 — PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS EMPREGOS DE 2 A 8 E 12"
+    },
+    {
+      "id": "GER9-u01",
+      "tema": "D2",
+      "assunto": "Ética e princípios/valores corporativos (compliance; transparência; assédio e discriminação)",
+      "enunciado": "Um comitê de compliance age de forma ética ao punir rigorosamente diretor que tenha fraudado relatório financeiro, ainda que a fraude tenha evitado a demissão imediata de centenas de colaboradores da organização.",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "GER9 — PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS EMPREGOS 9 10 E 11"
+    },
+    {
+      "id": "GER9-u02",
+      "tema": "D2",
+      "assunto": "Código de Ética e de Conduta da FUNPRESP-JUD (informação privilegiada; responsabilidade; brindes; resultados)",
+      "enunciado": "É vedado aos integrantes da FUNPRESP-JUD eximir-se da responsabilidade oriunda de seus atos ou inerente ao seu mandato ou emprego.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "GER9 — PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS EMPREGOS 9 10 E 11"
+    },
+    {
+      "id": "GER9-u03",
+      "tema": "D8",
+      "assunto": "Programas de integridade (Política e Programa de Integridade da FUNPRESP-JUD)",
+      "enunciado": "O Comitê de Riscos e Integridade da FUNPRESP-JUD, órgão de assessoramento temático à governança, é responsável pela fiscalização e pelo monitoramento da implementação do Programa de Integridade da FUNPRESP-JUD.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "GER9 — PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS EMPREGOS 9 10 E 11"
+    },
+    {
+      "id": "GER9-u04",
+      "tema": "D8",
+      "assunto": "Programas de integridade (Política e Programa de Integridade da FUNPRESP-JUD)",
+      "enunciado": "A Política de Integridade da FUNPRESP-JUD tem como objetivo principal estabelecer padrões de conduta para minimizar potenciais riscos financeiros decorrentes de investimentos.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "GER9 — PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS EMPREGOS 9 10 E 11"
+    },
+    {
+      "id": "GER9-u05",
+      "tema": "D8",
+      "assunto": "Programas de integridade (Política e Programa de Integridade da FUNPRESP-JUD)",
+      "enunciado": "O Programa de Integridade da FUNPRESP-JUD define-se normativamente como a adesão institucional contínua e o alinhamento consistente aos valores, aos princípios e às normas de alto padrão ético que norteiam o propósito da fundação.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "GER9 — PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS EMPREGOS 9 10 E 11"
+    },
+    {
+      "id": "GER9-u06",
+      "tema": "D8",
+      "assunto": "Programas de integridade (Política e Programa de Integridade da FUNPRESP-JUD)",
+      "enunciado": "O Programa de Integridade da FUNPRESP-JUD, cujo caráter é essencialmente preventivo, tem o objetivo de identificar e gerir os riscos de integridade inerentes à fundação.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "GER9 — PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS EMPREGOS 9 10 E 11"
+    },
+    {
+      "id": "GER9-u07",
+      "tema": "D7",
+      "assunto": "LGPD: dados sensíveis e governança em privacidade",
+      "enunciado": "A implementação de programa de governança em privacidade deve adaptar-se à sensibilidade dos dados tratados, independentemente da estrutura, da escala e do volume das operações.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "GER9 — PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS EMPREGOS 9 10 E 11"
+    },
+    {
+      "id": "GER9-u08",
+      "tema": "D7",
+      "assunto": "LGPD: dados sensíveis e governança em privacidade",
+      "enunciado": "De acordo com a LGPD, o tratamento de dados pessoais sensíveis prescinde de anonimização em qualquer estudo conduzido por órgão de pesquisa.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "GER9 — PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS EMPREGOS 9 10 E 11"
+    },
+    {
+      "id": "GER9-u09",
+      "tema": "D7",
+      "assunto": "LGPD: conceitos, princípios e sanções administrativas",
+      "enunciado": "O dado pessoal qualifica-se formalmente, conforme o ordenamento jurídico, como qualquer informação relacionada a uma pessoa natural identificada ou puramente identificável.",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "GER9 — PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS EMPREGOS 9 10 E 11"
+    },
+    {
+      "id": "GER9-u10",
+      "tema": "D7",
+      "assunto": "LGPD: conceitos, princípios e sanções administrativas",
+      "enunciado": "A disciplina legal relativa à proteção de dados pessoais fundamenta-se no respeito à privacidade, na autodeterminação informativa e na defesa do consumidor.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "GER9 — PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS EMPREGOS 9 10 E 11"
+    },
+    {
+      "id": "GER9-22",
+      "tema": "D2",
+      "assunto": "Ética e princípios/valores corporativos (compliance; transparência; assédio e discriminação)",
+      "enunciado": "Uma liderança organizacional pratica o valor da transparência radical ao omitir dos colaboradores os dados sobre crise financeira iminente, sob a justificativa de que o sigilo evita o pânico e mantém o foco na produtividade.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "GER9 — PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS EMPREGOS 9 10 E 11"
+    },
+    {
+      "id": "GER9-23",
+      "tema": "D2",
+      "assunto": "Ética e princípios/valores corporativos (compliance; transparência; assédio e discriminação)",
+      "enunciado": "Uma corporação global que fundamenta sua governança no princípio da tolerância e do respeito à diversidade cultural atua de forma ética ao tolerar e silenciar práticas de assédio e discriminação de gênero em suas filiais estrangeiras, sob a justificativa de respeito aos costumes locais.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "GER9 — PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS EMPREGOS 9 10 E 11"
+    },
+    {
+      "id": "GER9-25",
+      "tema": "D2",
+      "assunto": "Código de Ética e de Conduta da FUNPRESP-JUD (informação privilegiada; responsabilidade; brindes; resultados)",
+      "enunciado": "A proibição do uso de informação privilegiada pelos colaboradores da FUNPRESP-JUD está condicionada à ocorrência de efetivo prejuízo financeiro ou patrimonial para a fundação.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "GER9 — PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS EMPREGOS 9 10 E 11"
+    },
+    {
+      "id": "GER9-26",
+      "tema": "D2",
+      "assunto": "Código de Ética e de Conduta da FUNPRESP-JUD (informação privilegiada; responsabilidade; brindes; resultados)",
+      "enunciado": "De acordo com o referido código, o foco na otimização de resultados, quando voltado ao cumprimento dos objetivos da fundação, pode ser priorizado em detrimento da responsabilidade socioambiental.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "GER9 — PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS EMPREGOS 9 10 E 11"
+    }
+  ]
+}

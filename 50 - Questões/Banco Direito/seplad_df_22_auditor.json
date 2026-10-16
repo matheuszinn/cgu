@@ -1,0 +1,2631 @@
+{
+  "concurso": "seplad_df_22_auditor",
+  "banca": "Cebraspe",
+  "itens": [
+    {
+      "id": "verificacao-2aturma-20",
+      "tema": "D1",
+      "assunto": "Organização do Distrito Federal: competência legislativa e regiões administrativas",
+      "enunciado": "A respeito da organização do Distrito Federal (DF), assinale a opção correta.",
+      "alternativas": {
+        "A": "O DF possui a competência legislativa reservada aos estados e municípios, organizando-se em regiões administrativas, cuja criação ou extinção decorre de decreto do governador.",
+        "B": "O DF possui as competências legislativas reservadas aos estados e municípios, organizando-se em regiões administrativas, cuja criação ou extinção decorre de ato normativo editado pela Secretaria de Desenvolvimento Urbano e Habitação.",
+        "C": "O DF possui a competência legislativa reservada aos estados, organizando-se em regiões administrativas, cuja criação ou extinção decorre de decreto do governador.",
+        "D": "O DF possui as competências legislativas reservadas aos estados e municípios, organizando-se em regiões administrativas, cuja criação ou extinção ocorrerá mediante lei aprovada pela maioria absoluta dos deputados distritais."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA DE VERIFICACAO DE APRENDIZAGEM CURSO DE FORMACAO PROFISSIONAL 2aTURMA SUB JUDICE.md — Questão 20"
+    },
+    {
+      "id": "verificacao-2aturma-23",
+      "tema": "D1",
+      "assunto": "Fundo Constitucional do Distrito Federal (FCDF)",
+      "enunciado": "A respeito do Fundo Constitucional do Distrito Federal (FCDF), assinale a opção correta.",
+      "alternativas": {
+        "A": "A criação do FCDF é anterior à Constituição Federal de 1988, remetendo à época em que Brasília se tornou a capital federal.",
+        "B": "Os valores vertidos ao FCDF devem ser utilizados exclusivamente na organização e manutenção das corporações de segurança pública do DF.",
+        "C": "Compete à Secretaria de Fazenda do Distrito Federal a ordenação de despesas com recursos provenientes do FCDF.",
+        "D": "Os recursos do FCDF compõem o orçamento da União, e não do Distrito Federal, tendo sido considerados pelo STF como recursos federais para todos os fins."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA DE VERIFICACAO DE APRENDIZAGEM CURSO DE FORMACAO PROFISSIONAL 2aTURMA SUB JUDICE.md — Questão 23"
+    },
+    {
+      "id": "p3-cargo1-26",
+      "tema": "D1",
+      "assunto": "Sistema de freios e contrapesos",
+      "enunciado": "O sistema de freios e contrapesos é um mecanismo destinado ao",
+      "alternativas": {
+        "A": "controle recíproco dos Poderes da República, sem prejuízo da autonomia conferida a cada um deles para o exercício de suas funções.",
+        "B": "controle da legalidade dos atos e das atividades administrativas dos Poderes da República, devendo ser exercido por órgão com competência para solucionar os conflitos de direito a ele submetidos.",
+        "C": "controle jurisdicional com poderes para restringir a autonomia e a independência dos Poderes da República, em circunstâncias específicas estabelecidas no arcabouço legal.",
+        "D": "controle exercido pelo próprio cidadão por meio da utilização de mecanismos de fiscalização previstos na Constituição Federal, com o propósito de denunciar abuso dos Poderes da República."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 26"
+    },
+    {
+      "id": "p3-cargo1-27",
+      "tema": "D1",
+      "assunto": "Controle parlamentar: pedido escrito de informações (art. 50 CF)",
+      "enunciado": "Um dos mecanismos de controle parlamentar previstos na Constituição Federal de 1988 (CF) consiste no pedido escrito de informações à administração pública, cujos agentes com legitimidade ativa e passiva são, respectivamente,",
+      "alternativas": {
+        "A": "as mesas da Câmara dos Deputados e do Senado Federal; e o chefe do Poder Executivo Federal e ministros de Estado.",
+        "B": "a Câmara dos Deputados e o Senado Federal ou qualquer uma de suas comissões; e os ministros de Estado.",
+        "C": "as mesas da Câmara dos Deputados e do Senado Federal; e os ministros de Estado e titulares de órgãos diretamente subordinados à Presidência da República.",
+        "D": "membros de qualquer das casas do Congresso Nacional; e os ministros de Estado e titulares de órgãos diretamente subordinados à Presidência da República."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 27"
+    },
+    {
+      "id": "p3-cargo1-29",
+      "tema": "D1",
+      "assunto": "Jurisdição una",
+      "enunciado": "A principal característica da jurisdição una consiste na existência de",
+      "alternativas": {
+        "A": "contencioso administrativo ou jurisdição administrativa específica para tratar de litígios envolvendo a administração pública.",
+        "B": "jurisdição administrativa independente da jurisdição comum até que se chegue ao último grau de decisão, quando um único tribunal passará a responder tanto pelos litígios administrativos como pelos litígios de natureza diversa.",
+        "C": "juízes especializados em questões envolvendo a administração pública, facilitando a compreensão adequada dos litígios de que o Estado faça parte.",
+        "D": "juízes e tribunais comuns para o julgamento de litígios em que a Administração Pública é parte, admitida a criação de varas especializadas inseridas nos órgãos de uma mesma jurisdição."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 29"
+    },
+    {
+      "id": "p3-cargo2-11",
+      "tema": "D1",
+      "assunto": "Eficácia das normas constitucionais (questão anulada)",
+      "enunciado": "Na Constituição Federal de 1988, constam as seguintes previsões normativas: • “É vedada a cassação de direitos políticos” (...) (art. 15). • “É vedada a utilização de partidos políticos de organização paramilitar” (art. 17, § 4.º). • “Ninguém será privado de direitos por motivo de crença religiosa ou de convicção filosófica ou política, salvo se as invocar para eximir-se de obrigação legal a todos imposta e recusar-se a cumprir prestação alternativa, fixada em lei” (art. 5.º, VIII). Essas normas são, respectivamente, de eficácia",
+      "alternativas": {
+        "A": "limitada, contida e limitada.",
+        "B": "plena, contida e limitada.",
+        "C": "limitada, plena e contida.",
+        "D": "plena, plena e contida."
+      },
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 11"
+    },
+    {
+      "id": "p3-cargo2-12",
+      "tema": "D1",
+      "assunto": "Prestação de serviços públicos: concessão e permissão (questão anulada)",
+      "enunciado": "Com base na Constituição Federal de 1988, a prestação de serviços públicos incumbe ao poder público, na forma da lei, podendo ser realizada diretamente ou, sempre por meio de licitação, sob regime de",
+      "alternativas": {
+        "A": "autorização e permissão.",
+        "B": "permissão e concessão.",
+        "C": "concessão e autorização.",
+        "D": "autorização, concessão e permissão."
+      },
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 12"
+    },
+    {
+      "id": "p3-cargo2-13",
+      "tema": "D1",
+      "assunto": "Princípios gerais da atividade econômica (art. 170 CF) (questão anulada)",
+      "enunciado": "Assinale a opção em que são apresentados princípios gerais da atividade econômica que, previstos no art. 170 da Constituição Federal de 1988, são corolários de direitos individuais fundamentais mencionados no art. 5.º do texto constitucional.",
+      "alternativas": {
+        "A": "soberania nacional e propriedade privada",
+        "B": "função social da propriedade e busca do pleno emprego",
+        "C": "busca do pleno emprego e soberania nacional",
+        "D": "propriedade privada e função social da propriedade"
+      },
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 13"
+    },
+    {
+      "id": "p3-cargo2-14",
+      "tema": "D1",
+      "assunto": "Ação declaratória de constitucionalidade (questão anulada)",
+      "enunciado": "A ação declaratória de constitucionalidade constitui modalidade de controle de constitucionalidade",
+      "alternativas": {
+        "A": "preventivo, difuso e por via incidental.",
+        "B": "repressivo, concentrado e por via principal.",
+        "C": "preventivo, concentrado e por via principal.",
+        "D": "repressivo, difuso e por via incidental."
+      },
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 14"
+    },
+    {
+      "id": "p3-cargo2-15",
+      "tema": "D1",
+      "assunto": "ADPF: omissão do poder público (questão anulada)",
+      "enunciado": "Em caso de omissão do poder público, a ação de descumprimento de preceito fundamental é",
+      "alternativas": {
+        "A": "incabível se o objeto for omissão não normativa, ainda que se afigure lesiva a preceito fundamental.",
+        "B": "incabível se o objeto for omissão normativa parcial, ainda que se afigure lesiva a preceito fundamental.",
+        "C": "cabível se o objeto for omissão normativa, ainda que não se afigure lesiva a preceito fundamental.",
+        "D": "cabível se o objeto for omissão não normativa, ainda que se afigure lesiva a preceito fundamental."
+      },
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 15"
+    },
+    {
+      "id": "p3-cargo2-16",
+      "tema": "D1",
+      "assunto": "ADPF: proposta de acordo (questão anulada)",
+      "enunciado": "Em ação de descumprimento de preceito federal ajuizada perante o Supremo Tribunal Federal (STF), se houver proposta de acordo, este",
+      "alternativas": {
+        "A": "poderá ser celebrado, por se tratar de processo de índole subjetiva, cabendo ao STF chancelar a tese jurídica defendida pelas partes no processo.",
+        "B": "poderá ser celebrado, por se tratar de processo de índole objetiva, cabendo ao STF apenas homologar as disposições que forem combinadas.",
+        "C": "não poderá ser celebrado, por se tratar de processo de índole subjetiva, não cabendo ao STF homologar acordo nesse tipo de processo.",
+        "D": "não poderá ser celebrado, por se tratar de processo de índole objetiva, o que exigiria uma análise subjetiva do acordo pelo STF."
+      },
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 16"
+    },
+    {
+      "id": "p3-cargo2-17",
+      "tema": "D1",
+      "assunto": "Cobrança de taxa para cópias e atestados (questão anulada)",
+      "enunciado": "Determinado órgão do Poder Executivo instituiu taxa para o fornecimento de cópias e reproduções de documentos e para a emissão de atestado coletivo ou individual de interesse de empresa privada. Nessa situação hipotética, a instituição de taxa é",
+      "alternativas": {
+        "A": "inconstitucional no que se refere ao fornecimento de cópias.",
+        "B": "inconstitucional no que diz respeito à reprodução de documentos.",
+        "C": "inconstitucional no que se refere à emissão de atestado coletivo.",
+        "D": "constitucional no que diz respeito a todos os fins mencionados."
+      },
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 17"
+    },
+    {
+      "id": "p3-cargo2-18",
+      "tema": "D1",
+      "assunto": "Nacionalidade brasileira (questão anulada)",
+      "enunciado": "Juan, Pablo e Jorge nasceram no Brasil no mês de janeiro de 2023, sendo Juan filho de pais uruguaios, a serviço do Uruguai; Pablo, filho de pais argentinos, a serviço do Uruguai; e Jorge, filho de pais bolivianos, que se encontravam passeando em território brasileiro, em gozo de férias. Nessas condições, nos termos da Constituição Federal de 1988, serão considerados brasileiros natos",
+      "alternativas": {
+        "A": "Jorge e Pablo, somente.",
+        "B": "Juan e Jorge, somente.",
+        "C": "Pablo e Juan, somente.",
+        "D": "Jorge, Juan e Pablo."
+      },
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 18"
+    },
+    {
+      "id": "p3-cargo2-19",
+      "tema": "D1",
+      "assunto": "Condições de elegibilidade (questão anulada)",
+      "enunciado": "Dadas as condições de elegibilidade previstas na legislação brasileira, é correto afirmar que uma pessoa com 25 anos de idade, preenchendo as demais exigências legais e constitucionais, pode candidatar-se, por exemplo, ao cargo de",
+      "alternativas": {
+        "A": "senador e ao de prefeito.",
+        "B": "juiz de paz e ao de deputado estadual.",
+        "C": "vice-governador de estado e ao de vereador.",
+        "D": "governador de estado e ao de deputado distrital."
+      },
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 19"
+    },
+    {
+      "id": "p3-cargo2-20",
+      "tema": "D1",
+      "assunto": "Direitos políticos: perda e suspensão (questão anulada)",
+      "enunciado": "Pedro foi condenado por improbidade administrativa e a naturalização de Ana como brasileira foi cancelada por sentença transitada em julgado. Nessa situação hipotética, em relação aos direitos políticos de Pedro e Ana, haverá",
+      "alternativas": {
+        "A": "cassação e perda, respectivamente.",
+        "B": "suspensão e perda, respectivamente.",
+        "C": "suspensão para ambos.",
+        "D": "perda para ambos."
+      },
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 20"
+    },
+    {
+      "id": "p1p2-cargo1-21",
+      "tema": "D1",
+      "assunto": "Eficácia das normas constitucionais",
+      "enunciado": "Julgue os próximos itens, acerca da eficácia de normas contidas na Constituição Federal de 1988 (CF). I O dispositivo constitucional que veda a cassação de direitos políticos é norma de eficácia plena. II O dispositivo constitucional que veda a utilização de organização paramilitar pelos partidos políticos é norma de eficácia limitada. III É de eficácia contida a norma constitucional que determina que ninguém será privado de direitos por motivo de crença religiosa ou de convicção filosófica ou política, salvo se as invocar para eximir-se de obrigação legal a todos imposta e recusar-se a cumprir prestação alternativa fixada em lei. Assinale a opção correta.",
+      "alternativas": {
+        "A": "Apenas o item I está certo.",
+        "B": "Apenas o item II está certo.",
+        "C": "Apenas os itens I e III estão certos.",
+        "D": "Apenas os itens II e III estão certos."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 21"
+    },
+    {
+      "id": "p1p2-cargo1-23",
+      "tema": "D1",
+      "assunto": "Serviços públicos: concessão e permissão (art. 175 CF)",
+      "enunciado": "De acordo com a CF, a prestação de serviços públicos incumbe ao poder público, que poderá fazê-la diretamente ou mediante licitação, sob regime de",
+      "alternativas": {
+        "A": "autorização ou permissão.",
+        "B": "concessão ou autorização.",
+        "C": "permissão ou concessão.",
+        "D": "autorização, concessão ou permissão."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 23"
+    },
+    {
+      "id": "p1p2-cargo1-24",
+      "tema": "D1",
+      "assunto": "Princípios gerais da atividade econômica (art. 170 CF)",
+      "enunciado": "Os princípios gerais da atividade econômica que estão previstos no artigo 170 da CF e que são corolários de direitos individuais fundamentais previstos no artigo 5.º da CF são os princípios da",
+      "alternativas": {
+        "A": "soberania nacional e da propriedade privada.",
+        "B": "função social da propriedade e da busca do pleno emprego.",
+        "C": "busca do pleno emprego e da soberania nacional.",
+        "D": "propriedade privada e da função social da propriedade."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 24"
+    },
+    {
+      "id": "p1p2-cargo1-25",
+      "tema": "D1",
+      "assunto": "Ação declaratória de constitucionalidade: competência do STF",
+      "enunciado": "Com base na CF, assinale a opção que apresenta o órgão ao qual cabe processar e julgar, originariamente, ação declaratória de constitucionalidade de lei ou ato normativo federal.",
+      "alternativas": {
+        "A": "Superior Tribunal de Justiça",
+        "B": "Congresso Nacional",
+        "C": "Supremo Tribunal Federal",
+        "D": "Senado Federal"
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 25"
+    },
+    {
+      "id": "p1p2-cargo1-26",
+      "tema": "D1",
+      "assunto": "Ação declaratória de constitucionalidade: modalidade de controle",
+      "enunciado": "A ação declaratória de constitucionalidade pode ser classificada como uma modalidade de controle de constitucionalidade",
+      "alternativas": {
+        "A": "preventivo, difuso e por via incidental.",
+        "B": "repressivo, concentrado e por via principal.",
+        "C": "preventivo, concentrado e por via principal.",
+        "D": "repressivo, difuso e por via incidental."
+      },
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 26"
+    },
+    {
+      "id": "p1p2-cargo1-27",
+      "tema": "D1",
+      "assunto": "ADPF: omissão do poder público",
+      "enunciado": "Em se tratando de omissão do poder público, a ação de descumprimento de preceito fundamental é",
+      "alternativas": {
+        "A": "incabível, se o objeto for omissão não normativa, ainda que se afigure lesiva a preceito fundamental.",
+        "B": "incabível, se o objeto for omissão normativa parcial, ainda que se afigure lesiva a preceito fundamental.",
+        "C": "cabível, se o objeto for omissão normativa, ainda que não se afigure lesiva a preceito fundamental.",
+        "D": "cabível, se o objeto for omissão não normativa que se afigure lesiva a preceito fundamental."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 27"
+    },
+    {
+      "id": "p1p2-cargo1-28",
+      "tema": "D1",
+      "assunto": "ADPF: proposta de acordo",
+      "enunciado": "Em uma ação de descumprimento de preceito fundamental ajuizada perante o Supremo Tribunal Federal (STF), se houver proposta de acordo, este",
+      "alternativas": {
+        "A": "poderá ser celebrado, por se tratar de um processo de índole subjetiva, cabendo ao STF chancelar a tese jurídica defendida pelas partes no processo.",
+        "B": "poderá ser celebrado, por se tratar de um processo de índole objetiva, cabendo ao STF apenas homologar as disposições que forem combinadas.",
+        "C": "não poderá ser celebrado, por se tratar de um processo de índole subjetiva, não cabendo ao STF homologar acordo nesse tipo de processo.",
+        "D": "não poderá ser celebrado, por se tratar de um processo de índole objetiva, o que dependeria de uma análise subjetiva do STF acerca do acordo."
+      },
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 28"
+    },
+    {
+      "id": "p1p2-cargo1-29",
+      "tema": "D1",
+      "assunto": "Cobrança de taxa para cópias e atestados",
+      "enunciado": "Determinado órgão do Poder Executivo instituiu taxa para fornecimento de cópias e reproduções de documentos e para emissão de atestado coletivo ou individual de interesse de empresa privada. Acerca dessa situação hipotética, assinale a opção correta.",
+      "alternativas": {
+        "A": "É inconstitucional a cobrança de taxa para fornecimento de cópias de documentos.",
+        "B": "É inconstitucional a cobrança de taxa para emissão de atestado coletivo.",
+        "C": "É constitucional a cobrança de taxa apenas para fornecimento de cópias de documentos.",
+        "D": "É constitucional a cobrança de taxa para emissão de atestado individual."
+      },
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 29"
+    },
+    {
+      "id": "p1p2-cargo1-30",
+      "tema": "D1",
+      "assunto": "Nacionalidade brasileira",
+      "enunciado": "Juan, Pablo e Jorge nasceram no Brasil em janeiro de 2023. Nesse mês, os pais de Juan, uruguaios, e os pais de Pablo, argentinos, estavam no Brasil a serviço do Uruguai; os pais de Jorge, bolivianos, passavam férias no território brasileiro. Nessa situação hipotética, nos termos da CF, são considerados brasileiros natos",
+      "alternativas": {
+        "A": "Jorge e Pablo, somente.",
+        "B": "Juan e Jorge, somente.",
+        "C": "Pablo e Juan, somente.",
+        "D": "Jorge, Juan e Pablo."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 30"
+    },
+    {
+      "id": "p1p2-cargo1-31",
+      "tema": "D1",
+      "assunto": "Condições de elegibilidade",
+      "enunciado": "Uma pessoa com 25 anos de idade, desde que preencha as demais exigências legais e constitucionais, é elegível aos cargos de",
+      "alternativas": {
+        "A": "senador e prefeito.",
+        "B": "juiz de paz e deputado estadual.",
+        "C": "vice-governador de estado e vereador.",
+        "D": "governador de estado e deputado distrital."
+      },
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 31"
+    },
+    {
+      "id": "p1p2-cargo1-32",
+      "tema": "D1",
+      "assunto": "Direitos políticos: improbidade e cancelamento de naturalização",
+      "enunciado": "Pedro foi condenado por improbidade administrativa. Ana teve sua naturalização cancelada por sentença transitada em julgado. A partir dessa situação hipotética, assinale a opção correta com relação aos efeitos da condenação de Pedro e do cancelamento da naturalização de Ana no que se refere aos seus direitos políticos.",
+      "alternativas": {
+        "A": "Haverá a cassação dos direitos políticos de Pedro e a perda dos de Ana.",
+        "B": "Haverá a suspensão dos direitos políticos de Pedro e a perda dos de Ana.",
+        "C": "Haverá a suspensão dos direitos políticos de Pedro e de Ana.",
+        "D": "Haverá a perda dos direitos políticos de Pedro e de Ana."
+      },
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 32"
+    },
+    {
+      "id": "p1p2-cargo1-34",
+      "tema": "D1",
+      "assunto": "Competência do DF em comum com a União (LODF)",
+      "enunciado": "É competência do Distrito Federal, em comum com a União,",
+      "alternativas": {
+        "A": "conservar o patrimônio público.",
+        "B": "elaborar e executar o plano plurianual, as diretrizes orçamentárias e o orçamento anual.",
+        "C": "exercer o poder de polícia administrativa.",
+        "D": "licenciar a construção de qualquer obra."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 34"
+    },
+    {
+      "id": "p1p2-cargo1-36",
+      "tema": "D1",
+      "assunto": "Imunidade de membros da Câmara Legislativa do DF",
+      "enunciado": "Os membros da Câmara Legislativa não poderão ser presos desde a",
+      "alternativas": {
+        "A": "posse, salvo em flagrante de crime inafiançável, hipótese em que os autos do processo serão remetidos à Câmara Legislativa, dentro do prazo de quarenta e oito horas, para que esta resolva sobre a prisão.",
+        "B": "expedição do diploma, salvo em flagrante de crime inafiançável, hipótese em que os autos do processo serão remetidos à Câmara Legislativa, dentro do prazo de quarenta e oito horas, para que esta resolva sobre a prisão.",
+        "C": "expedição do diploma, salvo em flagrante de crime inafiançável, hipótese em que os autos do processo serão remetidos à Câmara Legislativa, dentro do prazo de vinte e quatro horas, para que esta resolva sobre a prisão.",
+        "D": "posse, salvo em flagrante de crime inafiançável, hipótese em que os autos do processo serão remetidos à Câmara Legislativa, dentro do prazo de vinte e quatro horas, para que esta resolva sobre a prisão."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 36"
+    },
+    {
+      "id": "p1p2-cargo1-55",
+      "tema": "D1",
+      "assunto": "Princípios da administração pública",
+      "enunciado": "Assinale a opção correta à luz dos princípios da administração pública.",
+      "alternativas": {
+        "A": "Na concretização do princípio da publicidade, a chamada transparência passiva consiste na atividade da administração pública de deixar informações à disposição dos cidadãos potencialmente interessados, em páginas da Internet.",
+        "B": "A inobservância do princípio da moralidade acarreta invalidade jurídica de ato administrativo.",
+        "C": "Em virtude do princípio da isonomia, sempre que constatar diferença de tratamento entre os administrados, a administração pública deverá adotar as providências necessárias para suprimi-la, de ofício ou por provocação do interessado.",
+        "D": "Na atividade administrativa, quando há incidência do princípio da legalidade, afasta-se a discricionariedade da autoridade pública."
+      },
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 55"
+    },
+    {
+      "id": "p1p2-cargo1-56",
+      "tema": "D1",
+      "assunto": "Responsabilidade extracontratual do Estado",
+      "enunciado": "No que tange aos requisitos para caracterizar responsabilidade extracontratual do Estado, assinale a opção correta.",
+      "alternativas": {
+        "A": "Nem todo evento causador de dano relacionado ao serviço público configura a responsabilidade civil do Estado.",
+        "B": "No caso de responsabilidade objetiva estatal, não existe elemento subjetivo relevante.",
+        "C": "Uma vez provados a existência de dano e o elemento subjetivo da conduta estatal, é cabível atribuir responsabilidade civil ao poder público.",
+        "D": "Pode-se configurar a responsabilidade civil do Estado por infração ao dever de diligência, desde que haja norma jurídica a impor condutas estatais específicas para a situação na qual ocorreu dano ao lesado."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 56"
+    },
+    {
+      "id": "p1p2-cargo2-21",
+      "tema": "D1",
+      "assunto": "Eficácia das normas constitucionais",
+      "enunciado": "Do texto da Constituição Federal de 1988 (CF), foram reproduzidas, com ligeiras adaptações, as previsões normativas a seguir. Norma I: A República Federativa do Brasil é formada pela união indissolúvel dos estados e municípios e do Distrito Federal. Norma II: É livre o exercício de qualquer trabalho, ofício ou profissão, atendidas as qualificações profissionais que a lei estabelecer. Norma III: A ocupação e a utilização da faixa de fronteira serão reguladas em lei. Essas normas podem ser consideradas, respectivamente, como normas",
+      "alternativas": {
+        "A": "programática, de eficácia limitada e de eficácia contida.",
+        "B": "de eficácia plena, de eficácia contida e de eficácia limitada.",
+        "C": "programática, de eficácia limitada e de eficácia contida.",
+        "D": "de eficácia plena, de eficácia plena e programática."
+      },
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 21"
+    },
+    {
+      "id": "p1p2-cargo2-23",
+      "tema": "D1",
+      "assunto": "Disciplina do Sistema Financeiro Nacional por lei complementar",
+      "enunciado": "De acordo com a CF, a disciplina do Sistema Financeiro Nacional deve-se dar mediante",
+      "alternativas": {
+        "A": "emenda constitucional.",
+        "B": "lei complementar.",
+        "C": "lei ordinária.",
+        "D": "lei delegada."
+      },
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 23"
+    },
+    {
+      "id": "p1p2-cargo2-24",
+      "tema": "D1",
+      "assunto": "Princípios da atividade econômica e objetivos fundamentais da República",
+      "enunciado": "O princípio geral da atividade econômica (CF, art. 170) que também constitui um dos objetivos fundamentais da República Federativa do Brasil é o princípio",
+      "alternativas": {
+        "A": "da livre concorrência.",
+        "B": "da defesa do meio ambiente.",
+        "C": "da redução das desigualdades regionais e sociais.",
+        "D": "do tratamento favorecido para empresas de pequeno porte."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 24"
+    },
+    {
+      "id": "p1p2-cargo2-25",
+      "tema": "D1",
+      "assunto": "Ação declaratória de constitucionalidade: objeto",
+      "enunciado": "Somente poderá ser objeto de ação declaratória de constitucionalidade lei ou ato normativo",
+      "alternativas": {
+        "A": "federal ou estadual.",
+        "B": "estadual.",
+        "C": "municipal.",
+        "D": "federal."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 25"
+    },
+    {
+      "id": "p1p2-cargo2-26",
+      "tema": "D1",
+      "assunto": "ADPF: modalidade de controle de constitucionalidade",
+      "enunciado": "A ação de descumprimento de preceito fundamental (ADPF) pode ser classificada como uma modalidade de controle de constitucionalidade",
+      "alternativas": {
+        "A": "político e repressivo.",
+        "B": "principal e concentrado.",
+        "C": "político e difuso.",
+        "D": "principal e preventivo."
+      },
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 26"
+    },
+    {
+      "id": "p1p2-cargo2-27",
+      "tema": "D1",
+      "assunto": "ADPF: hipóteses de cabimento",
+      "enunciado": "Um indivíduo legitimado pretende ajuizar ADPF para I opor-se a um conjunto de decisões judiciais que determinam medidas de constrição judicial contra Estado-membro. II questionar interpretação judicial de norma constitucional. III opor-se a um conjunto de decisões judiciais que determinam medidas de constrição judicial contra unidades descentralizadas de execução da educação de Estado-membro que recaiam sobre verbas destinadas à educação. Nessa situação hipotética, será cabível ADPF nos casos descritos nos itens",
+      "alternativas": {
+        "A": "I e II, somente.",
+        "B": "I e III, somente.",
+        "C": "II e III, somente.",
+        "D": "I, II e III."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 27"
+    },
+    {
+      "id": "p1p2-cargo2-28",
+      "tema": "D1",
+      "assunto": "Ação declaratória de constitucionalidade: legitimidade",
+      "enunciado": "Os seguintes entes pretendem propor ação declaratória de constitucionalidade (ADC): I a federação nacional X, que possui associados em três estados-membros; II a entidade de classe Y, que representa parte de uma categoria profissional; e III o presidente da República. Nessa situação hipotética, somente terá(ão) legitimidade para propor ADC",
+      "alternativas": {
+        "A": "a federação nacional X.",
+        "B": "o presidente da República.",
+        "C": "a entidade de classe Y e a federação nacional X.",
+        "D": "a entidade de classe Y e o presidente da República."
+      },
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 28"
+    },
+    {
+      "id": "p1p2-cargo2-29",
+      "tema": "D1",
+      "assunto": "Dissolução compulsória de associação (art. 5.º, XIX, CF)",
+      "enunciado": "Um grupo de servidores públicos constituiu, de forma regular e legal, uma associação cujos fins, posteriormente, verificou-se serem ilícitos. Nessa situação hipotética, a associação somente poderá ser compulsoriamente dissolvida por",
+      "alternativas": {
+        "A": "ato emanado do Poder Executivo.",
+        "B": "ato emanado do Poder Legislativo.",
+        "C": "decisão judicial com trânsito em julgado.",
+        "D": "ato emanado do Poder Executivo e decisão judicial."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 29"
+    },
+    {
+      "id": "p1p2-cargo2-30",
+      "tema": "D1",
+      "assunto": "Direito de petição (art. 5.º, XXXIV, CF)",
+      "enunciado": "O dispositivo constitucional que assegura a todos, independentemente do pagamento de taxas, o direito de petição aos poderes públicos em defesa de direitos ou contra ilegalidade ou abuso de poder abrange, em processo administrativo,",
+      "alternativas": {
+        "A": "a realização de perícias e a interposição de recurso administrativo.",
+        "B": "o empreendimento de diligências e a interposição de recurso administrativo.",
+        "C": "a realização de perícias e o empreendimento de diligências.",
+        "D": "a interposição de recurso administrativo."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 30"
+    },
+    {
+      "id": "p1p2-cargo2-31",
+      "tema": "D1",
+      "assunto": "Nacionalidade e cargos privativos de brasileiro nato",
+      "enunciado": "Juan, cidadão chileno naturalizado brasileiro, pode ocupar cargo público de",
+      "alternativas": {
+        "A": "deputado da Câmara Legislativa do DF.",
+        "B": "presidente da Câmara dos Deputados.",
+        "C": "oficial das Forças Armadas.",
+        "D": "diplomata de carreira."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 31"
+    },
+    {
+      "id": "p1p2-cargo2-32",
+      "tema": "D1",
+      "assunto": "Inelegibilidades",
+      "enunciado": "Conforme a Constituição Federal de 1988, são inelegíveis os I estrangeiros. II os conscritos durante o período do serviço militar obrigatório. III os analfabetos. Assinale a opção correta.",
+      "alternativas": {
+        "A": "Está correto apenas o item I.",
+        "B": "Está correto apenas o item II.",
+        "C": "Estão corretos apenas os itens II e III.",
+        "D": "Todos os itens estão corretos."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 32"
+    },
+    {
+      "id": "p1p2-cargo2-33",
+      "tema": "D1",
+      "assunto": "LODF: direito de petição e de representação",
+      "enunciado": "A Lei Orgânica do Distrito Federal assegura o exercício do",
+      "alternativas": {
+        "A": "direito de petição, mediante o pagamento de emolumentos.",
+        "B": "direito de petição, mediante o pagamento de taxa.",
+        "C": "direito de representação, independentemente da garantia de instância.",
+        "D": "direito de representação, mediante o pagamento de custas."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 33"
+    },
+    {
+      "id": "p1p2-cargo2-34",
+      "tema": "D1",
+      "assunto": "LODF: criação de regiões administrativas",
+      "enunciado": "A criação de regiões administrativas do Distrito Federal (DF) depende de lei aprovada pela",
+      "alternativas": {
+        "A": "maioria simples dos deputados distritais, assim como a extinção de regiões administrativas.",
+        "B": "maioria simples dos deputados distritais, ao passo que a extinção de regiões administrativas depende de lei aprovada pela maioria absoluta dos deputados distritais.",
+        "C": "maioria absoluta dos deputados distritais, assim como a extinção de regiões administrativas.",
+        "D": "maioria absoluta dos deputados distritais, ao passo que a extinção de regiões administrativas depende de lei aprovada pela maioria simples dos deputados distritais."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 34"
+    },
+    {
+      "id": "p1p2-cargo2-35",
+      "tema": "D1",
+      "assunto": "LODF: competência privativa do DF",
+      "enunciado": "Compete privativamente ao DF",
+      "alternativas": {
+        "A": "preservar a fauna, a flora e o cerrado.",
+        "B": "fomentar a produção agropecuária e organizar o abastecimento alimentar.",
+        "C": "estabelecer e implantar política para a segurança do trânsito.",
+        "D": "autorizar, conceder ou permitir, bem como regular, licenciar e fiscalizar os serviços de veículos de aluguéis."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 35"
+    },
+    {
+      "id": "p1p2-cargo2-54",
+      "tema": "D1",
+      "assunto": "Princípios da administração pública",
+      "enunciado": "Considerando os princípios da administração pública, assinale a opção correta.",
+      "alternativas": {
+        "A": "Por força do princípio da impessoalidade, atos administrativos não podem ter beneficiários.",
+        "B": "Em situação de ofensa ao princípio da moralidade, apenas o Ministério Público pode adotar providências para sanar o defeito do ato administrativo afetado.",
+        "C": "Sem ofensa ao princípio da continuidade do serviço público, certas atividades da administração pública podem deixar de funcionar em determinados períodos.",
+        "D": "Todos os cidadãos têm direito a receber o mesmo tratamento do poder público, independentemente de sua situação fática ou jurídica."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 54"
+    },
+    {
+      "id": "p1p2-cargo2-55",
+      "tema": "D1",
+      "assunto": "Responsabilidade do Estado",
+      "enunciado": "Assinale a opção correta referente à responsabilidade do Estado.",
+      "alternativas": {
+        "A": "A Constituição Federal de 1988 prevê responsabilidade civil preventiva da administração pública nos casos de dano iminente.",
+        "B": "O dano moral passível de indenização por ato ilícito estatal é aquele necessariamente decorrente de dano patrimonial.",
+        "C": "No caso de dano praticado por agente público integrante de pessoa jurídica da administração pública indireta do Distrito Federal (DF), caberá à própria pessoa jurídica, e não ao DF, suportar a indenização.",
+        "D": "Delegatários e concessionários de serviço público não se submetem à responsabilidade objetiva aplicável ao poder público em geral."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 55"
+    },
+    {
+      "id": "p1p2-cargo2-56",
+      "tema": "D1",
+      "assunto": "Delegação de serviços públicos",
+      "enunciado": "A delegação de serviços públicos",
+      "alternativas": {
+        "A": "pode abranger qualquer função estatal.",
+        "B": "obedece a princípios como o da modicidade de tarifas, quando estas forem aplicáveis.",
+        "C": "ocorre no caso de exercício direto desses serviços.",
+        "D": "exige, para efetivar a transferência da titularidade do serviço delegado, especificamente a concessão."
+      },
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 56"
+    },
+    {
+      "id": "curso-formacao-cargo2-19",
+      "tema": "D1",
+      "assunto": "Fundo Constitucional do Distrito Federal (FCDF)",
+      "enunciado": "No que se refere ao Fundo Constitucional do Distrito Federal (FCDF), assinale a opção correta.",
+      "alternativas": {
+        "A": "Se houver cancelamento de dotação orçamentária do FCDF nas áreas de saúde e educação, será necessário suplementar o montante cancelado com crédito adicional distrital.",
+        "B": "Os recursos do FCDF destinam-se à segurança pública, à saúde, à educação e à manutenção do patrimônio tombado do Plano Piloto de Brasília.",
+        "C": "Os atos de pessoal custeados pelo FCDF são objeto de registro no Tribunal de Contas da União, por envolverem recursos federais.",
+        "D": "Os recursos do FCDF integram apenas o orçamento do DF, com base em estimativas das transferências feitas pela União em cada exercício."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 2.md — Questão 19"
+    },
+    {
+      "id": "p1p2-cargo1-70",
+      "tema": "D2",
+      "assunto": "Ética na função pública: civilidade",
+      "enunciado": "No que tange à ética na função pública, a disposição do servidor público em tornar as relações sociais mais fluentes ou menos ásperas está relacionada à",
+      "alternativas": {
+        "A": "civilidade.",
+        "B": "imparcialidade.",
+        "C": "objetividade.",
+        "D": "excelência."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 70"
+    },
+    {
+      "id": "p1p2-cargo2-70",
+      "tema": "D2",
+      "assunto": "Ética na função pública",
+      "enunciado": "De acordo com a ética pertinente ao exercício de cargo na administração pública, julgue os seguintes itens. I Um dos compromissos do servidor público é servir à sociedade e demonstrar comportamento inquestionável, preservando sempre o interesse coletivo, agindo sempre com impessoalidade e zelando pela eficiência do serviço público. II A boa-fé, a honestidade, a fidelidade ao interesse público, a impessoalidade, a dignidade e o decoro no exercício de suas funções, a lealdade às instituições, a cortesia, a transparência, a eficiência e a presteza são princípios que devem balizar a conduta do servidor público. III Os atos e fatos verificados na conduta cotidiana da vida do servidor público poderão acrescentar ou diminuir o bom conceito da sua vida funcional. Assinale a opção correta.",
+      "alternativas": {
+        "A": "Apenas o item II está certo.",
+        "B": "Apenas os itens I e II estão certos.",
+        "C": "Apenas os itens I e III estão certos.",
+        "D": "Todos os itens estão certos."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 70"
+    },
+    {
+      "id": "curso-formacao-cargo2-2",
+      "tema": "D2",
+      "assunto": "Conflito de interesses",
+      "enunciado": "O chamado conflito de interesses caracteriza-se pela",
+      "alternativas": {
+        "A": "falta de colaboração das áreas da organização com o controle interno ou de informações necessárias para a realização das atividades de controle interno.",
+        "B": "incompatibilidade entre os interesses pessoais ou profissionais dos auditores internos e sua obrigação de fornecer uma avaliação objetiva e independente das operações governamentais.",
+        "C": "falta de valorização da transparência e da responsabilidade pela cultura organizacional da entidade governamental.",
+        "D": "pressão exercida por líderes políticos sobre o controle interno, com a finalidade de evitar a investigação de problemas."
+      },
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 2.md — Questão 2"
+    },
+    {
+      "id": "verificacao-2aturma-24",
+      "tema": "D3",
+      "assunto": "Contrato de gestão",
+      "enunciado": "Determinado tipo de contrato é baseado em acordo firmado pela administração pública, por intermédio de suas agências executivas, com certos entes privados, como organizações sociais. Essa modalidade contratual visa à fixação de metas de desempenho com o intuito de aprimorar a eficiência da atuação desses entes. O texto precedente descreve o",
+      "alternativas": {
+        "A": "contrato de gestão.",
+        "B": "contrato de concessão.",
+        "C": "contrato de alienação.",
+        "D": "contrato de prestação de serviço."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA DE VERIFICACAO DE APRENDIZAGEM CURSO DE FORMACAO PROFISSIONAL 2aTURMA SUB JUDICE.md — Questão 24"
+    },
+    {
+      "id": "verificacao-2aturma-33",
+      "tema": "D3",
+      "assunto": "LC 840/2011: estágio probatório e cargos em comissão",
+      "enunciado": "A respeito do regime jurídico dos servidores públicos civis do Distrito Federal, instituído pela Lei Complementar (LC) n.º 840/2011, assinale a opção correta.",
+      "alternativas": {
+        "A": "A contagem do tempo de estágio probatório fica suspensa em caso de licença remunerada por motivo de doença em pessoa da família do servidor.",
+        "B": "Admite-se o exercício de mais de um cargo em comissão ou função de confiança, sempre que houver compatibilidade de horários.",
+        "C": "O servidor em estágio probatório não pode ser cedido a outro órgão ou entidade para ocupar cargo de natureza especial.",
+        "D": "A LC n.º 840/2011 admite a exoneração de ofício, sem justa causa, de servidora gestante, desde que ocupante exclusivamente de cargo em comissão sem vínculo efetivo com o serviço público."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA DE VERIFICACAO DE APRENDIZAGEM CURSO DE FORMACAO PROFISSIONAL 2aTURMA SUB JUDICE.md — Questão 33"
+    },
+    {
+      "id": "verificacao-2aturma-34",
+      "tema": "D3",
+      "assunto": "LC 840/2011: recondução",
+      "enunciado": "À luz da Lei Complementar n.º 840/2011, o retorno do servidor estável ao cargo anteriormente ocupado em decorrência de reprovação em estágio probatório é denominado",
+      "alternativas": {
+        "A": "aproveitamento.",
+        "B": "reintegração.",
+        "C": "recondução.",
+        "D": "reversão."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA DE VERIFICACAO DE APRENDIZAGEM CURSO DE FORMACAO PROFISSIONAL 2aTURMA SUB JUDICE.md — Questão 34"
+    },
+    {
+      "id": "curso-formacao-cargo1-20",
+      "tema": "D3",
+      "assunto": "Estrutura administrativa do Governo do DF",
+      "enunciado": "A respeito da estrutura administrativa do governo do Distrito Federal, julgue os itens que se seguem. I O Distrito Federal não possui municípios, mas se divide em Administrações Regionais. II A Controladoria-Geral do Distrito Federal detém status equivalente ao de Secretaria de Estado. III Mediante fundamentação adequada, o governador do DF pode avocar e redistribuir a outro órgão ou entidade da administração pública matéria de competência das secretarias de governo. IV O Instituto de Previdência dos Servidores do Distrito Federal (IPREV/DF) é diretamente subordinado ao gabinete do governador do DF. Assinale a opção correta.",
+      "alternativas": {
+        "A": "Apenas o item I está certo.",
+        "B": "Apenas o item IV está certo.",
+        "C": "Apenas os itens II e III estão certos.",
+        "D": "Apenas os itens II e IV estão certos."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 1.md — Questão 20"
+    },
+    {
+      "id": "curso-formacao-cargo1-21",
+      "tema": "D3",
+      "assunto": "Atribuições do servidor da carreira de auditoria de controle interno do DF",
+      "enunciado": "Assinale a opção que apresenta uma das atribuições específicas do servidor membro da carreira de auditoria de controle interno do Distrito Federal que desempenhe funções da especialidade finanças e controle.",
+      "alternativas": {
+        "A": "fornecer orientações técnicas relacionadas a sua área de atuação",
+        "B": "promover a articulação entre planejamento e orçamento governamentais",
+        "C": "controlar a movimentação financeira dos fundos existentes",
+        "D": "elaborar propostas, programação e reprogramação orçamentárias"
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 1.md — Questão 21"
+    },
+    {
+      "id": "curso-formacao-cargo1-24",
+      "tema": "D3",
+      "assunto": "Lei 13.019/2014: parcerias com organizações da sociedade civil",
+      "enunciado": "Com base na Lei n.º 13.019/2014, que estabelece o regime jurídico das parcerias entre a administração pública e as Organizações da Sociedade Civil Sem Fins Lucrativos (OSCs), em regime de mútua cooperação para consecução de finalidades de interesse público e recíproco, mediante execução de projetos e atividades estabelecidos em plano de trabalho, assinale a opção correta.",
+      "alternativas": {
+        "A": "Os termos de fomento se caracterizam pela transferência de recursos em que a OSC propõe a parceria.",
+        "B": "A administração pública poderá dispensar a realização do chamamento público de parceria no caso de urgência decorrente de paralisação de atividades de relevante interesse público, pelo prazo de até 150 (cento e cinquenta) dias.",
+        "C": "A contratação entre a administração pública e as OSCs somente pode ocorrer por meio de edital de chamamento público ou diretamente, por dispensa ou inexigibilidade de licitação.",
+        "D": "Os instrumentos jurídicos das parcerias entre a administração pública e as OSCs resumem-se aos termos de fomento e de colaboração."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 1.md — Questão 24"
+    },
+    {
+      "id": "curso-formacao-cargo1-33",
+      "tema": "D3",
+      "assunto": "LC 840/2011: servidores públicos civis do DF",
+      "enunciado": "De acordo com a Lei Complementar n.º 840/2011, julgue os itens a seguir. I Os servidores públicos civis do Distrito Federal são chamados de serventuários justamente porque a admissão em cargo ou emprego público implica uma relação profissional obediente a regras estritas de subserviência social. II O cargo público é criado por lei, possui denominação própria e os empossados recebem subsídios ou vencimentos pagos pelos cofres públicos. III O prazo de validade dos concursos públicos no Distrito Federal é de quatro anos, exceto para o caso dos concursos com prazo de noventa dias, pois, neste caso, exige-se prorrogação da validade inicial em até 180 dias. Assinale a opção correta.",
+      "alternativas": {
+        "A": "Apenas o item II está certo.",
+        "B": "Apenas o item III está certo.",
+        "C": "Apenas os itens I e II estão certos.",
+        "D": "Apenas os itens I e III estão certos."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 1.md — Questão 33"
+    },
+    {
+      "id": "curso-formacao-cargo1-34",
+      "tema": "D3",
+      "assunto": "LC 840/2011: estabilidade e provimento",
+      "enunciado": "Com base na Lei Complementar n.º 840/2011, assinale a opção correta.",
+      "alternativas": {
+        "A": "A vaga não preenchida em razão de necessidade especial do aprovado incompatível com as atribuições do cargo não pode ser revertida para provimento dos demais candidatos.",
+        "B": "O servidor torna-se estável após cumprir três anos de efetivo exercício e, depois disso, somente perderá o cargo após processo administrativo devidamente autuado.",
+        "C": "O futuro servidor público do Distrito Federal pode solicitar remanejamento de sua classificação para o final da lista de nomeação dos aprovados, contudo, para deferimento do pleito, exige-se que o pedido seja efetuado dentro de prazo tipificado.",
+        "D": "É exonerado sumariamente o candidato aprovado no concurso público que não tomou a posse dentro do prazo legal."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 1.md — Questão 34"
+    },
+    {
+      "id": "p1p2-cargo1-33",
+      "tema": "D3",
+      "assunto": "LODF: Conselho de Representantes Comunitários",
+      "enunciado": "Cada região administrativa do Distrito Federal terá um Conselho de Representantes Comunitários, com funções",
+      "alternativas": {
+        "A": "consultivas e fiscalizadoras.",
+        "B": "deliberativas e normativas.",
+        "C": "consultivas e normativas.",
+        "D": "fiscalizadoras e deliberativas."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 33"
+    },
+    {
+      "id": "p1p2-cargo1-35",
+      "tema": "D3",
+      "assunto": "LODF: proteção à servidora gestante ou lactante",
+      "enunciado": "No âmbito dos direitos das servidoras públicas, é garantida a proteção especial à gestante ou lactante, que poderá ter suas funções adequadas temporariamente, quando for recomendável a sua saúde,",
+      "alternativas": {
+        "A": "com adaptação proporcional dos seus vencimentos, mas sem prejuízo das demais vantagens.",
+        "B": "sem prejuízo dos seus vencimentos, mas com adaptação proporcional às demais vantagens.",
+        "C": "sem prejuízo dos seus vencimentos e das demais vantagens.",
+        "D": "com adaptação proporcional aos seus vencimentos e às demais vantagens."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 35"
+    },
+    {
+      "id": "p1p2-cargo1-38",
+      "tema": "D3",
+      "assunto": "LC 840/2011: ausência por casamento",
+      "enunciado": "Em razão de casamento, o servidor público do DF poderá se ausentar do serviço, sem prejuízo da remuneração ou subsídio,",
+      "alternativas": {
+        "A": "por oito dias consecutivos, incluído o dia da cerimônia, mediante comunicação prévia à chefia imediata.",
+        "B": "por oito dias consecutivos, excluído o dia da cerimônia, dispensada a comunicação prévia à chefia imediata.",
+        "C": "por dez dias consecutivos, incluído o dia da cerimônia, mediante comunicação prévia à chefia imediata.",
+        "D": "por dez dias consecutivos, excluído o dia da cerimônia, dispensada a comunicação prévia à chefia imediata."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 38"
+    },
+    {
+      "id": "p1p2-cargo1-39",
+      "tema": "D3",
+      "assunto": "LC 840/2011: faltas injustificadas (abandono e inassiduidade)",
+      "enunciado": "As faltas injustificadas ao serviço configurarão",
+      "alternativas": {
+        "A": "abandono do cargo, se ocorrerem por mais de sessenta dias consecutivos.",
+        "B": "inassiduidade habitual, se ocorrerem por mais de trinta dias consecutivos.",
+        "C": "abandono do cargo, se ocorrerem por mais de trinta dias, interpoladamente, no período de doze meses.",
+        "D": "inassiduidade habitual, se ocorrerem por mais de sessenta dias, interpoladamente, no período de doze meses."
+      },
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 39"
+    },
+    {
+      "id": "p1p2-cargo1-40",
+      "tema": "D3",
+      "assunto": "LC 840/2011: licença para atividade política",
+      "enunciado": "O servidor tem direito a licença para atividade política nos períodos compreendidos entre",
+      "alternativas": {
+        "A": "a data seguinte à de sua escolha em convenção partidária como candidato a cargo eletivo e o dia do registro da sua candidatura na justiça eleitoral.",
+        "B": "o registro da sua candidatura na justiça eleitoral e até trinta dias após a data da eleição para a qual ele concorrer.",
+        "C": "a data de sua escolha em convenção partidária como candidato a cargo eletivo e a véspera do registro da suas candidatura na justiça eleitoral.",
+        "D": "o registro da sua candidatura na justiça eleitoral e a data da eleição para a qual ele concorrer."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 40"
+    },
+    {
+      "id": "p1p2-cargo1-41",
+      "tema": "D3",
+      "assunto": "LC 840/2011: contagem de tempo de serviço",
+      "enunciado": "Para fins de contagem do tempo de serviço, em regra, são considerados como efetivo serviço",
+      "alternativas": {
+        "A": "as férias e o período em que o servidor estiver licenciado sem remuneração.",
+        "B": "as licenças maternidade e paternidade e o período em que o servidor estiver cumprindo sanção disciplinar de suspensão.",
+        "C": "a licença médica e as férias.",
+        "D": "os períodos em que o servidor estiver licenciado sem remuneração e em que estiver cumprindo sanção disciplinar de suspensão."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 41"
+    },
+    {
+      "id": "p1p2-cargo1-42",
+      "tema": "D3",
+      "assunto": "LC 840/2011: reincidência em infração disciplinar",
+      "enunciado": "É considerada como reincidência o cometimento de nova infração disciplinar do mesmo grupo ou classe de infração disciplinar anteriormente cometida,",
+      "alternativas": {
+        "A": "desde que ambas possuam características fáticas comuns e a anterior tenha sido ou não punida.",
+        "B": "desde que ambas possuam características fáticas comuns e a anterior tenha sido necessariamente punida.",
+        "C": "ainda que ambas possuam características fáticas diversas e a anterior tenha sido ou não punida.",
+        "D": "ainda que ambas possuam características fáticas diversas e a anterior tenha sido necessariamente punida."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 42"
+    },
+    {
+      "id": "p1p2-cargo1-43",
+      "tema": "D3",
+      "assunto": "LC 840/2011: infração grave",
+      "enunciado": "De acordo com a Lei Complementar n.º 840/2011, que dispõe sobre o regime jurídico dos servidores públicos civis do DF, cometerá uma infração grave o(a) servidor(a) que",
+      "alternativas": {
+        "A": "proceder de forma desidiosa, incorrendo repetidamente em descumprimento de vários deveres e atribuições funcionais.",
+        "B": "praticar ato de assédio sexual ou moral.",
+        "C": "coagir ou aliciar subordinado no sentido de filiar-se a associação, sindicato, partido político ou qualquer outra espécie de agremiação.",
+        "D": "exercer atividade privada incompatível com o exercício do cargo público ou da função de confiança."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 43"
+    },
+    {
+      "id": "p1p2-cargo1-44",
+      "tema": "D3",
+      "assunto": "LC 840/2011: recusa de fé a documento público",
+      "enunciado": "O servidor público que recusar fé a documento público poderá ser punido com a sanção de",
+      "alternativas": {
+        "A": "advertência.",
+        "B": "suspensão.",
+        "C": "demissão.",
+        "D": "cassação."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 44"
+    },
+    {
+      "id": "p1p2-cargo1-51",
+      "tema": "D3",
+      "assunto": "Fontes do direito administrativo",
+      "enunciado": "Quanto às fontes do direito administrativo, assinale a opção correta.",
+      "alternativas": {
+        "A": "A jurisprudência como fonte do direito administrativo deve ser, em geral, entendida como um conjunto de decisões judiciais em sentido convergente e, no caso de mudança de entendimento, em geral, não deve se aplicar a situações consolidadas.",
+        "B": "Lei como fonte do direito administrativo se refere apenas à lei ordinária, aprovada segundo o processo legislativo previsto na Constituição Federal de 1988 (CF).",
+        "C": "Devido ao seu caráter formal, o direito administrativo apenas aceita fontes escritas.",
+        "D": "Em casos pouco frequentes, costumes administrativos de elevada importância e permanência ao longo do tempo podem derrogar normas positivadas."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 51"
+    },
+    {
+      "id": "p1p2-cargo1-53",
+      "tema": "D3",
+      "assunto": "Direitos e deveres dos agentes públicos",
+      "enunciado": "Em relação aos direitos e deveres dos agentes públicos, assinale a opção correta.",
+      "alternativas": {
+        "A": "Apenas deveres explicitamente previstos em lei são exigíveis dos agentes públicos.",
+        "B": "Os agentes públicos estão, em regra, sujeitos a deveres de resultado, isto é, seu trabalho deve produzir resultados específicos predeterminados, sem os quais tais agentes incorrerão em falta disciplinar.",
+        "C": "O dever de assiduidade dos agentes públicos não impõe que todo trabalho deva ser prestado no endereço do órgão ou ente público ao qual eles estejam vinculados.",
+        "D": "Como os direitos fundamentais são primariamente voltados à proteção dos particulares contra o Estado, não se aplica aos agentes públicos o direito ao devido processo legal, nas relações destes com a administração."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 53"
+    },
+    {
+      "id": "p1p2-cargo1-54",
+      "tema": "D3",
+      "assunto": "Poder regulamentar da administração pública",
+      "enunciado": "A respeito do poder regulamentar da administração pública, assinale a opção correta.",
+      "alternativas": {
+        "A": "São essencialmente distintos o poder regulamentar e o poder normativo da administração pública.",
+        "B": "No caso de ato normativo que exceda o poder regulamentar da administração pública, pode o Congresso Nacional sustar o ato, mediante decreto legislativo, sem prejuízo do controle judicial.",
+        "C": "O produto do poder regulamentar são apenas os decretos regulamentares.",
+        "D": "O entendimento da doutrina administrativista é unânime no sentido de que o poder público não pode criar direitos e obrigações por meio de decreto."
+      },
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 54"
+    },
+    {
+      "id": "p1p2-cargo1-58",
+      "tema": "D3",
+      "assunto": "Lei 13.303/2016: estatuto das empresas públicas e sociedades de economia mista",
+      "enunciado": "Assinale a opção correta com base na Lei Federal n.º 13.303/2016, que dispõe sobre o estatuto jurídico das empresas públicas, das sociedades de economia mista e de suas subsidiárias.",
+      "alternativas": {
+        "A": "A referida lei aplica-se apenas às empresas públicas e sociedades de economia mista da administração pública federal.",
+        "B": "A lei em questão não se aplica à prestação de serviço público, mas apenas à exploração de atividade econômica por empresas estatais.",
+        "C": "A lei em apreço prevê situação em que um diretor ou empregado de empresa pública ou sociedade de economia mista possa ser sócio de outra empresa e que essa empresa, por sua vez, seja validamente contratada por uma daquelas sociedades estatais.",
+        "D": "Sociedades de economia mista devem ter a forma de sociedades anônimas, as quais são regidas integralmente pela lei em apreço, sem a incidência da lei geral das sociedades anônimas, a Lei n.º 6.404/1976."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 58"
+    },
+    {
+      "id": "p1p2-cargo1-61",
+      "tema": "D3",
+      "assunto": "Acumulação de cargos públicos",
+      "enunciado": "Conforme as normas de organização da administração pública, desde que haja compatibilidade de horários, não há vedação de acúmulo de cargo público para",
+      "alternativas": {
+        "A": "dois empregos privativos de profissional de saúde, com profissões regulamentadas.",
+        "B": "um cargo ou emprego privativo de profissional de saúde com outro técnico ou científico.",
+        "C": "dois cargos de professor, apenas nos casos em que um deles seja em área técnica ou científica.",
+        "D": "um cargo de professor com outro de profissão regulamentada."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 61"
+    },
+    {
+      "id": "p1p2-cargo1-62",
+      "tema": "D3",
+      "assunto": "Servidores públicos: remuneração e aposentadoria (CF)",
+      "enunciado": "Considerando as normas constitucionais de organização da administração pública pertinentes aos servidores públicos, julgue os itens seguintes. I As peculiaridades dos cargos, os requisitos para investidura e a complexidade dos cargos componentes de cada carreira são critérios observados na fixação dos padrões de vencimento. II É permitida a incorporação da remuneração de cargo em comissão à remuneração do cargo efetivo. III O servidor abrangido por regime próprio de previdência social aposentar-se-á, no âmbito da União, dos estados, do DF e dos municípios, aos 65 anos de idade, se for homem, e aos 62 anos de idade, se for mulher. Assinale a opção correta.",
+      "alternativas": {
+        "A": "Nenhum item está certo.",
+        "B": "Apenas o item I está certo.",
+        "C": "Apenas o item II está certo.",
+        "D": "Apenas o item III está certo."
+      },
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 62"
+    },
+    {
+      "id": "p1p2-cargo1-63",
+      "tema": "D3",
+      "assunto": "Modelo de administração pública gerencial",
+      "enunciado": "Na administração pública, adoção do modelo gerencial é caracterizada",
+      "alternativas": {
+        "A": "pela fundamentação na ideia de ordenamento e dominação legitimada pela existência de normas bem definidas.",
+        "B": "pela utilização de ferramentas para aprimoramento da atuação dos órgãos governamentais em busca de eficiência e avanços na gestão econômico-financeira.",
+        "C": "pelo consentimento da apropriação de recursos estatais por grupos políticos e segmentos privados.",
+        "D": "pela hierarquização de cargos altamente especificada, com remuneração fixa baseada nessa hierarquização."
+      },
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 63"
+    },
+    {
+      "id": "p1p2-cargo1-64",
+      "tema": "D3",
+      "assunto": "Competências do gerente público",
+      "enunciado": "Considerando as habilidades ou condições requeridas de um gerente público para lidar com as necessidades de revisão e reformulação do papel gerencial com vistas à modernização da gestão pública, assinale a opção correta.",
+      "alternativas": {
+        "A": "As vocações e motivações de um gerente do setor público devem ser semelhantes às de um gerente do setor privado, pois os conhecimentos requeridos e as exigências para exercício da função são coincidentes em ambos os setores.",
+        "B": "O gerente do setor público deve permanecer centrado nas cobranças e nos interesses internos da instituição, sem se ater às experiências e cooperações que possam ser promovidas por parceiros nacionais e internacionais.",
+        "C": "O gerente do setor público tem de demonstrar capacidade para bem gerir os seguintes paradigmas: exigências burocráticas e políticas; práticas de controle e flexibilização; limitações de recursos; necessidades dos cidadãos.",
+        "D": "A resiliência e a capacidade negocial do gerente do setor público passaram a ser menos requeridas em decorrência de os conflitos de gestão terem se tornado mais exíguos e de o apoio político ser mais recorrente e adequado às necessidades de solução dos problemas."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 64"
+    },
+    {
+      "id": "p1p2-cargo1-65",
+      "tema": "D3",
+      "assunto": "Modernização da gestão pública",
+      "enunciado": "Para se promover a modernização da gestão pública deve-se I estimular um maior compromisso com a gestão, de maneira a promover mais envolvimento com o interesse comum. II promover melhores relações com a sociedade, conhecendo e levando em consideração seus pontos de vista e dando mais acessibilidade e clareza às informações. III fortalecer o papel da função pública por meio de práticas e estilos de trabalho mais flexíveis, próximos ao cidadão e com mais responsabilização. Assinale a opção correta.",
+      "alternativas": {
+        "A": "Apenas os itens I e II estão certos.",
+        "B": "Apenas os itens I e III estão certos.",
+        "C": "Apenas os itens II e III estão certos.",
+        "D": "Todos os itens estão certos."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 65"
+    },
+    {
+      "id": "p1p2-cargo2-36",
+      "tema": "D3",
+      "assunto": "LODF: proibição de designação de condenado para função de confiança",
+      "enunciado": "A designação para função de confiança de pessoa condenada em decisão transitada em julgado ou proferida por órgão judicial colegiado é proibida desde a condenação até o transcurso do prazo de",
+      "alternativas": {
+        "A": "quatro anos após o cumprimento da pena.",
+        "B": "seis anos após o cumprimento da pena.",
+        "C": "oito anos após o cumprimento da pena.",
+        "D": "dez anos após o cumprimento da pena."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 36"
+    },
+    {
+      "id": "p1p2-cargo2-37",
+      "tema": "D3",
+      "assunto": "LODF: iniciativa de leis sobre servidores públicos",
+      "enunciado": "A iniciativa das leis que disponham sobre aposentadoria dos servidores públicos do DF compete privativamente",
+      "alternativas": {
+        "A": "a uma comissão especializada da Câmara Legislativa.",
+        "B": "aos deputados distritais.",
+        "C": "ao governador.",
+        "D": "ao vice-governador."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 37"
+    },
+    {
+      "id": "p1p2-cargo2-38",
+      "tema": "D3",
+      "assunto": "LC 840/2011: promoção",
+      "enunciado": "Em regra, a promoção é a movimentação de servidor público do último padrão de uma classe para o primeiro padrão da classe imediatamente superior e ocorre",
+      "alternativas": {
+        "A": "somente por merecimento, não interrompendo o tempo de exercício no cargo.",
+        "B": "somente por antiguidade, interrompendo o tempo de exercício no cargo.",
+        "C": "por merecimento ou por antiguidade, não interrompendo o tempo de exercício no cargo.",
+        "D": "por merecimento ou por antiguidade, interrompendo o tempo de exercício no cargo."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 38"
+    },
+    {
+      "id": "p1p2-cargo2-39",
+      "tema": "D3",
+      "assunto": "LC 840/2011: ampliação do regime de trabalho",
+      "enunciado": "No interesse da administração pública, o regime de trabalho dos servidores públicos do Distrito Federal pode ser ampliado de trinta para quarenta horas semanais",
+      "alternativas": {
+        "A": "sem a anuência do servidor e sem a necessidade de se observar a proporcionalidade salarial.",
+        "B": "com a anuência do servidor e sem a necessidade de se observar a proporcionalidade salarial.",
+        "C": "com a anuência do servidor, havendo a necessidade de se observar a proporcionalidade salarial.",
+        "D": "sem a anuência do servidor, havendo a necessidade de se observar a proporcionalidade salarial."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 39"
+    },
+    {
+      "id": "p1p2-cargo2-40",
+      "tema": "D3",
+      "assunto": "LC 840/2011: horário especial",
+      "enunciado": "Ao servidor que tenha cônjuge com deficiência pode ser concedido horário especial que consiste na redução de até",
+      "alternativas": {
+        "A": "30% da jornada de trabalho, desde que a necessidade seja atestada por médico particular.",
+        "B": "50% da jornada de trabalho, desde que a necessidade seja atestada por junta médica oficial.",
+        "C": "30% da jornada de trabalho, desde que a necessidade seja atestada por junta médica oficial.",
+        "D": "50% da jornada de trabalho, desde que a necessidade seja atestada por médico particular."
+      },
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 40"
+    },
+    {
+      "id": "p1p2-cargo2-41",
+      "tema": "D3",
+      "assunto": "LC 840/2011: vantagens remuneratórias",
+      "enunciado": "Além do vencimento básico, podem ser pagas ao servidor público, como vantagens, parcelas remuneratórias referentes a",
+      "alternativas": {
+        "A": "gratificações, que não se incorporam ao vencimento para qualquer efeito.",
+        "B": "adicionais, que não se incorporam ao vencimento para qualquer efeito.",
+        "C": "indenizações, que não se incorporam ao vencimento ou provento para qualquer efeito.",
+        "D": "prêmios, que são incorporados ao vencimento ou provento."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 41"
+    },
+    {
+      "id": "p1p2-cargo2-42",
+      "tema": "D3",
+      "assunto": "LC 840/2011: auxílio-natalidade",
+      "enunciado": "Por motivo de nascimento de filho, à servidora efetiva é devido o auxílio-natalidade, em quantia equivalente ao menor vencimento básico do serviço público distrital,",
+      "alternativas": {
+        "A": "inclusive no caso de natimorto.",
+        "B": "sendo o valor acrescido de 30% por nascituro, em parto múltiplo, até o limite de três.",
+        "C": "sendo o valor acrescido de 50% por nascituro, em parto múltiplo, até o limite de três.",
+        "D": "ressalvado o caso de natimorto."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 42"
+    },
+    {
+      "id": "p1p2-cargo2-43",
+      "tema": "D3",
+      "assunto": "LC 840/2011: infração média",
+      "enunciado": "Conforme o regime disciplinar do servidor público, constitui infração média",
+      "alternativas": {
+        "A": "praticar ato incompatível com a moralidade administrativa.",
+        "B": "perturbar, sem justa causa, a ordem e a serenidade no recinto da repartição.",
+        "C": "não comparecer, quando convocado, a inspeção ou perícia médica.",
+        "D": "descumprir dever funcional ou decisões administrativas emanadas dos órgãos competentes."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 43"
+    },
+    {
+      "id": "p1p2-cargo2-44",
+      "tema": "D3",
+      "assunto": "LC 840/2011: sanção de suspensão",
+      "enunciado": "O servidor público que exercer atividade privada incompatível com o horário do serviço poderá ser punido com a sanção de",
+      "alternativas": {
+        "A": "advertência.",
+        "B": "suspensão.",
+        "C": "demissão.",
+        "D": "cassação."
+      },
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 44"
+    },
+    {
+      "id": "p1p2-cargo2-53",
+      "tema": "D3",
+      "assunto": "Poder de polícia",
+      "enunciado": "Acerca do poder de polícia, assinale a opção correta.",
+      "alternativas": {
+        "A": "Atualmente, o fundamento legal do poder de polícia encontra- se na Lei n.º 9.784/1999, que trata do processo administrativo na administração pública.",
+        "B": "O exercício de poder de polícia pode dar-se validamente mediante atividade discricionária da administração pública.",
+        "C": "A autoridade investida do poder de polícia não pode agir repressivamente.",
+        "D": "Não cabe ao Estado produzir normas para concretizar o poder de polícia."
+      },
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 53"
+    },
+    {
+      "id": "p1p2-cargo2-57",
+      "tema": "D3",
+      "assunto": "Organizações da sociedade civil de interesse público (OSCIP)",
+      "enunciado": "Acerca das organizações da sociedade civil de interesse público (OSCIP), assinale a opção correta.",
+      "alternativas": {
+        "A": "A qualificação de OSCIP destina-se às entidades que já executam serviços públicos.",
+        "B": "Quaisquer pessoas jurídicas de direito privado voltadas ao fortalecimento da democracia podem receber a qualificação de OSCIP.",
+        "C": "Constatado, a qualquer momento, o desaparecimento do interesse público na continuidade do vínculo da administração pública com a OSCIP, tal qualificação da entidade pode ser revogada por ato discricionário e sumário do poder público.",
+        "D": "As OSCIP não podem ter finalidade lucrativa e são vinculadas à administração pública por meio de termo de parceria, para executar atividades de interesse público."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 57"
+    },
+    {
+      "id": "p1p2-cargo2-61",
+      "tema": "D3",
+      "assunto": "Acumulação de cargo público com mandato eletivo",
+      "enunciado": "O detentor de cargo no serviço público que dispuser da compatibilidade de horários para o exercício desse cargo e de um cargo com mandato eletivo poderá perceber cumulativamente as vantagens de seu cargo, emprego ou função e a remuneração de cargo eletivo, desde que seja eleito para o exercício do cargo de",
+      "alternativas": {
+        "A": "vereador.",
+        "B": "prefeito.",
+        "C": "deputado estadual.",
+        "D": "deputado federal."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 61"
+    },
+    {
+      "id": "p1p2-cargo2-62",
+      "tema": "D3",
+      "assunto": "Organização da administração pública (CF)",
+      "enunciado": "Julgue os próximos itens, a respeito de aspectos referentes à organização da administração pública. I As pessoas jurídicas de direito privado, quando atuarem na prestação de serviços públicos, responderão pelos danos causados pelos seus agentes a terceiros. II Em caso de ato de improbidade administrativa, não haverá prejuízo da ação penal cabível, mesmo que haja ressarcimento dos prejuízos ao erário. III É legalmente permitido realizar publicidade de obras públicas contendo o nome da autoridade responsável, como forma de promover o reconhecimento pela realização. Assinale a opção correta.",
+      "alternativas": {
+        "A": "Apenas o item I está certo.",
+        "B": "Apenas o item III está certo.",
+        "C": "Apenas os itens I e II estão certos.",
+        "D": "Todos os itens estão certos."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 62"
+    },
+    {
+      "id": "p1p2-cargo2-63",
+      "tema": "D3",
+      "assunto": "Modelo burocrático de administração pública",
+      "enunciado": "O modelo burocrático de administração pública caracteriza-se por",
+      "alternativas": {
+        "A": "flexibilidade e orientação para clientes e resultados.",
+        "B": "técnicas de administração similares às da iniciativa privada com vistas à eficiência do sistema.",
+        "C": "hierarquia de cargos bem definida, regramento de condutas e formalização documental de processos administrativos.",
+        "D": "descentralização administrativa e estruturas funcionais horizontalizadas."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 63"
+    },
+    {
+      "id": "p1p2-cargo2-64",
+      "tema": "D3",
+      "assunto": "Modernização da administração pública: racionalidade",
+      "enunciado": "O predomínio de critérios objetivos na orientação para a ação, a utilização de métodos mais eficientes para a realização dos objetivos desejados, a capacidade de trabalhar com informações precisas, processá-las e utilizá-las no processo decisório e a capacidade de avaliar objetivamente as consequências das decisões são conteúdos inerentes aos processos de modernização da administração pública que se correlacionam com propósitos de",
+      "alternativas": {
+        "A": "economicidade.",
+        "B": "cidadania.",
+        "C": "qualidade.",
+        "D": "racionalidade."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 64"
+    },
+    {
+      "id": "p1p2-cargo2-65",
+      "tema": "D3",
+      "assunto": "Modernização da administração pública",
+      "enunciado": "Assinale a opção que expressa uma tendência evolutiva em busca da modernização da administração pública visando a constituição de instituições mais fortes e aptas a responderem aos desafios sociais.",
+      "alternativas": {
+        "A": "Ênfase na capacidade gerencial do servidor público visando incentivar a inovação.",
+        "B": "Ocupação de cargos-chave segundo critérios político-partidários.",
+        "C": "Formalização de contratos de gestão flexíveis, suscetíveis a interferências políticas.",
+        "D": "Adoção de estilo gerencial autoritário e hierarquicamente rígido."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 65"
+    },
+    {
+      "id": "curso-formacao-cargo2-15",
+      "tema": "D3",
+      "assunto": "Estrutura da administração do Distrito Federal",
+      "enunciado": "Relativamente à estrutura da administração do Distrito Federal (DF), assinale a opção correta.",
+      "alternativas": {
+        "A": "Como ente federativo autônomo, o DF tem competência privativa para legislar sobre a manutenção de sua ordem e segurança internas.",
+        "B": "A criação e a extinção de regiões administrativas podem dar-se mediante decreto do governador do DF.",
+        "C": "A remuneração dos administradores regionais pode ser de até 90% da fixada para os secretários de governo do DF, no que se conhece como subteto.",
+        "D": "A atuação dos órgãos da administração do DF compreende a promoção do desenvolvimento humano e ambientalmente sustentável, a transparência e publicidade de seus atos e a adoção de mecanismos de controle da própria administração."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 2.md — Questão 15"
+    },
+    {
+      "id": "curso-formacao-cargo2-26",
+      "tema": "D3",
+      "assunto": "LC 840/2011: investidura, estágio probatório e reversão",
+      "enunciado": "Julgue os itens a seguir, de acordo com o Regime Jurídico Único dos Servidores Públicos do Distrito Federal (Lei Complementar distrital n.º 840/2011). I A investidura em cargo público no Distrito Federal (DF) exige a observância e a comprovação de certos requisitos na ocasião da posse, entre os quais estão o gozo dos direitos políticos e a aptidão física e mental. II Ao entrar em exercício, o servidor público ficará sujeito a estágio probatório pelo período de três anos. III Todo servidor aposentado poderá retornar à atividade, mas deve fazê-lo no prazo de quinze dias após a ciência do deferimento do pleito de reversão. Assinale a opção correta.",
+      "alternativas": {
+        "A": "Apenas o item II está certo.",
+        "B": "Apenas o item III está certo.",
+        "C": "Apenas os itens I e II estão certos.",
+        "D": "Apenas os itens I e III estão certos."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 2.md — Questão 26"
+    },
+    {
+      "id": "curso-formacao-cargo2-27",
+      "tema": "D3",
+      "assunto": "LC 840/2011: cargos efetivos e em comissão",
+      "enunciado": "Com base no Regime Jurídico Único dos Servidores Públicos do Distrito Federal (Lei Complementar distrital n.º 840/2011), assinale a opção correta.",
+      "alternativas": {
+        "A": "Os cargos públicos no DF se dividem em cargos de provimento efetivo — que dependem de aprovação em concurso público — e cargos de comissão — que são de livre nomeação e exoneração pela autoridade competente.",
+        "B": "O referido estatuto aplica-se às empresas públicas e às sociedades de economia mista do DF se as suas leis de criação tiverem estabelecido aos seus empregados submissão ao regime estatutário.",
+        "C": "Diferentemente da Constituição Federal de 1988, o estatuto vigente no DF assegura à autoridade competente discricionariedade para escolher todos os seus comissionados.",
+        "D": "Em obediência ao estatuto vigente no DF, os editais de concursos públicos devem reservar até 20% das vagas para serem preenchidas por pessoas com deficiência."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 2.md — Questão 27"
+    },
+    {
+      "id": "curso-formacao-cargo2-50",
+      "tema": "D3",
+      "assunto": "Termo de fomento e termo de colaboração (MROSC)",
+      "enunciado": "Assinale a opção que corresponde ao instrumento por meio do qual são formalizadas as parcerias estabelecidas pela administração pública do GDF com organizações da sociedade civil sem fins lucrativos, em que há interesse público e recíproco por propostas dessas organizações, envolvendo a transferência de recursos financeiros.",
+      "alternativas": {
+        "A": "contrato de gestão",
+        "B": "termo de fomento",
+        "C": "termo de colaboração",
+        "D": "parceria público-privada"
+      },
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 2.md — Questão 50"
+    },
+    {
+      "id": "p1p2-cargo1-52",
+      "tema": "D4",
+      "assunto": "Decadência dos atos administrativos",
+      "enunciado": "Assinale a opção correta acerca da decadência dos atos administrativos.",
+      "alternativas": {
+        "A": "O prazo legal geral para retirada de atos administrativos que contenham ilegalidade ou abuso de poder é de, no máximo, três anos.",
+        "B": "Estados e municípios devem seguir a legislação federal no que se refere aos prazos de decadência aplicáveis a atos administrativos.",
+        "C": "Não se aplica o prazo de decadência de cinco anos ao exame de atos administrativos por parte dos tribunais de contas.",
+        "D": "Em certos casos, atos administrativos anteriores ao advento da Lei do Processo Administrativo (Lei n.º 9.784/1999) também se sujeitam ao prazo de decadência nela previsto."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 52"
+    },
+    {
+      "id": "p1p2-cargo2-45",
+      "tema": "D4",
+      "assunto": "Sindicância: prazo de conclusão (LC 840/2011)",
+      "enunciado": "A sindicância é o procedimento investigativo destinado a identificar a autoria de infração disciplinar quando desconhecida, e a apurar a materialidade de infração disciplinar sobre a qual haja apenas indícios ou que tenha sido apenas noticiada, tendo prazo de conclusão de",
+      "alternativas": {
+        "A": "até trinta dias, improrrogável.",
+        "B": "até trinta dias, prorrogável por igual período, a critério da autoridade competente.",
+        "C": "até sessenta dias, improrrogável.",
+        "D": "até sessenta dias, prorrogável por igual período, a critério da autoridade competente."
+      },
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 45"
+    },
+    {
+      "id": "p1p2-cargo2-51",
+      "tema": "D4",
+      "assunto": "Revogação dos atos administrativos",
+      "enunciado": "Quanto à revogação dos atos administrativos, assinale a opção correta.",
+      "alternativas": {
+        "A": "Na revogação, são desconstituídos certos efeitos consumados, mas reversíveis, do ato administrativo.",
+        "B": "Um ato administrativo exaurido pode ser revogado, se houver interesse público.",
+        "C": "Atos administrativos que hajam produzido direitos adquiridos podem ser revogados na via judicial.",
+        "D": "Atos vinculados, em princípio, não podem ser revogados."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 51"
+    },
+    {
+      "id": "p1p2-cargo2-52",
+      "tema": "D4",
+      "assunto": "Sindicância e responsabilidade disciplinar",
+      "enunciado": "Em relação à sindicância no que tange a responsabilidade disciplinar de agentes públicos, assinale a opção correta.",
+      "alternativas": {
+        "A": "O procedimento de sindicância não é indispensável para a punição disciplinar de agente público.",
+        "B": "Caso a sindicância recolha elementos probatórios suficientes e seja permitido ao servidor interessado formular defesa, poderá ser aplicada a ele, desde logo, a sanção legalmente prevista.",
+        "C": "A fim de preservar a intimidade dos agentes públicos, as sindicâncias, em regra, devem tramitar de forma sigilosa.",
+        "D": "De modo a não influenciar indevidamente o julgamento do processo administrativo disciplinar instaurado, a sindicância, quando concluída, deve ser arquivada."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 52"
+    },
+    {
+      "id": "p1p2-cargo2-86",
+      "tema": "D4",
+      "assunto": "Controle de mérito",
+      "enunciado": "Devido a situação julgada urgente, o secretário de obras do Distrito Federal (DF) realocou verbas de uma região administrativa do DF para outra. Parlamentares que representavam a região prejudicada procuraram o governador para discutir o caso. O governador consultou o secretário, estudou o caso e, por fim, determinou o retorno da verba para a região à que ela estava destinada originalmente. Nessa situação hipotética, ocorreu um caso de controle",
+      "alternativas": {
+        "A": "concomitante.",
+        "B": "de legalidade.",
+        "C": "parlamentar.",
+        "D": "de mérito."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 86"
+    },
+    {
+      "id": "p1p2-cargo2-90",
+      "tema": "D4",
+      "assunto": "Controle administrativo e autotutela",
+      "enunciado": "A atividade caracterizada pela autotutela e exercida de ofício ou por provocação, com o objetivo de avaliar a legalidade e o mérito dos atos, corresponde ao controle",
+      "alternativas": {
+        "A": "administrativo.",
+        "B": "de legalidade.",
+        "C": "de mérito.",
+        "D": "externo."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 90"
+    },
+    {
+      "id": "verificacao-2aturma-8",
+      "tema": "D5",
+      "assunto": "Documentos do controle interno na análise de atos concessórios (TCE)",
+      "enunciado": "Acerca dos documentos emitidos pelo controle interno ao analisar os atos concessórios, julgue os itens seguintes. I O parecer tem por finalidade deliberar sobre a legalidade do ato concessório de aposentadoria, reforma e pensão. II A diligência consiste na solicitação de esclarecimento de fatos ou na correção de inconsistência ou de irregularidade no processo em análise. III A proposta de diligência visa informar ao Tribunal de Contas do Distrito Federal (TCDF) sobre o não cumprimento de diligência do controle interno referente à solicitação de correção de inconsistência ou de irregularidade no ato concessório de aposentadoria, reforma ou pensão. Assinale a opção correta.",
+      "alternativas": {
+        "A": "Apenas os itens I e II estão certos.",
+        "B": "Apenas os itens I e III estão certos.",
+        "C": "Apenas os itens II e III estão certos.",
+        "D": "Todos os itens estão certos."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA DE VERIFICACAO DE APRENDIZAGEM CURSO DE FORMACAO PROFISSIONAL 2aTURMA SUB JUDICE.md — Questão 8"
+    },
+    {
+      "id": "verificacao-2aturma-9",
+      "tema": "D5",
+      "assunto": "Apreciação da legalidade de atos de admissão de pessoal",
+      "enunciado": "A respeito da apreciação da legalidade dos atos de admissão de pessoal, assinale a opção correta.",
+      "alternativas": {
+        "A": "Em caso de impossibilidade de correção de irregularidade do ato de admissão, o órgão de controle interno deverá encaminhar diligência ao TCDF.",
+        "B": "Diante da verificação de irregularidade no ato de admissão de pessoal, os órgãos de controle deverão providenciar sua regularização por meio de diligência.",
+        "C": "O prazo para concessão de parecer conclusivo quanto à legalidade do ato de admissão transcorre ininterruptamente durante o cumprimento de diligência.",
+        "D": "O prazo para emissão de parecer conclusivo quanto à legalidade do ato de admissão é de 30 dias contados da data de contratação do servidor."
+      },
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVA DE VERIFICACAO DE APRENDIZAGEM CURSO DE FORMACAO PROFISSIONAL 2aTURMA SUB JUDICE.md — Questão 9"
+    },
+    {
+      "id": "verificacao-2aturma-10",
+      "tema": "D5",
+      "assunto": "Competências da Controladoria-Geral do DF (CGDF)",
+      "enunciado": "A respeito das competências da Controladoria-Geral do Distrito Federal (CGDF), no que se refere ao controle interno da administração distrital, assinale a opção correta.",
+      "alternativas": {
+        "A": "A avocação de procedimentos de tomada de contas pela CGDF é admitida apenas no que concerne aos gestores da administração direta, dado que a relação com a administração indireta é de supervisão e não de hierarquia.",
+        "B": "Competem à CGDF a instauração e o julgamento de tomadas de contas especiais, visando à apuração de irregularidades cometidas por gestores públicos do Distrito Federal.",
+        "C": "É de competência da CGDF a supervisão de tomadas de contas especiais em curso em órgãos e entidades do Poder Executivo do Distrito Federal, bem como a emissão de relatório e certificados de auditoria no exame desses processos.",
+        "D": "A competência da CGDF para realizar a apuração de tomadas de contas alcança todos os dirigentes ou autoridades da administração pública distrital."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA DE VERIFICACAO DE APRENDIZAGEM CURSO DE FORMACAO PROFISSIONAL 2aTURMA SUB JUDICE.md — Questão 10"
+    },
+    {
+      "id": "verificacao-2aturma-11",
+      "tema": "D5",
+      "assunto": "Tomada de contas especial (TCE)",
+      "enunciado": "Na condução de uma tomada de contas especial (TCE), caso seja comprovada a aplicação extemporânea de recursos recebidos a título de subvenção/auxílio/contribuição, o certificado de auditoria deverá ser encaminhado para fins de",
+      "alternativas": {
+        "A": "irregularidade das contas.",
+        "B": "regularidade das contas.",
+        "C": "absorção de prejuízo ao erário.",
+        "D": "encerramento das contas."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA DE VERIFICACAO DE APRENDIZAGEM CURSO DE FORMACAO PROFISSIONAL 2aTURMA SUB JUDICE.md — Questão 11"
+    },
+    {
+      "id": "verificacao-2aturma-12",
+      "tema": "D5",
+      "assunto": "Tomada de contas especial (TCE): procedimentos",
+      "enunciado": "Com relação aos procedimentos referentes à instauração da TCE, assinale a opção correta.",
+      "alternativas": {
+        "A": "A ausência de prejuízo, isoladamente, não é razão suficiente para obstar a instauração ou o prosseguimento da TCE.",
+        "B": "A disciplina legal vigente admite valor de alçada fixado em R$ 8.261,05, abaixo do qual se dispensa a instauração da TCE, o que implica o cancelamento do débito.",
+        "C": "O decurso do tempo entre a data provável de ocorrência do dano e o seu conhecimento, ainda que inviabilize o pleno exercício do contraditório e da ampla defesa, não justifica a dispensa da instauração da TCE, tendo em conta a imprescritibilidade das ações de ressarcimento ao erário.",
+        "D": "A apuração de incidentes ocorridos com veículo oficial, como, por exemplo, dano, furto, roubo ou infração de trânsito, dispensa a instauração da TCE."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA DE VERIFICACAO DE APRENDIZAGEM CURSO DE FORMACAO PROFISSIONAL 2aTURMA SUB JUDICE.md — Questão 12"
+    },
+    {
+      "id": "verificacao-2aturma-21",
+      "tema": "D5",
+      "assunto": "Finalidade dos sistemas de controle interno",
+      "enunciado": "Constitui finalidade dos sistemas de controle interno I avaliar o cumprimento das metas previstas no plano plurianual. II comprovar a legalidade e avaliar os resultados, quanto à eficácia e à eficiência, da aplicação de recursos públicos por entidades de direito privado. III exercer o controle das operações de crédito, avais e garantias, bem como dos direitos e haveres da União. Assinale a opção correta.",
+      "alternativas": {
+        "A": "Apenas os itens I e II estão certos.",
+        "B": "Apenas os itens II e III estão certos.",
+        "C": "Apenas os itens I e III estão certos.",
+        "D": "Todos os itens estão certos."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA DE VERIFICACAO DE APRENDIZAGEM CURSO DE FORMACAO PROFISSIONAL 2aTURMA SUB JUDICE.md — Questão 21"
+    },
+    {
+      "id": "curso-formacao-cargo1-10",
+      "tema": "D5",
+      "assunto": "Tomada de contas especial (TCE): objetivos",
+      "enunciado": "Para os fins dos procedimentos correcionais na administração do Distrito Federal, inclui-se entre os objetivos da tomada de contas especial (TCE) I esclarecer fatos que tenham gerado lesão ao erário. II gerar título executivo extrajudicial, com seu relatório final, para ressarcimento do erário. III definir o valor da lesão ao patrimônio público. Assinale a opção correta.",
+      "alternativas": {
+        "A": "Apenas o item I está certo.",
+        "B": "Apenas o item II está certo.",
+        "C": "Apenas os itens I e II estão certos.",
+        "D": "Apenas os itens I e III estão certos."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 1.md — Questão 10"
+    },
+    {
+      "id": "curso-formacao-cargo1-11",
+      "tema": "D5",
+      "assunto": "Tomada de contas especial (TCE)",
+      "enunciado": "Acerca dos procedimentos correcionais na administração do Distrito Federal, assinale a opção correta, a respeito da TCE.",
+      "alternativas": {
+        "A": "Toda TCE deve prosseguir até o relatório final, ainda que no curso do procedimento se constate inexistência de dano ao erário.",
+        "B": "Na hipótese de a legislação autorizar que não se instaure TCE em determinada situação, deve proceder-se ao cancelamento do débito correspondente ao ato.",
+        "C": "Independentemente do valor do possível dano, deve-se instaurar TCE, se houver determinação do Tribunal de Contas do Distrito Federal (TCDF).",
+        "D": "É obrigatório instaurar TCE no caso de roubo ou furto de veículo oficial."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 1.md — Questão 11"
+    },
+    {
+      "id": "curso-formacao-cargo1-12",
+      "tema": "D5",
+      "assunto": "Tomada de contas especial (TCE): ritos",
+      "enunciado": "As TCEs",
+      "alternativas": {
+        "A": "devem ser julgadas regulares apenas quando não tiver havido nulidade formal em seu procedimento.",
+        "B": "que tramitem no rito sumaríssimo não precisam, como regra, ser enviadas ao TCDF nem ao controle interno, para certificação.",
+        "C": "conduzidas no rito sumário devem ser remetidas ao TCDF, quando encerradas, para julgamento.",
+        "D": "sob rito ordinário devem ser enviadas ao controle interno, para certificação, no prazo improrrogável de 30 dias de sua instauração."
+      },
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 1.md — Questão 12"
+    },
+    {
+      "id": "p3-cargo1-30",
+      "tema": "D5",
+      "assunto": "Tribunal de Contas da União: dispositivos constitucionais",
+      "enunciado": "A respeito dos dispositivos constitucionais relacionados ao Tribunal de Contas da União (TCU), julgue os seguintes itens. I É legítimo a qualquer cidadão, na forma da lei, denunciar irregularidades ou ilegalidades perante o TCU. II Cabe ao Congresso Nacional a escolha de dois terços dos ministros do TCU. III É competência do TCU exercer a fiscalização da aplicação de recursos repassados pela União ao Distrito Federal. Assinale a opção correta.",
+      "alternativas": {
+        "A": "Apenas o item I está certo.",
+        "B": "Apenas o item II está certo.",
+        "C": "Apenas o item III está certo.",
+        "D": "Todos os itens estão certos."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 30"
+    },
+    {
+      "id": "p1p2-cargo1-22",
+      "tema": "D5",
+      "assunto": "TCU: julgamento da legalidade de atos de concessão inicial",
+      "enunciado": "Os tribunais de contas podem julgar a legalidade dos atos de concessão inicial de aposentadoria, reforma e pensão. Nesse contexto, o prazo para o julgamento é",
+      "alternativas": {
+        "A": "imprescritível apenas nos casos de pensão e reforma.",
+        "B": "prescritível apenas nos casos de aposentadoria e pensão.",
+        "C": "imprescritível apenas nos casos de reforma e aposentadoria.",
+        "D": "prescritível nos casos de aposentadoria, reforma e pensão."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 22"
+    },
+    {
+      "id": "p1p2-cargo1-37",
+      "tema": "D5",
+      "assunto": "TCDF: requisitos dos conselheiros (LODF)",
+      "enunciado": "Os conselheiros do Tribunal de Contas do Distrito Federal serão nomeados entre brasileiros que, entre outros requisitos, tenham",
+      "alternativas": {
+        "A": "mais de trinta anos e menos de setenta anos de idade e idoneidade moral e reputação ilibada.",
+        "B": "idoneidade moral e reputação ilibada e mais de quinze anos de exercício de função ou de efetiva atividade profissional.",
+        "C": "idoneidade moral e reputação ilibada e notáveis conhecimentos jurídicos, contábeis, econômicos e financeiros ou de administração pública.",
+        "D": "mais de trinta anos e menos de setenta anos de idade e mais de quinze anos de exercício de função ou de efetiva atividade profissional."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 37"
+    },
+    {
+      "id": "p1p2-cargo1-45",
+      "tema": "D5",
+      "assunto": "LC 840/2011: afastamento cautelar em processo disciplinar",
+      "enunciado": "A autoridade instauradora de processo disciplinar pode determinar o afastamento do servidor público do exercício do seu cargo, como medida cautelar e a fim de que o servidor não venha a influir na apuração da infração disciplinar, pelo prazo de até",
+      "alternativas": {
+        "A": "sessenta dias, sem prejuízo da remuneração.",
+        "B": "sessenta dias, com suspensão do recebimento da remuneração.",
+        "C": "trinta dias, sem prejuízo da remuneração.",
+        "D": "trinta dias, com suspensão do recebimento da remuneração."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 45"
+    },
+    {
+      "id": "p1p2-cargo1-59",
+      "tema": "D5",
+      "assunto": "Controle legislativo da administração pública",
+      "enunciado": "Com referência ao controle legislativo da administração pública, assinale a opção correta.",
+      "alternativas": {
+        "A": "A competência do Congresso Nacional para realizar controle de atos da administração pública permite que qualquer parlamentar, individualmente, requisite informações do Poder Executivo, com caráter obrigatório.",
+        "B": "Com base no poder de sustação, o Congresso Nacional pode sustar a eficácia de atos normativos do Poder Executivo que exorbitem da competência deste, como decretos autônomos e medidas provisórias inconstitucionais.",
+        "C": "O controle político do Poder Legislativo abrange atos não só do Poder Executivo, mas também alguns atos do Poder Judiciário.",
+        "D": "O controle financeiro do Poder Legislativo possui a natureza de controle interno, voltado unicamente para aferir a validade dos atos do próprio Poder Legislativo."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 59"
+    },
+    {
+      "id": "p1p2-cargo2-22",
+      "tema": "D5",
+      "assunto": "TCU: contraditório e ampla defesa (Súmula Vinculante 3)",
+      "enunciado": "O TCU está apreciando a legalidade dos seguintes atos: concessão inicial de aposentadoria a Pedro; concessão inicial de pensão a Ana; concessão inicial de reforma a José; ato administrativo que beneficiou Lucas — sem ser aposentadoria, pensão ou reforma. Nessa situação hipotética, o TCU deverá assegurar o direito ao contraditório e à ampla defesa somente a",
+      "alternativas": {
+        "A": "Ana e José.",
+        "B": "Pedro.",
+        "C": "Lucas.",
+        "D": "José."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 22"
+    },
+    {
+      "id": "p1p2-cargo2-87",
+      "tema": "D5",
+      "assunto": "Controle financeiro da administração pública: interno e externo",
+      "enunciado": "O controle financeiro da administração pública, em seus vários níveis, é realizado",
+      "alternativas": {
+        "A": "exclusivamente pelo controle interno.",
+        "B": "exclusivamente pelo controle externo.",
+        "C": "tanto pelo controle interno quanto pelo controle externo.",
+        "D": "pelo controle interno, complementado, no que couber, pelo controle externo."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 87"
+    },
+    {
+      "id": "p1p2-cargo2-88",
+      "tema": "D5",
+      "assunto": "Controle parlamentar da execução orçamentária",
+      "enunciado": "Com relação ao controle dos orçamentos e balanços da União, dos estados, do DF e dos municípios, julgue os itens a seguir. I É objetivo do controle parlamentar da execução orçamentária verificar a probidade da administração, a guarda e o legal emprego dos dinheiros públicos e o cumprimento da lei de orçamento. II O prazo para a prestação de contas anual pelo Poder Executivo será definido no projeto de lei orçamentária anual do exercício anterior. III As contas do Poder Executivo serão submetidas ao Poder Legislativo, com parecer prévio do tribunal de contas ou órgão equivalente. Assinale a opção correta.",
+      "alternativas": {
+        "A": "Apenas os itens I e II estão certos.",
+        "B": "Apenas os itens I e III estão certos.",
+        "C": "Apenas os itens II e III estão certos.",
+        "D": "Todos os itens estão certos."
+      },
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 88"
+    },
+    {
+      "id": "p1p2-cargo2-89",
+      "tema": "D5",
+      "assunto": "Controle externo das contas municipais",
+      "enunciado": "No município brasileiro que não possua estrutura para manter o funcionamento de um tribunal de contas municipal, o Poder Legislativo local poderá ter como auxiliar(es) no controle externo das contas municipais",
+      "alternativas": {
+        "A": "apenas o tribunal de contas do estado.",
+        "B": "apenas o conselho de contas do estado e o Tribunal de Contas da União.",
+        "C": "apenas o tribunal de contas dos municípios do estado e o Tribunal de Contas da União.",
+        "D": "o tribunal de contas dos municípios do estado e o tribunal de contas do estado."
+      },
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 89"
+    },
+    {
+      "id": "curso-formacao-cargo2-5",
+      "tema": "D5",
+      "assunto": "Documento do controle interno: parecer sobre atos concessórios",
+      "enunciado": "Assinale a opção que indica o documento emitido pelo controle interno com a finalidade de opinar pela legalidade ou não de atos concessórios de aposentadorias, reformas e pensões, quando da sua análise.",
+      "alternativas": {
+        "A": "nota técnica",
+        "B": "proposta de diligência",
+        "C": "parecer",
+        "D": "diligência"
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 2.md — Questão 5"
+    },
+    {
+      "id": "curso-formacao-cargo2-6",
+      "tema": "D5",
+      "assunto": "Procedimentos correcionais na administração do DF",
+      "enunciado": "No que diz respeito aos procedimentos correcionais na administração do Distrito Federal (DF), assinale a opção correta.",
+      "alternativas": {
+        "A": "As regras e os princípios que regem o direito administrativo disciplinar são, essencialmente, os mesmos que regulam o direito penal.",
+        "B": "Devido ao caráter formal do processo administrativo disciplinar, uma vez encerrada a fase instrutória, não é possível acrescentar nova prova ao procedimento.",
+        "C": "Como regra, no campo da responsabilidade disciplinar dos agentes públicos, as infrações disciplinares mais graves absorvem as menos graves.",
+        "D": "O prazo prescricional da pretensão punitiva disciplinar e de ressarcimento do erário começa sempre da data da prática do ato ou da ocorrência do fato juridicamente relevante."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 2.md — Questão 6"
+    },
+    {
+      "id": "curso-formacao-cargo2-7",
+      "tema": "D5",
+      "assunto": "Responsabilização disciplinar de agente público por solicitação de propina",
+      "enunciado": "Mário, agente público do Distrito Federal, solicitou propina para si, no exercício da função, a pretexto de praticar ato de sua esfera de competência. Após o devido processo legal, Mário foi condenado na instância disciplinar. Nessa situação hipotética, Mário",
+      "alternativas": {
+        "A": "estaria sujeito à cassação de aposentadoria, se houvesse ocupado cargo efetivo e estivesse aposentado ao tempo do julgamento do processo administrativo disciplinar.",
+        "B": "estará incompatibilizado para ser investido em novo cargo público no Distrito Federal, pelo prazo de cinco anos.",
+        "C": "não estaria mais sujeito a sanção disciplinar, caso ocupasse cargo em comissão quando da prática do ato e dele houvesse pedido exoneração.",
+        "D": "estará sujeito a demissão, apenas no caso de reincidir em infração média ou grave."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 2.md — Questão 7"
+    },
+    {
+      "id": "curso-formacao-cargo2-8",
+      "tema": "D5",
+      "assunto": "Poder disciplinar na administração do DF",
+      "enunciado": "No que concerne ao poder disciplinar na administração do DF, assinale a opção correta.",
+      "alternativas": {
+        "A": "É juridicamente possível o início de apuração disciplinar na administração do DF com base em denúncia anônima.",
+        "B": "Uma vez exercido o juízo de admissibilidade da notícia de infração disciplinar, os caminhos possíveis são, exclusivamente, o arquivamento sumário, a instauração de sindicância ou a instauração de PAD.",
+        "C": "Qualquer pessoa pode informar o poder público do DF acerca de infração disciplinar, mas somente poderá fazê-lo por meio dos canais eletrônicos apropriados.",
+        "D": "A sindicância é obrigatória, como etapa inicial do processo administrativo disciplinar (PAD)."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 2.md — Questão 8"
+    },
+    {
+      "id": "curso-formacao-cargo2-16",
+      "tema": "D5",
+      "assunto": "Competências da Controladoria-Geral do Distrito Federal",
+      "enunciado": "Inclui-se nas competências da Controladoria-Geral do Distrito Federal I supervisionar e tratar os dados do Portal da Transparência. II realizar correições e auditorias administrativas. III executar ações de prevenção e combate à corrupção. IV apurar indícios de irregularidades. Assinale a opção correta.",
+      "alternativas": {
+        "A": "Apenas os itens I, II e IV estão certos.",
+        "B": "Apenas os itens I, III e IV estão certos.",
+        "C": "Apenas os itens II, III e IV estão certos.",
+        "D": "Todos os itens estão certos."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 2.md — Questão 16"
+    },
+    {
+      "id": "curso-formacao-cargo2-17",
+      "tema": "D5",
+      "assunto": "SICON: subsistema de orçamento",
+      "enunciado": "No âmbito do Sistema de Controle Interno do Poder Executivo Distrital (SICON), orientar e avaliar a execução orçamentária é finalidade do subsistema de",
+      "alternativas": {
+        "A": "planejamento.",
+        "B": "auditoria.",
+        "C": "orçamento.",
+        "D": "contabilidade."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 2.md — Questão 17"
+    },
+    {
+      "id": "p3-cargo2-22",
+      "tema": "D6",
+      "assunto": "Governo Aberto (Decreto federal 10.160/2019)",
+      "enunciado": "Assinale a opção que apresenta iniciativas que estão descritas no Decreto Federal n.º 10.160/2019 e que visam aprimorar ou elaborar mudanças administrativas.",
+      "alternativas": {
+        "A": "acesso às informações públicas e eficiência administrativa",
+        "B": "promoção da cultura administrativa e promoção da cultura financeira",
+        "C": "acesso aberto a todos os órgãos ministeriais, independentemente de justificativa, e combate à corrupção",
+        "D": "fim dos impedimentos de titulares de órgãos representados pelo governo aberto e fortalecimento da integridade pública"
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 22"
+    },
+    {
+      "id": "p3-cargo2-27",
+      "tema": "D6",
+      "assunto": "Instituições participativas na elaboração de políticas públicas",
+      "enunciado": "A Constituição Federal de 1988 determinou mudanças na forma de interação do Estado com a sociedade brasileira, introduzindo as instituições participativas, com as incorporações de cidadãos e de associações da sociedade civil na deliberação de políticas públicas. Entre as instituições participativas que podem auxiliar na elaboração das políticas públicas incluem-se I os conselhos nacionais. II os conselhos municipais na definição do orçamento público. III as conferências nacionais. IV as audiências públicas. V as associações da sociedade civil. Assinale a opção correta.",
+      "alternativas": {
+        "A": "Apenas os itens I, III e V estão certos.",
+        "B": "Apenas os itens II, III e IV estão certos.",
+        "C": "Apenas os itens I, II, IV e V estão certos.",
+        "D": "Todos os itens estão certos."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 27"
+    },
+    {
+      "id": "verificacao-2aturma-1",
+      "tema": "D8",
+      "assunto": "Modelo das três linhas no governo do DF",
+      "enunciado": "Assinale a opção correta no que diz respeito à aplicação do modelo das três linhas no governo do Distrito Federal.",
+      "alternativas": {
+        "A": "A coordenação técnico-normativa da segunda linha do sistema de controle interno é responsável por avaliações independentes e consultorias, com vistas a agregar valor à gestão e otimizar a eficácia dos processos de gerenciamento de riscos.",
+        "B": "A segunda linha refere-se aos agentes públicos responsáveis pela execução dos controles primários da gestão e pelo gerenciamento de riscos de seus próprios processos.",
+        "C": "A terceira linha é composta pelos setores responsáveis pela função de auditoria interna, incluindo tanto a auditoria geral quanto as unidades setoriais de auditoria interna presentes na administração indireta.",
+        "D": "A primeira linha representa os setores de apoio à gestão responsáveis pelo gerenciamento dos controles primários e monitoramento dos riscos e pela orientação."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA DE VERIFICACAO DE APRENDIZAGEM CURSO DE FORMACAO PROFISSIONAL 2aTURMA SUB JUDICE.md — Questão 1"
+    },
+    {
+      "id": "verificacao-2aturma-3",
+      "tema": "D8",
+      "assunto": "Governança, controles internos e gestão de riscos",
+      "enunciado": "Na governança com controles internos e gestão de riscos na administração pública, quando há alterações em processos e culturas organizacionais e, consequentemente, oposição a essas mudanças, acarretando prejuízo à efetividade do processo, ocorre o desafio de implementação denominado",
+      "alternativas": {
+        "A": "resistência a mudanças.",
+        "B": "falta de conhecimento e capacitação.",
+        "C": "falta de integração com outros processos de gestão.",
+        "D": "falta de recursos financeiros."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA DE VERIFICACAO DE APRENDIZAGEM CURSO DE FORMACAO PROFISSIONAL 2aTURMA SUB JUDICE.md — Questão 3"
+    },
+    {
+      "id": "verificacao-2aturma-22",
+      "tema": "D8",
+      "assunto": "Teoria da agência na administração pública",
+      "enunciado": "A teoria da agência considera a existência de dois atores: o principal e o agente. Na transposição da teoria da agência da iniciativa privada para o serviço público, no contexto da administração pública e da governança,",
+      "alternativas": {
+        "A": "gestores públicos e privados devem atender aos múltiplos interesses sociais e, ao mesmo tempo, agir com total autonomia, confiando em sua integridade.",
+        "B": "os gestores são motivados a agir de forma alinhada ao propósito organizacional, sendo recomendável conceder-lhes autonomia com base na confiança.",
+        "C": "as organizações devem considerar em suas ações os interesses de acionistas/investidores, assim como de clientes, funcionários, fornecedores, gestão, comunidade, meio ambiente e Estado.",
+        "D": "aquele que é eleito e assume a chefia do Poder Executivo torna-se o principal da sociedade por “representação”."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA DE VERIFICACAO DE APRENDIZAGEM CURSO DE FORMACAO PROFISSIONAL 2aTURMA SUB JUDICE.md — Questão 22"
+    },
+    {
+      "id": "verificacao-2aturma-27",
+      "tema": "D8",
+      "assunto": "Decreto Distrital 39.736/2019: gestão de riscos e integridade",
+      "enunciado": "De acordo com os princípios estabelecidos pelo Decreto Distrital n.º 39.736/2019, no que tange à gestão de riscos e integridade no setor público, assinale a opção correta.",
+      "alternativas": {
+        "A": "A responsabilidade pela implementação de programas de integridade recai unicamente sobre a CGDF, sendo dispensada a participação da alta administração de órgãos e entidades.",
+        "B": "Os programas de integridade devem focar apenas a punição de atos de corrupção, cabendo à CGDF aplicar diretamente as sanções aos servidores.",
+        "C": "A gestão de riscos deve ser integrada ao planejamento estratégico e às atividades operacionais, devendo ser implementada de forma sistemática, estruturada e documentada, observando o interesse público.",
+        "D": "A gestão de riscos deve ser tratada exclusivamente pela auditoria interna, que é a responsável direta pela sua execução e implementação."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA DE VERIFICACAO DE APRENDIZAGEM CURSO DE FORMACAO PROFISSIONAL 2aTURMA SUB JUDICE.md — Questão 27"
+    },
+    {
+      "id": "verificacao-2aturma-28",
+      "tema": "D8",
+      "assunto": "Modelo de Três Linhas do IIA",
+      "enunciado": "Com base no Modelo de Três Linhas do IIA, utilizado para o gerenciamento de riscos, assinale a opção correta.",
+      "alternativas": {
+        "A": "A segunda linha inclui os órgãos de controle externo, que supervisionam a gestão de riscos por meio de ações corretivas e punitivas.",
+        "B": "A terceira linha é formada pela alta administração, que tem como função identificar riscos e implementar medidas de controle nos processos operacionais.",
+        "C": "A primeira linha é composta pelos gestores operacionais, responsáveis por implementar e monitorar as ações corretivas para resolver deficiências em processos e controles.",
+        "D": "A primeira linha é composta pela auditoria interna, responsável por fornecer avaliação independente sobre controles e governança."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA DE VERIFICACAO DE APRENDIZAGEM CURSO DE FORMACAO PROFISSIONAL 2aTURMA SUB JUDICE.md — Questão 28"
+    },
+    {
+      "id": "curso-formacao-cargo1-2",
+      "tema": "D8",
+      "assunto": "Tratamento de riscos (mitigação)",
+      "enunciado": "Tendo em vista que a secretaria pode selecionar as opções de tratamento de risco apropriadas para cada risco identificado, assinale a opção que consiste em reduzir o impacto do risco por meio de medidas preventivas ou preparatórias, como, por exemplo, a criação de planos de contingência.",
+      "alternativas": {
+        "A": "transferência",
+        "B": "aceitação",
+        "C": "tratamento",
+        "D": "mitigação"
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 1.md — Questão 2"
+    },
+    {
+      "id": "curso-formacao-cargo1-3",
+      "tema": "D8",
+      "assunto": "Integridade no setor público",
+      "enunciado": "A materialização dos riscos na atividade de controle interno traz consequências com efeito sistêmico para a administração pública. Uma dessas consequências pode levar a um efeito generalizado de corrupção e a solução para isso pode ser a implementação de medidas rigorosas de fiscalização e transparência, como uma estrutura de compliance, treinamento de servidores públicos em ética e integridade, e punições severas para violações. As características descritas no texto precedente referem-se a",
+      "alternativas": {
+        "A": "falta de capacitação adequada dos servidores públicos.",
+        "B": "falha na implementação de políticas públicas.",
+        "C": "falta de integridade no setor público.",
+        "D": "práticas de gestão de recursos humanos inadequadas."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 1.md — Questão 3"
+    },
+    {
+      "id": "curso-formacao-cargo1-22",
+      "tema": "D8",
+      "assunto": "Teoria de governança",
+      "enunciado": "Assinale a opção que apresenta a teoria de governança que destaca a importância de alinhar os interesses de gestores e acionistas na busca pela realização dos objetivos propostos.",
+      "alternativas": {
+        "A": "teoria da custódia",
+        "B": "teoria da representatividade",
+        "C": "teoria da agência",
+        "D": "teoria dos stakeholders"
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 1.md — Questão 22"
+    },
+    {
+      "id": "curso-formacao-cargo1-27",
+      "tema": "D8",
+      "assunto": "Gestão de riscos corporativos para integridade pública (SAEWEB)",
+      "enunciado": "No que se relaciona à gestão de riscos corporativos para integridade pública, julgue os itens a seguir de acordo com o tratamento dado no módulo de gestão de riscos da ferramenta tecnológica SAEWEB — Sistema de Gestão de Auditoria do Distrito Federal —, de uso dos órgãos e entidades do governo do Distrito Federal. I A etapa 1, do módulo 4 da ferramenta, permite registrar informações da estrutura do sistema de gestão de riscos e controles internos (GRCI), em especial, a forma de registro e as evidências da atuação da instância de governança (IG). II Na etapa 4, do módulo 4 da ferramenta, os eventos de risco são avaliados quanto a probabilidade e impacto. Além disso, são realizadas as identificações e registros de controles existentes e novos, os quais farão parte da etapa seguinte: tratamento dos riscos (plano de tratamento de ações de controle do órgão). III Na gestão de riscos, os controles existentes e os controles do plano de ação, o parecer e a avaliação registrados pelos proprietários e responsáveis pela supervisão (riscos, controles existentes e controles do plano de ação) são facilitadores para o sucesso de um sistema de GRCI. Assinale a opção correta.",
+      "alternativas": {
+        "A": "Apenas os itens I e II estão certos.",
+        "B": "Apenas os itens I e III estão certos.",
+        "C": "Apenas os itens II e III estão certos.",
+        "D": "Todos os itens estão certos."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 1.md — Questão 27"
+    },
+    {
+      "id": "curso-formacao-cargo1-28",
+      "tema": "D8",
+      "assunto": "Gestão de riscos no sistema de controle interno (SAEWEB)",
+      "enunciado": "A gestão de riscos encartada na ferramenta tecnológica SAEWEB permite o registro e acompanhamento de projetos e sistemas de gerenciamento de riscos corporativos. A respeito da gestão de riscos integrante do sistema de controle interno das diversas unidades do Distrito Federal, assinale a opção correta.",
+      "alternativas": {
+        "A": "A etapa 8 disponibiliza uma opção para o usuário verificar de forma detalhada o status da execução ou inexecução dos projetos, segundo a tipologia: implantados, parcialmente implantados, os pendentes de implantação e, por fim, os não implantados, independentemente do motivo.",
+        "B": "A etapa 8 disponibiliza uma opção para o usuário verificar a situação que se encontra a gestão de risco e, de forma minudente, levantar os controles realizados (em andamento ou não realizados) bem como a lista de novas propostas pendentes de inclusão de novos riscos ou as excluídas pelo gestor, independentemente do motivo.",
+        "C": "A ferramenta tecnológica SAEWEB permite troca de mensagens entre os usuários do sistema, contudo, somente em runtime (durante o tempo de execução), ou seja, não permite agendamento para o envio em horários específicos e(ou) em momento futuro mais adequado aos destinatários.",
+        "D": "Na identificação dos eventos de risco do sistema ou projeto, o gestor pode indicar as causas e consequências bem como o macroprocesso/processo ou atividade relacionada ao evento de risco."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 1.md — Questão 28"
+    },
+    {
+      "id": "curso-formacao-cargo1-47",
+      "tema": "D8",
+      "assunto": "Módulo de gestão de riscos da ferramenta SAEWEB",
+      "enunciado": "O objetivo principal do módulo de gestão de riscos da ferramenta tecnológica SAEWEB é",
+      "alternativas": {
+        "A": "a análise estatística de dados de projetos e sistemas de gerenciamento de riscos corporativos passados.",
+        "B": "o monitoramento e controle financeiro de projetos e sistemas de gerenciamento de riscos corporativos.",
+        "C": "a comunicação interna entre os membros da equipe de projetos e sistemas de gerenciamento de riscos corporativos.",
+        "D": "o registro e acompanhamento de projetos e sistemas de gerenciamento de riscos corporativos."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 1.md — Questão 47"
+    },
+    {
+      "id": "curso-formacao-cargo1-48",
+      "tema": "D8",
+      "assunto": "SAEWEB: análise e avaliação de riscos",
+      "enunciado": "No sistema SAEWEB, a etapa denominada análise e avaliação de riscos tem a função de",
+      "alternativas": {
+        "A": "avaliar os eventos de risco quanto a probabilidade e impacto.",
+        "B": "coletar feedback dos usuários do sistema sobre a interface.",
+        "C": "determinar a alocação orçamentária para cada risco.",
+        "D": "gerar relatórios financeiros automáticos."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 1.md — Questão 48"
+    },
+    {
+      "id": "p3-cargo1-21",
+      "tema": "D8",
+      "assunto": "COSO: ambiente de controle",
+      "enunciado": "Recompensas e sanções da avaliação de desempenho dentro de uma organização é uma variável inserida no componente da estrutura de controle interno do COSO (committee of stonforing organization of the treadway commission) denominado de",
+      "alternativas": {
+        "A": "atividades de controle.",
+        "B": "ambiente de controle.",
+        "C": "avaliação e gerenciamento de riscos.",
+        "D": "monitoramento."
+      },
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 21"
+    },
+    {
+      "id": "p3-cargo1-22",
+      "tema": "D8",
+      "assunto": "Sistema de controle interno",
+      "enunciado": "Assinale a opção que apresenta um tipo de ocorrência que pode ser controlada pela adoção de um sistema de controle interno capaz de proporcionar uma segurança razoável da consecução dos objetivos traçados por uma organização.",
+      "alternativas": {
+        "A": "descumprimento de requisitos legais e regulamentares",
+        "B": "ocorrência de eventos externos à organização",
+        "C": "julgamento falho ou tendencioso no processo de tomada de decisão",
+        "D": "conluio dos empregados"
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 22"
+    },
+    {
+      "id": "p3-cargo1-23",
+      "tema": "D8",
+      "assunto": "Avaliação e gestão de riscos",
+      "enunciado": "A respeito do processo de avaliação e gestão de riscos como um componente da estrutura de controle interno de uma organização, julgue os seguintes itens. I Um evento crítico, mas passível de ser suportado com a devida gestão, deve ser tratado como um risco residual. II A quantidade e o tipo de risco que uma organização está disposta a assumir com vistas ao atingimento dos seus objetivos estratégicos relevam a sua tolerância a riscos. III Uma técnica utilizada para a identificação de eventos de risco é o diagrama espinha de peixe, que permite a identificação das possíveis causas relacionadas a um determinado problema. Assinale a opção correta.",
+      "alternativas": {
+        "A": "Apenas o item I está certo.",
+        "B": "Apenas o item II está certo.",
+        "C": "Apenas o item III está certo.",
+        "D": "Todos os itens estão certos."
+      },
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 23"
+    },
+    {
+      "id": "p3-cargo1-24",
+      "tema": "D8",
+      "assunto": "Controles detectivos e preventivos",
+      "enunciado": "A descoberta, pela equipe de vigilância, de pessoa circulando no prédio de uma organização sem fazer uso de crachá de identificação, peça obrigatória para se ter acesso às dependências do prédio, caracteriza um controle do tipo",
+      "alternativas": {
+        "A": "detectivo.",
+        "B": "preventivo.",
+        "C": "corretivo.",
+        "D": "repressivo."
+      },
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 24"
+    },
+    {
+      "id": "p3-cargo1-25",
+      "tema": "D8",
+      "assunto": "Atividades de monitoramento",
+      "enunciado": "As atividades de monitoramento têm por objetivo",
+      "alternativas": {
+        "A": "dispensar o adequado tratamento às diversas espécies de risco a que está sujeita a organização.",
+        "B": "criar condições para que se cumpram as políticas e os processos estabelecidos pela organização.",
+        "C": "identificar fragilidades e implementar melhorias no sistema de controle interno.",
+        "D": "averiguar se os procedimentos de controle interno estão sendo observados pelos empregados da organização."
+      },
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 25"
+    },
+    {
+      "id": "p3-cargo2-24",
+      "tema": "D8",
+      "assunto": "Princípios de governabilidade e governança",
+      "enunciado": "A capacidade política do Estado de governar e decidir tem origem na sua legitimidade democrática e política apresentada à sociedade — a credibilidade do exercício do poder, o que contribui para o desenvolvimento e o emprego dos princípios da boa governança, como",
+      "alternativas": {
+        "A": "democracia, eficiência, probidade e transparência.",
+        "B": "accountability, eficácia, legitimidade e responsabilidade.",
+        "C": "equidade, legitimidade, eficiência e probidade.",
+        "D": "eficácia, transparência, legitimidade e accountability."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 24"
+    },
+    {
+      "id": "p3-cargo2-25",
+      "tema": "D8",
+      "assunto": "Referenciais básicos de governança organizacional",
+      "enunciado": "A gestão pública deve evitar a intermediação de interesses com uma boa governança de órgãos e entidades da administração pública. Para garantir a boa governança é necessário envolver algumas funções básicas que se encontram definidas em um referencial, compreendidas como mecanismos de legitimidade, equidade e transparência na atuação da gestão pública. São considerados referenciais básicos de governança organizacional, os mecanismos que visam I monitorar os resultados, o desempenho e o cumprimento dos planos. II avaliar o ambiente, os cenários o desempenho e os resultados. III direcionar e orientar a preparação, a articulação e a coordenação de políticas e planos, alinhando as funções organizacionais às necessidades das partes interessadas e assegurando o alcance dos objetivos estabelecidos. IV desenvolver a democracia e o desenvolvimento mútuo da administração pública e da sociedade. Estão certos apenas os itens",
+      "alternativas": {
+        "A": "I , II e IV.",
+        "B": "I, II e III.",
+        "C": "II, III e IV.",
+        "D": "I, III e IV."
+      },
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 25"
+    },
+    {
+      "id": "p1p2-cargo1-66",
+      "tema": "D8",
+      "assunto": "Nova gestão pública: accountability, governança e governabilidade",
+      "enunciado": "Conforme os pressupostos da nova gestão pública, julgue os itens que se seguem. I Accountability envolve a prática de transparência, responsabilização e prestação de contas, bem como mecanismos de incentivo e sansão aos responsáveis pelo alcance de objetivos da política. II Entre outras ideias, governança possui relação com a existência de condições políticas para a sustentação de políticas públicas em um ambiente democrático. III Governabilidade diz respeito ao sistema pelo qual as instituições são dirigidas, monitoradas e incentivadas, envolvendo sócios, representantes, conselho de administração, diretoria, órgãos de fiscalização e controle e demais partes interessadas. Assinale a opção correta.",
+      "alternativas": {
+        "A": "Nenhum item está certo.",
+        "B": "Apenas o item I está certo.",
+        "C": "Apenas o item II está certo.",
+        "D": "Apenas o item III está certo."
+      },
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 66"
+    },
+    {
+      "id": "p1p2-cargo1-67",
+      "tema": "D8",
+      "assunto": "Gestão de compliance",
+      "enunciado": "Para que a administração pública possa realizar uma correta gestão de compliance,",
+      "alternativas": {
+        "A": "os processos de compliance devem ser executados por todos os profissionais, independentemente das funções por eles ocupadas e dos seus perfis de conhecimento.",
+        "B": "todos os processos institucionais do órgão público devem ser documentados e monitorados por meio de controles.",
+        "C": "deve-se verificar a importância do que está sendo monitorado, se os controles são efetivos para garantir a geração de resultados e o custo-benefício do monitoramento.",
+        "D": "os mecanismos de monitoramento dos processos críticos devem ser estabelecidos e adotados extraordinariamente para checagem de situações pontuais."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 67"
+    },
+    {
+      "id": "p1p2-cargo2-66",
+      "tema": "D8",
+      "assunto": "Governabilidade, governança e accountability",
+      "enunciado": "Considere as seguintes situações. I A gestão de uma instituição pública tem-se mostrado pouco transparente, suas prestações de contas são intempestivas e a integridade está comprometida por atos desabonadores dos seus dirigentes. II Constatam-se problemas na prestação de contas das ações de alguns gestores públicos, situação que leva à responsabilização desses gestores pelos seus atos. Nessas situações hipotéticas, as situações descritas correspondem, respectivamente, a problemas de",
+      "alternativas": {
+        "A": "governabilidade e accountability.",
+        "B": "governança e accountability.",
+        "C": "governabilidade e governança.",
+        "D": "accountability e governabilidade."
+      },
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 66"
+    },
+    {
+      "id": "p1p2-cargo2-67",
+      "tema": "D8",
+      "assunto": "Gestão de compliance",
+      "enunciado": "No que se refere à gestão de compliance, julgue os próximos itens. I O compliance público, assim como o privado, deve estar desassociado da governança. II Programas de compliance visam à gestão da integridade e à prevenção, detecção e remediação de fraudes e irregularidades. III O compliance reduz os riscos de danos à imagem institucional, mas não possibilita o combate à corrupção. Assinale a opção correta.",
+      "alternativas": {
+        "A": "Apenas o item II está certo.",
+        "B": "Apenas os itens I e II estão certos.",
+        "C": "Apenas os itens I e III estão certos.",
+        "D": "Todos os itens estão certos."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 67"
+    },
+    {
+      "id": "p1p2-cargo2-81",
+      "tema": "D8",
+      "assunto": "Controle interno: definição",
+      "enunciado": "O controle interno, processo conduzido pela estrutura de governança, pela administração e por outros profissionais da entidade, é desenvolvido para",
+      "alternativas": {
+        "A": "conferir exatidão aos relatórios econômico-financeiros da entidade.",
+        "B": "estudar, interpretar e registrar os fenômenos que afetam o patrimônio de uma entidade.",
+        "C": "aumentar o grau de confiança sobre o resultado da mensuração ou da avaliação do objeto, de acordo com os critérios definidos.",
+        "D": "proporcionar segurança razoável para atingir os objetivos relacionados a operações, divulgação e conformidade."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 81"
+    },
+    {
+      "id": "p1p2-cargo2-82",
+      "tema": "D8",
+      "assunto": "Ambiente de controle",
+      "enunciado": "Um ambiente de controle deficiente em uma organização é evidenciado pela",
+      "alternativas": {
+        "A": "existência de comitê de auditoria sem membros independentes.",
+        "B": "existência de um código de ética formalizado.",
+        "C": "inexistência de controle externo.",
+        "D": "filosofia da gestão por exceção."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 82"
+    },
+    {
+      "id": "p1p2-cargo2-83",
+      "tema": "D8",
+      "assunto": "Gestão de riscos: respostas ao risco",
+      "enunciado": "Na gestão de riscos, quatro condutas são possíveis: aceitar, evitar, reduzir ou compartilhar. Nesse sentido, definir que um risco deva ser evitado indica que a meta estabelecida para a exposição a esse risco é",
+      "alternativas": {
+        "A": "total.",
+        "B": "nula.",
+        "C": "mediana.",
+        "D": "indeterminada."
+      },
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 83"
+    },
+    {
+      "id": "p1p2-cargo2-84",
+      "tema": "D8",
+      "assunto": "Atividades de controle: prevenção e detecção",
+      "enunciado": "Considerando que as atividades de controle podem ser direcionadas à prevenção ou à detecção dos riscos, assinale a opção que apresenta exemplos de atividades voltadas exclusivamente à prevenção.",
+      "alternativas": {
+        "A": "controle de acessos, de entrada e saída de funcionários e materiais, senhas, call-back, criptografia, inventário de estoques e controles similares",
+        "B": "organização e manutenção de arquivos de backup e de log do sistema, plano de contingência e checagem de informações com os registros em banco de dados",
+        "C": "segregação de funções entre registro e conciliação, informação e autorização, custódia e inventário, contratação e pagamento, gestão de recursos próprios e de terceiros",
+        "D": "confrontação da mesma informação com dados de bases diferentes, monitoração e questionamento de flutuações abruptas nos resultados e monitoração de valores realizados e orçados"
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 84"
+    },
+    {
+      "id": "p1p2-cargo2-85",
+      "tema": "D8",
+      "assunto": "Sistema de controles internos",
+      "enunciado": "Com relação ao sistema de controles internos de uma entidade, julgue os itens a seguir. I Em sistemas de avaliações contínuas, há aplicativos que verificam todas as contas a pagar e identificam aquelas que estão fora do padrão, de modo que, quando são detectadas anormalidades, estas são encaminhadas para a verificação de possíveis irregularidades ou pendências. II Para garantir o sigilo e a segurança da informação, as informações relevantes para fins de controle devem ser capturadas e reportadas apenas à área responsável pelo sistema de controles internos. III A fixação de limites máximos de exposição a riscos assumidos por um operador de mercado para cada horizonte de investimento é exemplo de uma atividade de prevenção, enquanto que a confrontação da mesma informação com dados vindos de bases diferentes, adotando as ações corretivas, quando necessário, constitui um tipo de atividade de detecção. Assinale a opção correta.",
+      "alternativas": {
+        "A": "Apenas os itens I e II estão certos.",
+        "B": "Apenas os itens I e III estão certos.",
+        "C": "Apenas os itens II e III estão certos.",
+        "D": "Todos os itens estão certos."
+      },
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 85"
+    },
+    {
+      "id": "curso-formacao-cargo2-18",
+      "tema": "D8",
+      "assunto": "Governança pública: liderança",
+      "enunciado": "Um dos mecanismos para o exercício da governança pública definidos na Política de Governança é a liderança, que pode ser definida como",
+      "alternativas": {
+        "A": "o conjunto de práticas de natureza humana ou comportamental, como integridade, competência, responsabilidade e motivação, exercido nos principais cargos de órgãos ou entidades.",
+        "B": "o processo estruturado para mitigar os possíveis riscos com vistas ao alcance dos objetivos institucionais e para garantir a execução ordenada, ética, econômica, eficiente e eficaz das atividades do órgão ou entidade.",
+        "C": "a definição de diretrizes, objetivos, planos e ações, além de critérios de priorização e alinhamento entre os órgãos e entidades e as partes interessadas.",
+        "D": "o conjunto de práticas aleatórias que visam a obter responsabilidade e motivação para o exercido dos principais cargos de órgãos ou entidades públicas e a sua governança."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 2.md — Questão 18"
+    },
+    {
+      "id": "curso-formacao-cargo2-22",
+      "tema": "D8",
+      "assunto": "Gestão de riscos corporativos (SAEWEB)",
+      "enunciado": "Relativamente à gestão de riscos corporativos para integridade pública, realizada por meio do Sistema de Gestão de Auditoria do Distrito Federal (SAEWEB), julgue os itens a seguir. I A funcionalidade criar projeto permite realizar cadastro de um projeto de governança, risco e compliance (GRC), sendo necessário registrar o gerente do projeto, bem como os proprietários de risco. II O mapa de riscos positivos e negativos é um produto do módulo 4 da ferramenta SAEWEB, intitulado Análise e Avaliação de Riscos, cuja compilação decorre do tratamento dado aos riscos por meio da funcionalidade tratamento dos riscos . III A gestão de riscos, os controles existentes e os controles do plano de ação são elementos e atividades fundamentais para o sucesso de um sistema de gestão de riscos e controles internos (GRCI). Assinale a opção correta.",
+      "alternativas": {
+        "A": "Apenas o item I está certo.",
+        "B": "Apenas o item II está certo.",
+        "C": "Apenas os itens I e III estão certos.",
+        "D": "Apenas os itens II e III estão certos."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 2.md — Questão 22"
+    },
+    {
+      "id": "verificacao-2aturma-25",
+      "tema": "D9",
+      "assunto": "Contratos administrativos: equilíbrio econômico-financeiro",
+      "enunciado": "Os contratos administrativos são firmados por garantias, sendo a maior delas o equilíbrio econômico-financeiro. Existe, no equilíbrio econômico-financeiro, uma série de instrumentos que podem ser vistos como garantias parcelares. Assinale a opção na qual é apresentada a garantia parcelar em que o contratado deve demonstrar especificamente como a variação de preços afetou os custos dos componentes do contrato.",
+      "alternativas": {
+        "A": "revisão",
+        "B": "reajuste",
+        "C": "atualização monetária",
+        "D": "repactuação"
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA DE VERIFICACAO DE APRENDIZAGEM CURSO DE FORMACAO PROFISSIONAL 2aTURMA SUB JUDICE.md — Questão 25"
+    },
+    {
+      "id": "verificacao-2aturma-26",
+      "tema": "D9",
+      "assunto": "Fiscalização dos contratos administrativos",
+      "enunciado": "Assinale a opção correta no que concerne à fiscalização dos contratos administrativos.",
+      "alternativas": {
+        "A": "O fiscal do contrato deve informar a seus superiores, em até quinze dias, a situação que demandar decisão ou providência que ultrapasse sua competência.",
+        "B": "Tanto a contratante quanto o contratado são responsáveis pelos encargos trabalhistas, previdenciários, fiscais e comerciais resultantes da execução do contrato.",
+        "C": "A contratação de terceiros não exime de responsabilidade o fiscal do contrato, nos limites das informações recebidas do terceiro contratado.",
+        "D": "O fiscal do contrato pode optar por anotar, em registro próprio, apenas as ocorrências que considerar pertinentes relacionadas à execução do contrato, podendo propor a regularização das faltas ou dos defeitos observados."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA DE VERIFICACAO DE APRENDIZAGEM CURSO DE FORMACAO PROFISSIONAL 2aTURMA SUB JUDICE.md — Questão 26"
+    },
+    {
+      "id": "verificacao-2aturma-50",
+      "tema": "D9",
+      "assunto": "Parcerias público-privadas e concessões",
+      "enunciado": "Considerando o comparativo entre contratos de parceria público-privada (PPP) e concessões comuns, conforme disposto na legislação, assinale a opção que apresenta duas características próprias dos contratos de PPP.",
+      "alternativas": {
+        "A": "O valor mínimo do contrato é indeterminado e os riscos são apenas extraordinários.",
+        "B": "O prazo contratual pode ser de até 20 anos e a remuneração é feita exclusivamente pelos usuários.",
+        "C": "As garantias contratuais são oferecidas apenas pelo parceiro privado, e a remuneração ocorre somente pelos usuários.",
+        "D": "A remuneração pode ser feita pelo parceiro público e pelos usuários, e há repartição objetiva de riscos entre as partes."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA DE VERIFICACAO DE APRENDIZAGEM CURSO DE FORMACAO PROFISSIONAL 2aTURMA SUB JUDICE.md — Questão 50"
+    },
+    {
+      "id": "curso-formacao-cargo1-25",
+      "tema": "D9",
+      "assunto": "Sistema de registro de preços",
+      "enunciado": "No que se relaciona ao sistema de registro de preços na administração pública, assinale a opção correta.",
+      "alternativas": {
+        "A": "A existência de projeto padronizado, sem complexidade técnica e operacional, constitui um dos requisitos para a contratação pela administração pública de execução de obras e serviços de engenharia pelo sistema de registro de preços.",
+        "B": "O prazo de vigência da ata de registro de preços é de 18 (dezoito) meses e pode ser prorrogado, por igual período, desde que comprovado o preço vantajoso.",
+        "C": "O edital de licitação para registro de preços deve dispor sobre as especificidades da licitação e de seu objeto, inclusive a quantidade mínima de cada item que poderá ser adquirido.",
+        "D": "O edital de licitação para registro de preços pode estabelecer a possibilidade de prever preços diferentes quando o objeto for realizado ou entregue em locais diferentes, mas não em razão da forma e do local de acondicionamento."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 1.md — Questão 25"
+    },
+    {
+      "id": "curso-formacao-cargo1-26",
+      "tema": "D9",
+      "assunto": "Fiscalização de contratos administrativos no DF",
+      "enunciado": "A respeito da fiscalização de contratos administrativos no âmbito do Distrito Federal, de acordo com o Decreto distrital n.º 32.598/2010 e suas alterações, assinale a opção correta.",
+      "alternativas": {
+        "A": "É vedada a indicação de um mesmo gestor ou fiscal para mais de um contrato.",
+        "B": "A indicação do gestor, do fiscal ou da comissão deve recair apenas sobre os agentes públicos de elevada índole moral, independentemente de suas qualificações técnicas.",
+        "C": "A designação do gestor, do fiscal ou da comissão produzirá efeitos apenas com a publicação do extrato do contrato administrativo no Diário Oficial do Distrito Federal.",
+        "D": "A supervisão técnica de contratos administrativos de obras é de competência do órgão contratante."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 1.md — Questão 26"
+    },
+    {
+      "id": "curso-formacao-cargo1-49",
+      "tema": "D9",
+      "assunto": "Concessão comum",
+      "enunciado": "Concessão comum é definida como",
+      "alternativas": {
+        "A": "delegação da prestação de serviço público, precedida ou não de obra pública, feita pelo poder concedente, mediante licitação, a pessoa jurídica ou a consórcio de empresas, por prazo determinado.",
+        "B": "delegação da prestação de serviço público, precedida ou não de obra pública, feita pelo poder concedente, mediante licitação, a pessoa jurídica ou a consórcio de empresas, por prazo indeterminado.",
+        "C": "transferência da prestação de serviço público para a iniciativa privada, sem a necessidade de licitação, garantida a exploração por prazo determinado.",
+        "D": "transferência do serviço público para a iniciativa privada, sem a necessidade de licitação, garantida a exploração por tempo indeterminado."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 1.md — Questão 49"
+    },
+    {
+      "id": "curso-formacao-cargo1-50",
+      "tema": "D9",
+      "assunto": "Parcerias público-privadas: centros administrativos e restaurantes comunitários",
+      "enunciado": "Nas parcerias público-privadas que envolvam centros administrativos ou restaurantes comunitários, sendo necessário o pagamento de contraprestação pecuniária pelo poder público, considera-se o empreendimento",
+      "alternativas": {
+        "A": "neutro.",
+        "B": "sustentável.",
+        "C": "deficitário.",
+        "D": "lucrativo."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 1.md — Questão 50"
+    },
+    {
+      "id": "p1p2-cargo1-57",
+      "tema": "D9",
+      "assunto": "Permissão e concessão de serviços públicos",
+      "enunciado": "Com referência à permissão e à concessão de serviços públicos, assinale a opção correta.",
+      "alternativas": {
+        "A": "A diferença fundamental entre permissão e concessão de serviço público é o caráter definitivo da segunda.",
+        "B": "Devido à precariedade das permissões, estas não precisam ser concedidas por meio de licitação.",
+        "C": "No caso de concessão que exija realização de obra pública, esta deve ser objeto de concorrência específica, independente da licitação destinada à concessão e anterior a esta licitação.",
+        "D": "Pessoas físicas não podem ser concessionárias de serviço público."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 57"
+    },
+    {
+      "id": "p1p2-cargo1-60",
+      "tema": "D9",
+      "assunto": "Decreto Distrital 6.851/2006: sanções em licitações e contratos",
+      "enunciado": "Assinale a opção correta de acordo com o Decreto Distrital n.º 6.851/2006, que trata da aplicação de sanções administrativas previstas na Lei de Licitações e Contratos Administrativos e na Lei do Pregão.",
+      "alternativas": {
+        "A": "A declaração de inidoneidade para licitar ou contratar com a administração pública tem prazo máximo de um ano.",
+        "B": "As multas por atraso injustificado na entrega de bem ou na execução de contrato calculam-se em percentual diário sobre as parcelas obrigacionais adimplidas em atraso, até certo limite, ou sobre o total do contrato, conforme a situação.",
+        "C": "Em situações de menor gravidade, é juridicamente possível aplicar advertência verbal à pessoa física ou jurídica que haja cometido falha em contrato com a administração pública do DF.",
+        "D": "Os recursos contra sanções aplicadas a licitantes e a contratantes com a administração pública do DF devem ser julgados pela autoridade superior àquela que haja aplicado a sanção, sem a possibilidade de juízo de reconsideração."
+      },
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 60"
+    },
+    {
+      "id": "p1p2-cargo2-59",
+      "tema": "D9",
+      "assunto": "Pregão (Lei 10.520/2002)",
+      "enunciado": "No que diz respeito ao pregão, assinale a opção correta conforme a Lei n.º 10.520/2002 e demais normas aplicáveis.",
+      "alternativas": {
+        "A": "A adoção do pregão é, em princípio, obrigatória caso o objeto da licitação possa ser adquirido por essa modalidade.",
+        "B": "Pregão é a única modalidade de licitação em que a habilitação dos licitantes ocorre após a avaliação das propostas.",
+        "C": "O pregão atualmente pode ser usado, com seu rito específico, para aquisição de qualquer bem ou serviço.",
+        "D": "Denomina-se leiloeiro o agente público responsável por conduzir o procedimento de pregão."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 59"
+    },
+    {
+      "id": "p1p2-cargo2-60",
+      "tema": "D9",
+      "assunto": "Sistema de registro de preços",
+      "enunciado": "Em relação ao sistema de registro de preços (SRP), assinale a opção correta segundo o Decreto n.º 7.892/2013.",
+      "alternativas": {
+        "A": "A adoção do SRP cabe para contratações futuras, mas não para entregas parceladas.",
+        "B": "A ata de registro de preços não possui caráter obrigatório, sendo apenas indicadora das condições pelas quais o fornecedor se mostra disposto a contratar com a administração pública.",
+        "C": "É juridicamente admissível o SRP se não for possível estabelecer, de forma antecipada, o quantitativo do objeto a ser adquirido pelo poder público.",
+        "D": "A licitação para registro de preços deve fazer-se pelos critérios de melhor técnica ou preço."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 60"
+    },
+    {
+      "id": "curso-formacao-cargo2-20",
+      "tema": "D9",
+      "assunto": "Modalidades contratuais da administração pública",
+      "enunciado": "A respeito das modalidades contratuais utilizadas pela administração pública, assinale a opção correta.",
+      "alternativas": {
+        "A": "O contrato de alienação, em regra, é precedido por licitação na modalidade de pregão e tem por objeto bens públicos móveis ou imóveis de natureza dominical ou mesmo bens inservíveis ou apreendidos.",
+        "B": "Estudos técnicos, planejamentos, projetos básicos e projetos executivos constituem exemplos de serviços de natureza comum nos contratos de prestação de serviços.",
+        "C": "O contrato de obra pública visa à execução direta de obras cuja titularidade pertence ao Estado.",
+        "D": "Contrato de gestão é o acordo firmado entre a administração pública, por intermédio de suas agências executivas, com certos entes privados, tais como as organizações sociais."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 2.md — Questão 20"
+    },
+    {
+      "id": "curso-formacao-cargo2-21",
+      "tema": "D9",
+      "assunto": "Contratos administrativos: equilíbrio econômico-financeiro (revisão)",
+      "enunciado": "Assinale a opção que corresponde à cláusula geral, utilizada nos contratos administrativos, a fim de se assegurar o equilíbrio econômico-financeiro, que impacta sobre qualquer modificação expressiva no contexto fático que imponha uma onerosidade excessiva a qualquer das partes; seu fato motivador deve ser extraordinário e posterior à celebração do contrato, ainda que não se atrele aos índices de preços.",
+      "alternativas": {
+        "A": "revisão",
+        "B": "atualização monetária",
+        "C": "reajuste",
+        "D": "repactuação"
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO PROFISSIONAL CARGO 2.md — Questão 21"
+    },
+    {
+      "id": "p3-cargo1-28",
+      "tema": "D10",
+      "assunto": "Improbidade administrativa (Lei 8.429/1992)",
+      "enunciado": "Caso certo agente público pratique ato de improbidade administrativa que atente contra os princípios da administração pública, independentemente das sanções penais comuns e de responsabilidade, civis e administrativas, previstas em legislação, a pena aplicável a este agente público será a",
+      "alternativas": {
+        "A": "perda da função pública.",
+        "B": "suspensão dos direitos políticos.",
+        "C": "proibição de contratar com o poder público.",
+        "D": "advertência pública."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 1.md — Questão 28"
+    },
+    {
+      "id": "p3-cargo2-26",
+      "tema": "D10",
+      "assunto": "Mecanismos de combate à corrupção",
+      "enunciado": "No que se refere à implementação de políticas públicas, assinale a opção que apresenta mecanismos eficientes no combate à corrupção.",
+      "alternativas": {
+        "A": "fortalecimento do clientelismo; nepotismo; fortalecimento das práticas de controle interno e externo; melhorias no acesso às informações públicas",
+        "B": "fortalecimento do clientelismo; nepotismo; melhorias no acesso às informações públicas; fortalecimento do princípio da pessoalidade",
+        "C": "transparência dos atos promovidos pela administração pública; melhorias no acesso às informações públicas; fortalecimento do princípio da pessoalidade",
+        "D": "transparência dos atos promovidos pela administração pública; fortalecimento de práticas de controle interno e externo; melhorias no acesso às informações públicas"
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA P3 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 26"
+    },
+    {
+      "id": "p1p2-cargo2-58",
+      "tema": "D10",
+      "assunto": "Lei 8.429/1992: improbidade administrativa",
+      "enunciado": "Com base na Lei n.º 8.429/1992 e suas alterações (Lei de Improbidade Administrativa — LIA), assinale a opção correta.",
+      "alternativas": {
+        "A": "Não cabe condenação por improbidade administrativa se o ato praticado for interpretado como ímprobo a partir de entendimento jurisprudencial não pacificado.",
+        "B": "Atos contrários aos princípios da administração pública não mais podem fundamentar condenação por improbidade administrativa, haja vista as alterações feitas na LIA pela Lei n.º 14.230/2021.",
+        "C": "Atualmente, não cabe cumulação de ação de improbidade administrativa com ação penal por um mesmo fato.",
+        "D": "Agentes políticos, como prefeitos e governadores, não mais respondem por improbidade administrativa nos termos da LIA, pois a eles é reservado regime específico de responsabilidade."
+      },
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "PROVAS OBJETIVAS P1 E P2 E GABARITO PRELIMINAR COM JUSTIFICATIVAS CARGO 2.md — Questão 58"
+    }
+  ]
+}

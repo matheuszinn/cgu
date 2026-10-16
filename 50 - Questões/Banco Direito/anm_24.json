@@ -1,0 +1,2112 @@
+{
+  "concurso": "anm_24",
+  "banca": "Cebraspe",
+  "itens": [
+    {
+      "id": "ESP_C5_51",
+      "tema": "D1",
+      "assunto": "Direitos e garantias fundamentais, controle de constitucionalidade e Poder Legislativo (CF/88 e STF) (Cargo 5 específicos)",
+      "enunciado": "Encerrados os trabalhos da comissão parlamentar de inquérito e encaminhado seu relatório ao órgão competente, cabe aos parlamentares e ao Ministério Público postular diretamente a continuidade de diligências perante o Poder Judiciário.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.md (item 51)"
+    },
+    {
+      "id": "ESP_C5_52",
+      "tema": "D1",
+      "assunto": "Direitos e garantias fundamentais, controle de constitucionalidade e Poder Legislativo (CF/88 e STF) (Cargo 5 específicos)",
+      "enunciado": "O exercício do controle preventivo de constitucionalidade, por meio do mandado de segurança por violação material, apenas é admitido quando houver flagrante violação às cláusulas pétreas previstas no art. 60, § 4.º, da CF e desde que haja qualquer margem de dúvida ou espaço para a apreciação legítima do Poder Legislativo sobre o objeto da pretendida deliberação.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.md (item 52)"
+    },
+    {
+      "id": "ESP_C5_53",
+      "tema": "D1",
+      "assunto": "Direitos e garantias fundamentais, controle de constitucionalidade e Poder Legislativo (CF/88 e STF) (Cargo 5 específicos)",
+      "enunciado": "A incidência do art. 5.º, inciso XL, da CF, que impede a lei penal de retroagir, exceto para beneficiar o réu, está condicionada à atuação do legislador ordinário por constituir norma constitucional de eficácia limitada.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.md (item 53)"
+    },
+    {
+      "id": "ESP_C5_54",
+      "tema": "D1",
+      "assunto": "Direitos e garantias fundamentais, controle de constitucionalidade e Poder Legislativo (CF/88 e STF) (Cargo 5 específicos)",
+      "enunciado": "É incabível ação direta de inconstitucionalidade para questionar a validade de atos normativos de natureza secundária e cuja função seja regulamentar dispositivos infraconstitucionais.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.md (item 54)"
+    },
+    {
+      "id": "ESP_C5_55",
+      "tema": "D1",
+      "assunto": "Direitos e garantias fundamentais, controle de constitucionalidade e Poder Legislativo (CF/88 e STF) (Cargo 5 específicos)",
+      "enunciado": "Ofende a autonomia administrativa da Defensoria Pública a decisão judicial que determina que o funcionamento do órgão ocorra em sistema de plantão ininterrupto de 24 horas.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.md (item 55)"
+    },
+    {
+      "id": "ESP_C5_56",
+      "tema": "D1",
+      "assunto": "Direitos e garantias fundamentais, controle de constitucionalidade e Poder Legislativo (CF/88 e STF) (Cargo 5 específicos)",
+      "enunciado": "É lícito ao poder constituinte decorrente ampliar o rol de autoridades sujeitas a convocação pelo Poder Legislativo estadual.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.md (item 56)"
+    },
+    {
+      "id": "ESP_C5_57",
+      "tema": "D1",
+      "assunto": "Direitos e garantias fundamentais, controle de constitucionalidade e Poder Legislativo (CF/88 e STF) (Cargo 5 específicos)",
+      "enunciado": "A legitimidade ativa da Defensoria Pública para propor ações coletivas está condicionada à comprovação, ao tempo do ajuizamento da demanda, de que pessoas necessitadas serão afetadas pelos resultados advindos do julgamento da causa.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.md (item 57)"
+    },
+    {
+      "id": "ESP_C5_58",
+      "tema": "D1",
+      "assunto": "Direitos e garantias fundamentais, controle de constitucionalidade e Poder Legislativo (CF/88 e STF) (Cargo 5 específicos)",
+      "enunciado": "Ainda que inexista previsão constitucional expressa, os procuradores municipais estão submetidos ao teto de 90,25% do subsídio mensal, em espécie, dos ministros do STF.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.md (item 58)"
+    },
+    {
+      "id": "ESP_C5_63",
+      "tema": "D1",
+      "assunto": "Responsabilidade civil do Estado (Cargo 5 específicos)",
+      "enunciado": "Considere que, durante operação policial em uma comunidade, tenha sido dado um disparo de arma de fogo, que atingiu fatalmente um morador da comunidade, e que a perícia tenha sido inconclusiva quanto à origem do projétil. Nessa situação, configura-se a responsabilidade civil do Estado pela morte do referido morador.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.md (item 63)"
+    },
+    {
+      "id": "ESP_C14_66",
+      "tema": "D1",
+      "assunto": "Controle de constitucionalidade (ADPF, lei municipal, normas regimentais) e isonomia (Cargo 14 específicos)",
+      "enunciado": "Admite-se a propositura de arguição de descumprimento de preceito fundamental (ADPF) para contestar decisões judiciais que supostamente violem preceitos fundamentais, quando inexistir outro meio processual igualmente eficaz para sanar a lesão de forma ampla, geral e imediata.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14.md (item 66)"
+    },
+    {
+      "id": "ESP_C14_67",
+      "tema": "D1",
+      "assunto": "Controle de constitucionalidade (ADPF, lei municipal, normas regimentais) e isonomia (Cargo 14 específicos)",
+      "enunciado": "Admite-se o controle de constitucionalidade de lei municipal que apresentar incompatibilidade material com a Constituição Federal em vigor, independentemente do momento da edição daquela lei.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14.md (item 67)"
+    },
+    {
+      "id": "ESP_C14_68",
+      "tema": "D1",
+      "assunto": "Controle de constitucionalidade (ADPF, lei municipal, normas regimentais) e isonomia (Cargo 14 específicos)",
+      "enunciado": "Admite-se o controle jurisdicional a fim de interpretar o sentido e o alcance de normas meramente regimentais das casas legislativas quando ficar caracterizado desrespeito às normas constitucionais pertinentes ao processo legislativo.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14.md (item 68)"
+    },
+    {
+      "id": "ESP_C14_69",
+      "tema": "D1",
+      "assunto": "Controle de constitucionalidade (ADPF, lei municipal, normas regimentais) e isonomia (Cargo 14 específicos)",
+      "enunciado": "É permitido ao Poder Judiciário, com fundamento no princípio da isonomia, equiparar as verbas de caráter remuneratório recebidas por servidores públicos de carreiras distintas.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14.md (item 69)"
+    },
+    {
+      "id": "ESP_C14_70",
+      "tema": "D1",
+      "assunto": "Controle de constitucionalidade (ADPF, lei municipal, normas regimentais) e isonomia (Cargo 14 específicos)",
+      "enunciado": "Compete ao Distrito Federal organizar e manter a Polícia Civil, a Polícia Penal, a Polícia Militar e o Corpo de Bombeiros Militar do Distrito Federal.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14.md (item 70)"
+    },
+    {
+      "id": "ESP_C14_71",
+      "tema": "D1",
+      "assunto": "Direitos e garantias fundamentais — MS, reunião, vacinação, transfusão, bem de família, imprensa, HC, MI (Cargo 14 específicos)",
+      "enunciado": "É incabível a impetração de mandado de injunção quando a controvérsia for relativa à efetividade da legislação existente.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14.md (item 71)"
+    },
+    {
+      "id": "ESP_C14_72",
+      "tema": "D1",
+      "assunto": "Direitos e garantias fundamentais — MS, reunião, vacinação, transfusão, bem de família, imprensa, HC, MI (Cargo 14 específicos)",
+      "enunciado": "Em respeito ao direito à vida e à saúde, não é permitido ao paciente maior e capaz recusar procedimento médico que envolva a transfusão de sangue, ainda que essa recusa se fundamente na autonomia individual e na liberdade religiosa.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14.md (item 72)"
+    },
+    {
+      "id": "ESP_C14_73",
+      "tema": "D1",
+      "assunto": "Direitos e garantias fundamentais — MS, reunião, vacinação, transfusão, bem de família, imprensa, HC, MI (Cargo 14 específicos)",
+      "enunciado": "A extinção, sem resolução de mérito, de mandado de segurança, ante pedido de desistência formulado pelo impetrante, independe da concordância de quem foi indicado como autoridade coatora ou da entidade estatal interessada.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14.md (item 73)"
+    },
+    {
+      "id": "ESP_C14_74",
+      "tema": "D1",
+      "assunto": "Direitos e garantias fundamentais — MS, reunião, vacinação, transfusão, bem de família, imprensa, HC, MI (Cargo 14 específicos)",
+      "enunciado": "É constitucional lei que imponha a vacinação compulsória, sem o consentimento do usuário, quando a medida se destinar à proteção de toda a coletividade, em especial, os mais vulneráveis.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14.md (item 74)"
+    },
+    {
+      "id": "ESP_C14_75",
+      "tema": "D1",
+      "assunto": "Direitos e garantias fundamentais — MS, reunião, vacinação, transfusão, bem de família, imprensa, HC, MI (Cargo 14 específicos)",
+      "enunciado": "O exercício do direito de reunião exige a prévia notificação pessoal ou registrada do poder público.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14.md (item 75)"
+    },
+    {
+      "id": "ESP_C14_76",
+      "tema": "D1",
+      "assunto": "Direitos e garantias fundamentais — MS, reunião, vacinação, transfusão, bem de família, imprensa, HC, MI (Cargo 14 específicos)",
+      "enunciado": "É inconstitucional a penhora de bem de família pertencente a fiador de contrato de locação de imóvel comercial.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14.md (item 76)"
+    },
+    {
+      "id": "ESP_C14_77",
+      "tema": "D1",
+      "assunto": "Direitos e garantias fundamentais — MS, reunião, vacinação, transfusão, bem de família, imprensa, HC, MI (Cargo 14 específicos)",
+      "enunciado": "Não é cabível a responsabilização civil de empresa jornalística pela publicação de entrevista na qual o entrevistado tenha falsamente imputado a terceiro a prática de determinado crime, visto que não compete ao veículo de comunicação verificar a veracidade dos fatos narrados pelo entrevistado.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14.md (item 77)"
+    },
+    {
+      "id": "ESP_C14_78",
+      "tema": "D1",
+      "assunto": "Direitos e garantias fundamentais — MS, reunião, vacinação, transfusão, bem de família, imprensa, HC, MI (Cargo 14 específicos)",
+      "enunciado": "Declarada a extinção da punibilidade pelo cumprimento da pena, não mais subsiste ao agente o interesse na impetração de habeas corpus.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14.md (item 78)"
+    },
+    {
+      "id": "GER_C11_18",
+      "tema": "D1",
+      "assunto": "Direitos fundamentais e administração pública — responsabilidade do Estado, direito ao esquecimento, ação popular, garantias, teto remuneratório (Gerais Cargo 11)",
+      "enunciado": "Ação para reparação de danos causados por agente público deve ser ajuizada contra o Estado ou, quando cabível, contra a pessoa jurídica privada prestadora de serviço público, sendo parte ilegítima passiva o autor do ato danoso.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 11.md (item 18)"
+    },
+    {
+      "id": "GER_C11_19",
+      "tema": "D1",
+      "assunto": "Direitos fundamentais e administração pública — responsabilidade do Estado, direito ao esquecimento, ação popular, garantias, teto remuneratório (Gerais Cargo 11)",
+      "enunciado": "O direito de liberdade de informação não é absoluto e deve ser compatibilizado com o direito ao esquecimento, o qual é entendido como o poder de obstar, em razão da passagem do tempo, a divulgação de fatos ou dados verídicos e licitamente obtidos e publicados em meios de comunicação social analógicos ou digitais.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 11.md (item 19)"
+    },
+    {
+      "id": "GER_C11_20",
+      "tema": "D1",
+      "assunto": "Direitos fundamentais e administração pública — responsabilidade do Estado, direito ao esquecimento, ação popular, garantias, teto remuneratório (Gerais Cargo 11)",
+      "enunciado": "Qualquer cidadão é parte legítima para propor ação popular que vise anular ato lesivo ao patrimônio público ou de entidade de que o Estado participe, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural, ficando o autor, salvo comprovada má-fé, isento de custas judiciais e do ônus da sucumbência.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 11.md (item 20)"
+    },
+    {
+      "id": "GER_C11_21",
+      "tema": "D1",
+      "assunto": "Direitos fundamentais e administração pública — responsabilidade do Estado, direito ao esquecimento, ação popular, garantias, teto remuneratório (Gerais Cargo 11)",
+      "enunciado": "Os direitos e as garantias expressos na Constituição Federal de 1988 excluem outros decorrentes de tratados internacionais em que o Brasil seja parte, mas que ainda não tenham sido aprovados nas casas do Congresso Nacional.",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 11.md (item 21)"
+    },
+    {
+      "id": "GER_C11_23",
+      "tema": "D1",
+      "assunto": "Direitos fundamentais e administração pública — responsabilidade do Estado, direito ao esquecimento, ação popular, garantias, teto remuneratório (Gerais Cargo 11)",
+      "enunciado": "Os vencimentos dos cargos dos Poderes Legislativo e Judiciário não poderão ser superiores aos pagos pelo Poder Executivo.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 11.md (item 23)"
+    },
+    {
+      "id": "GER_C13_16",
+      "tema": "D1",
+      "assunto": "Organização do Estado e ordem econômica (Gerais Cargo 13)",
+      "enunciado": "A criação, a incorporação, a fusão e o desmembramento de municípios serão estabelecidos por lei estadual, dentro do período determinado por lei complementar federal, e dependerão de consulta prévia, mediante plebiscito, às populações dos municípios envolvidos, após divulgação dos estudos de viabilidade municipal, apresentados e publicados na forma da lei.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 13.md (item 16)"
+    },
+    {
+      "id": "GER_C13_17",
+      "tema": "D1",
+      "assunto": "Organização do Estado e ordem econômica (Gerais Cargo 13)",
+      "enunciado": "Os recursos minerais, inclusive os do subsolo, são bens que pertencem à União, razão pela qual não cabe compensação financeira aos estados, ao Distrito Federal e aos municípios pela exploração de tais recursos em seus respectivos territórios.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 13.md (item 17)"
+    },
+    {
+      "id": "GER_C13_18",
+      "tema": "D1",
+      "assunto": "Organização do Estado e ordem econômica (Gerais Cargo 13)",
+      "enunciado": "Embora seja competência privativa da União legislar sobre jazidas, minas, outros recursos minerais e metalurgia, ela pode, mediante lei ordinária federal, autorizar que os demais entes federados legislem sobre questões específicas a respeito dessa matéria.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 13.md (item 18)"
+    },
+    {
+      "id": "GER_C13_19",
+      "tema": "D1",
+      "assunto": "Organização do Estado e ordem econômica (Gerais Cargo 13)",
+      "enunciado": "Em regra, a exploração direta de atividade econômica pelo Estado só é permitida quando necessária aos imperativos da segurança nacional ou a relevante interesse coletivo, conforme definidos em lei.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 13.md (item 19)"
+    },
+    {
+      "id": "GER_C13_20",
+      "tema": "D1",
+      "assunto": "Organização do Estado e ordem econômica (Gerais Cargo 13)",
+      "enunciado": "O Estado, ao atuar como agente normativo e regulador da atividade econômica, exerce, na forma da lei, as funções de fiscalização, incentivo e planejamento, sendo esta última função indicativa para os setores público e privado.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 13.md (item 20)"
+    },
+    {
+      "id": "GER_C14_30",
+      "tema": "D1",
+      "assunto": "Estado regulador / intervenção indireta na ordem econômica (Gerais Cargo 14)",
+      "enunciado": "A atuação do Estado regulador caracteriza-se pela intervenção indireta do Estado na ordem econômica, regulamentando e fiscalizando a prestação de determinado serviço, inclusive serviços públicos, como forma de equilibrar os interesses dos usuários ou consumidores e os do mercado, em prol do interesse público.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 14.md (item 30)"
+    },
+    {
+      "id": "GER_C22_17",
+      "tema": "D1",
+      "assunto": "Organização do Estado e ordem econômica (Gerais Cargo 22)",
+      "enunciado": "O Estado, ao atuar como agente normativo e regulador da atividade econômica, exerce, na forma da lei, as funções de fiscalização, incentivo e planejamento, sendo esta última função indicativa para os setores público e privado.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 22.md (item 17)"
+    },
+    {
+      "id": "GER_C22_18",
+      "tema": "D1",
+      "assunto": "Organização do Estado e ordem econômica (Gerais Cargo 22)",
+      "enunciado": "Em regra, a exploração direta de atividade econômica pelo Estado só é permitida quando necessária aos imperativos da segurança nacional ou a relevante interesse coletivo, conforme definidos em lei.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 22.md (item 18)"
+    },
+    {
+      "id": "GER_C22_19",
+      "tema": "D1",
+      "assunto": "Organização do Estado e ordem econômica (Gerais Cargo 22)",
+      "enunciado": "A criação, a incorporação, a fusão e o desmembramento de municípios serão estabelecidos por lei estadual, dentro do período determinado por lei complementar federal, e dependerão de consulta prévia, mediante plebiscito, às populações dos municípios envolvidos, após divulgação dos estudos de viabilidade municipal, apresentados e publicados na forma da lei.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 22.md (item 19)"
+    },
+    {
+      "id": "GER_C22_20",
+      "tema": "D1",
+      "assunto": "Organização do Estado e ordem econômica (Gerais Cargo 22)",
+      "enunciado": "Os recursos minerais, inclusive os do subsolo, são bens que pertencem à União, razão pela qual não cabe compensação financeira aos estados, ao Distrito Federal e aos municípios pela exploração de tais recursos em seus respectivos territórios.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 22.md (item 20)"
+    },
+    {
+      "id": "GER_C22_21",
+      "tema": "D1",
+      "assunto": "Organização do Estado e ordem econômica (Gerais Cargo 22)",
+      "enunciado": "Embora seja competência privativa da União legislar sobre jazidas, minas, outros recursos minerais e metalurgia, ela pode, mediante lei ordinária federal, autorizar que os demais entes federados legislem sobre questões específicas a respeito dessa matéria.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 22.md (item 21)"
+    },
+    {
+      "id": "GER_C22_34",
+      "tema": "D1",
+      "assunto": "Organização do Estado e ordem econômica (Gerais Cargo 22)",
+      "enunciado": "A atuação do Estado regulador caracteriza-se pela intervenção indireta do Estado na ordem econômica, regulamentando e fiscalizando a prestação de determinado serviço, inclusive serviços públicos, como forma de equilibrar os interesses dos usuários ou consumidores e os do mercado, em prol do interesse público.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 22.md (item 34)"
+    },
+    {
+      "id": "GER_C1A4_6A10_12_16",
+      "tema": "D1",
+      "assunto": "Direitos fundamentais e administração pública — responsabilidade do Estado, direito ao esquecimento, ação popular, teto (Gerais Cargos 1 a 4, 6 a 10 e 12)",
+      "enunciado": "Ação para reparação de danos causados por agente público deve ser ajuizada contra o Estado ou, quando cabível, contra a pessoa jurídica privada prestadora de serviço público, sendo parte ilegítima passiva o autor do ato danoso.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA OS CARGOS 1 A 4 6 A 10 E 12.md (item 16)"
+    },
+    {
+      "id": "GER_C1A4_6A10_12_17",
+      "tema": "D1",
+      "assunto": "Direitos fundamentais e administração pública — responsabilidade do Estado, direito ao esquecimento, ação popular, teto (Gerais Cargos 1 a 4, 6 a 10 e 12)",
+      "enunciado": "O direito de liberdade de informação não é absoluto e deve ser compatibilizado com o direito ao esquecimento, o qual é entendido como o poder de obstar, em razão da passagem do tempo, a divulgação de fatos ou dados verídicos e licitamente obtidos e publicados em meios de comunicação social analógicos ou digitais.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA OS CARGOS 1 A 4 6 A 10 E 12.md (item 17)"
+    },
+    {
+      "id": "GER_C1A4_6A10_12_18",
+      "tema": "D1",
+      "assunto": "Direitos fundamentais e administração pública — responsabilidade do Estado, direito ao esquecimento, ação popular, teto (Gerais Cargos 1 a 4, 6 a 10 e 12)",
+      "enunciado": "Qualquer cidadão é parte legítima para propor ação popular que vise anular ato lesivo ao patrimônio público ou de entidade de que o Estado participe, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural, ficando o autor, salvo comprovada má-fé, isento de custas judiciais e do ônus da sucumbência.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA OS CARGOS 1 A 4 6 A 10 E 12.md (item 18)"
+    },
+    {
+      "id": "GER_C1A4_6A10_12_20",
+      "tema": "D1",
+      "assunto": "Direitos fundamentais e administração pública — responsabilidade do Estado, direito ao esquecimento, ação popular, teto (Gerais Cargos 1 a 4, 6 a 10 e 12)",
+      "enunciado": "Os vencimentos dos cargos dos Poderes Legislativo e Judiciário não poderão ser superiores aos pagos pelo Poder Executivo.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA OS CARGOS 1 A 4 6 A 10 E 12.md (item 20)"
+    },
+    {
+      "id": "GER_C16A21_23_14",
+      "tema": "D1",
+      "assunto": "Organização do Estado e ordem econômica (Gerais Cargos 16 a 21 e 23)",
+      "enunciado": "O Estado, ao atuar como agente normativo e regulador da atividade econômica, exerce, na forma da lei, as funções de fiscalização, incentivo e planejamento, sendo esta última função indicativa para os setores público e privado.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA OS CARGOS 16 A 21 E 23.md (item 14)"
+    },
+    {
+      "id": "GER_C16A21_23_15",
+      "tema": "D1",
+      "assunto": "Organização do Estado e ordem econômica (Gerais Cargos 16 a 21 e 23)",
+      "enunciado": "Em regra, a exploração direta de atividade econômica pelo Estado só é permitida quando necessária aos imperativos da segurança nacional ou a relevante interesse coletivo, conforme definidos em lei.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA OS CARGOS 16 A 21 E 23.md (item 15)"
+    },
+    {
+      "id": "GER_C16A21_23_16",
+      "tema": "D1",
+      "assunto": "Organização do Estado e ordem econômica (Gerais Cargos 16 a 21 e 23)",
+      "enunciado": "A criação, a incorporação, a fusão e o desmembramento de municípios serão estabelecidos por lei estadual, dentro do período determinado por lei complementar federal, e dependerão de consulta prévia, mediante plebiscito, às populações dos municípios envolvidos, após divulgação dos estudos de viabilidade municipal, apresentados e publicados na forma da lei.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA OS CARGOS 16 A 21 E 23.md (item 16)"
+    },
+    {
+      "id": "GER_C16A21_23_17",
+      "tema": "D1",
+      "assunto": "Organização do Estado e ordem econômica (Gerais Cargos 16 a 21 e 23)",
+      "enunciado": "Embora seja competência privativa da União legislar sobre jazidas, minas, outros recursos minerais e metalurgia, ela pode, mediante lei ordinária federal, autorizar que os demais entes federados legislem sobre questões específicas a respeito dessa matéria.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA OS CARGOS 16 A 21 E 23.md (item 17)"
+    },
+    {
+      "id": "GER_C16A21_23_33",
+      "tema": "D1",
+      "assunto": "Organização do Estado e ordem econômica (Gerais Cargos 16 a 21 e 23)",
+      "enunciado": "A atuação do Estado regulador caracteriza-se pela intervenção indireta do Estado na ordem econômica, regulamentando e fiscalizando a prestação de determinado serviço, inclusive serviços públicos, como forma de equilibrar os interesses dos usuários ou consumidores e os do mercado, em prol do interesse público.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA OS CARGOS 16 A 21 E 23.md (item 33)"
+    },
+    {
+      "id": "GER_C24A26_16",
+      "tema": "D1",
+      "assunto": "Organização do Estado e ordem econômica (Gerais Cargos 24 a 26)",
+      "enunciado": "O Estado, ao atuar como agente normativo e regulador da atividade econômica, exerce, na forma da lei, as funções de fiscalização, incentivo e planejamento, sendo esta última função indicativa para os setores público e privado.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA OS CARGOS 24 A 26.md (item 16)"
+    },
+    {
+      "id": "GER_C24A26_17",
+      "tema": "D1",
+      "assunto": "Organização do Estado e ordem econômica (Gerais Cargos 24 a 26)",
+      "enunciado": "Em regra, a exploração direta de atividade econômica pelo Estado só é permitida quando necessária aos imperativos da segurança nacional ou a relevante interesse coletivo, conforme definidos em lei.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA OS CARGOS 24 A 26.md (item 17)"
+    },
+    {
+      "id": "GER_C24A26_18",
+      "tema": "D1",
+      "assunto": "Organização do Estado e ordem econômica (Gerais Cargos 24 a 26)",
+      "enunciado": "A criação, a incorporação, a fusão e o desmembramento de municípios serão estabelecidos por lei estadual, dentro do período determinado por lei complementar federal, e dependerão de consulta prévia, mediante plebiscito, às populações dos municípios envolvidos, após divulgação dos estudos de viabilidade municipal, apresentados e publicados na forma da lei.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA OS CARGOS 24 A 26.md (item 18)"
+    },
+    {
+      "id": "GER_C24A26_19",
+      "tema": "D1",
+      "assunto": "Organização do Estado e ordem econômica (Gerais Cargos 24 a 26)",
+      "enunciado": "Embora seja competência privativa da União legislar sobre jazidas, minas, outros recursos minerais e metalurgia, ela pode, mediante lei ordinária federal, autorizar que os demais entes federados legislem sobre questões específicas a respeito dessa matéria.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA OS CARGOS 24 A 26.md (item 19)"
+    },
+    {
+      "id": "GER_C11_35",
+      "tema": "D2",
+      "assunto": "Código de Ética do servidor federal (Decreto 1.171/1994) e Código de Ética da ANM (IN 18/2023) (Gerais Cargo 11)",
+      "enunciado": "Conforme o Código de Ética da ANM, nos casos de violação ética de menor potencial ofensivo, caracterizadas pela ausência de dolo, admite-se que a Comissão de Ética oriente o servidor, verbalmente ou por escrito, no sentido de esclarecer as implicações de sua conduta no exercício de suas atividades.",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 11.md (item 35)"
+    },
+    {
+      "id": "GER_C11_36",
+      "tema": "D2",
+      "assunto": "Código de Ética do servidor federal (Decreto 1.171/1994) e Código de Ética da ANM (IN 18/2023) (Gerais Cargo 11)",
+      "enunciado": "Segundo o Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal, a função pública deve ser tida como exercício profissional e, portanto, não se integra à vida particular de cada servidor público, razão pela qual os fatos e atos verificados no cotidiano de sua vida privada não poderão influenciar o seu bom conceito na vida funcional.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 11.md (item 36)"
+    },
+    {
+      "id": "GER_C11_37",
+      "tema": "D2",
+      "assunto": "Código de Ética do servidor federal (Decreto 1.171/1994) e Código de Ética da ANM (IN 18/2023) (Gerais Cargo 11)",
+      "enunciado": "O Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal prevê, expressamente, que a advertência, a suspensão e a demissão são as penas aplicáveis pela comissão de ética ao servidor público, bem como exige que a sua fundamentação conste do respectivo parecer, assinado pelos seus integrantes, com ciência do faltoso.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 11.md (item 37)"
+    },
+    {
+      "id": "GER_C13_31",
+      "tema": "D2",
+      "assunto": "Código de Ética — servidor, manifestação de pensamento e penas da comissão de ética (Gerais Cargo 13)",
+      "enunciado": "O servidor em licença para tratar de interesse particular está, durante seu afastamento, isento de observar as regras estabelecidas no citado código.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 13.md (item 31)"
+    },
+    {
+      "id": "GER_C13_32",
+      "tema": "D2",
+      "assunto": "Código de Ética — servidor, manifestação de pensamento e penas da comissão de ética (Gerais Cargo 13)",
+      "enunciado": "É garantida ao agente público da ANM a livre manifestação de pensamento na participação em congressos, desde que ele o faça de forma responsável e manifeste, expressamente, que sua opinião retrata pensamento estritamente pessoal.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 13.md (item 32)"
+    },
+    {
+      "id": "GER_C13_33",
+      "tema": "D2",
+      "assunto": "Código de Ética — servidor, manifestação de pensamento e penas da comissão de ética (Gerais Cargo 13)",
+      "enunciado": "O servidor da ANM é proibido de prestar informação sobre matéria que não seja de sua competência específica.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 13.md (item 33)"
+    },
+    {
+      "id": "GER_C14_23",
+      "tema": "D2",
+      "assunto": "Código de Ética — dever de informação, licença, manifestação e penas (Gerais Cargo 14)",
+      "enunciado": "O servidor da ANM é proibido de prestar informação sobre matéria que não seja de sua competência específica.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 14.md (item 23)"
+    },
+    {
+      "id": "GER_C14_24",
+      "tema": "D2",
+      "assunto": "Código de Ética — dever de informação, licença, manifestação e penas (Gerais Cargo 14)",
+      "enunciado": "O servidor em licença para tratar de interesse particular está, durante seu afastamento, isento de observar as regras estabelecidas no citado código.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 14.md (item 24)"
+    },
+    {
+      "id": "GER_C14_25",
+      "tema": "D2",
+      "assunto": "Código de Ética — dever de informação, licença, manifestação e penas (Gerais Cargo 14)",
+      "enunciado": "É garantida ao agente público da ANM a livre manifestação de pensamento na participação em congressos, desde que ele o faça de forma responsável e manifeste, expressamente, que sua opinião retrata pensamento estritamente pessoal.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 14.md (item 25)"
+    },
+    {
+      "id": "GER_C14_27",
+      "tema": "D2",
+      "assunto": "Código de Ética — dever de informação, licença, manifestação e penas (Gerais Cargo 14)",
+      "enunciado": "A pena aplicável pela comissão de ética ao servidor que descumprir o Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal é a censura.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 14.md (item 27)"
+    },
+    {
+      "id": "GER_C22_27",
+      "tema": "D2",
+      "assunto": "Código de Ética — dever de informação, licença e manifestação (Gerais Cargo 22)",
+      "enunciado": "O servidor da ANM é proibido de prestar informação sobre matéria que não seja de sua competência específica.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 22.md (item 27)"
+    },
+    {
+      "id": "GER_C22_28",
+      "tema": "D2",
+      "assunto": "Código de Ética — dever de informação, licença e manifestação (Gerais Cargo 22)",
+      "enunciado": "O servidor em licença para tratar de interesse particular está, durante seu afastamento, isento de observar as regras estabelecidas no citado código.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 22.md (item 28)"
+    },
+    {
+      "id": "GER_C22_29",
+      "tema": "D2",
+      "assunto": "Código de Ética — dever de informação, licença e manifestação (Gerais Cargo 22)",
+      "enunciado": "É garantida ao agente público da ANM a livre manifestação de pensamento na participação em congressos, desde que ele o faça de forma responsável e manifeste, expressamente, que sua opinião retrata pensamento estritamente pessoal.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 22.md (item 29)"
+    },
+    {
+      "id": "GER_C5_25",
+      "tema": "D2",
+      "assunto": "Código de Ética — violação de menor potencial, conceito de servidor, vida privada e penas (Gerais Cargo 5)",
+      "enunciado": "Conforme o Código de Ética da ANM, nos casos de violação ética de menor potencial ofensivo, caracterizadas pela ausência de dolo, admite-se que a Comissão de Ética oriente o servidor, verbalmente ou por escrito, no sentido de esclarecer as implicações de sua conduta no exercício de suas atividades.",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 5.md (item 25)"
+    },
+    {
+      "id": "GER_C5_26",
+      "tema": "D2",
+      "assunto": "Código de Ética — violação de menor potencial, conceito de servidor, vida privada e penas (Gerais Cargo 5)",
+      "enunciado": "Para efeito e aplicabilidade das disposições do Código de Ética da ANM, o conceito de servidor tem como características imprescindíveis a prestação de serviços de natureza permanente no âmbito dessa agência e a retribuição financeira em contrapartida aos serviços prestados.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 5.md (item 26)"
+    },
+    {
+      "id": "GER_C5_27",
+      "tema": "D2",
+      "assunto": "Código de Ética — violação de menor potencial, conceito de servidor, vida privada e penas (Gerais Cargo 5)",
+      "enunciado": "Segundo o Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal, a função pública deve ser tida como exercício profissional e, portanto, não se integra à vida particular de cada servidor público, razão pela qual os fatos e atos verificados no cotidiano de sua vida privada não poderão influenciar o seu bom conceito na vida funcional.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 5.md (item 27)"
+    },
+    {
+      "id": "GER_C5_28",
+      "tema": "D2",
+      "assunto": "Código de Ética — violação de menor potencial, conceito de servidor, vida privada e penas (Gerais Cargo 5)",
+      "enunciado": "O Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal prevê, expressamente, que a advertência, a suspensão e a demissão são as penas aplicáveis pela comissão de ética ao servidor público, bem como exige que a sua fundamentação conste do respectivo parecer, assinado pelos seus integrantes, com ciência do faltoso.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 5.md (item 28)"
+    },
+    {
+      "id": "GER_C1A4_6A10_12_31",
+      "tema": "D2",
+      "assunto": "Código de Ética — violação de menor potencial, vida privada e penas (Gerais Cargos 1 a 4, 6 a 10 e 12)",
+      "enunciado": "Conforme o Código de Ética da ANM, nos casos de violação ética de menor potencial ofensivo, caracterizadas pela ausência de dolo, admite-se que a Comissão de Ética oriente o servidor, verbalmente ou por escrito, no sentido de esclarecer as implicações de sua conduta no exercício de suas atividades.",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA OS CARGOS 1 A 4 6 A 10 E 12.md (item 31)"
+    },
+    {
+      "id": "GER_C1A4_6A10_12_32",
+      "tema": "D2",
+      "assunto": "Código de Ética — violação de menor potencial, vida privada e penas (Gerais Cargos 1 a 4, 6 a 10 e 12)",
+      "enunciado": "Segundo o Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal, a função pública deve ser tida como exercício profissional e, portanto, não se integra à vida particular de cada servidor público, razão pela qual os fatos e atos verificados no cotidiano de sua vida privada não poderão influenciar o seu bom conceito na vida funcional.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA OS CARGOS 1 A 4 6 A 10 E 12.md (item 32)"
+    },
+    {
+      "id": "GER_C1A4_6A10_12_33",
+      "tema": "D2",
+      "assunto": "Código de Ética — violação de menor potencial, vida privada e penas (Gerais Cargos 1 a 4, 6 a 10 e 12)",
+      "enunciado": "O Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal prevê, expressamente, que a advertência, a suspensão e a demissão são as penas aplicáveis pela comissão de ética ao servidor público, bem como exige que a sua fundamentação conste do respectivo parecer, assinado pelos seus integrantes, com ciência do faltoso.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA OS CARGOS 1 A 4 6 A 10 E 12.md (item 33)"
+    },
+    {
+      "id": "GER_C16A21_23_27",
+      "tema": "D2",
+      "assunto": "Código de Ética — dever de informação, licença e manifestação (Gerais Cargos 16 a 21 e 23)",
+      "enunciado": "O servidor da ANM é proibido de prestar informação sobre matéria que não seja de sua competência específica.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA OS CARGOS 16 A 21 E 23.md (item 27)"
+    },
+    {
+      "id": "GER_C16A21_23_28",
+      "tema": "D2",
+      "assunto": "Código de Ética — dever de informação, licença e manifestação (Gerais Cargos 16 a 21 e 23)",
+      "enunciado": "O servidor em licença para tratar de interesse particular está, durante seu afastamento, isento de observar as regras estabelecidas no citado código.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA OS CARGOS 16 A 21 E 23.md (item 28)"
+    },
+    {
+      "id": "GER_C16A21_23_29",
+      "tema": "D2",
+      "assunto": "Código de Ética — dever de informação, licença e manifestação (Gerais Cargos 16 a 21 e 23)",
+      "enunciado": "É garantida ao agente público da ANM a livre manifestação de pensamento na participação em congressos, desde que ele o faça de forma responsável e manifeste, expressamente, que sua opinião retrata pensamento estritamente pessoal.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA OS CARGOS 16 A 21 E 23.md (item 29)"
+    },
+    {
+      "id": "ESP_C1_73",
+      "tema": "D3",
+      "assunto": "Agências reguladoras como administração indireta / autarquias em regime especial (Cargo 1 específicos)",
+      "enunciado": "As agências reguladoras fazem parte da administração direta e são consideradas autarquias em regime especial.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.md (item 73)"
+    },
+    {
+      "id": "ESP_C5_65",
+      "tema": "D3",
+      "assunto": "Regime jurídico único dos servidores públicos (Cargo 5 específicos)",
+      "enunciado": "A alteração constitucional que revogou a exigência de regime jurídico único para os servidores públicos da União, dos estados, do Distrito Federal e dos municípios encontra-se suspensa por decisão do STF que a considerou inconstitucional.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.md (item 65)"
+    },
+    {
+      "id": "ESP_C14_60",
+      "tema": "D3",
+      "assunto": "Agentes públicos (Lei 8.112/1990: recondução e readaptação) e serviço público (Cargo 14 específicos)",
+      "enunciado": "A recondução é o retorno do servidor estável ao cargo anteriormente ocupado, e esse retorno pode decorrer de inabilitação em estágio probatório relativo a outro cargo ou de reintegração do anterior ocupante.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14.md (item 60)"
+    },
+    {
+      "id": "ESP_C14_61",
+      "tema": "D3",
+      "assunto": "Agentes públicos (Lei 8.112/1990: recondução e readaptação) e serviço público (Cargo 14 específicos)",
+      "enunciado": "A readaptação é a forma de provimento de cargo público pela qual o servidor aposentado por invalidez retorna à atividade em razão de junta médica oficial ter declarado insubsistentes os motivos de sua aposentadoria.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14.md (item 61)"
+    },
+    {
+      "id": "ESP_C14_62",
+      "tema": "D3",
+      "assunto": "Agentes públicos (Lei 8.112/1990: recondução e readaptação) e serviço público (Cargo 14 específicos)",
+      "enunciado": "O princípio da continuidade do serviço público tem como principal característica autorizar mudanças no regime de execução do serviço para adaptá-lo ao interesse público.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14.md (item 62)"
+    },
+    {
+      "id": "ESP_C14_63",
+      "tema": "D3",
+      "assunto": "Agentes públicos (Lei 8.112/1990: recondução e readaptação) e serviço público (Cargo 14 específicos)",
+      "enunciado": "O elemento subjetivo que define a efetiva participação do Estado na execução do serviço é indispensável para que este seja configurado como serviço público.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14.md (item 63)"
+    },
+    {
+      "id": "ESP_C14_64",
+      "tema": "D3",
+      "assunto": "Agentes públicos (Lei 8.112/1990: recondução e readaptação) e serviço público (Cargo 14 específicos)",
+      "enunciado": "Considera-se serviço público em sentido amplo as funções próprias desempenhadas pelos Poderes Legislativo e Judiciário.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14.md (item 64)"
+    },
+    {
+      "id": "ESP_C25_115",
+      "tema": "D3",
+      "assunto": "Organização sistêmica da administração pública federal (Cargo 25 específicos)",
+      "enunciado": "A organização sistêmica da administração pública federal baseia-se em sistemas estruturantes e estruturadores: os primeiros tratam de atividades primárias da administração, enquanto os segundos se concentram no apoio a essas atividades e no suporte administrativo.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 25.md (item 115)"
+    },
+    {
+      "id": "ESP_C25_116",
+      "tema": "D3",
+      "assunto": "Organização sistêmica da administração pública federal (Cargo 25 específicos)",
+      "enunciado": "Na organização sistêmica da administração pública federal, as decisões administrativas ocorrem de forma totalmente descentralizada, o que proporciona a seus órgãos e suas entidades autonomia completa para gerenciar os próprios processos, de forma independente.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 25.md (item 116)"
+    },
+    {
+      "id": "GER_C11_27",
+      "tema": "D3",
+      "assunto": "Administração indireta (ANM) e delegação de serviços públicos — concessão e permissão (Gerais Cargo 11)",
+      "enunciado": "A ANM integra a administração pública federal indireta, tem natureza jurídica de autarquia especial e vincula-se ao Ministério de Minas e Energia.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 11.md (item 27)"
+    },
+    {
+      "id": "GER_C11_29",
+      "tema": "D3",
+      "assunto": "Administração indireta (ANM) e delegação de serviços públicos — concessão e permissão (Gerais Cargo 11)",
+      "enunciado": "Concessão de serviço público é a delegação de sua prestação, por prazo determinado, feita pelo poder concedente a pessoa jurídica ou consórcio de empresas, ao passo que a permissão de serviço público é a delegação da prestação de serviços públicos, a título precário, feita pelo poder concedente a pessoa física ou jurídica.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 11.md (item 29)"
+    },
+    {
+      "id": "GER_C13_22",
+      "tema": "D3",
+      "assunto": "Servidores públicos (Lei 8.112/1990) e requisição (Decreto 10.835/2021) (Gerais Cargo 13)",
+      "enunciado": "O servidor público estável pode perder o cargo em virtude de sentença judicial transitada em julgado, bem como por meio de processo administrativo em que lhe seja assegurada ampla defesa.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 13.md (item 22)"
+    },
+    {
+      "id": "GER_C13_24",
+      "tema": "D3",
+      "assunto": "Servidores públicos (Lei 8.112/1990) e requisição (Decreto 10.835/2021) (Gerais Cargo 13)",
+      "enunciado": "De acordo com o Decreto n.º 10.835/2021, é permitido ao servidor recusar uma requisição, desde que a recusa seja feita antes do início do exercício no órgão ou na entidade requisitante.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 13.md (item 24)"
+    },
+    {
+      "id": "GER_C14_34",
+      "tema": "D3",
+      "assunto": "Servidores em efetivo exercício nas agências reguladoras (Gerais Cargo 14)",
+      "enunciado": "Aos servidores em efetivo exercício nas agências reguladoras é permitido o exercício de outras atividades profissionais apenas nos casos admitidos em lei.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 14.md (item 34)"
+    },
+    {
+      "id": "GER_C22_32",
+      "tema": "D3",
+      "assunto": "Servidores em efetivo exercício nas agências reguladoras (Gerais Cargo 22)",
+      "enunciado": "Aos servidores em efetivo exercício nas agências reguladoras é permitido o exercício de outras atividades profissionais apenas nos casos admitidos em lei.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 22.md (item 32)"
+    },
+    {
+      "id": "GER_C1A4_6A10_12_23",
+      "tema": "D3",
+      "assunto": "Administração pública direta e indireta; delegação de serviços públicos (Gerais Cargos 1 a 4, 6 a 10 e 12)",
+      "enunciado": "A ANM integra a administração pública federal indireta, tem natureza jurídica de autarquia especial e vincula-se ao Ministério de Minas e Energia.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA OS CARGOS 1 A 4 6 A 10 E 12.md (item 23)"
+    },
+    {
+      "id": "GER_C1A4_6A10_12_25",
+      "tema": "D3",
+      "assunto": "Administração pública direta e indireta; delegação de serviços públicos (Gerais Cargos 1 a 4, 6 a 10 e 12)",
+      "enunciado": "Concessão de serviço público é a delegação de sua prestação, por prazo determinado, feita pelo poder concedente a pessoa jurídica ou consórcio de empresas, ao passo que a permissão de serviço público é a delegação da prestação de serviços públicos, a título precário, feita pelo poder concedente a pessoa física ou jurídica.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA OS CARGOS 1 A 4 6 A 10 E 12.md (item 25)"
+    },
+    {
+      "id": "GER_C16A21_23_18",
+      "tema": "D3",
+      "assunto": "Servidores públicos (8.112), requisição (10.835) e servidores de agências reguladoras (Gerais Cargos 16 a 21 e 23)",
+      "enunciado": "De acordo com o Decreto n.º 10.835/2021, é permitido ao servidor recusar uma requisição, desde que a recusa seja feita antes do início do exercício no órgão ou na entidade requisitante.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA OS CARGOS 16 A 21 E 23.md (item 18)"
+    },
+    {
+      "id": "GER_C16A21_23_21",
+      "tema": "D3",
+      "assunto": "Servidores públicos (8.112), requisição (10.835) e servidores de agências reguladoras (Gerais Cargos 16 a 21 e 23)",
+      "enunciado": "O servidor público estável pode perder o cargo em virtude de sentença judicial transitada em julgado, bem como por meio de processo administrativo em que lhe seja assegurada ampla defesa.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA OS CARGOS 16 A 21 E 23.md (item 21)"
+    },
+    {
+      "id": "GER_C16A21_23_34",
+      "tema": "D3",
+      "assunto": "Servidores públicos (8.112), requisição (10.835) e servidores de agências reguladoras (Gerais Cargos 16 a 21 e 23)",
+      "enunciado": "Aos servidores em efetivo exercício nas agências reguladoras é permitido o exercício de outras atividades profissionais apenas nos casos admitidos em lei.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA OS CARGOS 16 A 21 E 23.md (item 34)"
+    },
+    {
+      "id": "ESP_C5_59",
+      "tema": "D4",
+      "assunto": "Sistema administrativo, atos administrativos, tombamento, autotutela e decisão coordenada (Cargo 5 específicos)",
+      "enunciado": "Nos casos de tombamento geral, não se faz necessário procedimento para individualização do bem imóvel, de modo que as restrições estabelecidas na lei se aplicam a todos os que tenham imóvel na área tombada.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.md (item 59)"
+    },
+    {
+      "id": "ESP_C5_60",
+      "tema": "D4",
+      "assunto": "Sistema administrativo, atos administrativos, tombamento, autotutela e decisão coordenada (Cargo 5 específicos)",
+      "enunciado": "No Brasil, é adotado o sistema administrativo inglês, no qual todos os atos administrativos podem ser resolvidos pelo Poder Judiciário, cujas decisões gozam de definitividade.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.md (item 60)"
+    },
+    {
+      "id": "ESP_C5_62",
+      "tema": "D4",
+      "assunto": "Sistema administrativo, atos administrativos, tombamento, autotutela e decisão coordenada (Cargo 5 específicos)",
+      "enunciado": "A administração pública pode anular seus próprios atos, quando eivados de ilegalidade, independentemente de contraditório, mesmo quando interferirem na esfera jurídica de interesses individuais de seus administrados, haja vista a prevalência do interesse público sobre o privado e o princípio da legalidade.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.md (item 62)"
+    },
+    {
+      "id": "ESP_C5_64",
+      "tema": "D4",
+      "assunto": "Sistema administrativo, atos administrativos, tombamento, autotutela e decisão coordenada (Cargo 5 específicos)",
+      "enunciado": "No âmbito da administração pública federal, as decisões administrativas que exijam a participação de três ou mais setores, órgãos ou entidades poderão ser tomadas mediante decisão coordenada, sempre que for justificável pela relevância da matéria e houver discordância que prejudique a celeridade do processo administrativo decisório.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.md (item 64)"
+    },
+    {
+      "id": "ESP_C14_51",
+      "tema": "D4",
+      "assunto": "Atos administrativos e decadência administrativa — imperatividade, cassação, revogação, motivação (STJ) (Cargo 14 específicos)",
+      "enunciado": "A imperatividade é a característica do ato administrativo que autoriza a imediata execução do seu conteúdo, independentemente de prévia submissão da matéria ao Poder Judiciário.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14.md (item 51)"
+    },
+    {
+      "id": "ESP_C14_52",
+      "tema": "D4",
+      "assunto": "Atos administrativos e decadência administrativa — imperatividade, cassação, revogação, motivação (STJ) (Cargo 14 específicos)",
+      "enunciado": "De acordo com o STJ, em se tratando de ato de que decorram efeitos patrimoniais contínuos, como aqueles decorrentes de pagamentos de vencimentos e pensões, nos quais haja o pagamento de vantagem considerada irregular pela administração pública, o prazo decadencial do direito de a administração pública anular o ato renova-se a cada pagamento indevido.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14.md (item 52)"
+    },
+    {
+      "id": "ESP_C14_53",
+      "tema": "D4",
+      "assunto": "Atos administrativos e decadência administrativa — imperatividade, cassação, revogação, motivação (STJ) (Cargo 14 específicos)",
+      "enunciado": "Na cassação, a extinção do ato administrativo ocorre por motivo de descumprimento de condições que deveriam continuar a ser atendidas pelo destinatário do ato.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14.md (item 53)"
+    },
+    {
+      "id": "ESP_C14_54",
+      "tema": "D4",
+      "assunto": "Atos administrativos e decadência administrativa — imperatividade, cassação, revogação, motivação (STJ) (Cargo 14 específicos)",
+      "enunciado": "Na revogação, em regra, a extinção do ato administrativo opera efeitos retroativos.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14.md (item 54)"
+    },
+    {
+      "id": "ESP_C14_55",
+      "tema": "D4",
+      "assunto": "Atos administrativos e decadência administrativa — imperatividade, cassação, revogação, motivação (STJ) (Cargo 14 específicos)",
+      "enunciado": "Ainda que se trate de ato administrativo discricionário, a motivação deve guardar correspondência com a realidade fática determinante da vontade administrativa, sob pena de nulidade.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14.md (item 55)"
+    },
+    {
+      "id": "ESP_C15_71",
+      "tema": "D4",
+      "assunto": "Extinção do ato administrativo (revogação) e imperatividade (Cargo 15 específicos)",
+      "enunciado": "Na revogação, em regra, a extinção do ato administrativo opera efeitos retroativos.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 15.md (item 71)"
+    },
+    {
+      "id": "ESP_C15_74",
+      "tema": "D4",
+      "assunto": "Extinção do ato administrativo (revogação) e imperatividade (Cargo 15 específicos)",
+      "enunciado": "A imperatividade é a característica do ato administrativo que autoriza a imediata execução do seu conteúdo, independentemente de prévia submissão da matéria ao Poder Judiciário.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 15.md (item 74)"
+    },
+    {
+      "id": "GER_C11_24",
+      "tema": "D4",
+      "assunto": "Convalidação de atos administrativos e processo administrativo (8.112 e 9.784) (Gerais Cargo 11)",
+      "enunciado": "Segundo jurisprudência do Supremo Tribunal Federal, a falta de defesa técnica por advogado no processo administrativo disciplinar conduzido pelo rito da Lei n.º 8112/1990 ofende a Constituição Federal de 1988.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 11.md (item 24)"
+    },
+    {
+      "id": "GER_C11_25",
+      "tema": "D4",
+      "assunto": "Convalidação de atos administrativos e processo administrativo (8.112 e 9.784) (Gerais Cargo 11)",
+      "enunciado": "Nos processos administrativos, é necessário observar, entre outros critérios, o atendimento a fins de interesse geral, sendo vedada a renúncia total ou parcial de poderes ou competências, salvo autorização em lei.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 11.md (item 25)"
+    },
+    {
+      "id": "GER_C11_26",
+      "tema": "D4",
+      "assunto": "Convalidação de atos administrativos e processo administrativo (8.112 e 9.784) (Gerais Cargo 11)",
+      "enunciado": "Os atos administrativos com defeitos sanáveis podem ser convalidados pela própria administração pública, mesmo que tal medida acarrete prejuízo a terceiros.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 11.md (item 26)"
+    },
+    {
+      "id": "GER_C13_21",
+      "tema": "D4",
+      "assunto": "Decadência administrativa e controle jurisdicional de atos administrativos (Gerais Cargo 13)",
+      "enunciado": "O prazo decadencial para a administração pública anular os atos administrativos de que decorram efeitos favoráveis para os destinatários, no caso de efeitos patrimoniais contínuos, conta-se a partir da percepção do primeiro pagamento.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 13.md (item 21)"
+    },
+    {
+      "id": "GER_C13_23",
+      "tema": "D4",
+      "assunto": "Decadência administrativa e controle jurisdicional de atos administrativos (Gerais Cargo 13)",
+      "enunciado": "Em regra, no exercício do controle jurisdicional de atos administrativos, é permitido ao Poder Judiciário, em substituição à banca examinadora de concurso público, reexaminar o conteúdo das questões e os critérios de correção utilizados nas provas, independentemente da ocorrência de ilegalidade.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 13.md (item 23)"
+    },
+    {
+      "id": "GER_C16A21_23_20",
+      "tema": "D4",
+      "assunto": "Decadência administrativa — efeitos patrimoniais contínuos (Gerais Cargos 16 a 21 e 23)",
+      "enunciado": "O prazo decadencial para a administração pública anular os atos administrativos de que decorram efeitos favoráveis para os destinatários, no caso de efeitos patrimoniais contínuos, conta-se a partir da percepção do primeiro pagamento.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA OS CARGOS 16 A 21 E 23.md (item 20)"
+    },
+    {
+      "id": "CF_25",
+      "tema": "D4",
+      "assunto": "Processo administrativo na ANM — atos, fases, recursos e admissibilidade (Curso de Formação)",
+      "enunciado": "O princípio jurídico do processo administrativo referente à instrumentalidade das formas impõe formalidades essenciais à garantia dos direitos envolvidos.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO.md (item 25)"
+    },
+    {
+      "id": "CF_26",
+      "tema": "D4",
+      "assunto": "Processo administrativo na ANM — atos, fases, recursos e admissibilidade (Curso de Formação)",
+      "enunciado": "Instruções normativas, resoluções e portarias da ANM, considerado o seu caráter normativo, configuram atos legislativos da administração pública.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO.md (item 26)"
+    },
+    {
+      "id": "CF_27",
+      "tema": "D4",
+      "assunto": "Processo administrativo na ANM — atos, fases, recursos e admissibilidade (Curso de Formação)",
+      "enunciado": "Quando um ato administrativo perde a sua validade em decorrência de incompatibilidade com norma superveniente, a invalidação é considerada a causa de sua extinção.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO.md (item 27)"
+    },
+    {
+      "id": "CF_28",
+      "tema": "D4",
+      "assunto": "Processo administrativo na ANM — atos, fases, recursos e admissibilidade (Curso de Formação)",
+      "enunciado": "Exigido em todos os atos administrativos, o motivo é o elemento referente ao conjunto de pressupostos fáticos e jurídicos que justificam a prática do ato.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO.md (item 28)"
+    },
+    {
+      "id": "CF_29",
+      "tema": "D4",
+      "assunto": "Processo administrativo na ANM — atos, fases, recursos e admissibilidade (Curso de Formação)",
+      "enunciado": "Na interposição de um recurso administrativo, a forma é preponderante, gerando inviabilidade de conhecimento sempre que houver erro de denominação ou direcionamento.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO.md (item 29)"
+    },
+    {
+      "id": "CF_30",
+      "tema": "D4",
+      "assunto": "Processo administrativo na ANM — atos, fases, recursos e admissibilidade (Curso de Formação)",
+      "enunciado": "Autos de infração, de embargo e de interdição têm natureza instrumental e constituem registros de constatações com efeitos jurídicos imediatos.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO.md (item 30)"
+    },
+    {
+      "id": "CF_31",
+      "tema": "D4",
+      "assunto": "Processo administrativo na ANM — atos, fases, recursos e admissibilidade (Curso de Formação)",
+      "enunciado": "A validade e a eficácia de atos administrativos dependem de sua correta elaboração e adequada comunicação aos interessados, em conformidade com os prazos legais estabelecidos no Código de Mineração.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO.md (item 31)"
+    },
+    {
+      "id": "CF_32",
+      "tema": "D4",
+      "assunto": "Processo administrativo na ANM — atos, fases, recursos e admissibilidade (Curso de Formação)",
+      "enunciado": "Recursos administrativos são classificados como hierárquicos próprios e hierárquicos impróprios, sendo possível, no caso concreto, a interposição de pedido de reconsideração dirigido à mesma autoridade que proferiu o ato.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO.md (item 32)"
+    },
+    {
+      "id": "CF_33",
+      "tema": "D4",
+      "assunto": "Processo administrativo na ANM — atos, fases, recursos e admissibilidade (Curso de Formação)",
+      "enunciado": "Recursos não possuem efeito suspensivo automático, mas este pode ser concedido mediante requerimento fundamentado, devendo a decisão sobre o pedido de suspensão ser proferida em até 20 dias.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO.md (item 33)"
+    },
+    {
+      "id": "CF_34",
+      "tema": "D4",
+      "assunto": "Processo administrativo na ANM — atos, fases, recursos e admissibilidade (Curso de Formação)",
+      "enunciado": "Quanto ao juízo de admissibilidade, um recurso administrativo somente deve ser conhecido se estiverem presentes, cumulativamente, os requisitos de legitimidade, interesse em recorrer, cabimento e tempestividade.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO.md (item 34)"
+    },
+    {
+      "id": "ESP_C5_61",
+      "tema": "D5",
+      "assunto": "Controle do TCU, PPP e correição — SISCOR, admissibilidade, procedimento investigativo e denúncia (Cargo 5 específicos)",
+      "enunciado": "A previsão legal que dispensa a apresentação, pelo parceiro privado, de orçamentos detalhados, com os quantitativos e os preços unitários, nas parcerias público-privadas impede que o tribunal de contas determine a apresentação de documentos detalhados relativos à construção de obra pública, com a finalidade de apurar eventual ocorrência de sobrepreço e superfaturamento na contratação.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.md (item 61)"
+    },
+    {
+      "id": "ESP_C5_115",
+      "tema": "D5",
+      "assunto": "Controle do TCU, PPP e correição — SISCOR, admissibilidade, procedimento investigativo e denúncia (Cargo 5 específicos)",
+      "enunciado": "A denúncia formulada pela empresa mineradora X será remetida ao Órgão Central do Sistema de Correição do Poder Executivo Federal (SISCOR), para a apreciação da sua admissibilidade, e, havendo juízo positivo, ela retornará à unidade setorial da ANM para o devido processamento.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.md (item 115)"
+    },
+    {
+      "id": "ESP_C5_116",
+      "tema": "D5",
+      "assunto": "Controle do TCU, PPP e correição — SISCOR, admissibilidade, procedimento investigativo e denúncia (Cargo 5 específicos)",
+      "enunciado": "Admitida a denúncia apresentada pela empresa mineradora X, será instaurado procedimento investigativo prévio, o qual, a depender do seu resultado, poderá ser convertido em processo correcional em desfavor de João.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.md (item 116)"
+    },
+    {
+      "id": "ESP_C5_117",
+      "tema": "D5",
+      "assunto": "Controle do TCU, PPP e correição — SISCOR, admissibilidade, procedimento investigativo e denúncia (Cargo 5 específicos)",
+      "enunciado": "Caso a empresa mineradora X quisesse evitar novas retaliações de João, ela poderia legitimamente valer-se da denúncia anônima, que se submete aos mesmos requisitos e procedimentos da denúncia com autor identificado.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.md (item 117)"
+    },
+    {
+      "id": "ESP_C14_65",
+      "tema": "D5",
+      "assunto": "Controle da administração pública — TCU x controle interno (Cargo 14 específicos)",
+      "enunciado": "A atividade fiscalizatória realizada pelo Tribunal de Contas da União, no exercício da fiscalização contábil e financeira das entidades administrativas, não se confunde com aquela realizada pelo próprio órgão administrativo, uma vez que esta atribuição decorre do controle interno ínsito a cada Poder.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14.md (item 65)"
+    },
+    {
+      "id": "ESP_C15_111",
+      "tema": "D5",
+      "assunto": "Controle pelos tribunais de contas, controle interno, controle financeiro e controle das agências reguladoras (Cargo 15 específicos)",
+      "enunciado": "Os dirigentes das agências reguladoras federais devem prestar contas ao TCU, a quem cabe realizar a apreciação técnica, remetendo, em seguida, as referidas contas ao Congresso Nacional para julgamento.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 15.md (item 111)"
+    },
+    {
+      "id": "ESP_C15_112",
+      "tema": "D5",
+      "assunto": "Controle pelos tribunais de contas, controle interno, controle financeiro e controle das agências reguladoras (Cargo 15 específicos)",
+      "enunciado": "Em relação às concessões, permissões e autorizações de serviços públicos federais, o Tribunal de Contas da União (TCU) exerce dois tipos de controle: o acompanhamento da outorga e o da execução do contrato.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 15.md (item 112)"
+    },
+    {
+      "id": "ESP_C15_113",
+      "tema": "D5",
+      "assunto": "Controle pelos tribunais de contas, controle interno, controle financeiro e controle das agências reguladoras (Cargo 15 específicos)",
+      "enunciado": "O TCU pode determinar às agências reguladoras e ao respectivo ministério que as agências estiverem vinculadas a anulação do contrato de concessão de serviço público por eles celebrado com a iniciativa privada, sem que haja ofensa à competência do Congresso Nacional para sustar diretamente o mesmo contrato.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 15.md (item 113)"
+    },
+    {
+      "id": "ESP_C15_114",
+      "tema": "D5",
+      "assunto": "Controle pelos tribunais de contas, controle interno, controle financeiro e controle das agências reguladoras (Cargo 15 específicos)",
+      "enunciado": "O objetivo principal da fiscalização operacional das agências reguladoras federais, realizada pelo TCU, é o controle da legalidade dos atos de gestão dessas entidades.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 15.md (item 114)"
+    },
+    {
+      "id": "ESP_C15_115",
+      "tema": "D5",
+      "assunto": "Controle pelos tribunais de contas, controle interno, controle financeiro e controle das agências reguladoras (Cargo 15 específicos)",
+      "enunciado": "Ao apreciar e votar o projeto de lei orçamentária anual da União, o Congresso Nacional exerce o controle concomitante da atividade financeira do Poder Executivo.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 15.md (item 115)"
+    },
+    {
+      "id": "ESP_C15_116",
+      "tema": "D5",
+      "assunto": "Controle pelos tribunais de contas, controle interno, controle financeiro e controle das agências reguladoras (Cargo 15 específicos)",
+      "enunciado": "O sistema de controle interno da União pode fiscalizar a utilização de verbas federais onde quer que elas estejam sendo aplicadas, ainda que esses recursos tenham sido destinados a outro ente federativo.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 15.md (item 116)"
+    },
+    {
+      "id": "ESP_C15_117",
+      "tema": "D5",
+      "assunto": "Controle pelos tribunais de contas, controle interno, controle financeiro e controle das agências reguladoras (Cargo 15 específicos)",
+      "enunciado": "Os limites do controle administrativo hierárquico a que se sujeitam as agências reguladoras devem ser delineados por meio de lei, a fim de se evitar ofensa à autonomia de que gozam essas entidades.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 15.md (item 117)"
+    },
+    {
+      "id": "ESP_C15_118",
+      "tema": "D5",
+      "assunto": "Controle pelos tribunais de contas, controle interno, controle financeiro e controle das agências reguladoras (Cargo 15 específicos)",
+      "enunciado": "Um ministério pode exercer a autotutela sobre a agência reguladora federal que lhe seja vinculada, para assegurar que ela atinja e não transborde a finalidade para a qual foi criada.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 15.md (item 118)"
+    },
+    {
+      "id": "ESP_C15_119",
+      "tema": "D5",
+      "assunto": "Controle pelos tribunais de contas, controle interno, controle financeiro e controle das agências reguladoras (Cargo 15 específicos)",
+      "enunciado": "Os Poderes Executivo e Legislativo são responsáveis por definir a política setorial das agências reguladoras federais, razão pela qual essas entidades devem encaminhar ao Parlamento um relatório anual circunstanciado de suas atividades.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 15.md (item 119)"
+    },
+    {
+      "id": "ESP_C15_120",
+      "tema": "D5",
+      "assunto": "Controle pelos tribunais de contas, controle interno, controle financeiro e controle das agências reguladoras (Cargo 15 específicos)",
+      "enunciado": "No processo de escolha dos dirigentes das agências reguladoras federais haverá um duplo controle: controle administrativo exercido pelo presidente da República na indicação e nomeação do membro da agência, e o controle parlamentar exercido pelo Senado Federal na aprovação dos nomes indicados pelo presidente da República.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 15.md (item 120)"
+    },
+    {
+      "id": "GER_C11_39",
+      "tema": "D6",
+      "assunto": "Lei de Acesso à Informação — identificação do requerente e classificação (Gerais Cargo 11)",
+      "enunciado": "Segundo a Lei de Acesso à Informação, para o acesso a informações de interesse público, o meio de identificação do requerente não pode conter exigências que inviabilizem a solicitação, bem como são vedadas quaisquer exigências relativas aos motivos determinantes do pedido de acesso à informação apresentado.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 11.md (item 39)"
+    },
+    {
+      "id": "GER_C11_40",
+      "tema": "D6",
+      "assunto": "Lei de Acesso à Informação — identificação do requerente e classificação (Gerais Cargo 11)",
+      "enunciado": "As informações em poder da ANM, observado o seu teor e em razão de sua imprescindibilidade à segurança da sociedade ou do Estado, podem ser classificadas como ultrassecretas, secretas ou reservadas, e os prazos máximos de restrição de acesso a elas, conforme essa classificação, vigoram a partir da data de sua produção, de acordo com a Lei de Acesso à Informação.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 11.md (item 40)"
+    },
+    {
+      "id": "GER_C13_34",
+      "tema": "D6",
+      "assunto": "Lei de Acesso à Informação — direito de obter informações (Gerais Cargo 13)",
+      "enunciado": "A pena aplicável pela comissão de ética ao servidor que descumprir o Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal é a censura.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 13.md (item 34)"
+    },
+    {
+      "id": "GER_C14_28",
+      "tema": "D6",
+      "assunto": "Lei de Acesso à Informação — direito de obter informações (Gerais Cargo 14)",
+      "enunciado": "A Lei de Acesso à Informação assegura, expressamente, o direito de obter informações sobre administração do patrimônio público e utilização de recursos públicos.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 14.md (item 28)"
+    },
+    {
+      "id": "GER_C22_31",
+      "tema": "D6",
+      "assunto": "Lei de Acesso à Informação — direito de obter informações (Gerais Cargo 22)",
+      "enunciado": "A Lei de Acesso à Informação assegura, expressamente, o direito de obter informações sobre administração do patrimônio público e utilização de recursos públicos.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 22.md (item 31)"
+    },
+    {
+      "id": "GER_C5_30",
+      "tema": "D6",
+      "assunto": "Lei de Acesso à Informação — identificação e classificação (Gerais Cargo 5)",
+      "enunciado": "Segundo a Lei de Acesso à Informação, para o acesso a informações de interesse público, o meio de identificação do requerente não pode conter exigências que inviabilizem a solicitação, bem como são vedadas quaisquer exigências relativas aos motivos determinantes do pedido de acesso à informação apresentado.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 5.md (item 30)"
+    },
+    {
+      "id": "GER_C5_31",
+      "tema": "D6",
+      "assunto": "Lei de Acesso à Informação — identificação e classificação (Gerais Cargo 5)",
+      "enunciado": "As informações em poder da ANM, observado o seu teor e em razão de sua imprescindibilidade à segurança da sociedade ou do Estado, podem ser classificadas como ultrassecretas, secretas ou reservadas, e os prazos máximos de restrição de acesso a elas, conforme essa classificação, vigoram a partir da data de sua produção, de acordo com a Lei de Acesso à Informação.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 5.md (item 31)"
+    },
+    {
+      "id": "GER_C1A4_6A10_12_35",
+      "tema": "D6",
+      "assunto": "Lei de Acesso à Informação — direito de obter informações (Gerais Cargos 1 a 4, 6 a 10 e 12)",
+      "enunciado": "Segundo a Lei de Acesso à Informação, para o acesso a informações de interesse público, o meio de identificação do requerente não pode conter exigências que inviabilizem a solicitação, bem como são vedadas quaisquer exigências relativas aos motivos determinantes do pedido de acesso à informação apresentado.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA OS CARGOS 1 A 4 6 A 10 E 12.md (item 35)"
+    },
+    {
+      "id": "GER_C16A21_23_31",
+      "tema": "D6",
+      "assunto": "Lei de Acesso à Informação — direito de obter informações (Gerais Cargos 16 a 21 e 23)",
+      "enunciado": "A Lei de Acesso à Informação assegura, expressamente, o direito de obter informações sobre administração do patrimônio público e utilização de recursos públicos.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA OS CARGOS 16 A 21 E 23.md (item 31)"
+    },
+    {
+      "id": "CF_15",
+      "tema": "D6",
+      "assunto": "Transparência, publicidade, direito à informação, participação popular e abrangência da LAI (Curso de Formação)",
+      "enunciado": "Formas de poder caracterizadas pelo patrimonialismo, coronelismo, corporativismo e intervencionismo militar são componentes da conjuntura latino-americana que se mostram como obstáculos à democracia plena e à transparência.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO.md (item 15)"
+    },
+    {
+      "id": "CF_16",
+      "tema": "D6",
+      "assunto": "Transparência, publicidade, direito à informação, participação popular e abrangência da LAI (Curso de Formação)",
+      "enunciado": "Transparência é um conceito intimamente relacionado à obrigação das instituições públicas e privadas de disponibilizar informações claras, acessíveis e compreensíveis sobre suas atividades. Nesse sentido, a publicidade dos atos emanados do Estado deve ser feita, preferencialmente, por meio de mídias sociais, devendo se evitar a sua veiculação por meio dos diários oficiais do Estado, que atinge destinatários muito específicos e é algo estranho e pouco atraente à grande maioria de pessoas.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO.md (item 16)"
+    },
+    {
+      "id": "CF_17",
+      "tema": "D6",
+      "assunto": "Transparência, publicidade, direito à informação, participação popular e abrangência da LAI (Curso de Formação)",
+      "enunciado": "Considerando-se o direito comparado entre países da América Latina, a exemplo de Paraguai, Argentina e Peru, o direito à informação prevalece em relação ao sigilo, preservando o princípio da publicidade como direito fundamental.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO.md (item 17)"
+    },
+    {
+      "id": "CF_18",
+      "tema": "D6",
+      "assunto": "Transparência, publicidade, direito à informação, participação popular e abrangência da LAI (Curso de Formação)",
+      "enunciado": "A função da justiça é preponderante no desenvolvimento de uma cultura de transparência, cabendo à sociedade e aos demais poderes papéis secundários.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO.md (item 18)"
+    },
+    {
+      "id": "CF_19",
+      "tema": "D6",
+      "assunto": "Transparência, publicidade, direito à informação, participação popular e abrangência da LAI (Curso de Formação)",
+      "enunciado": "Os países da América Latina necessitam consolidar mecanismos de transparência e participação popular na gestão pública, visando obter maior legitimidade democrática.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO.md (item 19)"
+    },
+    {
+      "id": "CF_20",
+      "tema": "D6",
+      "assunto": "Transparência, publicidade, direito à informação, participação popular e abrangência da LAI (Curso de Formação)",
+      "enunciado": "A transparência na gestão pública deve ser vista como extensão da cidadania, restringindo-se ao pronto atendimento das demandas do cidadão.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO.md (item 20)"
+    },
+    {
+      "id": "CF_22",
+      "tema": "D6",
+      "assunto": "Transparência, publicidade, direito à informação, participação popular e abrangência da LAI (Curso de Formação)",
+      "enunciado": "A LAI vale para os três Poderes da União, estados, Distrito Federal e municípios, inclusive para tribunais de contas e Ministério Público.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO.md (item 22)"
+    },
+    {
+      "id": "ESP_C24_61",
+      "tema": "D7",
+      "assunto": "LGPD — controlador x operador e dados pessoais de crianças (Cargo 24 específicos)",
+      "enunciado": "O Lean startup foca esforços apenas no desenvolvimento do produto e nas suas características.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 24.md (item 61)"
+    },
+    {
+      "id": "ESP_C24_62",
+      "tema": "D7",
+      "assunto": "LGPD — controlador x operador e dados pessoais de crianças (Cargo 24 específicos)",
+      "enunciado": "O Lean startup enfatiza a criação de um produto mínimo viável (MVP) para testar hipóteses de negócio com o mínimo de esforço e recursos.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 24.md (item 62)"
+    },
+    {
+      "id": "ESP_C25_61",
+      "tema": "D7",
+      "assunto": "LGPD — controlador x operador e dados pessoais de crianças (Cargo 25 específicos)",
+      "enunciado": "O julgamento por técnica e preço é compulsório em licitações que envolvam bens e serviços especiais de tecnologia da informação e comunicação.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 25.md (item 61)"
+    },
+    {
+      "id": "ESP_C25_62",
+      "tema": "D7",
+      "assunto": "LGPD — controlador x operador e dados pessoais de crianças (Cargo 25 específicos)",
+      "enunciado": "Caracterizada pelo planejamento, a fase homologatória do procedimento licitatório deve ser compatibilizada com as leis orçamentárias.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 25.md (item 62)"
+    },
+    {
+      "id": "ESP_C26_55",
+      "tema": "D7",
+      "assunto": "LGPD — controlador x operador e dados pessoais de crianças (Cargo 26 específicos)",
+      "enunciado": "Pessoa natural ou jurídica que realiza o tratamento de dados pessoais em nome do operador é denominada de controlador.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 26.md (item 55)"
+    },
+    {
+      "id": "ESP_C26_56",
+      "tema": "D7",
+      "assunto": "LGPD — controlador x operador e dados pessoais de crianças (Cargo 26 específicos)",
+      "enunciado": "O tratamento de dados pessoais de crianças pode ser realizado, desde que siga o recomendado no Estatuto da Criança e do Adolescente.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 26.md (item 56)"
+    },
+    {
+      "id": "GER_C11_38",
+      "tema": "D7",
+      "assunto": "LGPD — segurança pública, defesa nacional e investigação penal (Gerais Cargo 11)",
+      "enunciado": "O tratamento de dados pessoais realizado para fins exclusivos de segurança pública, defesa nacional, segurança do Estado ou atividades de investigação e repressão de infrações penais se submete às disposições da LGPD, pois as normas gerais nela contidas são de interesse nacional e devem ser observadas pela União, pelos estados, pelo Distrito Federal e pelos municípios.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 11.md (item 38)"
+    },
+    {
+      "id": "GER_C13_35",
+      "tema": "D7",
+      "assunto": "LGPD — abrangência (Gerais Cargo 13)",
+      "enunciado": "A Lei de Acesso à Informação assegura, expressamente, o direito de obter informações sobre administração do patrimônio público e utilização de recursos públicos.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 13.md (item 35)"
+    },
+    {
+      "id": "GER_C14_26",
+      "tema": "D7",
+      "assunto": "LGPD — abrangência (Gerais Cargo 14)",
+      "enunciado": "A proteção de dados assegurada pela LGPD abrange apenas as operações de tratamento de dados pessoais realizadas entre particular e o poder público.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 14.md (item 26)"
+    },
+    {
+      "id": "GER_C22_30",
+      "tema": "D7",
+      "assunto": "LGPD — abrangência (Gerais Cargo 22)",
+      "enunciado": "A proteção de dados assegurada pela LGPD abrange apenas as operações de tratamento de dados pessoais realizadas entre particular e o poder público.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 22.md (item 30)"
+    },
+    {
+      "id": "GER_C5_29",
+      "tema": "D7",
+      "assunto": "LGPD — abrangência (Gerais Cargo 5)",
+      "enunciado": "O tratamento de dados pessoais realizado para fins exclusivos de segurança pública, defesa nacional, segurança do Estado ou atividades de investigação e repressão de infrações penais se submete às disposições da LGPD, pois as normas gerais nela contidas são de interesse nacional e devem ser observadas pela União, pelos estados, pelo Distrito Federal e pelos municípios.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 5.md (item 29)"
+    },
+    {
+      "id": "GER_C1A4_6A10_12_34",
+      "tema": "D7",
+      "assunto": "LGPD — abrangência (Gerais Cargos 1 a 4, 6 a 10 e 12)",
+      "enunciado": "O tratamento de dados pessoais realizado para fins exclusivos de segurança pública, defesa nacional, segurança do Estado ou atividades de investigação e repressão de infrações penais se submete às disposições da LGPD, pois as normas gerais nela contidas são de interesse nacional e devem ser observadas pela União, pelos estados, pelo Distrito Federal e pelos municípios.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA OS CARGOS 1 A 4 6 A 10 E 12.md (item 34)"
+    },
+    {
+      "id": "GER_C16A21_23_30",
+      "tema": "D7",
+      "assunto": "LGPD — abrangência (Gerais Cargos 16 a 21 e 23)",
+      "enunciado": "A proteção de dados assegurada pela LGPD abrange apenas as operações de tratamento de dados pessoais realizadas entre particular e o poder público.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA OS CARGOS 16 A 21 E 23.md (item 30)"
+    },
+    {
+      "id": "CF_21",
+      "tema": "D7",
+      "assunto": "LGPD — inviolabilidade da privacidade e princípio da transparência (Curso de Formação)",
+      "enunciado": "A LGPD aprimora o conceito de proteção de dados pessoais, obedecendo ao princípio da inviolabilidade à privacidade, previsto na Constituição Federal de 1988.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO.md (item 21)"
+    },
+    {
+      "id": "CF_23",
+      "tema": "D7",
+      "assunto": "LGPD — inviolabilidade da privacidade e princípio da transparência (Curso de Formação)",
+      "enunciado": "Nas atividades de tratamento de dados pessoais, o princípio da transparência busca compatibilizar o tratamento com as finalidades informadas ao titular.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO.md (item 23)"
+    },
+    {
+      "id": "ESP_C25_107",
+      "tema": "D8",
+      "assunto": "Gestão de riscos (contextualização e integração ao planejamento) e accountability (Cargo 25 específicos)",
+      "enunciado": "No processo de gestão de riscos, a etapa de contextualização envolve o entendimento dos ambientes externo e interno, e a definição dos critérios de risco que podem afetar a realização dos objetivos organizacionais.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 25.md (item 107)"
+    },
+    {
+      "id": "ESP_C25_108",
+      "tema": "D8",
+      "assunto": "Gestão de riscos (contextualização e integração ao planejamento) e accountability (Cargo 25 específicos)",
+      "enunciado": "Para evitar conflitos de interesse, boas práticas de gestão de riscos devem ser implantadas de forma isolada, sem integração com o planejamento estratégico da organização.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 25.md (item 108)"
+    },
+    {
+      "id": "ESP_C25_119",
+      "tema": "D8",
+      "assunto": "Gestão de riscos (contextualização e integração ao planejamento) e accountability (Cargo 25 específicos)",
+      "enunciado": "Accountability é a obrigação dos gestores públicos de prestar contas de suas ações e decisões, garantindo transparência e responsabilidade.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 25.md (item 119)"
+    },
+    {
+      "id": "ESP_C2_81",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — contratos, fiscalização, sanções, anulação/revogação, recursos, crimes e modalidades (Cargo 2 específicos)",
+      "enunciado": "Servidor público que atuou na fiscalização do contrato tem a prerrogativa de conduzir processo de apuração de infração contratual e aplicação de sanções no âmbito de tal contrato, observados os princípios que regem os contratos administrativos.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md (item 81)"
+    },
+    {
+      "id": "ESP_C2_82",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — contratos, fiscalização, sanções, anulação/revogação, recursos, crimes e modalidades (Cargo 2 específicos)",
+      "enunciado": "A fiscalização dos contratos administrativos é uma prerrogativa do poder público, por essa razão é vedada a contratação de terceiros para subsidiar os fiscais com informações atinentes a essa atribuição.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md (item 82)"
+    },
+    {
+      "id": "ESP_C2_83",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — contratos, fiscalização, sanções, anulação/revogação, recursos, crimes e modalidades (Cargo 2 específicos)",
+      "enunciado": "Suponha que um ente público tenha comprado, mediante dispensa de licitação em razão do valor, um curso de capacitação online, destinado à atualização profissional de dois servidores. Nesse caso, o instrumento de contrato não é obrigatório e pode ser substituído por outro instrumento hábil.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md (item 83)"
+    },
+    {
+      "id": "ESP_C2_84",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — contratos, fiscalização, sanções, anulação/revogação, recursos, crimes e modalidades (Cargo 2 específicos)",
+      "enunciado": "Aos contratos administrativos são aplicáveis, de forma subsidiária, os princípios da teoria geral dos contratos e as normas do direito privado.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md (item 84)"
+    },
+    {
+      "id": "ESP_C2_85",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — contratos, fiscalização, sanções, anulação/revogação, recursos, crimes e modalidades (Cargo 2 específicos)",
+      "enunciado": "Caso o contratado, injustificadamente, retarde a entrega do objeto contratual, a administração pública contratante poderá aplicar-lhe a sanção de impedimento de licitar e de contratar com órgãos públicos de quaisquer entes federados por até 3 anos.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md (item 85)"
+    },
+    {
+      "id": "ESP_C2_86",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — contratos, fiscalização, sanções, anulação/revogação, recursos, crimes e modalidades (Cargo 2 específicos)",
+      "enunciado": "Determinado ente da administração pública necessita de um imóvel para suas instalações, exigindo localização em área relativamente definida da cidade, determinada metragem mínima, além de acessibilidade e facilidade de acesso por meio de transporte público, características em razão das quais pretende realizar o devido processo licitatório por inexigibilidade. Nessa situação, para se decidir entre a compra ou locação do imóvel, não será necessário estudo técnico preliminar, visto se tratar de situação de contratação direta, sem licitação.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md (item 86)"
+    },
+    {
+      "id": "ESP_C2_87",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — contratos, fiscalização, sanções, anulação/revogação, recursos, crimes e modalidades (Cargo 2 específicos)",
+      "enunciado": "Determinado edital de licitação, nos termos de regulamento já editado, prevê que haja margem de preferência para aquisição de produtos de limpeza biodegradáveis que apresentem embalagem e rótulo recicláveis mediante técnicas de reciclagem comprovadamente adotadas em âmbito regional. Nesse caso, a referida previsão viola o princípio da isonomia entre os licitantes, pois cria restrições injustificadas que limitam o acesso ao mercado das compras públicas por grande parte dos fornecedores.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md (item 87)"
+    },
+    {
+      "id": "ESP_C2_88",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — contratos, fiscalização, sanções, anulação/revogação, recursos, crimes e modalidades (Cargo 2 específicos)",
+      "enunciado": "Suponha que, durante o curso de um processo licitatório, quase na fase de assinatura do contrato com o licitante vencedor, tenha sido constatado que, equivocadamente, a administração licitante não havia indicado os créditos orçamentários que dariam suporte ao pagamento das parcelas contratuais que venceriam naquele exercício. Nessa situação, a autoridade competente deverá revogar o certame.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md (item 88)"
+    },
+    {
+      "id": "ESP_C2_89",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — contratos, fiscalização, sanções, anulação/revogação, recursos, crimes e modalidades (Cargo 2 específicos)",
+      "enunciado": "Fica a critério discricionário da autoridade competente o deferimento ou não de efeito suspensivo ao recurso interposto, bem como ao pedido de reconsideração.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md (item 89)"
+    },
+    {
+      "id": "ESP_C2_90",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — contratos, fiscalização, sanções, anulação/revogação, recursos, crimes e modalidades (Cargo 2 específicos)",
+      "enunciado": "Considere que, no curso da execução de um contrato administrativo, seja constatado que o processo licitatório contém irregularidade insanável, consistente em fraude à licitação e pagamento de propina a agente público, mas que a anulação dos atos e do contrato prejudicaria enormemente o interesse público, pois, entre outros fatores, a população seria privada por mais tempo do objeto contratado. Nesse caso, é lícito ao poder público optar pela continuidade do contrato e pela solução da irregularidade por indenização em perdas e danos, sem prejuízo da responsabilização e das penalidades cabíveis.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md (item 90)"
+    },
+    {
+      "id": "ESP_C2_91",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — contratos, fiscalização, sanções, anulação/revogação, recursos, crimes e modalidades (Cargo 2 específicos)",
+      "enunciado": "Configura o crime de modificação ou pagamento irregular em contrato administrativo a conduta de dar causa a uma modificação contratual, durante a execução de contrato administrativo, para favorecer o contratado.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md (item 91)"
+    },
+    {
+      "id": "ESP_C2_92",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — contratos, fiscalização, sanções, anulação/revogação, recursos, crimes e modalidades (Cargo 2 específicos)",
+      "enunciado": "A consecução de um contrato de patrocínio é um dos elementos do crime definido como patrocínio de contratação indevida.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md (item 92)"
+    },
+    {
+      "id": "ESP_C2_93",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — contratos, fiscalização, sanções, anulação/revogação, recursos, crimes e modalidades (Cargo 2 específicos)",
+      "enunciado": "Inovação da Lei n.º 14.133/2021, o diálogo competitivo consiste em modalidade licitatória à qual se impõe a obrigatoriedade de previsão, em edital, dos critérios para pré-seleção dos licitantes, devendo ser admitidos todos os interessados que preencham os requisitos objetivos estabelecidos.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md (item 93)"
+    },
+    {
+      "id": "ESP_C2_94",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — contratos, fiscalização, sanções, anulação/revogação, recursos, crimes e modalidades (Cargo 2 específicos)",
+      "enunciado": "O sistema de registro de preços não é uma modalidade licitatória, mas uma das espécies de procedimentos auxiliares à contratação direta ou às modalidades do pregão e da concorrência, com o objetivo de registrar formalmente preços relativos a prestação de serviços, obras e aquisição e locação de bens para contratações futuras.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 2.md (item 94)"
+    },
+    {
+      "id": "ESP_C5_66",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — sistema de registro de preços (Cargo 5 específicos)",
+      "enunciado": "É vedado o registro de preços com indicação limitada a unidades de contratação, sem indicação do total a ser adquirido, quando for a primeira licitação para o objeto.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.md (item 66)"
+    },
+    {
+      "id": "ESP_C24_52",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — contratações de TIC (inexigibilidade, governança, técnica e preço, homologação, repactuação, objeto, riscos, orçamento sigiloso) (Cargo 24 específicos)",
+      "enunciado": "A investigação da causa raiz de incidentes para evitar que no futuro aconteçam novamente os mesmos tipos de incidente é de responsabilidade da prática de gerenciamento de problemas.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 24.md (item 52)"
+    },
+    {
+      "id": "ESP_C24_53",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — contratações de TIC (inexigibilidade, governança, técnica e preço, homologação, repactuação, objeto, riscos, orçamento sigiloso) (Cargo 24 específicos)",
+      "enunciado": "Obter/construir é uma atividade da cadeia de valor a qual garante que os componentes do serviço estejam disponíveis quando forem necessários.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 24.md (item 53)"
+    },
+    {
+      "id": "ESP_C24_54",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — contratações de TIC (inexigibilidade, governança, técnica e preço, homologação, repactuação, objeto, riscos, orçamento sigiloso) (Cargo 24 específicos)",
+      "enunciado": "Entre as quatro dimensões de gerenciamento de serviços, a gestão financeira está incluída para manutenção dos serviços e alinhada ao negócio da organização.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 24.md (item 54)"
+    },
+    {
+      "id": "ESP_C24_55",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — contratações de TIC (inexigibilidade, governança, técnica e preço, homologação, repactuação, objeto, riscos, orçamento sigiloso) (Cargo 24 específicos)",
+      "enunciado": "Pessoa natural ou jurídica que realiza o tratamento de dados pessoais em nome do operador é denominada de controlador.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 24.md (item 55)"
+    },
+    {
+      "id": "ESP_C24_56",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — contratações de TIC (inexigibilidade, governança, técnica e preço, homologação, repactuação, objeto, riscos, orçamento sigiloso) (Cargo 24 específicos)",
+      "enunciado": "O tratamento de dados pessoais de crianças pode ser realizado, desde que siga o recomendado no Estatuto da Criança e do Adolescente.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 24.md (item 56)"
+    },
+    {
+      "id": "ESP_C24_57",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — contratações de TIC (inexigibilidade, governança, técnica e preço, homologação, repactuação, objeto, riscos, orçamento sigiloso) (Cargo 24 específicos)",
+      "enunciado": "Empresas estatais federais não estão aderentes ao SISP por possuírem autonomia e regulamentação apropriada e específica para cada segmento.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 24.md (item 57)"
+    },
+    {
+      "id": "ESP_C24_65",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — contratações de TIC (inexigibilidade, governança, técnica e preço, homologação, repactuação, objeto, riscos, orçamento sigiloso) (Cargo 24 específicos)",
+      "enunciado": "O julgamento por técnica e preço é compulsório em licitações que envolvam bens e serviços especiais de tecnologia da informação e comunicação.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 24.md (item 65)"
+    },
+    {
+      "id": "ESP_C24_66",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — contratações de TIC (inexigibilidade, governança, técnica e preço, homologação, repactuação, objeto, riscos, orçamento sigiloso) (Cargo 24 específicos)",
+      "enunciado": "Caracterizada pelo planejamento, a fase homologatória do procedimento licitatório deve ser compatibilizada com as leis orçamentárias.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 24.md (item 66)"
+    },
+    {
+      "id": "ESP_C24_67",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — contratações de TIC (inexigibilidade, governança, técnica e preço, homologação, repactuação, objeto, riscos, orçamento sigiloso) (Cargo 24 específicos)",
+      "enunciado": "Repactuação é o modo de manutenção do equilíbrio econômico-financeiro pelo qual se aplica o índice de correção monetária previsto em contrato, retratando-se a variação efetiva do custo de produção, porém, admitindo-se índices específicos ou setoriais.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 24.md (item 67)"
+    },
+    {
+      "id": "ESP_C24_68",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — contratações de TIC (inexigibilidade, governança, técnica e preço, homologação, repactuação, objeto, riscos, orçamento sigiloso) (Cargo 24 específicos)",
+      "enunciado": "Podem restringir-se a bens e serviços desenvolvidos no país as licitações voltadas a sistemas de tecnologia de informação e comunicação estratégicos.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 24.md (item 68)"
+    },
+    {
+      "id": "ESP_C24_69",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — contratações de TIC (inexigibilidade, governança, técnica e preço, homologação, repactuação, objeto, riscos, orçamento sigiloso) (Cargo 24 específicos)",
+      "enunciado": "Fica dispensada a elaboração de termo de referência nas hipóteses em que a Lei n.º 14.133/2021 dispensar licitações.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 24.md (item 69)"
+    },
+    {
+      "id": "ESP_C24_70",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — contratações de TIC (inexigibilidade, governança, técnica e preço, homologação, repactuação, objeto, riscos, orçamento sigiloso) (Cargo 24 específicos)",
+      "enunciado": "Como condição para conclusão de contratos administrativos, a administração pública poderá exigir certificação por organização independente acreditada pelo Instituto Nacional de Metrologia, Qualidade e Tecnologia.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 24.md (item 70)"
+    },
+    {
+      "id": "ESP_C25_55",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — contratações de TIC e compras governamentais (sustentabilidade e descentralização) (Cargo 25 específicos)",
+      "enunciado": "Pessoa natural ou jurídica que realiza o tratamento de dados pessoais em nome do operador é denominada de controlador.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 25.md (item 55)"
+    },
+    {
+      "id": "ESP_C25_56",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — contratações de TIC e compras governamentais (sustentabilidade e descentralização) (Cargo 25 específicos)",
+      "enunciado": "O tratamento de dados pessoais de crianças pode ser realizado, desde que siga o recomendado no Estatuto da Criança e do Adolescente.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 25.md (item 56)"
+    },
+    {
+      "id": "ESP_C25_57",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — contratações de TIC e compras governamentais (sustentabilidade e descentralização) (Cargo 25 específicos)",
+      "enunciado": "Empresas estatais federais não estão aderentes ao SISP por possuírem autonomia e regulamentação apropriada e específica para cada segmento.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 25.md (item 57)"
+    },
+    {
+      "id": "ESP_C25_58",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — contratações de TIC e compras governamentais (sustentabilidade e descentralização) (Cargo 25 específicos)",
+      "enunciado": "Uma das finalidades do SISP é estimular o uso racional dos recursos de tecnologia da informação.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 25.md (item 58)"
+    },
+    {
+      "id": "ESP_C25_59",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — contratações de TIC e compras governamentais (sustentabilidade e descentralização) (Cargo 25 específicos)",
+      "enunciado": "Em contratações realizadas por instituição científica, tecnológica e de inovação (ICT) pública ou por agência de fomento, demonstrada inequívoca vantagem à administração, configura hipótese de inexigibilidade de licitação a contratação que tenha por objeto a transferência de tecnologia ou licenciamento de direito de uso ou de exploração de criação protegida.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 25.md (item 59)"
+    },
+    {
+      "id": "ESP_C25_60",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — contratações de TIC e compras governamentais (sustentabilidade e descentralização) (Cargo 25 específicos)",
+      "enunciado": "A alta administração de órgãos públicos é responsável pela governança de contratações públicas, de modo a monitorar processos licitatórios e respectivos contratos, assegurando o alinhamento dessas contratações às leis orçamentárias.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 25.md (item 60)"
+    },
+    {
+      "id": "ESP_C25_65",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — contratações de TIC e compras governamentais (sustentabilidade e descentralização) (Cargo 25 específicos)",
+      "enunciado": "Como condição para conclusão de contratos administrativos, a administração pública poderá exigir certificação por organização independente acreditada pelo Instituto Nacional de Metrologia, Qualidade e Tecnologia.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 25.md (item 65)"
+    },
+    {
+      "id": "ESP_C25_66",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — contratações de TIC e compras governamentais (sustentabilidade e descentralização) (Cargo 25 específicos)",
+      "enunciado": "Durante a fase de gestão do contrato, a equipe de planejamento da contratação deve proceder às ações de gerenciamento de riscos e produzir o mapa de gerenciamento de riscos.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 25.md (item 66)"
+    },
+    {
+      "id": "ESP_C25_67",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — contratações de TIC e compras governamentais (sustentabilidade e descentralização) (Cargo 25 específicos)",
+      "enunciado": "O propósito das políticas de segurança da informação organizacionais é assegurar adequação contínua, suficiência, efetividade da direção de gestão e suporte à segurança da informação de acordo com requisitos comerciais, legais, estatutários, regulamentares e contratuais.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 25.md (item 67)"
+    },
+    {
+      "id": "ESP_C25_68",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — contratações de TIC e compras governamentais (sustentabilidade e descentralização) (Cargo 25 específicos)",
+      "enunciado": "Para efeitos de classificação, informações compartilhadas entre organizações devem manter seus estados e atributos de classificação inalterados, independentemente de seu contexto em cada organização, mesmo que seus esquemas de classificação sejam diferentes.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 25.md (item 68)"
+    },
+    {
+      "id": "ESP_C25_117",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — contratações de TIC e compras governamentais (sustentabilidade e descentralização) (Cargo 25 específicos)",
+      "enunciado": "A descentralização das compras é prática eficaz para garantir a transparência e a eficiência nos processos de compras governamentais, na medida em que permite que cada órgão do governo realize as próprias aquisições, de forma não centralizada, a fim de assegurar o atendimento eficiente de suas necessidades específicas.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 25.md (item 117)"
+    },
+    {
+      "id": "ESP_C25_118",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — contratações de TIC e compras governamentais (sustentabilidade e descentralização) (Cargo 25 específicos)",
+      "enunciado": "No âmbito das compras governamentais, a sustentabilidade das contratações deve ser considerada de forma ampla, incluindo aspectos econômicos, sociais e ambientais. As contratações sustentáveis devem considerar o ciclo de vida do produto ou serviço e buscar soluções inovadoras que minimizem impactos negativos ao meio ambiente e à sociedade.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 25.md (item 118)"
+    },
+    {
+      "id": "ESP_C26_61",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — contratações de TIC (Cargo 26 específicos)",
+      "enunciado": "Em contratações realizadas por instituição científica, tecnológica e de inovação (ICT) pública ou por agência de fomento, demonstrada inequívoca vantagem à administração, configura hipótese de inexigibilidade de licitação a contratação que tenha por objeto a transferência de tecnologia ou licenciamento de direito de uso ou de exploração de criação protegida.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 26.md (item 61)"
+    },
+    {
+      "id": "ESP_C26_62",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — contratações de TIC (Cargo 26 específicos)",
+      "enunciado": "A alta administração de órgãos públicos é responsável pela governança de contratações públicas, de modo a monitorar processos licitatórios e respectivos contratos, assegurando o alinhamento dessas contratações às leis orçamentárias.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 26.md (item 62)"
+    },
+    {
+      "id": "ESP_C26_63",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — contratações de TIC (Cargo 26 específicos)",
+      "enunciado": "Caracterizada pelo planejamento, a fase homologatória do procedimento licitatório deve ser compatibilizada com as leis orçamentárias.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 26.md (item 63)"
+    },
+    {
+      "id": "ESP_C26_64",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — contratações de TIC (Cargo 26 específicos)",
+      "enunciado": "Repactuação é o modo de manutenção do equilíbrio econômico-financeiro pelo qual se aplica o índice de correção monetária previsto em contrato, retratando-se a variação efetiva do custo de produção, porém, admitindo-se índices específicos ou setoriais.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 26.md (item 64)"
+    },
+    {
+      "id": "ESP_C26_65",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — contratações de TIC (Cargo 26 específicos)",
+      "enunciado": "O julgamento por técnica e preço é compulsório em licitações que envolvam bens e serviços especiais de tecnologia da informação e comunicação.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 26.md (item 65)"
+    },
+    {
+      "id": "ESP_C26_66",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — contratações de TIC (Cargo 26 específicos)",
+      "enunciado": "Podem restringir-se a bens e serviços desenvolvidos no país as licitações voltadas a sistemas de tecnologia de informação e comunicação estratégicos.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 26.md (item 66)"
+    },
+    {
+      "id": "ESP_C26_67",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — contratações de TIC (Cargo 26 específicos)",
+      "enunciado": "Exceto em licitações cujo critério de julgamento seja o maior desconto, orçamentos estimados para contratações poderão ser sigilosos, desde que justificado e não haja prejuízos à divulgação de quantitativos detalhados e demais informações essenciais para elaboração de propostas.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 26.md (item 67)"
+    },
+    {
+      "id": "ESP_C26_68",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — contratações de TIC (Cargo 26 específicos)",
+      "enunciado": "Embora disposto que a definição do objeto de contratação deve ser precisa, clara e suficiente, são vedadas especificações excessivas, irrelevantes ou desnecessárias que limitem ou frustrem a competição ou a realização do fornecimento da solução.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 26.md (item 68)"
+    },
+    {
+      "id": "ESP_C26_69",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — contratações de TIC (Cargo 26 específicos)",
+      "enunciado": "Como condição para conclusão de contratos administrativos, a administração pública poderá exigir certificação por organização independente acreditada pelo Instituto Nacional de Metrologia, Qualidade e Tecnologia.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 26.md (item 69)"
+    },
+    {
+      "id": "ESP_C26_70",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021 — contratações de TIC (Cargo 26 específicos)",
+      "enunciado": "Durante a fase de gestão do contrato, a equipe de planejamento da contratação deve proceder às ações de gerenciamento de riscos e produzir o mapa de gerenciamento de riscos.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 26.md (item 70)"
+    },
+    {
+      "id": "GER_C11_28",
+      "tema": "D9",
+      "assunto": "Contratação direta — dispensa por fornecedor exclusivo (Gerais Cargo 11)",
+      "enunciado": "É dispensável a realização de licitação, quando inviável a competição, nos casos de aquisição de materiais ou equipamentos que só possam ser fornecidos por produtor, empresa ou representante comercial exclusivos.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 11.md (item 28)"
+    },
+    {
+      "id": "GER_C1A4_6A10_12_24",
+      "tema": "D9",
+      "assunto": "Contratação direta — dispensa por fornecedor exclusivo (Gerais Cargos 1 a 4, 6 a 10 e 12)",
+      "enunciado": "É dispensável a realização de licitação, quando inviável a competição, nos casos de aquisição de materiais ou equipamentos que só possam ser fornecidos por produtor, empresa ou representante comercial exclusivos.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA OS CARGOS 1 A 4 6 A 10 E 12.md (item 24)"
+    },
+    {
+      "id": "ESP_C5_113",
+      "tema": "D10",
+      "assunto": "Improbidade (8.429/1992), conflito de interesses (12.813/2013) e Lei 12.846/2013 — PAR e acordo de leniência (Cargo 5 específicos)",
+      "enunciado": "As condutas de João não configuram ato de improbidade administrativa nem conflito de interesse.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.md (item 113)"
+    },
+    {
+      "id": "ESP_C5_118",
+      "tema": "D10",
+      "assunto": "Improbidade (8.429/1992), conflito de interesses (12.813/2013) e Lei 12.846/2013 — PAR e acordo de leniência (Cargo 5 específicos)",
+      "enunciado": "No curso do processo administrativo de responsabilização (PAR), o acordo de leniência pode decorrer de proposta inicial apresentada pela autoridade do órgão competente ou da manifestação da pessoa jurídica sobre seu interesse em cooperar para a apuração do ato ilícito.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.md (item 118)"
+    },
+    {
+      "id": "ESP_C5_119",
+      "tema": "D10",
+      "assunto": "Improbidade (8.429/1992), conflito de interesses (12.813/2013) e Lei 12.846/2013 — PAR e acordo de leniência (Cargo 5 específicos)",
+      "enunciado": "No âmbito do processo administrativo de responsabilização (PAR), dependem de autorização judicial a medida de busca e apreensão necessária para a investigação e o processamento das infrações, bem como a utilização de prova emprestada, quando oriunda de processo judicial.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.md (item 119)"
+    },
+    {
+      "id": "ESP_C5_120",
+      "tema": "D10",
+      "assunto": "Improbidade (8.429/1992), conflito de interesses (12.813/2013) e Lei 12.846/2013 — PAR e acordo de leniência (Cargo 5 específicos)",
+      "enunciado": "No processo administrativo de responsabilização (PAR), é possível a apuração conjunta de ato lesivo previsto na Lei n.º 12.846/2013 e de infração administrativa praticada em licitações, desde que ela também seja tipificada como ato lesivo na referida lei e a autoridade competente para o julgamento das duas infrações seja a mesma.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.md (item 120)"
+    },
+    {
+      "id": "ESP_C14_56",
+      "tema": "D10",
+      "assunto": "Improbidade administrativa (8.429/1992) — prescrição intercorrente, dolo, indisponibilidade e periculum in mora (Cargo 14 específicos)",
+      "enunciado": "Não é cabível alegar a ocorrência de prescrição intercorrente na pendência de ações de improbidade administrativa.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14.md (item 56)"
+    },
+    {
+      "id": "ESP_C14_57",
+      "tema": "D10",
+      "assunto": "Improbidade administrativa (8.429/1992) — prescrição intercorrente, dolo, indisponibilidade e periculum in mora (Cargo 14 específicos)",
+      "enunciado": "O dolo é elemento necessário para a configuração de um ato de improbidade administrativa, logo, o mero exercício da função por um agente público, sem que haja a comprovação da prática de um ato doloso com um fim ilícito, afasta a responsabilidade do agente pela prática de determinado ato de improbidade administrativa.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14.md (item 57)"
+    },
+    {
+      "id": "ESP_C14_58",
+      "tema": "D10",
+      "assunto": "Improbidade administrativa (8.429/1992) — prescrição intercorrente, dolo, indisponibilidade e periculum in mora (Cargo 14 específicos)",
+      "enunciado": "A ordem de indisponibilidade de bens deve recair, prioritariamente, sobre as contas bancárias do acusado, por se tratar de bem de maior liquidez.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14.md (item 58)"
+    },
+    {
+      "id": "ESP_C14_59",
+      "tema": "D10",
+      "assunto": "Improbidade administrativa (8.429/1992) — prescrição intercorrente, dolo, indisponibilidade e periculum in mora (Cargo 14 específicos)",
+      "enunciado": "Atualmente, não mais se admite a presunção do periculum in mora para deferimento de pedido de indisponibilidade de bens, restando superada a jurisprudência do STJ sobre a matéria.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14.md (item 59)"
+    },
+    {
+      "id": "GER_C11_22",
+      "tema": "D10",
+      "assunto": "Improbidade administrativa — sanções (Gerais Cargo 11)",
+      "enunciado": "O agente de atos de improbidade administrativa se sujeitará às sanções administrativas de perda dos direitos políticos e da função pública, indisponibilidade dos bens e ressarcimento ao erário, na forma e gradação previstas em lei, sem prejuízo da ação penal cabível.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 11.md (item 22)"
+    },
+    {
+      "id": "GER_C13_25",
+      "tema": "D10",
+      "assunto": "Improbidade administrativa — dolo (Gerais Cargo 13)",
+      "enunciado": "O dolo exigido para a configuração de um ato de improbidade é caracterizado pela vontade livre e consciente do agente de alcançar o resultado ilícito tipificado na Lei de Improbidade Administrativa, não bastando a sua voluntariedade.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA O CARGO 13.md (item 25)"
+    },
+    {
+      "id": "GER_C1A4_6A10_12_19",
+      "tema": "D10",
+      "assunto": "Improbidade administrativa — sanções (Gerais Cargos 1 a 4, 6 a 10 e 12)",
+      "enunciado": "O agente de atos de improbidade administrativa se sujeitará às sanções administrativas de perda dos direitos políticos e da função pública, indisponibilidade dos bens e ressarcimento ao erário, na forma e gradação previstas em lei, sem prejuízo da ação penal cabível.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA OS CARGOS 1 A 4 6 A 10 E 12.md (item 19)"
+    },
+    {
+      "id": "GER_C16A21_23_19",
+      "tema": "D10",
+      "assunto": "Improbidade administrativa — dolo (Gerais Cargos 16 a 21 e 23)",
+      "enunciado": "O dolo exigido para a configuração de um ato de improbidade é caracterizado pela vontade livre e consciente do agente de alcançar o resultado ilícito tipificado na Lei de Improbidade Administrativa, não bastando a sua voluntariedade.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS SOMENTE PARA OS CARGOS 16 A 21 E 23.md (item 19)"
+    }
+  ]
+}

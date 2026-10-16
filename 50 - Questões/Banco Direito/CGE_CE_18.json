@@ -1,0 +1,2108 @@
+{
+  "concurso": "CGE_CE_18",
+  "banca": "Cebraspe",
+  "itens": [
+    {
+      "id": "BAS-11",
+      "tema": "D1",
+      "assunto": "Estado moderno e organização político-constitucional do Estado brasileiro (estágios de desenvolvimento; forma de Estado e de governo)",
+      "enunciado": "Desde a sua formação inicial, o estado moderno atravessou três séculos de evolução, passando por quatro estágios consecutivos de desenvolvimento. A respeito desses estágios, é correto afirmar que",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS BASICOS PARA TODOS OS CARGOS AREAS CAMPOS DE ATUACAO — questão 11",
+      "alternativas": {
+        "A": "o segundo estágio de desenvolvimento do estado moderno é a monarquia.",
+        "B": "o estado liberal é considerado o estágio de desenvolvimento mais avançado do estado moderno.",
+        "C": "a criação de movimentos políticos de direita e esquerda antecede a crise do estado liberal.",
+        "D": "o quarto estágio de desenvolvimento do estado moderno é o estado democrático liberal.",
+        "E": "o primeiro e o segundo estágios de desenvolvimento do estado moderno são, respectivamente, a monarquia e o estado-providência."
+      }
+    },
+    {
+      "id": "BAS-12",
+      "tema": "D1",
+      "assunto": "Estado moderno e organização político-constitucional do Estado brasileiro (estágios de desenvolvimento; forma de Estado e de governo)",
+      "enunciado": "Acerca da organização contemporânea do Estado brasileiro, é correto afirmar que",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS BASICOS PARA TODOS OS CARGOS AREAS CAMPOS DE ATUACAO — questão 12",
+      "alternativas": {
+        "A": "a forma de Estado vigente é denominada Estado unitário.",
+        "B": "a forma de governo adotada é a presidencialista.",
+        "C": "o presidente da República é o chefe de Estado, mas não o chefe de governo.",
+        "D": "a forma de Estado vigente é o Estado democrático de direito.",
+        "E": "a forma de governo adotada é a república e o regime político é o democrático."
+      }
+    },
+    {
+      "id": "C5-61",
+      "tema": "D1",
+      "assunto": "Conceitos de poder e de Estado (autoridade, soberania, territorialidade)",
+      "enunciado": "Acerca dos conceitos de poder, assinale a opção correta.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 5 — questão 61",
+      "alternativas": {
+        "A": "O significado de poder foi estabelecido nos primórdios da era moderna, com base nos pensamentos de autores como Maquiavel, Thomas Hobbes e Jean Bodin, que relacionaram poder ao exercício da autoridade legitimada pelo consentimento.",
+        "B": "De acordo com a teoria subjetivista, o poder político advém da posse e do emprego de capacidades materiais que facultam a obtenção de um resultado desejado ou a imposição de uma vontade.",
+        "C": "As concepções contemporâneas de poder político valorizam mais o seu sentido relacional e dimensões subjetivas do que suas bases materiais.",
+        "D": "Definições precisas de poder são possíveis somente quando circunscritas a domínios específicos (político, econômico, militar etc.).",
+        "E": "As concepções contemporâneas de poder político são abrangentes e reúnem em um único entendimento conceitual poder, autoridade e capacidade decisória."
+      }
+    },
+    {
+      "id": "C5-62",
+      "tema": "D1",
+      "assunto": "Conceitos de poder e de Estado (autoridade, soberania, territorialidade)",
+      "enunciado": "Apesar da centralidade do Estado na vida política desde a era moderna, as formulações que o conceituam ainda são objeto de atenção em razão das transformações pelas quais o Estado e suas relações com a sociedade civil passam ao longo da história. A respeito desse assunto, assinale a opção correta.",
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 5 — questão 62",
+      "alternativas": {
+        "A": "A despeito da grande diversidade de conceitos de Estado, o exercício do poder político e da autoridade jurisdicional sobre um território e sua população, em bases soberanas e com vistas ao bem comum do povo, é aspecto essencial ao conceito de Estado.",
+        "B": "Por ser crescentemente limitada e relativizada em um mundo interdependente, a soberania não é mais considerada atributo indispensável para a compreensão, no plano conceitual, da natureza e da atuação do Estado contemporâneo.",
+        "C": "Conceitualmente a sociedade é tributária do Estado, razão pela qual, na atualidade, as instâncias e os instrumentos de representação e participação política da sociedade têm sido elementos constitutivos dos Estados democráticos.",
+        "D": "A crescente porosidade das fronteiras frente aos fluxos transnacionais e os processos de integração política e econômica no plano internacional são fatores que suprimem a territorialidade como dimensão constitutiva do Estado contemporâneo.",
+        "E": "A definição de sociedade civil se fundamenta, tradicionalmente, na diferenciação e contraposição desta ao Estado, o que consagra a natureza apolítica das instituições sociais."
+      }
+    },
+    {
+      "id": "ESP-57",
+      "tema": "D1",
+      "assunto": "Pacto federativo e repartição de competências entre os entes",
+      "enunciado": "Conforme os dispositivos constitucionais e a jurisprudência do STF com relação à repartição de competências, é correto afirmar que compete",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS PARA TODOS OS CARGOS AREAS CAMPOS DE ATUACAO — questão 57",
+      "alternativas": {
+        "A": "aos municípios planejar e promover a defesa permanente contra calamidades públicas, especialmente as secas e as inundações.",
+        "B": "aos estados legislar, de forma concorrente, sobre as normas de processo e julgamento dos crimes de responsabilidade praticados por governadores.",
+        "C": "aos municípios explorar diretamente, ou mediante concessão, os serviços locais de gás canalizado, vedada a edição de medida provisória para a sua regulamentação.",
+        "D": "aos estados legislar, de forma concorrente, sobre direito econômico, urbanístico e financeiro e sobre orçamento.",
+        "E": "à União legislar, privativamente, sobre licitações e contratos e sobre previdência social."
+      }
+    },
+    {
+      "id": "C5-63",
+      "tema": "D1",
+      "assunto": "Pacto federativo e repartição de competências entre os entes",
+      "enunciado": "A respeito do pacto federativo brasileiro, assinale a opção correta.",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 5 — questão 63 (anulada)",
+      "alternativas": {
+        "A": "O federalismo brasileiro é caracterizado pela forte concentração de prerrogativas políticas e decisórias na União, o que, em contrapartida, gera maior liberdade em matéria orçamentária para estados e municípios.",
+        "B": "É prerrogativa incondicionada da União, constitucionalmente prevista, intervir em estados e municípios para conter e reverter a deterioração de condições de governabilidade política, econômica e de segurança pública.",
+        "C": "A organização política, administrativa e judiciária dos estados, do Distrito Federal e dos municípios está definida na Constituição Federal de 1988, o que assegura a necessária homogeneidade institucional e normativa no seio da União Federal.",
+        "D": "Está fundamentado na Constituição Federal de 1988 o caráter indissolúvel da União, conformada pelos estados, municípios e Distrito Federal, tidos na Carta Magna como entes autônomos.",
+        "E": "Conflitos entre quaisquer dos entes federados são julgados, originariamente, pelo Superior Tribunal de Justiça e, em última instância, pelo Supremo Tribunal Federal."
+      }
+    },
+    {
+      "id": "C5-64",
+      "tema": "D1",
+      "assunto": "Separação e independência dos Poderes e equilíbrio institucional",
+      "enunciado": "Acerca da repartição de poderes, assinale a opção correta.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 5 — questão 64",
+      "alternativas": {
+        "A": "No Estado democrático, a existência de instância acima dos Poderes e incumbida de impedir a prevalência de um sobre os demais é condição necessária para assegurar a efetiva separação e independência dos Poderes.",
+        "B": "A independência dos Poderes é pressuposto próprio do federalismo enquanto forma de organização do Estado.",
+        "C": "A existência de mecanismos de promoção de equilíbrio entre os Poderes Executivo, Legislativo e Judiciário favorece a estabilidade política no Estado democrático.",
+        "D": "A separação dos Poderes tem como objetivo fundamental assegurar a independência do Legislativo e do Judiciário e protegê-los da hipertrofia e incontrastável influência do Executivo.",
+        "E": "A doutrina da separação dos Poderes rompeu com a noção de unicidade e indivisibilidade do poder do Estado, enfraquecendo-o enquanto forma de organização política e jurídica."
+      }
+    },
+    {
+      "id": "C5-65",
+      "tema": "D1",
+      "assunto": "Teorias da democracia e representação política",
+      "enunciado": "Tendo como referência as teorias acerca de democracia, assinale a opção correta.",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 5 — questão 65 (anulada)",
+      "alternativas": {
+        "A": "As formulações teóricas pioneiras que apresentam democracia como a melhor forma de governo possível fundamentam-se no pensamento de autores modernos como Jean Bodin, John Locke e Montesquieu.",
+        "B": "Para Schumpeter, o cerne da democracia não está na dimensão institucional nem na forma de escolha dos governantes, como sustentado pelos teóricos modernos, mas, sobretudo, no envolvimento ativo e direto da cidadania na gestão dos interesses públicos.",
+        "C": "A democracia poliárquica é, segundo Robert Dahl, um sistema político no qual uma pequena elite burocrática recrutada indiretamente, e não por eleições livres, controla as decisões de governo.",
+        "D": "A esfera pública é, para Harbermas, o espaço em que as demandas sociais são debatidas e convertidas em políticas e que se equipara aos mecanismos formais de representação e participação política, como os parlamentos e os partidos políticos.",
+        "E": "Para John Held, a democracia evoluiu, da antiguidade à era moderna, sob as formas de democracia clássica, protetora e desenvolvimentista."
+      }
+    },
+    {
+      "id": "C5-69",
+      "tema": "D1",
+      "assunto": "Democracia, representação e participação social no Brasil (plebiscito, referendo, iniciativa popular)",
+      "enunciado": "A respeito do setor público e da participação da sociedade civil na gestão de políticas públicas, assinale a opção correta.",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 5 — questão 69",
+      "alternativas": {
+        "A": "A constituição de canais de participação é condição suficiente para que haja a participação efetiva da sociedade civil no processo de decisão sobre políticas públicas.",
+        "B": "Os conselhos gestores são apresentados como espaços fecundos para desenvolvimento, elaboração, controle, fiscalização e continuidade de políticas públicas.",
+        "C": "Os conselhos gestores são órgãos públicos de composição paritária entre a sociedade e o governo, não sendo exigida lei para sua criação, por serem regidos por regulamento próprio.",
+        "D": "Quanto ao orçamento participativo, a população é convidada para deliberar acerca de prioridades, participando ativamente da própria execução e do controle do orçamento público, independentemente de sua capacitação.",
+        "E": "As conferências nacionais são espaços não oficiais de deliberação das diretrizes gerais de determinada política pública cujos resultados serão incorporados às agendas institucionais."
+      }
+    },
+    {
+      "id": "C5-74",
+      "tema": "D1",
+      "assunto": "Democracia, representação e participação social no Brasil (plebiscito, referendo, iniciativa popular)",
+      "enunciado": "Acerca de democracia, representação e participação social no Brasil, assinale a opção correta.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 5 — questão 74",
+      "alternativas": {
+        "A": "No Brasil, o exercício da democracia efetiva-se unicamente por meio do voto nas eleições.",
+        "B": "Plebiscito é a convocação do povo para ratificar ou rejeitar ato legislativo ou administrativo previamente aprovado pelo Poder Legislativo.",
+        "C": "No caso de alteração territorial relativa à divisão de estado para originar novos estados, o respectivo projeto de lei proposto no Congresso Nacional deverá ser, depois de aprovado, submetido a referendo da população interessada.",
+        "D": "A iniciativa popular é uma forma de democracia indireta.",
+        "E": "No Brasil, é possível a participação da população em decisões relativas a formulação, deliberação, monitoramento, avaliação e financiamento de políticas públicas."
+      }
+    },
+    {
+      "id": "CF-11",
+      "tema": "D1",
+      "assunto": "Controle de constitucionalidade: aspectos gerais e ação direta de inconstitucionalidade (objeto e parâmetro)",
+      "enunciado": "Considerando que o controle de constitucionalidade consiste na verificação de adequação e compatibilidade dos demais atos normativos aos preceitos estabelecidos na Constituição, assinale a opção correta.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO — questão 11",
+      "alternativas": {
+        "A": "O controle de constitucionalidade repressivo, realizado, geralmente, pelo Congresso Nacional na forma de controle político, visa a evitar o ingresso de normas inconstitucionais no sistema jurídico brasileiro.",
+        "B": "Os tratados internacionais sobre direitos humanos aprovados em cada Casa do Congresso Nacional, em dois turnos, por três quintos dos votos dos respectivos membros, sujeitam-se ao controle de constitucionalidade e possuem hierarquia de normas ordinárias.",
+        "C": "A regra adotada no direito brasileiro é a de que, declarada a inconstitucionalidade do ato em decisão judicial final, este é nulo e ineficaz desde a sua origem, não se podendo falar em direito adquirido.",
+        "D": "Somente os atos comissivos são passíveis de controle de constitucionalidade judicial, o que pode ser feito mediante o ajuizamento de uma das espécies de ações de controle abstrato."
+      }
+    },
+    {
+      "id": "ESP-56",
+      "tema": "D1",
+      "assunto": "Controle de constitucionalidade: aspectos gerais e ação direta de inconstitucionalidade (objeto e parâmetro)",
+      "enunciado": "De acordo com a jurisprudência do STF, pode ser objeto de ação direta de inconstitucionalidade no âmbito desse tribunal",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS PARA TODOS OS CARGOS AREAS CAMPOS DE ATUACAO — questão 56",
+      "alternativas": {
+        "A": "lei orçamentária estadual anterior à Constituição Federal de 1988, desde que o parâmetro seja uma norma constitucional federal.",
+        "B": "decreto estadual editado após a promulgação da Constituição Federal de 1988, desde que o parâmetro seja uma constituição estadual.",
+        "C": "emenda constitucional promulgada antes da Constituição Federal de 1988, desde que o parâmetro seja a Constituição Federal anterior.",
+        "D": "portaria ministerial editada após a promulgação da Constituição Federal de 1988, desde que o parâmetro seja uma constituição estadual.",
+        "E": "lei orçamentária federal editada após a promulgação da Constituição Federal de 1988, desde que o parâmetro seja uma norma constitucional federal."
+      }
+    },
+    {
+      "id": "ESP-59",
+      "tema": "D1",
+      "assunto": "Funções essenciais à justiça",
+      "enunciado": "De acordo com a Constituição Federal de 1988, exercem função essencial à justiça",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS PARA TODOS OS CARGOS AREAS CAMPOS DE ATUACAO — questão 59",
+      "alternativas": {
+        "A": "os órgãos integrantes do sistema de controle interno.",
+        "B": "os tribunais de contas estaduais.",
+        "C": "as procuradorias dos estados.",
+        "D": "os juízes de paz.",
+        "E": "os órgãos da administração fazendária."
+      }
+    },
+    {
+      "id": "ESP-54",
+      "tema": "D1",
+      "assunto": "Iniciativa privativa de leis orçamentárias na CF/1988",
+      "enunciado": "De acordo com as disposições constitucionais acerca de orçamento público, é de iniciativa privativa do presidente da República projeto de lei ordinária que disponha sobre",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS PARA TODOS OS CARGOS AREAS CAMPOS DE ATUACAO — questão 54",
+      "alternativas": {
+        "A": "as diretrizes orçamentárias, que será acompanhado de demonstrativo regionalizado do efeito decorrente de isenções e benefícios de natureza financeira, tributária e creditícia sobre as receitas e despesas.",
+        "B": "o orçamento anual, que compreende, entre outros, o orçamento fiscal referente aos poderes da União e o orçamento da seguridade social.",
+        "C": "o plano plurianual, cujo objetivo é orientar a elaboração da lei orçamentária anual e estabelecer a política de aplicação das agências financeiras oficiais de fomento.",
+        "D": "as normas de gestão financeira e patrimonial da administração direta e indireta, bem como sobre as condições para a instituição e para o funcionamento de fundos.",
+        "E": "a abertura de crédito extraordinário para atender a despesas imprevisíveis e urgentes, como as decorrentes de calamidade pública, sendo vedada a edição de medida provisória para esse fim."
+      }
+    },
+    {
+      "id": "ESP-60",
+      "tema": "D1",
+      "assunto": "Direitos e garantias fundamentais e vedações constitucionais",
+      "enunciado": "A Constituição Federal de 1988 veda expressamente",
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS PARA TODOS OS CARGOS AREAS CAMPOS DE ATUACAO — questão 60",
+      "alternativas": {
+        "A": "a transferência voluntária de recursos financeiros pelo governo estadual para fins de pagamento de despesas com pessoal ativo dos municípios.",
+        "B": "o acúmulo, de forma remunerada, de dois cargos técnicos, exceto se houver compatibilidade de horários entre eles.",
+        "C": "a edição de medida provisória para dispor sobre a criação e extinção de órgãos da administração pública direta e indireta.",
+        "D": "a vinculação da receita de impostos a despesas relacionadas às ações de manutenção e desenvolvimento do ensino.",
+        "E": "o remanejamento de recursos de uma categoria de programação para outra com o objetivo de viabilizar resultados de projetos vinculados à ciência, tecnologia e inovação."
+      }
+    },
+    {
+      "id": "C5-76",
+      "tema": "D1",
+      "assunto": "Direitos e garantias fundamentais e vedações constitucionais",
+      "enunciado": "A respeito das garantias e dos direitos constitucionalmente previstos, assinale a opção correta.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 5 — questão 76",
+      "alternativas": {
+        "A": "Os estrangeiros de qualquer nacionalidade, residentes no Brasil há mais de quinze anos ininterruptos e sem condenação penal equiparam-se aos brasileiros naturalizados, ainda que não requeiram a nacionalidade brasileira.",
+        "B": "A criação de associações e de cooperativas depende de autorização na forma da lei.",
+        "C": "A manifestação de pensamento é livre, porém é vedado o anonimato, resguardando-se o sigilo da fonte quando se tratar de matéria jornalística.",
+        "D": "A defesa do consumidor, patrocinada pelo Estado, é disposta em lei complementar.",
+        "E": "O rol dos direitos e das garantias fundamentais se esgota nos direitos e deveres individuais, na nacionalidade e nos direitos políticos."
+      }
+    },
+    {
+      "id": "C5-72",
+      "tema": "D1",
+      "assunto": "Direitos humanos: fundamentos, dignidade da pessoa humana e princípios; obrigação de respeitar",
+      "enunciado": "A respeito dos marcos históricos, fundamentos e princípios dos direitos humanos, assinale a opção correta.",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 5 — questão 72",
+      "alternativas": {
+        "A": "Segundo a doutrina contemporânea, direitos humanos e direitos fundamentais são indistinguíveis; por isso, ambas as terminologias são intercambiáveis no ordenamento jurídico.",
+        "B": "Os direitos humanos estão dispostos em um rol taxativo, que foi internalizado pelo ordenamento jurídico brasileiro com a promulgação da Constituição Federal de 1988.",
+        "C": "No Brasil, os direitos políticos são considerados direitos humanos e seu exercício pelos cidadãos se esgota no direito de votar e de ser votado.",
+        "D": "A dignidade da pessoa humana, princípio basilar da Constituição Federal de 1988, é fundamento dos direitos humanos.",
+        "E": "Em razão do princípio da imutabilidade, os direitos humanos reconhecidos na Revolução Francesa permanecem os mesmos ainda na atualidade."
+      }
+    },
+    {
+      "id": "C5-84",
+      "tema": "D1",
+      "assunto": "Direitos humanos: fundamentos, dignidade da pessoa humana e princípios; obrigação de respeitar",
+      "enunciado": "Conforme a teoria neoinstitucionalista, as políticas públicas são influenciadas por",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 5 — questão 84",
+      "alternativas": {
+        "A": "processos de decisão puramente técnico-racionais.",
+        "B": "ações coletivas que gerem bens coletivos.",
+        "C": "barganhas negociadas entre indivíduos que perseguem seus próprios interesses.",
+        "D": "interesses de mercado que permitam perfeita alocação.",
+        "E": "regras formais e informais que regem as instituições."
+      }
+    },
+    {
+      "id": "C5-73",
+      "tema": "D1",
+      "assunto": "Proteção de grupos e direitos humanos (violência doméstica, atendimento prioritário, tortura, igualdade racial, criança)",
+      "enunciado": "Considerando as disposições da Lei Maria da Penha — Lei n.º 11.340/2006 —, assinale a opção correta.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 5 — questão 73",
+      "alternativas": {
+        "A": "A lei não enquadra como violência sexual a conduta de marido que mantém com sua esposa relações sexuais sem o consentimento dela, haja vista o vínculo matrimonial.",
+        "B": "Para o poder público, a referida lei inclui unicamente o dever de estabelecer medidas que não ultrapassem a perspectiva penal.",
+        "C": "Cabe ao delegado de polícia que instaurar inquérito para apuração de violência doméstica contra mulher determinar a inclusão da vítima nos cadastros de programas assistenciais do governo.",
+        "D": "Os processos cíveis decorrentes da aplicação da referida lei serão ajuizados necessariamente no domicílio da ofendida.",
+        "E": "A lei permite à autoridade competente a suspensão de visitas do agressor a seus dependentes menores de idade."
+      }
+    },
+    {
+      "id": "C5-75",
+      "tema": "D1",
+      "assunto": "Proteção de grupos e direitos humanos (violência doméstica, atendimento prioritário, tortura, igualdade racial, criança)",
+      "enunciado": "Com base nas disposições da Lei n.º 10.048/2000 que trata de atendimento prioritário, assinale a opção correta.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 5 — questão 75",
+      "alternativas": {
+        "A": "As pessoas obesas não têm direito ao atendimento prioritário previsto nas legislações citadas; ainda estão em andamento debates acerca da produção de um estatuto próprio para o grupo.",
+        "B": "Como incentivo, a referida legislação prevê a concessão de subvenção estatal às instituições bancárias que executarem políticas de atendimento prioritário a idosos e pessoas com deficiência.",
+        "C": "Os veículos das concessionárias de transporte coletivo deverão ter reserva de assentos, devidamente identificados, para idosos, gestantes, lactantes, pessoas com deficiência e pessoas com criança de colo.",
+        "D": "A referida legislação prevê as penalidades para os servidores públicos que infringirem as regras de atendimento prioritário, não sendo aplicável legislação específica para essas pessoas.",
+        "E": "As penalidades previstas na referida legislação serão elevadas em 50% no caso de reincidência."
+      }
+    },
+    {
+      "id": "C5-77",
+      "tema": "D1",
+      "assunto": "Proteção de grupos e direitos humanos (violência doméstica, atendimento prioritário, tortura, igualdade racial, criança)",
+      "enunciado": "Tendo como referência o Estatuto da Igualdade Racial — Lei n.º 12.288/2010 —, assinale a opção correta.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 5 — questão 77",
+      "alternativas": {
+        "A": "Parte das disposições da referida lei carece de aplicabilidade por contrariar o princípio constitucional da igualdade e da proibição de discriminação.",
+        "B": "Questões relativas a gênero não estão previstas na referida legislação, uma vez que seu objeto é a vulnerabilidade dos sujeitos em decorrência da raça.",
+        "C": "Aos remanescentes de quilombos que estejam ocupando suas terras será assegurado o direito a permanecer no território, a partir de concessão de direito real de uso.",
+        "D": "Aquele que, em anúncios ou qualquer outra forma de recrutamento de trabalhadores, exigir aspectos de aparência próprios de raça ou etnia para emprego cujas atividades não justifiquem essas exigências estará sujeito à pena de detenção.",
+        "E": "O Poder Público deve coibir a propagação de ódio às religiões de matrizes africanas e a discriminação de seus seguidores por meios de comunicação social."
+      }
+    },
+    {
+      "id": "C5-79",
+      "tema": "D1",
+      "assunto": "Proteção de grupos e direitos humanos (violência doméstica, atendimento prioritário, tortura, igualdade racial, criança)",
+      "enunciado": "Acerca da Convenção Contra a Tortura e Outros Tratamentos ou Penas Cruéis, Desumanos ou Degradantes e de suas disposições, julgue os itens que se seguem.\n\nI A referida convenção entrou em vigor no Brasil alguns anos após a promulgação da Constituição Federal de 1988.\n\nII Essa convenção não se opõe à utilização excepcional de tortura em caso de ameaça ou estado de guerra, instabilidade política interna, atos comprovados de terrorismo ou uso de armas de destruição em massa.\n\nIII Policiais e outros encarregados de custódia, interrogatório ou tratamento de pessoa submetida a qualquer forma de prisão, detenção ou reclusão que eventualmente participarem de treinamento sobre a proibição de aplicar tortura receberão incentivos salariais como forma de ampliar a divulgação da referida convenção no território nacional.\n\nIV A referida convenção prevê que cada Estado-parte assegurará à vítima de ato de tortura o direito à reparação justa e adequada dos danos sofridos, incluídos os meios necessários para a mais completa reabilitação possível, e, em caso de morte da vítima como resultado de ato de tortura, seus dependentes terão direito à indenização.\n\nEstão certos apenas os itens",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 5 — questão 79",
+      "alternativas": {
+        "A": "I e III.",
+        "B": "I e IV.",
+        "C": "II e IV.",
+        "D": "I, II e III.",
+        "E": "II, III e IV."
+      }
+    },
+    {
+      "id": "C5-80",
+      "tema": "D1",
+      "assunto": "Proteção de grupos e direitos humanos (violência doméstica, atendimento prioritário, tortura, igualdade racial, criança)",
+      "enunciado": "Com base na Convenção sobre os Direitos da Criança — Decreto n.º 99.710/1990 —, assinale a opção correta.",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 5 — questão 80",
+      "alternativas": {
+        "A": "Essa convenção diferencia crianças de adolescentes: pessoas de até doze anos de idade são consideradas crianças, e as de idade entre doze anos e dezoito anos são consideradas adolescentes.",
+        "B": "Essa convenção consagra que decisões acerca do destino da criança considerarão o princípio do interesse maior da criança no que diz respeito à guarda e a outros temas relativos à família e ao poder familiar.",
+        "C": "Essa convenção prevê que crianças somente poderão participar de reuniões públicas mediante autorização do órgão estatal responsável pela proteção da criança.",
+        "D": "Essa convenção exclui qualquer tipo de intervenção judiciária na hipótese de ocorrer violência ou maus-tratos contra criança que esteja sob a custódia dos seus pais ou de seu representante legal, restringindo-se as medidas de proteção adotadas pelo Estado a medidas sociais e educacionais apropriadas.",
+        "E": "Essa convenção considera que a criança é um indivíduo ainda sem capacidade de formular seus próprios juízos ou expressar suas opiniões, razão pela qual não deve, em regra, ser ouvida em processos judiciais ou administrativos que a afetem."
+      }
+    },
+    {
+      "id": "CF-13",
+      "tema": "D1",
+      "assunto": "Princípios da administração pública (moralidade, impessoalidade, publicidade) e sua concretização (improbidade/LAI)",
+      "enunciado": "A proibição da prática do nepotismo transverso como ato de improbidade na administração pública e a Lei de Acesso à Informação são constituídos a partir da concretização dos seguintes princípios:",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO — questão 13",
+      "alternativas": {
+        "A": "da supremacia do interesse público e da eficiência.",
+        "B": "da indisponibilidade do interesse público e da legalidade.",
+        "C": "da impessoalidade e da legalidade.",
+        "D": "da moralidade e da publicidade."
+      }
+    },
+    {
+      "id": "CF-1",
+      "tema": "D2",
+      "assunto": "Ética e reflexão sobre a conduta; eficiência de códigos de ética",
+      "enunciado": "A relação existente entre as reflexões e a ética revela-se quando o ser humano",
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO — questão 1",
+      "alternativas": {
+        "A": "reflete sobre seus atos e, a partir dessa experiência, constrói novas reflexões sobre suas ações, em um processo dinâmico.",
+        "B": "deixa de refletir, uma vez que considera todas as suas condutas já alinhadas com a ética.",
+        "C": "reflete sobretudo acerca dos atos de terceiros, para julgar se suas condutas são ou não éticas.",
+        "D": "reflete sobre seus atos, em um processo estático, suficiente para definir se determinada conduta é ética ou não."
+      }
+    },
+    {
+      "id": "CF-2",
+      "tema": "D2",
+      "assunto": "Ética e reflexão sobre a conduta; eficiência de códigos de ética",
+      "enunciado": "De acordo com a Apostila do curso de formação CGE/CE, Disciplina 2 — Ética, a eficiência de um código de ética",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO — questão 2",
+      "alternativas": {
+        "A": "está circunscrita ao comprometimento dos empregados, uma vez que é incabível a participação dos dirigentes.",
+        "B": "está circunscrita à participação dos dirigentes, sendo dispensável o comprometimento dos empregados.",
+        "C": "depende tanto do comprometimento dos dirigentes quanto da participação dos empregados.",
+        "D": "é automática e independe de qualquer atuação humana."
+      }
+    },
+    {
+      "id": "CF-3",
+      "tema": "D2",
+      "assunto": "Ética e políticas públicas: formação do servidor e qualidade da decisão",
+      "enunciado": "No âmbito das organizações públicas, a influência da ética sobre as políticas públicas",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO — questão 3",
+      "alternativas": {
+        "A": "ocorre a partir da formação do servidor público para a ampliação da quantidade de decisões relacionadas às políticas públicas, independentemente da qualidade.",
+        "B": "é pequena, uma vez que a ética não se mostra essencial para o funcionamento de políticas públicas.",
+        "C": "ocorre a partir da capacitação e da formação do servidor público para a melhoria da qualidade da tomada de decisão e, consequentemente, para o aprimoramento dos resultados das políticas públicas.",
+        "D": "ocorre a partir da capacitação para os altos cargos, sem o envolvimento dos demais servidores, para a melhoria da qualidade da tomada de decisão."
+      }
+    },
+    {
+      "id": "CF-4",
+      "tema": "D2",
+      "assunto": "Conflito de interesses: caracterização e uso de informação privilegiada",
+      "enunciado": "A caracterização de um conflito de interesses é verificada",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO — questão 4",
+      "alternativas": {
+        "A": "no simples confronto entre interesses públicos e privados.",
+        "B": "em uma situação que implique prejuízo para o interesse coletivo ou para o desempenho da função pública.",
+        "C": "no uso de informação privilegiada em favor do interesse coletivo.",
+        "D": "no recebimento de presentes de colegas de serviço em data comemorativa."
+      }
+    },
+    {
+      "id": "CF-6",
+      "tema": "D2",
+      "assunto": "Conflito de interesses: caracterização e uso de informação privilegiada",
+      "enunciado": "A hipótese de uso de informações privilegiadas obtidas em razão do exercício do cargo",
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO — questão 6",
+      "alternativas": {
+        "A": "configura conflito de interesses tanto em âmbito estadual, como em âmbito federal.",
+        "B": "não configura conflito de interesses.",
+        "C": "configura conflito de interesses em âmbito estadual.",
+        "D": "configura conflito de interesses em âmbito federal."
+      }
+    },
+    {
+      "id": "CF-5",
+      "tema": "D2",
+      "assunto": "Conflito de interesses pós-aposentadoria (quarentena)",
+      "enunciado": "Configura conflito de interesses quando o agente público prestar diretamente qualquer tipo de serviço para pessoa jurídica com quem tenha estabelecido relacionamento relevante em razão do exercício do cargo, a contar da data da aposentadoria, no período de",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO — questão 5",
+      "alternativas": {
+        "A": "dezoito meses.",
+        "B": "seis meses.",
+        "C": "dois anos.",
+        "D": "um ano."
+      }
+    },
+    {
+      "id": "BAS-13",
+      "tema": "D3",
+      "assunto": "Modelos de administração pública (burocrática, gerencial) e reformas administrativas",
+      "enunciado": "Um gestor público que adota práticas de gestão autorreferidas, com foco na gestão de processos e com racionalidade absoluta, emprega princípios típicos da administração pública",
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS BASICOS PARA TODOS OS CARGOS AREAS CAMPOS DE ATUACAO — questão 13",
+      "alternativas": {
+        "A": "burocrática.",
+        "B": "patrimonialista.",
+        "C": "oligárquica.",
+        "D": "gerencial.",
+        "E": "descentralizada."
+      }
+    },
+    {
+      "id": "BAS-14",
+      "tema": "D3",
+      "assunto": "Modelos de administração pública (burocrática, gerencial) e reformas administrativas",
+      "enunciado": "São princípios típicos da administração pública gerencial",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS BASICOS PARA TODOS OS CARGOS AREAS CAMPOS DE ATUACAO — questão 14",
+      "alternativas": {
+        "A": "centralização, incentivos à criatividade e combate ao nepotismo.",
+        "B": "delegação de poderes, descentralização e horizontalização de estruturas.",
+        "C": "descentralização, autoritarismo e rigor técnico.",
+        "D": "confiança no gestor, visão do cidadão como cliente e verticalização de estruturas.",
+        "E": "busca por eficiência, autorreferenciamento e delegação de poderes."
+      }
+    },
+    {
+      "id": "BAS-15",
+      "tema": "D3",
+      "assunto": "Modelos de administração pública (burocrática, gerencial) e reformas administrativas",
+      "enunciado": "Entre as reformas administrativas já empreendidas na gestão pública brasileira, destaca-se aquela voltada à burocratização do Estado à luz dos preceitos weberianos e que adotou critérios de mérito profissional para a seleção de pessoal. Essa reforma corresponde à",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS BASICOS PARA TODOS OS CARGOS AREAS CAMPOS DE ATUACAO — questão 15",
+      "alternativas": {
+        "A": "implantação do estado oligárquico na República Velha.",
+        "B": "reforma promovida pelo regime militar em 1964.",
+        "C": "modernização administrativa proposta por Getúlio Vargas na década de 1930.",
+        "D": "proposta de Estado interventor da segunda gestão de Getúlio Vargas.",
+        "E": "reforma administrativa empreendida pelo Decreto-lei n.º 200 de 1967."
+      }
+    },
+    {
+      "id": "BAS-17",
+      "tema": "D3",
+      "assunto": "Modelos de administração pública (burocrática, gerencial) e reformas administrativas",
+      "enunciado": "Para alcançar a excelência na prestação de serviços públicos, deve-se almejar o maior nível de qualidade possível para a organização. Isso envolve planejar elementos associados a duas dimensões: o atendimento ao cidadão e a configuração do próprio serviço. Quanto à dimensão atendimento, um gestor público que planeje elevar o nível de qualidade de um serviço público sob sua responsabilidade deve promover",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS BASICOS PARA TODOS OS CARGOS AREAS CAMPOS DE ATUACAO — questão 17",
+      "alternativas": {
+        "A": "a adoção de indicadores de qualidade.",
+        "B": "o foco na resposta à sociedade, em vez de ao indivíduo.",
+        "C": "a rapidez na prestação do serviço.",
+        "D": "a definição de objetivos estratégicos.",
+        "E": "a capacitação das lideranças organizacionais."
+      }
+    },
+    {
+      "id": "BAS-18",
+      "tema": "D3",
+      "assunto": "Poder de polícia e agências reguladoras",
+      "enunciado": "No Brasil, as agências reguladoras desenvolvem, entre outras, a atividade de impor limitações administrativas previstas em lei, além de fiscalizar e, se necessário, repreender atividades que sejam consideradas incompatíveis com o bem-estar social. Tais atribuições das agências reguladoras são exemplos de",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS BASICOS PARA TODOS OS CARGOS AREAS CAMPOS DE ATUACAO — questão 18",
+      "alternativas": {
+        "A": "fomento a atividades privadas.",
+        "B": "uso do poder de polícia.",
+        "C": "fiscalização de atividades econômicas.",
+        "D": "normatização para exercício de atividade.",
+        "E": "concessão de serviços públicos."
+      }
+    },
+    {
+      "id": "ESP-47",
+      "tema": "D3",
+      "assunto": "Organização administrativa: prestação direta de serviço público, bens públicos e entidades paraestatais/terceiro setor",
+      "enunciado": "Assinale a opção que apresenta exemplo de prestação direta de serviço público.",
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS PARA TODOS OS CARGOS AREAS CAMPOS DE ATUACAO — questão 47",
+      "alternativas": {
+        "A": "coleta seletiva de lixo",
+        "B": "execução de obra pública",
+        "C": "serviço postal",
+        "D": "serviços de radiodifusão",
+        "E": "serviços de distribuição de gás natural"
+      }
+    },
+    {
+      "id": "ESP-51",
+      "tema": "D3",
+      "assunto": "Organização administrativa: prestação direta de serviço público, bens públicos e entidades paraestatais/terceiro setor",
+      "enunciado": "Acerca de bens públicos, assinale a opção correta.",
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS PARA TODOS OS CARGOS AREAS CAMPOS DE ATUACAO — questão 51",
+      "alternativas": {
+        "A": "Os bens da União não alcançam terras de aldeamentos extintos, ainda que ocupadas por indígenas em passado remoto.",
+        "B": "Os bens dominicais podem ser adquiridos por usucapião.",
+        "C": "As águas dos rios que banhem territórios de mais de um estado-membro são de domínio desses entes federados.",
+        "D": "Domínio público compreende os bens de uso ou alcance comum que não sejam resguardados por direitos privados ou por proteção legal.",
+        "E": "São de competência comum da União e dos estados federados as terras devolutas arrecadadas pelos estados por necessidade de proteção dos ecossistemas naturais."
+      }
+    },
+    {
+      "id": "ESP-53",
+      "tema": "D3",
+      "assunto": "Organização administrativa: prestação direta de serviço público, bens públicos e entidades paraestatais/terceiro setor",
+      "enunciado": "Acerca das entidades paraestatais e do terceiro setor, assinale a opção correta.",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS PARA TODOS OS CARGOS AREAS CAMPOS DE ATUACAO — questão 53",
+      "alternativas": {
+        "A": "Os serviços sociais autônomos são criados por meio de decreto.",
+        "B": "As organizações da sociedade civil de interesse público (OSCIP) que firmem termo de parceria com a União devem contratar mediante processo licitatório.",
+        "C": "A outorga de qualificação como organização social é vinculada, desde que sejam atendidos os requisitos legais.",
+        "D": "Os serviços sociais autônomos executam essencialmente serviços públicos.",
+        "E": "Os serviços sociais autônomos são custeados pelas contribuições de seus associados, incidindo impostos sobre esses serviços."
+      }
+    },
+    {
+      "id": "ESP-49",
+      "tema": "D3",
+      "assunto": "Agentes públicos: Estatuto dos Funcionários Públicos Civis do Ceará e teto remuneratório",
+      "enunciado": "De acordo com o Estatuto dos Funcionários Públicos Civis do Estado do Ceará, a vacância de cargo público resultará de",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS PARA TODOS OS CARGOS AREAS CAMPOS DE ATUACAO — questão 49",
+      "alternativas": {
+        "A": "readaptação.",
+        "B": "posse em outro cargo não cumulável.",
+        "C": "falecimento.",
+        "D": "reversão.",
+        "E": "mudança de domicílio."
+      }
+    },
+    {
+      "id": "CF-12",
+      "tema": "D3",
+      "assunto": "Agentes públicos: Estatuto dos Funcionários Públicos Civis do Ceará e teto remuneratório",
+      "enunciado": "A respeito dos agentes públicos, assinale a opção correta.",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO — questão 12 (anulada)",
+      "alternativas": {
+        "A": "Aos servidores públicos é garantido o direito ao recebimento de 13.º salário, férias, horas extras e seguro desemprego.",
+        "B": "O acesso a cargo vitalício de membro de tribunal deve ser precedido de aprovação prévia em concurso público.",
+        "C": "Segundo o STF, é ilegal o corte nos vencimentos de professor estatutário em caso de paralisação de sua atividade, se decorrente do exercício do direito de greve, dada a natureza de sua atividade.",
+        "D": "O servidor público de carreira da Controladoria Geral do estado tem como teto remuneratório o valor de até 75% do subsídio do deputado federal."
+      }
+    },
+    {
+      "id": "C5-66",
+      "tema": "D3",
+      "assunto": "Burocracia, insulamento burocrático e Estado-rede",
+      "enunciado": "O insulamento burocrático, considerado uma estratégia que se baseia na criação de ilhas de racionalidade e especialização, tem como característica",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 5 — questão 66",
+      "alternativas": {
+        "A": "a sobreposição de interesses particulares como forma de evitar que os responsáveis por políticas e decisões sejam influenciados por pressões partidárias.",
+        "B": "uma estrutura burocrática estável, a partir da qual se estabelece uma relação regular e estável com o setor privado.",
+        "C": "formatos organizacionais com poucos níveis hierárquicos, flexibilidade organizacional e busca por resultados.",
+        "D": "um alto grau de independência em relação ao controle político ou social.",
+        "E": "intensa participação dos agentes privados e das organizações da sociedade civil."
+      }
+    },
+    {
+      "id": "C5-82",
+      "tema": "D3",
+      "assunto": "Burocracia, insulamento burocrático e Estado-rede",
+      "enunciado": "O Estado-rede caracteriza-se por",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 5 — questão 82",
+      "alternativas": {
+        "A": "concentrar o poder decisório em órgãos federais.",
+        "B": "promover a departamentalização de suas políticas públicas.",
+        "C": "fortalecer a centralidade de atividades meio.",
+        "D": "compartilhar a autoridade com uma série de instituições.",
+        "E": "implementar processos decisórios hierárquicos."
+      }
+    },
+    {
+      "id": "C5-71",
+      "tema": "D3",
+      "assunto": "Arranjos de cooperação com organizações da sociedade civil (termos de colaboração)",
+      "enunciado": "As organizações da sociedade civil brasileiras são",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 5 — questão 71",
+      "alternativas": {
+        "A": "impedidas de firmar termos de colaboração e acordos de cooperação com o poder público.",
+        "B": "dispensadas de cumprir as exigências de transparência e publicidade em caso de programa de proteção a pessoas ameaçadas.",
+        "C": "impedidas de propor projetos ao poder público.",
+        "D": "entidades privadas com fins lucrativos, em regra.",
+        "E": "impedidas de remunerar com recursos públicos quaisquer de seus dirigentes."
+      }
+    },
+    {
+      "id": "ESP-48",
+      "tema": "D4",
+      "assunto": "Ato administrativo: extinção (caducidade, cassação, revogação) e revogação",
+      "enunciado": "O objeto da revogação deve ser",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS PARA TODOS OS CARGOS AREAS CAMPOS DE ATUACAO — questão 48",
+      "alternativas": {
+        "A": "um ato administrativo inválido.",
+        "B": "um ato administrativo vinculado.",
+        "C": "uma decisão administrativa viciada.",
+        "D": "um ato administrativo imperfeito.",
+        "E": "um ato administrativo eficaz."
+      }
+    },
+    {
+      "id": "CF-14",
+      "tema": "D4",
+      "assunto": "Ato administrativo: extinção (caducidade, cassação, revogação) e revogação",
+      "enunciado": "O ato administrativo pode ser extinto em virtude de",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO — questão 14",
+      "alternativas": {
+        "A": "caducidade, que se verifica quando o ato é retirado pelo poder público em razão de descumprimento das condições inicialmente impostas.",
+        "B": "cassação, que se verifica com a retirada de um ato administrativo por motivos de oportunidade e conveniência.",
+        "C": "revogação, que se verifica pela retirada do ato por ser ilegal.",
+        "D": "contraposição, que se verifica quando dois atos administrativos decorrem de competências diferentes, em que o segundo elimina os efeitos do primeiro."
+      }
+    },
+    {
+      "id": "ESP-50",
+      "tema": "D4",
+      "assunto": "Processo administrativo (Estatuto dos Funcionários Públicos do Ceará): recursos e prescrição",
+      "enunciado": "Ainda de acordo com o Estatuto dos Funcionários Públicos Civis do Estado do Ceará, quanto ao processo administrativo, é correto afirmar que",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS PARA TODOS OS CARGOS AREAS CAMPOS DE ATUACAO — questão 50",
+      "alternativas": {
+        "A": "o pedido de reconsideração e o recurso, em regra, têm efeito suspensivo.",
+        "B": "o pedido de reconsideração e o recurso, quando cabíveis, interrompem a prescrição.",
+        "C": "o direito de pleitear na esfera administrativa prescreve, em regra, em trinta dias.",
+        "D": "o recurso deverá ser dirigido à autoridade que tiver praticado o ato ou proferido a decisão.",
+        "E": "ao recorrente será concedido o direito de vista dos autos administrativos por até quinze dias."
+      }
+    },
+    {
+      "id": "CF-41",
+      "tema": "D4",
+      "assunto": "Processo administrativo disciplinar: informalismo moderado, sanções, instauração e confissão",
+      "enunciado": "O princípio que se materializa na dispensa das formas rígidas no processo administrativo disciplinar é conhecido como",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO — questão 41",
+      "alternativas": {
+        "A": "devido processo legal.",
+        "B": "contraditório e ampla defesa.",
+        "C": "verdade real.",
+        "D": "informalismo moderado."
+      }
+    },
+    {
+      "id": "CF-42",
+      "tema": "D4",
+      "assunto": "Processo administrativo disciplinar: informalismo moderado, sanções, instauração e confissão",
+      "enunciado": "Comprovada a infração disciplinar em processo administrativo civil regular, é possível a aplicação das seguintes sanções pela autoridade administrativa:",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO — questão 42",
+      "alternativas": {
+        "A": "reclusão; suspensão; multa; demissão; cassação de disponibilidade; cassação de aposentadoria.",
+        "B": "detenção; repreensão; reclusão; suspensão; multa; demissão; cassação de disponibilidade; cassação de aposentadoria.",
+        "C": "detenção; suspensão; multa; demissão; cassação de disponibilidade; cassação de aposentadoria.",
+        "D": "repreensão; suspensão; multa; demissão; cassação de disponibilidade; cassação de aposentadoria."
+      }
+    },
+    {
+      "id": "CF-43",
+      "tema": "D4",
+      "assunto": "Processo administrativo disciplinar: informalismo moderado, sanções, instauração e confissão",
+      "enunciado": "No caso de inexistência de lei ou de outro instrumento normativo definidor da autoridade competente, a instauração de processo administrativo disciplinar para apuração de irregularidade praticada em determinado órgão público competirá",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO — questão 43",
+      "alternativas": {
+        "A": "ao secretário-geral de governo.",
+        "B": "à autoridade de menor grau hierárquico para decidir.",
+        "C": "ao plenário do tribunal de contas.",
+        "D": "à autoridade máxima do órgão."
+      }
+    },
+    {
+      "id": "CF-44",
+      "tema": "D4",
+      "assunto": "Processo administrativo disciplinar: informalismo moderado, sanções, instauração e confissão",
+      "enunciado": "A confissão do acusado, em processo administrativo disciplinar,",
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO — questão 44",
+      "alternativas": {
+        "A": "admite juízo de retratação.",
+        "B": "encerra a busca da verdade material.",
+        "C": "é considerada meio de prova indivisível.",
+        "D": "depende de arguição em sede de interrogatório."
+      }
+    },
+    {
+      "id": "C4-95",
+      "tema": "D4",
+      "assunto": "Empréstimo de provas do processo penal ao processo administrativo disciplinar",
+      "enunciado": "Com observância do contraditório e da ampla defesa e com a autorização judicial competente, é possível que a prova seja emprestada do processo penal para o processo administrativo disciplinar. Nesse sentido, o empréstimo de provas",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 4 — questão 95",
+      "alternativas": {
+        "A": "restringe-se a processos em que figurem partes idênticas.",
+        "B": "exige o trânsito em julgado do processo penal.",
+        "C": "é cabível quando envolver prova produzida de interceptação telefônica.",
+        "D": "restringe-se às provas testemunhais.",
+        "E": "é vedado quando envolver o empréstimo de prova produzida em inquérito policial."
+      }
+    },
+    {
+      "id": "C4-96",
+      "tema": "D4",
+      "assunto": "Devido processo legal e suas consequências",
+      "enunciado": "A respeito do devido processo legal e de suas consequências, assinale a opção correta.",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 4 — questão 96",
+      "alternativas": {
+        "A": "Os motivos fazem coisa julgada desde que sejam relevantes para determinar o alcance da parte dispositiva da sentença.",
+        "B": "A resolução de questão prejudicial decidida expressa e incidentalmente no processo terá força de lei se dela depender o mérito.",
+        "C": "Independentemente da origem do processo, o duplo grau de jurisdição sempre é possível e garante a possibilidade de reexame integral de decisão terminativa antecedente.",
+        "D": "De acordo com o entendimento do STF, admite-se a apreensão de mercadorias como meio coercitivo de pagamento de tributos, por ser uma prática que não viola o devido processo legal.",
+        "E": "Viola o devido processo legal a conexão do processo do corréu ao foro por prerrogativa de função de um dos denunciados."
+      }
+    },
+    {
+      "id": "ESP-46",
+      "tema": "D5",
+      "assunto": "Controle interno: competências constitucionais (CF e Constituição do Ceará) e distinção de auditoria interna",
+      "enunciado": "O controle e a auditoria governamentais, a depender da posição do órgão controlador e da sua relação com o auditado, podem ser classificados como internos ou externos. Nesse sentido, a Constituição Federal de 1988 elencou como uma das competências dos sistemas de controle interno de cada poder",
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS PARA TODOS OS CARGOS AREAS CAMPOS DE ATUACAO — questão 46",
+      "alternativas": {
+        "A": "avaliar o cumprimento das metas previstas no plano plurianual, a execução dos programas de governo e dos orçamentos da União.",
+        "B": "apreciar as contas prestadas anualmente pelo chefe do Poder Executivo, mediante parecer prévio.",
+        "C": "aplicar aos responsáveis, em caso de ilegalidade de despesa ou irregularidade de contas, as sanções previstas em lei.",
+        "D": "julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos da administração direta e indireta.",
+        "E": "apreciar, para fins de registro, a legalidade dos atos de admissão de pessoal, a qualquer título, na administração direta e indireta."
+      }
+    },
+    {
+      "id": "ESP-55",
+      "tema": "D5",
+      "assunto": "Controle interno: competências constitucionais (CF e Constituição do Ceará) e distinção de auditoria interna",
+      "enunciado": "Conforme a Constituição do Estado do Ceará, cabe aos órgãos de controle interno da administração pública estadual",
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS PARA TODOS OS CARGOS AREAS CAMPOS DE ATUACAO — questão 55",
+      "alternativas": {
+        "A": "exercer, especialmente, as funções de ouvidoria, controladoria, auditoria governamental e correição.",
+        "B": "examinar as contas prestadas anualmente pelo governador, mediante parecer prévio que deverá ser elaborado em sessenta dias a partir de seu recebimento.",
+        "C": "analisar a legalidade da gestão orçamentária da administração pública estadual, salvo quanto à aplicação de recursos públicos por entidades de direito privado.",
+        "D": "apreciar, para fins de registro, a legalidade dos atos de admissão de pessoal, a qualquer título, na administração pública direta e indireta.",
+        "E": "avaliar o cumprimento das metas previstas no plano plurianual, aplicando aos responsáveis, em caso de ilegalidade de despesa, as sanções previstas em lei."
+      }
+    },
+    {
+      "id": "CF-25",
+      "tema": "D5",
+      "assunto": "Controle interno: competências constitucionais (CF e Constituição do Ceará) e distinção de auditoria interna",
+      "enunciado": "No que diz respeito aos conceitos fundamentais de controle interno e à distinção entre controle interno e auditoria interna, assinale a opção correta.",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO — questão 25 (anulada)",
+      "alternativas": {
+        "A": "A atuação do sistema de controle interno do Poder Executivo federal abrange todos os órgãos e entidades daquele poder federal, com exceção das empresas estatais independentes, e não abrange a pessoa física ou jurídica que utilize, arrecade, guarde, gerencie ou administre dinheiros, bens e valores públicos sob a responsabilidade do Poder Executivo federal.",
+        "B": "O controle interno avaliativo está a cargo das auditorias internas de cada órgão ou entidade, enquanto o controle interno administrativo está a cargo dos órgãos do sistema de controle interno do Poder Executivo federal.",
+        "C": "Os controles internos têm o papel de assegurar que as respostas aos riscos, definidas pela administração da entidade, sejam efetivamente aplicadas.",
+        "D": "As unidades de controle interno de órgãos públicos e de auditoria interna de entidades da administração indireta se confundem com o próprio sistema de controle interno das organizações em que estão inseridas, por serem parte dele."
+      }
+    },
+    {
+      "id": "ESP-40",
+      "tema": "D5",
+      "assunto": "Independência e objetividade da auditoria interna",
+      "enunciado": "A atividade de auditoria interna deve ser independente; e os auditores internos, objetivos ao executar seus trabalhos. Independência é a imunidade quanto às condições que ameaçam a capacidade da atividade de auditoria interna de conduzir as responsabilidades de auditoria interna de maneira imparcial. Nesse sentido, pode ser considerada situação de prejuízo à independência ou à objetividade do trabalho do auditor interno a prestação de serviço de",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS PARA TODOS OS CARGOS AREAS CAMPOS DE ATUACAO — questão 40",
+      "alternativas": {
+        "A": "consultoria em operações pelas quais ele tenha sido responsável anteriormente.",
+        "B": "avaliação de operações que anteriormente contaram com sua consultoria objetiva.",
+        "C": "avaliação de operações pelas quais o chefe de auditoria é ou foi responsável.",
+        "D": "consultoria sob demanda do conselho de administração.",
+        "E": "avaliação de operações que ele mesmo avaliou no ano anterior."
+      }
+    },
+    {
+      "id": "CF-26",
+      "tema": "D5",
+      "assunto": "Auditoria interna e avaliação de controles internos: papel e responsabilidade do auditor",
+      "enunciado": "Quanto à auditoria interna em órgãos e entidades públicos e à avaliação dos controles internos, assinale a opção correta.",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO — questão 26",
+      "alternativas": {
+        "A": "A profundidade e a amplitude dos testes de auditoria são diretamente proporcionais à confiabilidade dos controles, ou seja, quanto maior a confiabilidade, maior a profundidade e a amplitude dos testes.",
+        "B": "A auditoria interna é inerente às atividades administrativas, enquanto o controle interno é caracterizado por ser uma função composta de atividades avaliativas realizadas sobre a própria administração.",
+        "C": "O auditor interno é responsável por conceber, implantar, manter e monitorar processos de controles internos do órgão ou da entidade pública.",
+        "D": "A responsabilidade do auditor interno é limitada a verificar se os controles internos da organização estão sendo corretamente aplicados e a avaliar se oferecem um grau de confiança razoável, reportando as falhas observadas e oferecendo recomendações para saná-las."
+      }
+    },
+    {
+      "id": "C5-68",
+      "tema": "D5",
+      "assunto": "Accountability e controle social",
+      "enunciado": "O conceito de accountability",
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 5 — questão 68",
+      "alternativas": {
+        "A": "representa o desejo de melhorar o controle social sobre o governo e sua capacidade de responder aos anseios dos cidadãos.",
+        "B": "refere-se à capacidade de estabelecer incentivos financeiros aos gestores públicos.",
+        "C": "dispensa o uso de indicadores para a qualificação dos objetivos organizacionais e das metas a serem alcançadas.",
+        "D": "manifesta-se na forma horizontal quando a sociedade controla de forma ascendente os seus governantes.",
+        "E": "ocorre exclusivamente a partir das diferentes instâncias de controle no interior da estrutura do Estado."
+      }
+    },
+    {
+      "id": "C5-78",
+      "tema": "D5",
+      "assunto": "Ação civil pública e controle do patrimônio público",
+      "enunciado": "A respeito da ação civil pública disciplinada pela Lei n.º 7.347/1985, julgue os itens seguintes.\n\nI A qualquer cidadão é permitido pleitear, por meio de ação civil pública, a anulação ou a declaração de nulidade de atos lesivos ao patrimônio da administração pública direta e indireta e de quaisquer pessoas jurídicas ou entidades subvencionadas pelos cofres públicos.\n\nII Ação civil pública busca a responsabilização por danos, morais e patrimoniais, causados ao meio ambiente, ao consumidor, a bens e direitos de valor artístico, estético, histórico, turístico e paisagístico, mas não quanto às infrações de ordem econômica.\n\nIII As associações podem propor ação civil pública, desde que tenham sido constituídas há pelos menos um ano e incluam, entre suas finalidades institucionais, a proteção ao patrimônio público e social, ao meio ambiente, ao consumidor, à ordem econômica, à livre concorrência, aos direitos de grupos raciais, étnicos ou religiosos ou ao patrimônio artístico, estético, histórico, turístico e paisagístico.\n\nIV O Ministério Público sempre participará da ação civil pública, seja como parte, seja como custus legis.\n\nV Para o ajuizamento de ação civil pública, o interessado deverá instruir a inicial com todas as certidões e informações necessárias à comprovação dos danos alegados, sob pena de indeferimento da ação.\n\nEstão certos apenas os itens",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 5 — questão 78",
+      "alternativas": {
+        "A": "I e II.",
+        "B": "I e V.",
+        "C": "II e III.",
+        "D": "III e IV.",
+        "E": "IV e V."
+      }
+    },
+    {
+      "id": "C4-94",
+      "tema": "D5",
+      "assunto": "Independência entre as instâncias administrativa e penal na responsabilização disciplinar",
+      "enunciado": "Apesar da independência entre as instâncias administrativa e penal, há situações em que a sentença penal absolutória decorrente de suposta falta cometida por servidor público afasta a sua responsabilidade administrativa-disciplinar. Caracteriza uma dessas situações",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 4 — questão 94",
+      "alternativas": {
+        "A": "o cometimento de falta que não constitua infração penal.",
+        "B": "o reconhecimento de excludente de ilicitude.",
+        "C": "a negativa de autoria do fato delituoso pelo réu.",
+        "D": "a conclusão, na seara penal, pela ocorrência de falta residual.",
+        "E": "a prova de que o réu concorreu para a infração penal."
+      }
+    },
+    {
+      "id": "BAS-20",
+      "tema": "D6",
+      "assunto": "Informação classificada e sigilo (Lei estadual n.º 15.175/2012)",
+      "enunciado": "De acordo com a Lei estadual n.º 15.175/2012, as informações que ficam sob sigilo durante vinte e cinco anos são consideradas",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS BASICOS PARA TODOS OS CARGOS AREAS CAMPOS DE ATUACAO — questão 20",
+      "alternativas": {
+        "A": "sigilosas.",
+        "B": "reservadas.",
+        "C": "secretas.",
+        "D": "ultrassecretas.",
+        "E": "pessoais."
+      }
+    },
+    {
+      "id": "ESP-58",
+      "tema": "D6",
+      "assunto": "Direito constitucional de acesso à informação",
+      "enunciado": "João, tendo em vista seu direito fundamental de acesso à informação, solicitou cópia de documentos relacionados a determinado contrato administrativo em vigência firmado entre uma autarquia estadual e uma empresa. O presidente da autarquia, ao analisar o requerimento de João, indeferiu o pedido com base nos seguintes argumentos:\n\nI o requerimento não se baseava em interesse público, mas em interesse particular do solicitante;\n\nII as informações solicitadas estavam protegidas por sigilo.\n\nAcerca dessa situação hipotética e à luz da Constituição Federal de 1988, é correto afirmar que",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS PARA TODOS OS CARGOS AREAS CAMPOS DE ATUACAO — questão 58",
+      "alternativas": {
+        "A": "o indeferimento do pedido de João com base no argumento II é inconstitucional, uma vez que a Constituição Federal de 1988 não autoriza a atribuição de sigilo a documentos da administração pública.",
+        "B": "a decisão administrativa de indeferimento pode ser questionada por João por meio da ação de habeas corpus, haja vista a violação de seu direito líquido e certo.",
+        "C": "o indeferimento do pedido de João não violou o seu direito fundamental de acesso à informação, uma vez que os documentos solicitados só poderiam ser divulgados após o término do prazo de vigência do referido contrato.",
+        "D": "a decisão administrativa de indeferimento pode ser questionada por João por meio de mandado de injunção, haja vista a existência de ato lesivo ao patrimônio público.",
+        "E": "o indeferimento do pedido de João com base no argumento I é inconstitucional, pois o direito de acesso à informação independe da demonstração da natureza do interesse envolvido."
+      }
+    },
+    {
+      "id": "C5-67",
+      "tema": "D6",
+      "assunto": "Participação e controle social na gestão de políticas públicas",
+      "enunciado": "No processo de formulação de políticas públicas, a fase na qual os objetivos previamente definidos são convertidos em ações empreendidas para atingi-los é denominada",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 5 — questão 67",
+      "alternativas": {
+        "A": "formação de agenda.",
+        "B": "tomada de decisão.",
+        "C": "implementação.",
+        "D": "avaliação.",
+        "E": "elaboração de alternativas."
+      }
+    },
+    {
+      "id": "C5-91",
+      "tema": "D6",
+      "assunto": "Transparência fiscal (LRF): instrumentos de transparência e divulgação em meio eletrônico",
+      "enunciado": "De acordo com a Lei de Responsabilidade Fiscal — Lei Complementar n.º 101/2000 —, são considerados instrumentos de transparência da gestão fiscal aos quais será dada ampla divulgação, inclusive em meios eletrônicos de acesso público,",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 5 — questão 91",
+      "alternativas": {
+        "A": "o relatório da execução orçamentária e o relatório de gestão fiscal, não sendo incluídas as versões simplificadas desses documentos.",
+        "B": "o relatório de gestão fiscal e a demonstração do valor adicionado.",
+        "C": "o orçamento fiscal, as diretrizes orçamentárias e o orçamento de empresas privadas.",
+        "D": "os planos, os orçamentos e as leis de diretrizes orçamentárias, assim como as prestações de contas e o respectivo parecer prévio.",
+        "E": "os demonstrativos das receitas tributária, patrimonial e industrial."
+      }
+    },
+    {
+      "id": "C5-92",
+      "tema": "D6",
+      "assunto": "Transparência fiscal (LRF): instrumentos de transparência e divulgação em meio eletrônico",
+      "enunciado": "A Lei de Responsabilidade Fiscal, depois de alterada pela Lei Complementar n.º 131/2009, passou a determinar a disponibilização de informações sobre a execução orçamentária e financeira da União, dos estados, do Distrito Federal e dos municípios, de forma pormenorizada e em meio eletrônico de acesso público. Tal determinação deve ser cumprida dentro do prazo de",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 5 — questão 92",
+      "alternativas": {
+        "A": "cinco anos, para os municípios com mais de cem mil habitantes.",
+        "B": "quatro anos, para os municípios com até cinquenta mil habitantes.",
+        "C": "dois anos, para os municípios que tenham entre oitenta mil e cem mil habitantes.",
+        "D": "um ano, para os municípios com menos de cinquenta mil habitantes.",
+        "E": "três anos, para os municípios que tenham entre cinquenta mil e cem mil habitantes."
+      }
+    },
+    {
+      "id": "C5-93",
+      "tema": "D6",
+      "assunto": "Lei n.º 13.460/2017: direitos do usuário, carta de serviços e princípios de atendimento",
+      "enunciado": "À luz da Lei n.º 13.460/2017, que dispõe sobre participação, proteção e defesa dos direitos do usuário dos serviços públicos da administração pública, assinale a opção correta.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 5 — questão 93",
+      "alternativas": {
+        "A": "Cada Poder e esfera de governo publicará, semestralmente, quadro geral dos serviços públicos prestados, especificando os órgãos ou as entidades responsáveis por sua realização.",
+        "B": "Continuidade, razoabilidade, proporcionalidade e segurança são princípios a serem observados na execução dos serviços públicos e no atendimento do seu usuário.",
+        "C": "O usuário de serviço público tem direito de obter informações precisas e de fácil acesso pela Internet, salvo se forem dados referentes à situação da tramitação de processos administrativos, ainda que de seu interesse.",
+        "D": "O usuário de serviço público é desobrigado de se identificar para apresentar manifestação em ouvidoria de órgão público.",
+        "E": "A carta de serviços ao usuário deverá dispor de informações claras e precisas em relação a cada um dos serviços prestados, apresentando, no mínimo, informações relacionadas, entre outras, às principais etapas de processamento do serviço."
+      }
+    },
+    {
+      "id": "CF-54",
+      "tema": "D6",
+      "assunto": "Lei n.º 13.460/2017: direitos do usuário, carta de serviços e princípios de atendimento",
+      "enunciado": "Quanto aos princípios para a realização adequada dos serviços públicos e do atendimento ao usuário, o princípio da regularidade está relacionado",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO — questão 54",
+      "alternativas": {
+        "A": "aos resultados da execução de um serviço e da prestação do atendimento para a sociedade.",
+        "B": "à prestação do serviço e do atendimento sempre com o mesmo padrão de qualidade, conforme regras pré-determinadas.",
+        "C": "à prestação ininterrupta do serviço.",
+        "D": "à prestação do serviço e do atendimento de forma igualitária para todos."
+      }
+    },
+    {
+      "id": "CF-55",
+      "tema": "D6",
+      "assunto": "Lei n.º 13.460/2017: direitos do usuário, carta de serviços e princípios de atendimento",
+      "enunciado": "Com relação à carta de serviços ao usuário, é correto afirmar que esse documento",
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO — questão 55",
+      "alternativas": {
+        "A": "tem por objetivo informar sobre os serviços prestados pelo órgão ou entidade, as formas de acesso a esses serviços e seus compromissos e padrões de qualidade de atendimento ao público.",
+        "B": "deve ser disponibilizado em meio impresso, no qual a entidade pública insere suas informações básicas e lista todos os serviços públicos por ela prestados.",
+        "C": "deve ter, como o primeiro passo para a sua divulgação, no âmbito do poder Executivo federal, a publicação em diário oficial.",
+        "D": "será objeto de atualização e de divulgação apenas quinzenal, mediante publicação em sítio eletrônico do órgão ou entidade na Internet."
+      }
+    },
+    {
+      "id": "CF-56",
+      "tema": "D6",
+      "assunto": "Lei n.º 13.460/2017: direitos do usuário, carta de serviços e princípios de atendimento",
+      "enunciado": "É direito básico do usuário do serviço público",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO — questão 56",
+      "alternativas": {
+        "A": "utilização adequada dos serviços, com urbanidade e boa-fé.",
+        "B": "obtenção dos serviços sem liberdade de escolha entre os meios oferecidos, a depender de prévia autorização legal.",
+        "C": "acesso limitado e condicionado a informações relativas à sua pessoa constantes de registros ou bancos de dados.",
+        "D": "atuação integrada e sistêmica na expedição de atestados, certidões e documentos comprobatórios de regularidade."
+      }
+    },
+    {
+      "id": "C5-94",
+      "tema": "D6",
+      "assunto": "Lei n.º 13.726/2018 (desburocratização) e relação poder público-cidadão",
+      "enunciado": "De acordo com a Lei da Desburocratização — Lei n.º 13.726/2018 —, na relação entre órgãos e entidades do poder público com o cidadão, é uma exigência",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 5 — questão 94",
+      "alternativas": {
+        "A": "o reconhecimento de firma em cartório para a realização de atos administrativos, ainda que o agente administrativo tenha condições de atestar a autenticidade da assinatura no documento.",
+        "B": "a autenticação de cópia de documento em cartório, não bastando, para atestar a sua autenticidade, a simples comparação, pelo agente público, entre original e cópia.",
+        "C": "a apresentação de título de eleitor, caso o ato administrativo seja votar ou registrar candidatura.",
+        "D": "a apresentação de autorização com firma reconhecida para viagem de menor desacompanhado, ainda que seus pais ou responsáveis estejam presentes no momento do embarque.",
+        "E": "a juntada de cópia do documento pessoal do usuário autenticada em cartório para a realização de cada ato administrativo."
+      }
+    },
+    {
+      "id": "C5-95",
+      "tema": "D6",
+      "assunto": "Ouvidoria pública: finalidade, criação e classificação das manifestações",
+      "enunciado": "Ferramenta de comunicação direta entre o cidadão e a administração pública, a ouvidoria",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 5 — questão 95",
+      "alternativas": {
+        "A": "possui caráter administrativo e atributo contencioso.",
+        "B": "não influencia de forma decisiva nos processos de formulação de políticas que possuam bons níveis de representatividade.",
+        "C": "deverá atuar junto à administração em busca de soluções que venham a corrigir injustiças e minimizar possível imagem negativa do órgão que representa.",
+        "D": "deverá abrir processo administrativo a respeito das denúncias que receber, no prazo máximo de dez dias depois de aceitá-las.",
+        "E": "deverá apresentar relatórios com dados tabulados e estatísticos à gestão administrativa, indicando exclusivamente os casos com maior probabilidade de macular a imagem da instituição representada."
+      }
+    },
+    {
+      "id": "CF-51",
+      "tema": "D6",
+      "assunto": "Ouvidoria pública: finalidade, criação e classificação das manifestações",
+      "enunciado": "A ouvidoria pública tem como finalidade estimular a participação e a conscientização da população sobre o direito de receber um serviço público de qualidade. Cabe à ouvidoria, em seu trabalho cotidiano,",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO — questão 51",
+      "alternativas": {
+        "A": "defender o direito dos cidadãos, assim como contribuir para o fortalecimento da cultura de direitos humanos.",
+        "B": "solucionar conflitos internos e cumprir o papel institucional de órgão de comunicação entre o servidor e a alta direção.",
+        "C": "identificar as medidas que o órgão/entidade deve adotar para melhorar sua gestão e resolver conflitos.",
+        "D": "contribuir para o fortalecimento da cultura de direitos humanos, privilegiando a visão do cidadão como sujeito de direitos e estimulando sua autonomia."
+      }
+    },
+    {
+      "id": "CF-52",
+      "tema": "D6",
+      "assunto": "Ouvidoria pública: finalidade, criação e classificação das manifestações",
+      "enunciado": "No que se refere ao sistema classificatório das manifestações dos cidadãos, uma proposição de ideia ou formulação de proposta de aprimoramento de políticas e serviços prestados pela administração pública federal classifica-se como",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO — questão 52",
+      "alternativas": {
+        "A": "elogio.",
+        "B": "sugestão.",
+        "C": "reclamação.",
+        "D": "solicitação."
+      }
+    },
+    {
+      "id": "CF-53",
+      "tema": "D6",
+      "assunto": "Ouvidoria pública: finalidade, criação e classificação das manifestações",
+      "enunciado": "Um dos passos para a criação de uma ouvidoria pública inclui a",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO — questão 53",
+      "alternativas": {
+        "A": "definição de um espaço físico necessário para a ouvidoria para atendimento unicamente presencial.",
+        "B": "normatização, em que ocorrem a definição das competências da ouvidoria, os fluxos de respostas das manifestações, a forma de escolha e a competência do ouvidor.",
+        "C": "criação de canais de comunicação externos à ouvidoria, que analisem, orientem e resolvam demandas dos cidadãos, encaminhando a solução ao setor responsável, para a ciência deste.",
+        "D": "elaboração de um sistema informatizado a ser disponibilizado exclusivamente para o público interno."
+      }
+    },
+    {
+      "id": "C5-96",
+      "tema": "D6",
+      "assunto": "Lei de Acesso à Informação: abrangência, transparência passiva/ativa, informação pessoal e direito à informação",
+      "enunciado": "O Brasil é signatário da Declaração Universal dos Direitos Humanos e integrou ao seu ordenamento o art. 19 dessa declaração, que trata do direito a informação. No Brasil, esse direito",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 5 — questão 96",
+      "alternativas": {
+        "A": "será submetido a censura prévia.",
+        "B": "será protegido mesmo que a informação incitar crime.",
+        "C": "é regulamentado, no que se refere à transparência de informações públicas, pela Lei de Acesso a Informação.",
+        "D": "é garantido pela complementaridade exclusiva dos sistemas privado e estatal.",
+        "E": "é restrito ao acesso a informações dentro do território nacional."
+      }
+    },
+    {
+      "id": "CF-57",
+      "tema": "D6",
+      "assunto": "Lei de Acesso à Informação: abrangência, transparência passiva/ativa, informação pessoal e direito à informação",
+      "enunciado": "A respeito da abrangência subjetiva da Lei de Acesso à Informação (LAI), assinale a opção correta.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO — questão 57",
+      "alternativas": {
+        "A": "As entidades privadas sem fins lucrativos não se submetem à LAI, no que se refere à parcela de recursos públicos recebidos e à sua destinação.",
+        "B": "O direito de acesso à informação deve ser compreendido em sentido restrito, prevendo-se tanto o acesso às informações que dizem respeito à gestão pública quanto às informações de particulares, inclusive de terceiros.",
+        "C": "O direito de conhecer informações sem restrições de acesso será assegurado ao cidadão quando, em um mesmo suporte (documento ou banco de dados), coexistirem informações sem restrição de acesso e informações protegidas por alguma hipótese de sigilo.",
+        "D": "A LAI deve ser observada pela União, pelos estados, pelo Distrito Federal e pelos municípios, cabendo aos tribunais seguir legislação específica."
+      }
+    },
+    {
+      "id": "CF-58",
+      "tema": "D6",
+      "assunto": "Lei de Acesso à Informação: abrangência, transparência passiva/ativa, informação pessoal e direito à informação",
+      "enunciado": "Uma demanda direcionada aos órgãos e às entidades da administração pública, sejam sujeitos de direito público ou privado, realizada por qualquer pessoa, física ou jurídica, que tenha por objeto um dado ou informação, é denominada",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO — questão 58",
+      "alternativas": {
+        "A": "transparência passiva.",
+        "B": "consulta.",
+        "C": "transparência ativa.",
+        "D": "pedido de acesso à informação."
+      }
+    },
+    {
+      "id": "CF-59",
+      "tema": "D6",
+      "assunto": "Lei de Acesso à Informação: abrangência, transparência passiva/ativa, informação pessoal e direito à informação",
+      "enunciado": "Quanto à proteção da informação pessoal, assinale a opção correta.",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO — questão 59",
+      "alternativas": {
+        "A": "O acesso a informações pessoais poderá ser autorizado sem o consentimento expresso da pessoa a que elas se referirem.",
+        "B": "Caso o pedido de acesso à informação pessoal seja negado, o cidadão pode recorrer, no prazo de 15 dias, a contar da sua ciência.",
+        "C": "Todo recurso de pedido de acesso a informação pessoal negado deverá ser dirigido à autoridade hierarquicamente superior ao servidor responsável pela elaboração da resposta inicial, que deverá analisá-lo no prazo de 10 dias.",
+        "D": "As informações pessoais devem ser protegidas quando se referirem à intimidade, à vida privada, à honra e à imagem."
+      }
+    },
+    {
+      "id": "CF-60",
+      "tema": "D6",
+      "assunto": "Lei de Acesso à Informação: abrangência, transparência passiva/ativa, informação pessoal e direito à informação",
+      "enunciado": "Devem estar em transparência ativa, de acordo com a Lei n.º 12.527/2011 e com o Decreto Regulamentador n.º 7.724/2012, as seguintes informações:",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO — questão 60",
+      "alternativas": {
+        "A": "todas as licitações realizadas com editais, anexos e resultados, não sendo consideradas as licitações em andamento.",
+        "B": "remuneração e subsídio recebidos por ocupante de cargo, posto, graduação, função e emprego público, excluindo-se auxílios, ajudas de custo, jetons e quaisquer outras vantagens pecuniárias.",
+        "C": "programas, projetos, ações, obras e atividades, com indicação da unidade responsável, principais metas e resultados.",
+        "D": "resumo da execução orçamentária e financeira."
+      }
+    },
+    {
+      "id": "BAS-16",
+      "tema": "D8",
+      "assunto": "Ciclo de governança na gestão pública",
+      "enunciado": "Na estrutura de um ciclo de governança na gestão pública, o elemento voltado à realização dos objetivos organizacionais por meio da estruturação e do desenvolvimento de processos é denominado",
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS BASICOS PARA TODOS OS CARGOS AREAS CAMPOS DE ATUACAO — questão 16",
+      "alternativas": {
+        "A": "administração.",
+        "B": "controle.",
+        "C": "accountability.",
+        "D": "governabilidade.",
+        "E": "supervisão."
+      }
+    },
+    {
+      "id": "ESP-39",
+      "tema": "D8",
+      "assunto": "Gerenciamento de riscos corporativos (COSO): atividades de controle",
+      "enunciado": "As políticas e os procedimentos estabelecidos e postos em prática para assegurar a execução eficaz das respostas aos riscos selecionadas pela administração correspondem ao componente do gerenciamento de riscos corporativos estabelecido pelo COSO conhecido como",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS PARA TODOS OS CARGOS AREAS CAMPOS DE ATUACAO — questão 39",
+      "alternativas": {
+        "A": "ambiente interno.",
+        "B": "atividades de controle.",
+        "C": "informações e comunicações.",
+        "D": "identificação de eventos.",
+        "E": "avaliação de riscos."
+      }
+    },
+    {
+      "id": "C1-94",
+      "tema": "D8",
+      "assunto": "Controle interno (COSO): deficiências significativas, objetivos, ambiente, risco, atividades, informação e monitoramento",
+      "enunciado": "Para definir o nível de detalhes das deficiências significativas do sistema de controle interno as quais devem ser comunicadas aos responsáveis pela governança de determinada entidade, o auditor deve desconsiderar",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 1 — questão 94",
+      "alternativas": {
+        "A": "o porte da entidade.",
+        "B": "a culpabilidade do sistema de controle interno.",
+        "C": "a natureza das deficiências identificadas.",
+        "D": "a composição da governança.",
+        "E": "os requisitos regulatórios relativos à comunicação."
+      }
+    },
+    {
+      "id": "C1-95",
+      "tema": "D8",
+      "assunto": "Controle interno (COSO): deficiências significativas, objetivos, ambiente, risco, atividades, informação e monitoramento",
+      "enunciado": "Na relação entre objetivos e componentes de controle de determinada entidade,",
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 1 — questão 95",
+      "alternativas": {
+        "A": "a estrutura de governança deve ser independente de seus executivos.",
+        "B": "os níveis de subordinação devem obedecer aos padrões de mercado.",
+        "C": "a identificação do potencial de fraude é responsabilidade da auditoria.",
+        "D": "o objetivo do controle interno é eliminar os riscos à realização dos objetivos.",
+        "E": "os assuntos que afetam o controle interno são vedados ao público externo."
+      }
+    },
+    {
+      "id": "C1-96",
+      "tema": "D8",
+      "assunto": "Controle interno (COSO): deficiências significativas, objetivos, ambiente, risco, atividades, informação e monitoramento",
+      "enunciado": "Assinale a opção correta, relativa ao ambiente de controle de uma organização.",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 1 — questão 96",
+      "alternativas": {
+        "A": "O ambiente de controle deve ser delimitado em uma subdivisão da organização.",
+        "B": "O sistema de controle deve estabelecer suas próprias normas de funcionamento.",
+        "C": "Os valores éticos da organização são fatores exteriores ao controle interno.",
+        "D": "Os parâmetros de supervisão da governança são definidos no ambiente de controle.",
+        "E": "Os níveis operacionais devem desconhecer as expectativas do ambiente de controle."
+      }
+    },
+    {
+      "id": "C1-97",
+      "tema": "D8",
+      "assunto": "Controle interno (COSO): deficiências significativas, objetivos, ambiente, risco, atividades, informação e monitoramento",
+      "enunciado": "As entidades enfrentam vários riscos de origem interna e externa. Define-se risco como",
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 1 — questão 97",
+      "alternativas": {
+        "A": "a possibilidade de um evento ocorrer e afetar adversamente a realização dos objetivos.",
+        "B": "a base para determinar a maneira como os objetivos serão alcançados.",
+        "C": "as metas de desempenho financeiro e a salvaguarda de perdas de ativos.",
+        "D": "um processo conduzido pela administração para garantir a realização dos objetivos.",
+        "E": "os requisitos de transparência estabelecidos pelas autoridades normativas."
+      }
+    },
+    {
+      "id": "C1-98",
+      "tema": "D8",
+      "assunto": "Controle interno (COSO): deficiências significativas, objetivos, ambiente, risco, atividades, informação e monitoramento",
+      "enunciado": "Assinale a opção correta, acerca de atividades de controle.",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 1 — questão 98",
+      "alternativas": {
+        "A": "As políticas da entidade têm influência indireta sobre as atividades de controle.",
+        "B": "As atividades de controle se restringem ao sistema de controle interno.",
+        "C": "É vedada a segregação de funções das atividades de controle.",
+        "D": "As atividades de controle se destinam ao nível de governança.",
+        "E": "A detecção de fraudes e risco resume as atividades de controle."
+      }
+    },
+    {
+      "id": "C1-99",
+      "tema": "D8",
+      "assunto": "Controle interno (COSO): deficiências significativas, objetivos, ambiente, risco, atividades, informação e monitoramento",
+      "enunciado": "No que se refere a informação e comunicação no sistema de controle interno, assinale a opção correta.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 1 — questão 99",
+      "alternativas": {
+        "A": "A informação é irrelevante para o cumprimento das responsabilidades de controle.",
+        "B": "A administração não deve gerar informações do ambiente de controle.",
+        "C": "A comunicação se esgota quando a informação é compartilhada.",
+        "D": "A comunicação externa se dá exclusivamente pelo recebimento de informações pertinentes.",
+        "E": "As informações são transmitidas para a organização pela comunicação interna."
+      }
+    },
+    {
+      "id": "C1-100",
+      "tema": "D8",
+      "assunto": "Controle interno (COSO): deficiências significativas, objetivos, ambiente, risco, atividades, informação e monitoramento",
+      "enunciado": "O nível de governança de determinada entidade deixou de programar um sistema apropriado de monitoramento do sistema de controle. Apesar disso, essa entidade será capaz de",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 1 — questão 100",
+      "alternativas": {
+        "A": "produzir informação confiável para a tomada de decisões.",
+        "B": "preparar demonstrativos financeiros seguros.",
+        "C": "escolher os integrantes do sistema de controle.",
+        "D": "prover certificados sobre a efetividade operacional interna.",
+        "E": "identificar e corrigir problemas de controle interno."
+      }
+    },
+    {
+      "id": "CF-21",
+      "tema": "D8",
+      "assunto": "Princípios de integridade e accountability (Decreto n.º 9.203/2017)",
+      "enunciado": "Os princípios da integridade e da prestação de contas e responsabilidade (accountability), disciplinados pelo Decreto n.º 9.203/2017, representam, respectivamente,",
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO — questão 21",
+      "alternativas": {
+        "A": "a busca pela prevenção da corrupção e pelo fortalecimento dos padrões morais de conduta, e a vinculação necessária, notadamente na administração de recursos públicos, entre decisões, condutas e competências e seus respectivos responsáveis.",
+        "B": "o desenvolvimento e a avaliação de políticas e de atos normativos em um processo transparente, baseado em evidências e orientado pela visão de cidadãos e partes interessadas, e a vinculação necessária, notadamente na administração de recursos públicos, entre decisões, condutas e competências e seus respectivos responsáveis.",
+        "C": "a competência de uma instituição pública de atender, de forma eficiente e eficaz, às necessidades dos cidadãos, inclusive antevendo interesses e antecipando aspirações, e o compromisso da administração pública com a divulgação das suas atividades, prestando informações confiáveis, relevantes e tempestivas à sociedade.",
+        "D": "a capacidade das instituições de minimizar as incertezas para os cidadãos nos ambientes econômico, social e político, e o compromisso da administração pública com a divulgação das suas atividades, prestando informações confiáveis, relevantes e tempestivas à sociedade."
+      }
+    },
+    {
+      "id": "CF-22",
+      "tema": "D8",
+      "assunto": "Governança pública: instâncias internas, dimensões das esferas e funções",
+      "enunciado": "De acordo com o entendimento do Tribunal de Contas da União, as instâncias internas de governança",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO — questão 22",
+      "alternativas": {
+        "A": "realizam a comunicação entre partes interessadas internas e externas à administração, bem como auditorias internas que avaliam e monitoram riscos e controles internos, comunicando quaisquer disfunções identificadas à alta administração.",
+        "B": "são responsáveis pela fiscalização, pelo controle e pela regulação, desempenham importante papel para promoção da governança das organizações públicas, são autônomas e independentes e não estão vinculadas a apenas uma organização.",
+        "C": "são responsáveis por definir ou avaliar a estratégia e as políticas, bem como monitorar a conformidade e o desempenho destas, devendo agir nos casos em que desvios forem identificados; são responsáveis, ainda, por garantir que a estratégia e as políticas formuladas atendam ao interesse público.",
+        "D": "são responsáveis pela avaliação, pela auditoria e pelo monitoramento independente e, nos casos em que disfunções são identificadas, são responsáveis também pela comunicação dos fatos às instâncias superiores de governança; não fazem parte da organização."
+      }
+    },
+    {
+      "id": "CF-23",
+      "tema": "D8",
+      "assunto": "Governança pública: instâncias internas, dimensões das esferas e funções",
+      "enunciado": "A respeito da governança e da gestão, julgue os itens a seguir.\n\nI A governança provê direcionamento, monitora, supervisiona e avalia a atuação da gestão, com vistas ao atendimento das necessidades e expectativas dos cidadãos e demais partes interessadas, garantindo qualidade e efetividade ao processo decisório.\n\nII A gestão diz respeito ao funcionamento operacional e cotidiano de programas e de organizações no contexto de estratégias, políticas, processos e procedimentos que foram estabelecidos pelo órgão, sendo voltada para a eficiência e a eficácia.\n\nIII São funções da governança implementar programas, garantir a conformidade com a regulamentação, garantir a eficiência da administração, revisar e reportar o progresso de ações, com base no direcionamento superior.\n\nAssinale a opção correta.",
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO — questão 23",
+      "alternativas": {
+        "A": "Apenas os itens I e II estão certos.",
+        "B": "Apenas os itens I e III estão certos.",
+        "C": "Apenas os itens II e III estão certos.",
+        "D": "Todos os itens estão certos."
+      }
+    },
+    {
+      "id": "CF-24",
+      "tema": "D8",
+      "assunto": "Governança pública: instâncias internas, dimensões das esferas e funções",
+      "enunciado": "Em relação às dimensões das esferas de governança, assinale a opção correta.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO — questão 24",
+      "alternativas": {
+        "A": "A dimensão de órgãos e entidades se preocupa com as políticas públicas e com as relações entre estruturas e setores, incluindo diferentes esferas, poderes, níveis de governo e representantes da sociedade civil organizada.",
+        "B": "A dimensão sociedade e Estado é a vertente corporativa da governança no setor público, com foco nas organizações, e busca maximizar os resultados das ações, dos projetos e dos serviços prestados ao público.",
+        "C": "A dimensão de atividades intraorganizacionais é o sistema de governança pelo qual os recursos de uma organização são dirigidos, controlados e avaliados, de modo a otimizar o seu uso, reduzir riscos, agregar valor a órgãos e entidades e contribuir para o alcance de resultados esperados.",
+        "D": "A dimensão de entes federativos, esferas de poder e políticas públicas possui viés político, voltado para formulação de políticas públicas destinadas ao atendimento dos interesses da sociedade, e define as regras e os princípios que orientam a atuação dos agentes públicos e privados regidos pela Constituição Federal de 1988."
+      }
+    },
+    {
+      "id": "CF-27",
+      "tema": "D8",
+      "assunto": "Classificação dos controles internos (preventivos e detectivos)",
+      "enunciado": "Em relação à classificação dos controles internos, os controles que identificam a materialização de eventos de risco e a existência de problemas ou desvios do padrão, sem impedir a sua ocorrência, são denominados",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO — questão 27",
+      "alternativas": {
+        "A": "compensatórios.",
+        "B": "indiretos.",
+        "C": "preventivos.",
+        "D": "detectivos."
+      }
+    },
+    {
+      "id": "CF-28",
+      "tema": "D8",
+      "assunto": "Gestão de riscos: risco residual, apetite, tolerância e compartilhamento de riscos",
+      "enunciado": "Em relação aos conceitos fundamentais de risco, de apetite ao risco e de tolerância ao risco, assinale a opção correta.",
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO — questão 28",
+      "alternativas": {
+        "A": "Risco residual é o que ainda remanesce após a sua mitigação por meio dos controles.",
+        "B": "A tolerância ao risco define o processo normal de aceitação dos riscos, ou seja, as zonas de aceitação ou não aceitação de risco pela organização no seu dia a dia.",
+        "C": "O apetite ao risco trata da exceção, ou seja, do quanto tolerar que o risco fuja de sua zona de aceitação esporadicamente.",
+        "D": "Denomina-se risco inerente o que é remanescente após a implementação dos controles mitigatórios."
+      }
+    },
+    {
+      "id": "CF-29",
+      "tema": "D8",
+      "assunto": "Gestão de riscos: risco residual, apetite, tolerância e compartilhamento de riscos",
+      "enunciado": "No que tange à gestão dos riscos, julgue os itens a seguir.\n\nI A identificação dos riscos é a primeira etapa da gestão dos riscos, cuja finalidade é gerar uma lista abrangente de riscos baseada em eventos que possam criar, aumentar, evitar, reduzir, acelerar ou atrasar a realização dos objetivos.\n\nII Na avaliação dos riscos, os riscos são analisados considerando a probabilidade e o impacto, visando determinar o modo como serão administrados.\n\nIII Um risco que possua alta probabilidade e baixo impacto é geralmente denominado como \"cisne negro\".\n\nAssinale a opção correta.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO — questão 29",
+      "alternativas": {
+        "A": "Apenas o item I está certo.",
+        "B": "Apenas o item II está certo.",
+        "C": "Apenas os itens I e II estão certos.",
+        "D": "Apenas os itens II e III estão certos."
+      }
+    },
+    {
+      "id": "CF-30",
+      "tema": "D8",
+      "assunto": "Gestão de riscos: risco residual, apetite, tolerância e compartilhamento de riscos",
+      "enunciado": "A decisão de compartilhar um risco é adequada quando",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO — questão 30",
+      "alternativas": {
+        "A": "seu nível se encontra em uma zona que ameaça os objetivos da organização e a implementação de controles apresenta um custo/benefício adequado.",
+        "B": "seu nível se encontra em uma zona confortável para o gestor, ou seja, o risco não está ameaçando os objetivos da organização.",
+        "C": "seu nível está em uma zona crítica de alta probabilidade e alto impacto, comprometendo totalmente os objetivos da organização.",
+        "D": "seu nível está em uma zona que ameaça os objetivos da organização e a implementação de controles não apresenta um custo/benefício adequado."
+      }
+    },
+    {
+      "id": "CF-32",
+      "tema": "D8",
+      "assunto": "Linhas de defesa e terceira linha (auditoria interna)",
+      "enunciado": "A atividade responsável pela avaliação dos controles internos de gestão que integra a terceira linha de defesa das organizações é denominada",
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO — questão 32",
+      "alternativas": {
+        "A": "auditoria interna.",
+        "B": "auditoria externa.",
+        "C": "conformidade.",
+        "D": "controle de gerência."
+      }
+    },
+    {
+      "id": "C2-65",
+      "tema": "D9",
+      "assunto": "Lei n.º 8.666/1993: inexigibilidade, modalidades licitatórias e cláusulas exorbitantes",
+      "enunciado": "Conforme a Lei n.º 8.666/1993, que institui normas para licitações e contratos da administração pública, é caso de inexigibilidade de licitação a",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 2 — questão 65",
+      "alternativas": {
+        "A": "intervenção da União no domínio econômico para regular preços ou normalizar o abastecimento.",
+        "B": "contratação de serviços de treinamento de pessoal com profissionais de notória especialização.",
+        "C": "execução de obras e serviços complexos de engenharia, de qualquer valor.",
+        "D": "grave perturbação da ordem ou o estado de guerra.",
+        "E": "contratação de serviços de publicidade e divulgação."
+      }
+    },
+    {
+      "id": "C2-66",
+      "tema": "D9",
+      "assunto": "Lei n.º 8.666/1993: inexigibilidade, modalidades licitatórias e cláusulas exorbitantes",
+      "enunciado": "Conforme a Lei n.º 8.666/1993, a modalidade de licitação entre interessados devidamente cadastrados ou que atenderem a todas as condições exigidas para cadastramento até o terceiro dia anterior à data do recebimento das propostas, observada a necessária qualificação, é",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 2 — questão 66",
+      "alternativas": {
+        "A": "a concorrência.",
+        "B": "a tomada de preços.",
+        "C": "o convite.",
+        "D": "o leilão.",
+        "E": "o pregão."
+      }
+    },
+    {
+      "id": "C2-67",
+      "tema": "D9",
+      "assunto": "Lei n.º 8.666/1993: inexigibilidade, modalidades licitatórias e cláusulas exorbitantes",
+      "enunciado": "Assinale a opção que apresenta exemplo de cláusula exorbitante de um contrato administrativo.",
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 2 — questão 67",
+      "alternativas": {
+        "A": "sanções pela inexecução total ou parcial do contrato",
+        "B": "objeto e seus elementos característicos",
+        "C": "regime de execução",
+        "D": "obrigação do contratado de manter as condições de habilitação e qualificação exigidas na licitação",
+        "E": "forma de fornecimento"
+      }
+    },
+    {
+      "id": "C2-63",
+      "tema": "D9",
+      "assunto": "Lei n.º 8.987/1995: regime de concessão e permissão de serviço público",
+      "enunciado": "De acordo com a Lei n.º 8.987/1995, que dispõe sobre o regime de concessão e permissão da prestação de serviços públicos, precede uma concessão o critério de julgamento da licitação que consiste",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 2 — questão 63",
+      "alternativas": {
+        "A": "no maior valor de tarifa ofertado.",
+        "B": "na menor oferta de outorga.",
+        "C": "na melhor relação custo × benefício.",
+        "D": "no melhor preço ofertado.",
+        "E": "na melhor oferta de pagamento pela outorga após qualificação de propostas técnicas."
+      }
+    },
+    {
+      "id": "C2-64",
+      "tema": "D9",
+      "assunto": "Lei n.º 8.987/1995: regime de concessão e permissão de serviço público",
+      "enunciado": "Ainda de acordo com a Lei n.º 8.987/1995, assinale a opção que apresenta uma característica do regime de concessão ou permissão.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 2 — questão 64",
+      "alternativas": {
+        "A": "A licitação prévia é dispensada quando a concessão de serviço público precede a execução de obra pública.",
+        "B": "A concessão, ao contrário da permissão, tem caráter precário, podendo ser revogada a qualquer momento.",
+        "C": "A permissão de serviço público será formalizada mediante contrato de adesão.",
+        "D": "A concessão, ao contrário da permissão, pode ser feita pelo poder concedente à pessoa física ou jurídica.",
+        "E": "A subconcessão não é admitida nos contratos de concessão."
+      }
+    },
+    {
+      "id": "C1-87",
+      "tema": "D9",
+      "assunto": "Parceria público-privada (Lei n.º 11.079/2004)",
+      "enunciado": "De acordo com a Lei n.º 11.079/2004, para todos os casos em que se pretenda adotar uma parceria público-privada (PPP), é necessário que",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 1 — questão 87",
+      "alternativas": {
+        "A": "o prazo de vigência do contrato a ser firmado não ultrapasse o limite de dez anos.",
+        "B": "o valor do contrato a ser firmado seja igual ou superior a dez milhões de reais.",
+        "C": "a contraprestação pecuniária exclua a tarifa cobrada dos usuários do serviço público a ser contratado.",
+        "D": "as penalidades contratualmente previstas sejam restritas ao parceiro privado.",
+        "E": "o objeto do contrato exclua a execução de obras pelo parceiro privado."
+      }
+    },
+    {
+      "id": "ESP-52",
+      "tema": "D9",
+      "assunto": "Parceria público-privada (Lei n.º 11.079/2004)",
+      "enunciado": "Considerando as normas gerais para licitação e contratação de parceria público-privada, assinale a opção correta.",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS PARA TODOS OS CARGOS AREAS CAMPOS DE ATUACAO — questão 52",
+      "alternativas": {
+        "A": "A sociedade de propósito específico deverá assumir a forma de companhia aberta.",
+        "B": "O edital de contratação poderá prever leilão a viva voz, depois da abertura das propostas escritas.",
+        "C": "A administração pública deverá ser acionista majoritária da sociedade de propósito específico.",
+        "D": "A contratação de parceria público-privada será precedida por processo de licitação na modalidade convite.",
+        "E": "O limite de garantia concedido pela União aos estados incluirá as despesas de contratos de parceria celebrados por toda a administração direta e indireta."
+      }
+    },
+    {
+      "id": "C1-81",
+      "tema": "D9",
+      "assunto": "Lei n.º 13.303/2016: aditivos contratuais em empresa pública",
+      "enunciado": "A administração de uma empresa pública, durante a execução de uma obra contratada conforme as disposições da Lei n.º 13.303/2016, verificou a necessidade de acrescentar serviços e, consequentemente, propôs aumentar o valor do contrato em 20% do inicialmente pactuado. A contratada não concordou com o aditivo contratual, alegando que os valores apresentados eram demasiadamente baixos para suportar os acréscimos de serviços necessários. Com relação a essa situação hipotética, é correto afirmar que",
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 1 — questão 81",
+      "alternativas": {
+        "A": "a contratada tem o direito de recusar o aditivo contratual, porque inexiste obrigação legal para o aceite.",
+        "B": "a contratada é obrigada a aceitar o aditivo contratual, porque os acréscimos de valores propostos estão dentro dos limites legais.",
+        "C": "a contratante não pode propor o aditivo contratual, porque este supera o limite de acréscimo de valores permitido por lei.",
+        "D": "a contratada é obrigada a aceitar o aditivo contratual, desde que a contratante concorde em rever os valores iniciais pactuados.",
+        "E": "a contratante não pode propor o aditivo contratual, porque a lei veda alterações relativas a acréscimos ou supressões de valores."
+      }
+    },
+    {
+      "id": "C1-82",
+      "tema": "D9",
+      "assunto": "Reequilíbrio econômico-financeiro e reajuste contratual",
+      "enunciado": "Um órgão público realizou processo licitatório em conformidade com as disposições da Lei n.º 8.666/1993 e contratou uma empresa para a construção de um prédio. Durante a execução da obra, a contratada requereu revisão contratual, visando ao reequilíbrio econômico-financeiro do contrato, alegando que o cimento, principal insumo da obra, havia tido um aumento significativo e generalizado no mercado, o que foi comprovado por pesquisa de preços. Nessa situação hipotética, a contratada terá",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 1 — questão 82",
+      "alternativas": {
+        "A": "obrigação de absorver os prejuízos causados pelo aumento do cimento, independentemente dos fatores que os motivaram.",
+        "B": "direito ao reequilíbrio econômico-financeiro, que dependerá das variações de preço dos outros insumos e serviços relativos ao contrato.",
+        "C": "direito a suprimir os serviços para os quais seja necessário cimento, alterando a solução estrutural da edificação.",
+        "D": "obrigação de renegociar o seu contrato de fornecimento de cimento ou buscar novos fornecedores.",
+        "E": "direito ao uso do seguro contratual para compensar os prejuízos se o acréscimo de valor for igual ou inferior ao limite de aditivo contratual legalmente previsto."
+      }
+    },
+    {
+      "id": "C2-74",
+      "tema": "D9",
+      "assunto": "Reequilíbrio econômico-financeiro e reajuste contratual",
+      "enunciado": "As informações seguintes se referem à execução de obra em determinado município do estado do Ceará, contratada conforme as disposições legais vigentes.\n\nvalor inicial do contrato R$ 895.000\n\nprazo de execução da obra 18 meses\n\nvalor contratual dos serviços executados após 12 meses do contrato R$ 620.000\n\níndice nacional da construção civil (INCC) no mês de apresentação da proposta 0,40\n\nINCC após 12 meses de execução da obra 0,60\n\nNessa situação hipotética, considerando-se o reajustamento contratual de preços de obras públicas, o valor final reajustado, em reais, é igual a",
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 2 — questão 74",
+      "alternativas": {
+        "A": "412.500.",
+        "B": "366.666.",
+        "C": "275.000.",
+        "D": "207.500.",
+        "E": "137.500."
+      }
+    },
+    {
+      "id": "C2-94",
+      "tema": "D9",
+      "assunto": "Reequilíbrio econômico-financeiro e reajuste contratual",
+      "enunciado": "Durante a execução de uma obra rodoviária prevista contratualmente para ser executada em três anos, houve um reequilíbrio econômico-financeiro total do contrato na metade do segundo ano da obra, sem qualquer dilação do prazo de execução estabelecido inicialmente. Acerca dessa situação, assinale a opção correta.",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 2 — questão 94",
+      "alternativas": {
+        "A": "A legislação aplicável determina a impossibilidade de qualquer novo reajuste contratual.",
+        "B": "Mesmo havendo o reequilíbrio econômico-financeiro, a data-base original do contrato deve ser mantida.",
+        "C": "O reequilíbrio econômico-financeiro exige, necessariamente, revisão dos índices de reajustamento.",
+        "D": "A data do reequilíbrio econômico-financeiro marca a nova data-base do contrato.",
+        "E": "O reequilíbrio econômico-financeiro exige, necessariamente, redução da periodicidade de reajustamentos."
+      }
+    },
+    {
+      "id": "C1-83",
+      "tema": "D9",
+      "assunto": "Modalidade pregão em obra/serviço de engenharia",
+      "enunciado": "A administração pública adotou a modalidade licitatória pregão para contratar uma empresa para realizar a troca do piso de uma sala de órgão público. Nesse caso, a escolha da referida modalidade licitatória foi",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 1 — questão 83",
+      "alternativas": {
+        "A": "errada, pois o pregão é permitido apenas para contratar serviços de engenharia que sejam de natureza estritamente intelectual.",
+        "B": "errada, pois o pregão é vedado para qualquer tipo de obra ou serviço de engenharia.",
+        "C": "correta, pois a troca de piso de uma sala é considerada um serviço de engenharia comum.",
+        "D": "errada, pois a troca de piso de uma sala é uma complexa obra de engenharia.",
+        "E": "correta, pois a troca do piso de uma sala é apenas um serviço de fornecimento de material comum."
+      }
+    },
+    {
+      "id": "C1-84",
+      "tema": "D9",
+      "assunto": "Contratação direta: dispensa e inexigibilidade (emergência)",
+      "enunciado": "Um dos pilares de um viaduto foi danificado por explosivos utilizados em ação criminosa. Em razão do risco iminente de queda dessa edificação, a administração pública atestou a necessidade de escorar a estrutura. Porém, por não haver equipamentos e pessoal disponível para executar o serviço diretamente, o gestor público responsável pretende contratar uma empresa privada para realizar o serviço. Nessa situação hipotética, a administração pública deverá",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 1 — questão 84",
+      "alternativas": {
+        "A": "isolar a área do viaduto e instaurar processo licitatório para realizar a contratação do serviço de escoramento.",
+        "B": "contratar o serviço de escoramento de maneira direta, por ser hipótese de inexigibilidade de licitação.",
+        "C": "comprar equipamentos para realizar o serviço de escoramento de maneira direta, por ser hipótese de dispensa de licitação, e contratar mão de obra temporária para a execução do serviço.",
+        "D": "contratar o serviço de escoramento de maneira direta, por ser hipótese de dispensa de licitação.",
+        "E": "contratar de maneira direta o serviço de escoramento conjuntamente com o de restauração do pilar, por ser hipótese de inexigibilidade de licitação."
+      }
+    },
+    {
+      "id": "C1-85",
+      "tema": "D9",
+      "assunto": "Sistema de registro de preços: adesão à ata por órgão não participante",
+      "enunciado": "Um órgão da administração pública federal gerencia uma ata de registro de preços de fornecimento de peças de reposição de equipamentos. Outro órgão, do governo estadual, precisa adquirir as mesmas peças constantes da referida ata. Nesse caso, o órgão do governo estadual",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 1 — questão 85",
+      "alternativas": {
+        "A": "não poderá aderir à referida ata por ser órgão externo da administração pública estadual.",
+        "B": "poderá utilizar a referida ata, independentemente de justificar a vantagem e de ter a anuência do órgão gerenciador.",
+        "C": "poderá utilizar a referida ata, independentemente de anuência do órgão gerenciador, desde que justificada a vantagem.",
+        "D": "não poderá aderir à referida ata, haja vista vedação legalmente expressa para tal.",
+        "E": "poderá utilizar a referida ata, desde que justificada a vantagem e concedida a anuência do órgão gerenciador."
+      }
+    },
+    {
+      "id": "C1-86",
+      "tema": "D9",
+      "assunto": "Regime Diferenciado de Contratações (RDC): modo de disputa e julgamento",
+      "enunciado": "Durante o processo licitatório de uma obra regida pela legislação que dispõe sobre o regime diferenciado de contratações públicas (RDC), foram adotados o modo de disputa aberto e o critério de julgamento de menor preço. Considerando essa situação hipotética, assinale a opção correta, referente a procedimento a ser adotado após o julgamento das propostas.",
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 1 — questão 86",
+      "alternativas": {
+        "A": "O licitante vencedor deverá reelaborar e apresentar as suas planilhas de custos ajustadas ao lance vencedor.",
+        "B": "A comissão de licitação deverá analisar a conformidade de todas as propostas apresentadas por todos os licitantes.",
+        "C": "A comissão de licitação deverá reabrir a fase de lances da licitação ao final do julgamento, sempre que considerar pertinente.",
+        "D": "O licitante deverá apresentar novos atestados, além dos solicitados no edital, para confirmar a sua capacidade técnica.",
+        "E": "O licitante deverá elaborar planilha que indique o desconto proposto linearmente sobre os preços de todos os itens do orçamento."
+      }
+    },
+    {
+      "id": "C1-88",
+      "tema": "D9",
+      "assunto": "Execução contratual: atraso, penalidades e decisão da administração",
+      "enunciado": "Uma empresa contratada para executar uma obra pública atrasou injustificadamente o serviço, o que incorreu na aplicação das devidas penalidades contratuais. Ainda assim, o atraso não foi compensado: a obra não foi concluída na data prevista e o prazo de vigência do contrato está prestes a terminar. Mesmo nesse cenário, ainda há interesse público na conclusão da obra, que é considerada urgente e prioritária. Nessa situação hipotética, de acordo com a legislação pertinente, a decisão mais adequada a ser tomada pela administração pública, com a devida motivação, é",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 1 — questão 88",
+      "alternativas": {
+        "A": "manter o contrato, ampliar o prazo de execução da obra e descartar a possibilidade de aplicação de penalidades futuras.",
+        "B": "rescindir o contrato, aplicar penalidades contratuais e contratar, por inexigibilidade, outra empresa para executar o serviço remanescente.",
+        "C": "manter o contrato sem modificar o cronograma de execução da obra, mas ampliar o prazo de vigência contratual, por ser uma obra urgente e prioritária.",
+        "D": "manter o contrato sem modificar o cronograma de execução da obra nem o prazo de vigência contratual.",
+        "E": "anular o contrato vigente, repactuando as condições de execução da obra, e recontratar a mesma empresa."
+      }
+    },
+    {
+      "id": "C2-100",
+      "tema": "D9",
+      "assunto": "Execução contratual: atraso, penalidades e decisão da administração",
+      "enunciado": "O fiscal responsável pela medição de uma obra pública observou que a construtora contratada, sem a devida autorização e sem justificativa aceitável, deixou de executar determinado serviço, mas executou outro, de mesmo valor, previsto para ser executado somente no mês seguinte. O valor final no boletim de medição não sofreu alteração em relação ao previsto: houve apenas a troca de um serviço pelo outro. Acerca dessa situação, assinale a opção correta com relação à forma de agir da construtora.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 2 — questão 100",
+      "alternativas": {
+        "A": "Ao realizar o ajuste financeiro, a construtora agiu de forma correta, estando sujeita apenas a advertência informal por não ter comunicado previamente o ajuste à fiscalização.",
+        "B": "Ao deixar de executar o serviço, a construtora agiu de forma incorreta, estando isenta das penalidades contratuais devido à compensação financeira.",
+        "C": "Ao realizar o ajuste financeiro, a construtora agiu de forma correta, tendo direito a remuneração variável devido à eficiência na compensação do atraso.",
+        "D": "Ao compensar o atraso, a construtora agiu de forma correta, pois a legislação aplicável admite que o contrato preveja ajustes informais no cronograma físico.",
+        "E": "Ao deixar de executar o serviço, a construtora agiu de forma incorreta, estando sujeita às penalidades contratuais por atraso de execução."
+      }
+    },
+    {
+      "id": "C1-90",
+      "tema": "D9",
+      "assunto": "Limites legais de aditivos contratuais (acréscimos e supressões)",
+      "enunciado": "Durante a execução de uma obra pública contratada pelo regime de empreitada por preço unitário, em conformidade com a Lei n.º 8.666/1993, e cujo objeto era a construção de uma edificação, foi realizado um primeiro aditivo contratual de 10% de acréscimo sobre o valor do contrato inicial e de 15% de supressão de serviços. A administração pública decidiu, posteriormente, realizar um segundo aditivo, dessa vez acrescendo mais 10% de serviços ao contrato. A respeito dos limites de acréscimos e de supressões estabelecidos pela legislação pertinente, é correto afirmar que, nessa situação hipotética, o segundo aditivo é",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 1 — questão 90",
+      "alternativas": {
+        "A": "viável, desde que o novo acréscimo não seja fruto de alteração de especificações e de projeto.",
+        "B": "inviável, pois o primeiro aditivo consumiu totalmente o limite de 10% de acréscimos previsto na legislação.",
+        "C": "viável, desde que o novo acréscimo não seja fruto de erro de projeto.",
+        "D": "inviável, pois o primeiro aditivo consumiu totalmente o limite de 25% de acréscimos e supressões previsto na legislação.",
+        "E": "viável, pois o segundo acréscimo observou o limite legal, ainda sendo admissível um novo acréscimo adicional de 5%."
+      }
+    },
+    {
+      "id": "C1-89",
+      "tema": "D9",
+      "assunto": "Concessões: mecanismos privados de solução de controvérsias (arbitragem)",
+      "enunciado": "De acordo com a Lei n.º 8.987/1995, nos contratos de concessão, é permitida a previsão de mecanismos privados não previstos nas normas gerais sobre licitações e contratos administrativos, tal como",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 1 — questão 89",
+      "alternativas": {
+        "A": "multa por atraso.",
+        "B": "rescisão unilateral.",
+        "C": "regime de empreitada integral.",
+        "D": "arbitragem.",
+        "E": "alteração unilateral."
+      }
+    },
+    {
+      "id": "C4-84",
+      "tema": "D9",
+      "assunto": "Crimes licitatórios (Lei n.º 8.666/1993): dispensa indevida e admissão de empresa inidônea",
+      "enunciado": "A Lei de Licitações e Contratos — Lei n.º 8.666/1993 — impõe pena de detenção de três anos a cinco anos e multa ao agente que dispensar ou inexigir licitação fora das hipóteses previstas em lei, ou deixar de observar as formalidades pertinentes à dispensa ou à inexigibilidade. Em situação concreta, conforme a jurisprudência dos tribunais superiores, a dispensa indevida de licitação constitui",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 4 — questão 84",
+      "alternativas": {
+        "A": "crime de mera conduta, que, portanto, não admite a modalidade tentada.",
+        "B": "crime material cujo resultado é a própria celebração do contrato licitatório.",
+        "C": "crime para cuja configuração é exigido o dolo específico de auferir vantagem indevida para si ou para outrem.",
+        "D": "crime de concurso necessário entre servidor público e particular que celebre o contrato licitatório.",
+        "E": "crime material para cuja configuração é exigida a demonstração do prejuízo à administração pública."
+      }
+    },
+    {
+      "id": "C4-90",
+      "tema": "D9",
+      "assunto": "Crimes licitatórios (Lei n.º 8.666/1993): dispensa indevida e admissão de empresa inidônea",
+      "enunciado": "Zilda, funcionária pública responsável por certame licitatório, admitiu à licitação empresa declarada inidônea, vindo a praticar conduta prevista como crime na Lei de Licitações e Contratos. Ao tempo do fato, Zilda não tinha conhecimento da declaração de inidoneidade da empresa por condições alheias à sua vontade. Nessa situação hipotética, Zilda",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 4 — questão 90",
+      "alternativas": {
+        "A": "deverá responder na modalidade culposa por crime previsto na Lei de Licitações e Contratos, uma vez que agiu com negligência por não ter tomado conhecimento da declaração de inidoneidade.",
+        "B": "deverá responder na modalidade dolosa por crime previsto na Lei de Licitações e Contratos, uma vez que agiu assumindo o risco de incorrer no tipo penal.",
+        "C": "não deverá responder pelo crime, uma vez que agiu em erro de proibição, por desconhecimento da condição proibitiva.",
+        "D": "deverá responder por crime previsto na Lei de Licitações e Contratos, mas com isenção de pena, uma vez que agiu em descriminante putativa, supondo situação de fato que, se existisse, tornaria sua ação legítima.",
+        "E": "não deverá responder por crime previsto na Lei de Licitações e Contratos, uma vez que agiu em erro de tipo, por desconhecimento de elemento constitutivo do tipo penal."
+      }
+    },
+    {
+      "id": "CF-37",
+      "tema": "D9",
+      "assunto": "Fiscalização contratual: jogo de cronograma em obra pública",
+      "enunciado": "O jogo de cronograma em uma obra pública ocorre quando se verifica",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO — questão 37",
+      "alternativas": {
+        "A": "um atraso injustificado da obra, com remuneração indevida da administração local.",
+        "B": "uma paralisação sem autorização da fiscalização, de forma a comprometer o prazo de entrega da obra.",
+        "C": "uma dilação do prazo de execução da obra, sem aumento do escopo do contrato.",
+        "D": "uma antecipação de execução de parcela da obra, com ganhos injustificáveis por parte do contratado."
+      }
+    },
+    {
+      "id": "CF-45",
+      "tema": "D10",
+      "assunto": "Improbidade administrativa (Lei n.º 8.429/1992): enriquecimento ilícito e ação judicial",
+      "enunciado": "Em relação à responsabilização administrativa da pessoa jurídica (empresa) e dos seus administradores pela prática dos ilícitos previstos na Lei Anticorrupção, é correto afirmar que",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO — questão 45",
+      "alternativas": {
+        "A": "a responsabilização da empresa independe do seu vínculo com o agente que praticou o ato lesivo.",
+        "B": "ao processo de responsabilização aplica-se a teoria da dupla imputação.",
+        "C": "a mudança na composição societária das pessoas jurídicas é causa excludente de sanção.",
+        "D": "a responsabilidade da pessoa jurídica é objetiva e a dos seus administradores ou dirigentes é subjetiva."
+      }
+    },
+    {
+      "id": "CF-50",
+      "tema": "D10",
+      "assunto": "Improbidade administrativa (Lei n.º 8.429/1992): enriquecimento ilícito e ação judicial",
+      "enunciado": "A respeito da ação judicial de improbidade administrativa, é correto afirmar que",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO — questão 50",
+      "alternativas": {
+        "A": "o sujeito ativo da ação judicial de improbidade administrativa é a pessoa física ou jurídica que comete atos de improbidade administrativa tipificados no ordenamento jurídico.",
+        "B": "o seu exercício na esfera civil prejudica a ação penal.",
+        "C": "a legitimidade para a sua propositura está reservada ao Ministério Público e à pessoa jurídica interessada.",
+        "D": "a ação principal segue o rito sumário."
+      }
+    },
+    {
+      "id": "CF-46",
+      "tema": "D10",
+      "assunto": "Lei Anticorrupção (Lei n.º 12.846/2013): multa, atenuantes, prescrição e responsabilização",
+      "enunciado": "Nos processos administrativos de responsabilização decorrentes da aplicação da Lei Anticorrupção, sendo possível a estimação do valor, a sanção de multa pode variar",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO — questão 46",
+      "alternativas": {
+        "A": "de 0,1% a 10% do faturamento bruto da pessoa jurídica infratora, incluindo-se os tributos.",
+        "B": "de 0,1% a 10% do faturamento bruto da pessoa jurídica infratora, excluídos os tributos.",
+        "C": "de 0,1% a 20% do faturamento bruto da pessoa jurídica infratora, incluindo-se os tributos.",
+        "D": "de 0,1% a 20% do faturamento bruto da pessoa jurídica infratora, excluídos os tributos."
+      }
+    },
+    {
+      "id": "CF-47",
+      "tema": "D10",
+      "assunto": "Lei Anticorrupção (Lei n.º 12.846/2013): multa, atenuantes, prescrição e responsabilização",
+      "enunciado": "É considerado(a) atenuante de pena, quando da apuração de ilícitos previstos na Lei Anticorrupção,",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO — questão 47",
+      "alternativas": {
+        "A": "a existência de lucro líquido no ano anterior ao da ocorrência do ato lesivo.",
+        "B": "a não consumação da infração.",
+        "C": "o índice de liquidez geral e índice de solvência geral.",
+        "D": "a interrupção do fornecimento de serviço ou execução de obra."
+      }
+    },
+    {
+      "id": "CF-48",
+      "tema": "D10",
+      "assunto": "Lei Anticorrupção (Lei n.º 12.846/2013): multa, atenuantes, prescrição e responsabilização",
+      "enunciado": "Nos casos de infrações de caráter continuado, o prazo prescricional para atos lesivos praticados com base na Lei Anticorrupção é de",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO — questão 48",
+      "alternativas": {
+        "A": "3 anos, contados a partir do dia do conhecimento do fato.",
+        "B": "5 anos, contados a partir do dia do conhecimento do fato.",
+        "C": "3 anos, contados a partir do dia em que tiver cessado o ato.",
+        "D": "5 anos, contados a partir do dia em que tiver cessado o ato."
+      }
+    },
+    {
+      "id": "CF-49",
+      "tema": "D10",
+      "assunto": "Lei Anticorrupção (Lei n.º 12.846/2013): multa, atenuantes, prescrição e responsabilização",
+      "enunciado": "A caracterização do ato de improbidade que acarreta enriquecimento ilícito",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CURSO DE FORMACAO — questão 49",
+      "alternativas": {
+        "A": "subordina-se à aferição de danos ao erário.",
+        "B": "prescinde do exercício da função pública.",
+        "C": "depende da comprovação do dolo do agente público ou do particular (terceiro).",
+        "D": "relaciona-se ao recebimento de quaisquer vantagens pelo servidor público."
+      }
+    },
+    {
+      "id": "C4-99",
+      "tema": "D10",
+      "assunto": "Lei Anticorrupção (Lei n.º 12.846/2013): multa, atenuantes, prescrição e responsabilização",
+      "enunciado": "As sociedades empresárias e as fundações brasileiras ou estrangeiras sediadas no território brasileiro serão responsabilizadas objetivamente pelos atos lesivos que praticarem, desde que",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 4 — questão 99",
+      "alternativas": {
+        "A": "sejam direta e exclusivamente beneficiárias do ato.",
+        "B": "os atos decorram de incorporação societária, sendo afastada a responsabilização no caso de fusão societária.",
+        "C": "ocorra a responsabilização individual das pessoas físicas que compõem a pessoa jurídica.",
+        "D": "a responsabilidade das consorciadas se limite à obrigação de pagamento de multa e reparação integral do dano causado.",
+        "E": "a cisão societária preveja a responsabilidade da pessoa jurídica."
+      }
+    },
+    {
+      "id": "C4-100",
+      "tema": "D10",
+      "assunto": "Acordo de leniência (Lei n.º 12.846/2013)",
+      "enunciado": "A respeito de acordos de leniência e de responsabilização nos crimes previstos na Lei n.º 12.846/2013 — que dispõe sobre a responsabilização administrativa e civil de pessoas jurídicas pela prática de atos contra a administração pública, nacional ou estrangeira —, assinale a opção correta.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 4 — questão 100",
+      "alternativas": {
+        "A": "Celebrado o acordo de leniência, a pessoa jurídica fica automaticamente isenta do pagamento integral de eventuais multas.",
+        "B": "O acordo de leniência exime a pessoa jurídica da obrigação de reparar integralmente o dano causado.",
+        "C": "A competência para instauração e julgamento de processo administrativo de apuração de responsabilidade de pessoa jurídica poderá ser delegada.",
+        "D": "A Advocacia-Geral da União tem competência para avocar processos instaurados com fundamento na referida lei.",
+        "E": "As sanções aplicáveis incluem a suspensão das atividades da pessoa jurídica, mas não preveem a sua dissolução compulsória."
+      }
+    },
+    {
+      "id": "C4-83",
+      "tema": "D10",
+      "assunto": "Crimes contra a administração pública (peculato, condescendência criminosa, corrupção)",
+      "enunciado": "Mário, servidor público, subtraiu da administração um bem que estava sob sua posse e passou a tratá-lo como sua propriedade por um mês em sua residência. Convencido por sua esposa, Mário restituiu o bem, intacto, à administração pública. Considerando-se que, nessa situação hipotética, a conduta do servidor consista em peculato-apropriação e que, até a restituição da coisa subtraída, não tenha havido indiciamento nem denúncia, é correto afirmar que Mário",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 4 — questão 83",
+      "alternativas": {
+        "A": "não deverá responder pelo crime, uma vez que ocorreu a desistência voluntária.",
+        "B": "deverá responder pelo crime, pois a desistência não foi voluntária, mas determinada por terceiro.",
+        "C": "não deverá responder pelo crime, visto que agiu com arrependimento eficaz.",
+        "D": "deverá responder pelo crime, estando, porém, sujeito a redução de pena em razão do arrependimento posterior.",
+        "E": "deverá responder pelo crime na modalidade tentada, uma vez que o crime não se consumou por circunstâncias alheias à sua vontade."
+      }
+    },
+    {
+      "id": "C4-85",
+      "tema": "D10",
+      "assunto": "Crimes contra a administração pública (peculato, condescendência criminosa, corrupção)",
+      "enunciado": "Milton, valendo-se de sua condição de servidor público e cedendo a pedido de amigo íntimo, deixou de cumprir seu dever funcional ao não ter promovido ação para apurar infração de determinada empresa vinculada à administração pública. Nessa situação hipotética, apurada a conduta de Milton, ele deverá responder pelo crime de",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 4 — questão 85",
+      "alternativas": {
+        "A": "advocacia administrativa qualificada.",
+        "B": "corrupção passiva privilegiada.",
+        "C": "corrupção ativa.",
+        "D": "concussão.",
+        "E": "condescendência criminosa."
+      }
+    },
+    {
+      "id": "C4-87",
+      "tema": "D10",
+      "assunto": "Crimes contra a administração pública (peculato, condescendência criminosa, corrupção)",
+      "enunciado": "Com base no Código Penal e na jurisprudência dos tribunais superiores, julgue os itens seguintes, a respeito de crimes contra a fé pública, crimes contra a administração pública e dos efeitos da condenação.\n\nI Se o falso se exaurir no estelionato, sem outras potencialidades lesivas, será por este absorvido.\n\nII A falsificação de documento público, ainda que grosseira, pode ensejar a modalidade tentada no crime de falsificação de documento público.\n\nIII Contador que fizer afirmação falsa em processo administrativo praticará crime de falso testemunho.\n\nIV A condenação superior a quatro anos de detenção por crime funcional tem como efeito automático a perda do cargo público.\n\nEstão certos apenas os itens",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 4 — questão 87",
+      "alternativas": {
+        "A": "I e II.",
+        "B": "I e III.",
+        "C": "II e IV.",
+        "D": "I, III e IV.",
+        "E": "II, III e IV."
+      }
+    },
+    {
+      "id": "C4-92",
+      "tema": "D10",
+      "assunto": "Crimes contra a administração pública (peculato, condescendência criminosa, corrupção)",
+      "enunciado": "Com o objetivo de resguardar a probidade administrativa, os princípios da legalidade, da impessoalidade, da moralidade e da eficiência, além do normal funcionamento e do decoro da administração pública, o Código Penal tipifica condutas que, praticadas por servidor público, se consubstanciam em crimes contra a administração pública. A respeito desse assunto, assinale a opção correta.",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 4 — questão 92",
+      "alternativas": {
+        "A": "Para fins penais, o conceito de administração pública tem sentido restrito: não alcança os servidores contratados por empresas privadas prestadoras de serviço tipicamente público.",
+        "B": "Representante de conselho fiscal que se apropriar indevidamente de valores que estejam em sua posse em razão do cargo que exerce terá praticado o crime de peculato.",
+        "C": "O sujeito ativo do crime de prevaricação pode ser um particular, desde que aja em concurso com servidor público, mesmo que aquele desconheça a condição funcional do coautor.",
+        "D": "O ato de servidor público exigir para si vantagem indevida em razão de sua função pública configura o crime de corrupção passiva.",
+        "E": "A reparação do dano no caso de peculato culposo, mesmo que ocorra em momento posterior à prolação da sentença penal irrecorrível, extingue a punibilidade."
+      }
+    },
+    {
+      "id": "C4-93",
+      "tema": "D10",
+      "assunto": "Lavagem de dinheiro (Lei n.º 9.613/1998)",
+      "enunciado": "Acerca do crime de lavagem de dinheiro — previsto na Lei n.º 9.613/1998 —, assinale a opção correta, de acordo com a legislação de regência e o atual entendimento do STF.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 4 — questão 93",
+      "alternativas": {
+        "A": "O conceito de infração penal anterior apresentado na Lei n.º 9.613/1998 é restrito: ele exclui os crimes de menor potencial ofensivo.",
+        "B": "Para a configuração do crime de lavagem de dinheiro, é indispensável que a organização criminosa tenha concorrido, de qualquer modo, para a prática da infração penal anterior.",
+        "C": "O crime de lavagem de dinheiro é crime material: a ocultação de valores provenientes de infração penal anterior só produz resultado depois de esses valores serem introduzidos no sistema financeiro pela organização criminosa.",
+        "D": "O crime de lavagem de dinheiro é crime plurissubjetivo: fica configurado quando a operação de ocultar bens ou valores provenientes de infração penal anterior for realizada especificamente por organização criminosa.",
+        "E": "O crime de lavagem de dinheiro será crime permanente se for praticado na modalidade de ocultar os valores provenientes de infração penal anterior, estendendo-se a sua execução até que os objetos materiais da lavagem se tornem conhecidos."
+      }
+    },
+    {
+      "id": "C4-98",
+      "tema": "D10",
+      "assunto": "Anticorrupção internacional: FCPA e UK Bribery Act",
+      "enunciado": "Considerando o FCPA (Foreign Corrupt Practices Act), dos Estados Unidos da América, e o UKBA (United Kingdom Bribery Act), do Reino Unido, assinale a opção correta.",
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 4 — questão 98",
+      "alternativas": {
+        "A": "Enquanto o FCPA prevê multa individual de até duzentos mil dólares por violação, as multas previstas no UKBA são ilimitadas.",
+        "B": "Ambas as normas possuem dispositivos que expressamente proíbem a corrupção ativa e a passiva.",
+        "C": "Ambos proíbem pessoas jurídicas infratoras de receber incentivos fiscais ou empréstimos de entidades públicas pelo período de um ano a cinco anos.",
+        "D": "Ambas as normas possuem dispositivos que visam à proibição de corrupção de funcionários públicos nacionais.",
+        "E": "O FCPA exige que seja provada a responsabilidade objetiva de terceiros; o UKBA exige simplesmente a prova da intenção de corromper."
+      }
+    },
+    {
+      "id": "C5-85",
+      "tema": "D10",
+      "assunto": "Fatores que favorecem a incidência de corrupção",
+      "enunciado": "Assinale a opção que indica fator que favorece a incidência de corrupção.",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIALIZADOS CARGO 5 — questão 85",
+      "alternativas": {
+        "A": "participação cidadã na política",
+        "B": "falta de transparência",
+        "C": "graus elevados de liberdade de imprensa",
+        "D": "processos coletivos de tomada de decisão",
+        "E": "existência de órgãos de controle interno e externo"
+      }
+    }
+  ]
+}

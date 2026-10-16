@@ -1,0 +1,1734 @@
+{
+  "concurso": "tce_ms_25",
+  "banca": "Cebraspe",
+  "itens": [
+    {
+      "id": "CG2-4-Q23",
+      "tema": "D1",
+      "assunto": "Aplicabilidade das normas constitucionais (eficácia plena, contida e limitada)",
+      "enunciado": "Acerca da aplicabilidade das normas constitucionais, assinale a opção correta.",
+      "alternativas": {
+        "A": "As normas programáticas, por traçarem apenas diretrizes para a atuação do Estado, são desprovidas de qualquer eficácia.",
+        "B": "As normas de eficácia plena são aquelas que não podem ser alteradas por emenda à Constituição.",
+        "C": "A norma constitucional de que não haverá prisão civil por dívida, salvo a do responsável pelo inadimplemento voluntário e inescusável de obrigação alimentícia e a do depositário infiel, é considerada, pelo STF, norma de eficácia contida.",
+        "D": "A previsão constitucional de que é assegurada, nos termos da lei, a proteção às participações individuais em obras coletivas e à reprodução da imagem e voz humanas, inclusive nas atividades desportivas, é considerada norma de eficácia contida.",
+        "E": "A previsão constitucional de que o civilmente identificado não será submetido à identificação criminal, salvo nas hipóteses previstas em lei, configura norma de eficácia limitada, haja vista a necessidade de integração legislativa."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 2 E 4.pdf (Questão 23)"
+    },
+    {
+      "id": "CE3-Q48",
+      "tema": "D1",
+      "assunto": "Aplicabilidade das normas constitucionais (eficácia plena, contida e limitada)",
+      "enunciado": "O caput do art. 2.º da Constituição Federal de 1988 (CF) prevê que “São Poderes da União, independentes e harmônicos entre si, o Legislativo, o Executivo e o Judiciário”. De acordo com a classificação doutrinária tradicional da aplicabilidade das normas constitucionais, o referido dispositivo é de eficácia",
+      "alternativas": {
+        "A": "programática.",
+        "B": "limitada.",
+        "C": "exaurida.",
+        "D": "plena.",
+        "E": "contida."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 3.pdf (Questão 48)"
+    },
+    {
+      "id": "CG2-4-Q24",
+      "tema": "D1",
+      "assunto": "Direitos e garantias fundamentais (CF/88)",
+      "enunciado": "A respeito dos direitos e das garantias fundamentais, assinale a opção correta.",
+      "alternativas": {
+        "A": "A Constituição Federal de 1988 estabelece que o aviso prévio, direito do trabalhador urbano e rural, deve ser proporcional ao tempo de serviço, sendo, no mínimo, de trinta dias, nos termos da lei.",
+        "B": "As atividades de associações só poderão ser suspensas por decisão judicial transitada em julgado.",
+        "C": "O Ministério Público é legitimado para propor ação popular que vise à anulação de ato lesivo ao patrimônio público.",
+        "D": "Os tratados internacionais sobre direitos humanos em que o Brasil seja parte terão força constitucional, independentemente de sua forma de aprovação.",
+        "E": "O mandado de segurança destina-se a proteger qualquer direito líquido e certo quando o responsável pela ilegalidade ou pelo abuso de poder for autoridade pública ou agente de pessoa jurídica no exercício de atribuições do poder público."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 2 E 4.pdf (Questão 24)"
+    },
+    {
+      "id": "CG5-Q27",
+      "tema": "D1",
+      "assunto": "Direitos e garantias fundamentais (CF/88)",
+      "enunciado": "A respeito dos direitos e das garantias fundamentais, assinale a opção correta.",
+      "alternativas": {
+        "A": "Os tratados internacionais sobre direitos humanos em que o Brasil seja parte terão força constitucional, independentemente de sua forma de aprovação.",
+        "B": "O mandado de segurança destina-se a proteger qualquer direito líquido e certo quando o responsável pela ilegalidade ou pelo abuso de poder for autoridade pública ou agente de pessoa jurídica no exercício de atribuições do poder público.",
+        "C": "A Constituição Federal de 1988 estabelece que o aviso prévio, direito do trabalhador urbano e rural, deve ser proporcional ao tempo de serviço, sendo, no mínimo, de trinta dias, nos termos da lei.",
+        "D": "As atividades de associações só poderão ser suspensas por decisão judicial transitada em julgado.",
+        "E": "O Ministério Público é legitimado para propor ação popular que vise à anulação de ato lesivo ao patrimônio público."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 5.pdf (Questão 27)"
+    },
+    {
+      "id": "CE3-Q50",
+      "tema": "D1",
+      "assunto": "Direitos sociais e trabalhistas dos servidores públicos (CF/88)",
+      "enunciado": "A CF assegura aos servidores ocupantes de cargo público o direito",
+      "alternativas": {
+        "A": "à proibição de distinção entre trabalho manual, técnico e intelectual ou entre os respectivos profissionais.",
+        "B": "à remuneração do trabalho noturno superior à do diurno.",
+        "C": "ao aviso prévio proporcional ao tempo de serviço, a ser de, no mínimo, trinta dias, nos termos da lei.",
+        "D": "à proibição de qualquer discriminação referente a salário e critérios de admissão do trabalhador com deficiência.",
+        "E": "à proteção do salário na forma da lei, constituindo crime sua retenção dolosa."
+      },
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 3.pdf (Questão 50)"
+    },
+    {
+      "id": "CE1-Q32",
+      "tema": "D1",
+      "assunto": "Remédios constitucionais: habeas data",
+      "enunciado": "Determinado cidadão recebeu notificação da Receita Federal sobre um imposto não recolhido. Sem ter mais informações, ele solicitou ao órgão fazendário os extratos constantes dos sistemas informatizados de apoio à arrecadação. Após mais de um mês sem resposta do órgão, o cidadão resolveu buscar acesso a informações sobre si perante o Poder Judiciário. Nessa situação hipotética, o cidadão em apreço poderá se valer do(a)",
+      "alternativas": {
+        "A": "ação direta de inconstitucionalidade por omissão.",
+        "B": "habeas corpus.",
+        "C": "mandado de injunção.",
+        "D": "habeas data.",
+        "E": "mandado de segurança."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.pdf (Questão 32)"
+    },
+    {
+      "id": "CG2-4-Q25",
+      "tema": "D1",
+      "assunto": "Elegibilidade e cargos privativos de brasileiro nato",
+      "enunciado": "Mike nasceu em Nova Jersey (EUA), filho de mãe estadunidense e pai brasileiro, que, à época, estava a serviço do Brasil no consulado brasileiro em Nova Iorque. Atualmente, Mike tem 25 anos de idade e cumpre todas as demais condições de elegibilidade estabelecidas na Constituição Federal de 1988 (CF). Nessa situação hipotética, conforme os direitos fundamentais previstos na CF, Mike",
+      "alternativas": {
+        "A": "não poderá ser candidato a prefeito nas próximas eleições municipais, mas poderá ser candidato a deputado estadual ou distrital nas próximas eleições gerais.",
+        "B": "poderá ser candidato a senador da República nas próximas eleições gerais, mas, caso eleito, não poderá ser presidente do Senado Federal, pois não é brasileiro nato.",
+        "C": "não poderá ser candidato a deputado federal nas próximas eleições gerais, pois não é brasileiro nato.",
+        "D": "poderá candidatar-se ao cargo de governador de estado ou do Distrito Federal nas próximas eleições gerais e, caso eleito, poderá exercê-lo.",
+        "E": "poderá ser candidato a deputado federal nas próximas eleições gerais e, caso eleito pelo voto popular, poderá exercer o cargo de presidente da Câmara dos Deputados após eleição por seus pares."
+      },
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 2 E 4.pdf (Questão 25)"
+    },
+    {
+      "id": "CG5-Q28",
+      "tema": "D1",
+      "assunto": "Elegibilidade e cargos privativos de brasileiro nato",
+      "enunciado": "Mike nasceu em Nova Jersey (EUA), filho de mãe estadunidense e pai brasileiro, que, à época, estava a serviço do Brasil no consulado brasileiro em Nova Iorque. Atualmente, Mike tem 25 anos de idade e cumpre todas as demais condições de elegibilidade estabelecidas na Constituição Federal de 1988 (CF). Nessa situação hipotética, conforme os direitos fundamentais previstos na CF, Mike",
+      "alternativas": {
+        "A": "não poderá ser candidato a prefeito nas próximas eleições municipais, mas poderá ser candidato a deputado estadual ou distrital nas próximas eleições gerais.",
+        "B": "poderá ser candidato a senador da República nas próximas eleições gerais, mas, caso eleito, não poderá ser presidente do Senado Federal, pois não é brasileiro nato.",
+        "C": "não poderá ser candidato a deputado federal nas próximas eleições gerais, pois não é brasileiro nato.",
+        "D": "poderá candidatar-se ao cargo de governador de estado ou do Distrito Federal nas próximas eleições gerais e, caso eleito, poderá exercê-lo.",
+        "E": "poderá ser candidato a deputado federal nas próximas eleições gerais e, caso eleito pelo voto popular, poderá exercer o cargo de presidente da Câmara dos Deputados após eleição por seus pares."
+      },
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 5.pdf (Questão 28)"
+    },
+    {
+      "id": "CE3-Q53",
+      "tema": "D1",
+      "assunto": "Elegibilidade e cargos privativos de brasileiro nato",
+      "enunciado": "A Constituição Federal de 1988 estabelece como uma das condições de elegibilidade ao cargo de deputado federal a idade mínima de",
+      "alternativas": {
+        "A": "35 anos.",
+        "B": "30 anos.",
+        "C": "25 anos.",
+        "D": "21 anos.",
+        "E": "18 anos."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 3.pdf (Questão 53)"
+    },
+    {
+      "id": "CG2-4-Q26",
+      "tema": "D1",
+      "assunto": "Organização político-administrativa do Estado (federalismo, territórios e municípios)",
+      "enunciado": "Acerca da organização político-administrativa da República Federativa do Brasil, assinale a opção correta.",
+      "alternativas": {
+        "A": "Por integrarem a União, os territórios não poderão ser divididos em municípios.",
+        "B": "É vedada à União, aos estados, ao Distrito Federal e aos municípios qualquer relação com cultos religiosos ou igrejas.",
+        "C": "Para o desmembramento de estado, é necessária aprovação, por intermédio de plebiscito, da população diretamente interessada, isto é, apenas aquela da área a ser desmembrada.",
+        "D": "O desmembramento de municípios, por meio de lei estadual, dependerá de consulta prévia, mediante plebiscito, às populações dos municípios envolvidos, após divulgação dos estudos de viabilidade municipal, apresentados e publicados na forma da lei.",
+        "E": "O Distrito Federal é dividido em municípios, denominados cidades-satélites."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 2 E 4.pdf (Questão 26)"
+    },
+    {
+      "id": "CG2-4-Q28",
+      "tema": "D1",
+      "assunto": "Processo legislativo e comissões parlamentares de inquérito (CPI)",
+      "enunciado": "Em relação ao processo legislativo e às comissões parlamentares de inquérito (CPI), assinale a opção correta.",
+      "alternativas": {
+        "A": "As CPI têm os mesmos poderes de investigação das autoridades judiciais, motivo por que podem determinar interceptação telefônica.",
+        "B": "As CPI devem ter prazo certo de duração, porém há a possibilidade de prorrogação de seus trabalhos, os quais poderão ultrapassar os limites da legislatura.",
+        "C": "As CPI podem propor ação de improbidade administrativa na hipótese de suas conclusões apresentarem desvios praticados por gestores públicos.",
+        "D": "A matéria constante de proposta de emenda à Constituição rejeitada ou havida por prejudicada somente pode ser objeto de nova proposta na mesma sessão legislativa mediante iniciativa da maioria absoluta dos membros de qualquer das casas do Congresso Nacional.",
+        "E": "Caso o veto presidencial a projeto de lei (PL) seja rejeitado pela maioria absoluta dos deputados e senadores em sessão conjunta, o PL será encaminhado ao presidente da República, para promulgação."
+      },
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 2 E 4.pdf (Questão 28)"
+    },
+    {
+      "id": "CG5-Q30",
+      "tema": "D1",
+      "assunto": "Processo legislativo e comissões parlamentares de inquérito (CPI)",
+      "enunciado": "Em relação ao processo legislativo e às comissões parlamentares de inquérito (CPI), assinale a opção correta.",
+      "alternativas": {
+        "A": "As CPI podem propor ação de improbidade administrativa na hipótese de suas conclusões apresentarem desvios praticados por gestores públicos.",
+        "B": "A matéria constante de proposta de emenda à Constituição rejeitada ou havida por prejudicada somente pode ser objeto de nova proposta na mesma sessão legislativa mediante iniciativa da maioria absoluta dos membros de qualquer das casas do Congresso Nacional.",
+        "C": "Caso o veto presidencial a projeto de lei (PL) seja rejeitado pela maioria absoluta dos deputados e senadores em sessão conjunta, o PL será encaminhado ao presidente da República, para promulgação.",
+        "D": "As CPI têm os mesmos poderes de investigação das autoridades judiciais, motivo por que podem determinar interceptação telefônica.",
+        "E": "As CPI devem ter prazo certo de duração, porém há a possibilidade de prorrogação de seus trabalhos, os quais poderão ultrapassar os limites da legislatura."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 5.pdf (Questão 30)"
+    },
+    {
+      "id": "CG2-4-Q30",
+      "tema": "D1",
+      "assunto": "Atribuições e responsabilidades do presidente da República",
+      "enunciado": "No que se refere ao Poder Judiciário e às funções essenciais à justiça, assinale a opção correta.",
+      "alternativas": {
+        "A": "A Advocacia-Geral da União é a instituição que, diretamente ou por intermédio de órgão vinculado, representa a União, judicial e extrajudicialmente.",
+        "B": "Membro do Ministério Público do Trabalho pode ser nomeado pelo presidente da República para o cargo de procurador-geral da República, caso seu nome seja aprovado pela maioria absoluta dos membros do Congresso Nacional.",
+        "C": "Os defensores públicos, após dois anos de exercício, têm como garantia a vitaliciedade, não podendo perder o cargo senão por sentença judicial transitada em julgado.",
+        "D": "As decisões administrativas dos tribunais serão motivadas pela maioria absoluta de seus membros em sessão pública ou reservada, a depender do interesse envolvido.",
+        "E": "Compete ao Conselho Nacional de Justiça o controle da atuação administrativa, financeira e jurisdicional do Poder Judiciário."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 2 E 4.pdf (Questão 30)"
+    },
+    {
+      "id": "CG5-Q29",
+      "tema": "D1",
+      "assunto": "Atribuições e responsabilidades do presidente da República",
+      "enunciado": "Assinale a opção correta a respeito das atribuições e responsabilidades do presidente da República.",
+      "alternativas": {
+        "A": "O Presidente da República pode dispor, mediante decreto, acerca da organização e funcionamento da administração federal, podendo criar ou extinguir órgãos públicos, desde que não implique aumento de despesa.",
+        "B": "Na vigência de seu mandato, o presidente da República não pode ser responsabilizado por atos estranhos ao exercício de suas funções.",
+        "C": "As atribuições dopresidente da República são indelegáveis, haja vista oexercíciodasfunçõesdechefedeEstadoechefedegoverno.",
+        "D": "O presidente da República, ao responder por crime de responsabilidade, ficará suspenso de suas funções a partir do recebimento da denúncia pelo STF.",
+        "E": "O presidente da República, na vigência de seu mandato, somente poderá ser preso em flagrante de crime inafiançável."
+      },
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 5.pdf (Questão 29)"
+    },
+    {
+      "id": "CG2-4-Q27",
+      "tema": "D1",
+      "assunto": "Poder Judiciário e funções essenciais à justiça",
+      "enunciado": "Assinale a opção correta a respeito das atribuições e responsabilidades do presidente da República.",
+      "alternativas": {
+        "A": "As atribuições do presidente da República são indelegáveis, haja vista o exercício das funções de chefe de Estado e chefe de governo.",
+        "B": "O presidente da República, ao responder por crime de responsabilidade, ficará suspenso de suas funções a partir do recebimento da denúncia pelo STF.",
+        "C": "O Presidente da República pode dispor, mediante decreto, acerca da organização e funcionamento da administração federal, podendo criar ou extinguir órgãos públicos, desde que não implique aumento de despesa.",
+        "D": "Na vigência de seu mandato, o presidente da República não pode ser responsabilizado por atos estranhos ao exercício de suas funções.",
+        "E": "O presidente da República, na vigência de seu mandato, somente poderá ser preso em flagrante de crime inafiançável."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 2 E 4.pdf (Questão 27)"
+    },
+    {
+      "id": "CE3-Q51",
+      "tema": "D1",
+      "assunto": "Conselho Nacional de Justiça (CNJ): composição",
+      "enunciado": "Entre os membros do Conselho Nacional de Justiça (CNJ), um deles deve ser",
+      "alternativas": {
+        "A": "membro do Ministério Público estadual escolhido pelo procurador-geral de justiça do estado.",
+        "B": "juiz estadual indicado pelo STF.",
+        "C": "juiz federal indicado pelo STF.",
+        "D": "ministro do TCU indicado pelo presidente da República.",
+        "E": "desembargador de tribunal de justiça indicado pelo STJ."
+      },
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 3.pdf (Questão 51)"
+    },
+    {
+      "id": "CE3-Q52",
+      "tema": "D1",
+      "assunto": "Competência legislativa: direito financeiro",
+      "enunciado": "Segundo previsão expressa no texto constitucional, legislar sobre direito financeiro é competência:",
+      "alternativas": {
+        "A": "concorrente da União, dos estados, do Distrito Federal e dos municípios.",
+        "B": "privativa da União.",
+        "C": "concorrente da União e dos estados, apenas.",
+        "D": "concorrente da União, dos estados e do Distrito Federal, apenas.",
+        "E": "exclusiva dos estados."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 3.pdf (Questão 52)"
+    },
+    {
+      "id": "CE3-Q54",
+      "tema": "D1",
+      "assunto": "Competência do Senado: operações externas de natureza financeira",
+      "enunciado": "Conforme disposto expressamente no texto da Constituição Federal de 1988, a autorização de operações externas de natureza financeira, de interesse da União, dos estados, do Distrito Federal, dos territórios e dos municípios, é competência",
+      "alternativas": {
+        "A": "exclusiva do Congresso Nacional.",
+        "B": "suplementar da Câmara dos Deputados.",
+        "C": "compartilhada entre o Senado Federal e a Câmara dos Deputados.",
+        "D": "privativa da Câmara dos Deputados.",
+        "E": "privativa do Senado Federal."
+      },
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 3.pdf (Questão 54)"
+    },
+    {
+      "id": "CE1-Q29",
+      "tema": "D1",
+      "assunto": "Controle de constitucionalidade: ADI e legitimados",
+      "enunciado": "Assinale a opção que apresenta um legitimado universal para a propositura de ação direta de inconstitucionalidade sem a necessidade de demonstrar pertinência temática.",
+      "alternativas": {
+        "A": "entidade de classe de âmbito nacional",
+        "B": "governador de estado",
+        "C": "mesa de assembleia legislativa",
+        "D": "mesa da Câmara dos Deputados",
+        "E": "confederação sindical"
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.pdf (Questão 29)"
+    },
+    {
+      "id": "CE3-Q49",
+      "tema": "D1",
+      "assunto": "Controle de constitucionalidade: ADI e legitimados",
+      "enunciado": "Acerca do controle de constitucionalidade, julgue os itens a seguir. I O controle abstrato é a forma de controle de constitucionalidade exercida em relação a um caso concreto específico posto em juízo. II De acordo com súmula do STF, os tribunais de contas, no exercício de suas atribuições, podem apreciar a constitucionalidade de leis em casos concretos. III A improcedência de ação direta de inconstitucionalidade não produz coisa julgada. Assinale a opção correta.",
+      "alternativas": {
+        "A": "Apenas o item I está certo.",
+        "B": "Apenas o item II está certo.",
+        "C": "Apenas os itens I e III estão certos.",
+        "D": "Apenas os itens II e III estão certos.",
+        "E": "Todos os itens estão certos."
+      },
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 3.pdf (Questão 49)"
+    },
+    {
+      "id": "CG2-4-Q39",
+      "tema": "D2",
+      "assunto": "Código de Ética dos Servidores do TCE/MS (Comissão de Ética e processo ético)",
+      "enunciado": "Considerando o disposto no Código de Ética dos Servidores do TCE/MS, assinale a opção correta.",
+      "alternativas": {
+        "A": "A Comissão de Ética é formada por quatro membros, com igual número de suplentes.",
+        "B": "O citado código de ética não se aplica aos agentes públicos que prestam serviço a essa corte de contas em caráter temporário e de forma não remunerada.",
+        "C": "Os fatos e atos verificados na conduta cotidiana da vida privada do agente público que presta serviço ao TCE/MS não poderão influenciar no conceito de sua vida funcional.",
+        "D": "Ao presidente do TCE/MS compete estabelecer normas e procedimentos para instrução do rito de condução de processo ético para verificação de condutas relatadas em representação junto à Corregedoria-Geral.",
+        "E": "Compete à Comissão de Ética apurar condutas de agentes públicos em exercício no TCE/MS, instruir e conduzir processos éticos, sem eximir-se de fundamentar as proposições de aplicação de sanção ética."
+      },
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 2 E 4.pdf (Questão 39)"
+    },
+    {
+      "id": "CG1-Q20",
+      "tema": "D2",
+      "assunto": "Código de Ética dos Servidores do TCE/MS (Comissão de Ética e processo ético)",
+      "enunciado": "De acordo com o Código de Ética dos Servidores do TCE/MS, assinale a opção correta em relação às competências do presidente da Comissão de Ética.",
+      "alternativas": {
+        "A": "Cabe ao presidente da Comissão de Ética decidir os casos de urgência, sem necessidade de submeter a decisão ao colegiado.",
+        "B": "Os trabalhos da Comissão de Ética são conduzidos pelo seu presidente apenas em caso de ausência do membro titular.",
+        "C": "É atribuição do presidente da Comissão de Ética aplicar sanções administrativas em casos de infração ética.",
+        "D": "As reuniões da Comissão de Ética são conduzidas pelo membro mais antigo, cabendo ao presidente apenas elaborar a pauta.",
+        "E": "A principal função do presidente da Comissão de Ética é orientar e aconselhar os agentes públicos sobre a conduta ética funcional e profissional."
+      },
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 1.pdf (Questão 20)"
+    },
+    {
+      "id": "CG3-Q39",
+      "tema": "D2",
+      "assunto": "Código de Ética dos Servidores do TCE/MS (Comissão de Ética e processo ético)",
+      "enunciado": "Considerando o disposto no Código de Ética dos Servidores do TCE/MS, assinale a opção correta.",
+      "alternativas": {
+        "A": "Ao presidente do TCE/MS compete estabelecer normas e procedimentos para instrução do rito de condução de processo ético para verificação de condutas relatadas em representação junto à Corregedoria-Geral.",
+        "B": "Compete à Comissão de Ética apurar condutas de agentes públicos em exercício no TCE/MS, instruir e conduzir processos éticos, sem eximir-se de fundamentar as proposições de aplicação de sanção ética.",
+        "C": "A Comissão de Ética é formada por quatro membros, com igual número de suplentes.",
+        "D": "O citado código de ética não se aplica aos agentes públicos que prestam serviço a essa corte de contas em caráter temporário e de forma não remunerada.",
+        "E": "Os fatos e atos verificados na conduta cotidiana da vida privada do agente público que presta serviço ao TCE/MS não poderão influenciar no conceito de sua vida funcional."
+      },
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 3.pdf (Questão 39)"
+    },
+    {
+      "id": "CG5-Q39",
+      "tema": "D2",
+      "assunto": "Código de Ética dos Servidores do TCE/MS (Comissão de Ética e processo ético)",
+      "enunciado": "Considerando o disposto no Código de Ética dos Servidores do TCE/MS, assinale a opção correta.",
+      "alternativas": {
+        "A": "A Comissão de Ética é formada por quatro membros, com igual número de suplentes.",
+        "B": "Ao presidente do TCE/MS compete estabelecer normas e procedimentos para instrução do rito de condução de processo ético para verificação de condutas relatadas em representação junto à Corregedoria-Geral.",
+        "C": "Compete à Comissão de Ética apurar condutas de agentes públicos em exercício no TCE/MS, instruir e conduzir processos éticos, sem eximir-se de fundamentar as proposições de aplicação de sanção ética.",
+        "D": "O citado código de ética não se aplica aos agentes públicos que prestam serviço a essa corte de contas em caráter temporário e de forma não remunerada.",
+        "E": "Os fatos e atos verificados na conduta cotidiana da vida privada do agente público que presta serviço ao TCE/MS não poderão influenciar no conceito de sua vida funcional."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 5.pdf (Questão 39)"
+    },
+    {
+      "id": "CG2-4-Q16",
+      "tema": "D3",
+      "assunto": "Poderes administrativos (hierárquico, disciplinar, regulamentar e de polícia)",
+      "enunciado": "Assinale a opção correta sobre os poderes administrativos conferidos à administração pública.",
+      "alternativas": {
+        "A": "O poder de polícia, apesar dos atributos da coercibilidade e da autoexecutoriedade, não dispensa a necessidade específica de ordem judicial para ser exercido.",
+        "B": "O poder hierárquico justifica a avocação e a delegação de competências entre autoridades públicas, desde que respeitados os limites legais e o interesse público.",
+        "C": "O poder disciplinar, por ser discricionário, permite que a administração pública deixe de aplicar sanções a servidores mesmo quando comprovado o cometimento de infração funcional.",
+        "D": "O poder regulamentar permite à administração pública inovar o ordenamento jurídico por meio de decretos autônomos, independentemente de previsão legal expressa.",
+        "E": "O poder disciplinar pode ser exercido pela administração pública em face de qualquer particular que pratique infração administrativa, mesmo que ele não tenha vínculo contratual ou funcional com o poder público."
+      },
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 2 E 4.pdf (Questão 16)"
+    },
+    {
+      "id": "CG5-Q23",
+      "tema": "D3",
+      "assunto": "Poderes administrativos (hierárquico, disciplinar, regulamentar e de polícia)",
+      "enunciado": "Assinale a opção correta sobre os poderes administrativos conferidos à administração pública.",
+      "alternativas": {
+        "A": "O poder disciplinar, por ser discricionário, permite que a administração pública deixe de aplicar sanções a servidores mesmo quando comprovado o cometimento de infração funcional.",
+        "B": "O poder de polícia, apesar dos atributos da coercibilidade e da autoexecutoriedade, não dispensa a necessidade específica de ordem judicial para ser exercido.",
+        "C": "O poder hierárquico justifica a avocação e a delegação de competências entre autoridades públicas, desde que respeitados os limites legais e o interesse público.",
+        "D": "O poder regulamentar permite à administração pública inovar o ordenamento jurídico por meio de decretos autônomos, independentemente de previsão legal expressa.",
+        "E": "O poder disciplinar pode ser exercido pela administração pública em face de qualquer particular que pratique infração administrativa, mesmo que ele não tenha vínculo contratual ou funcional com o poder público."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 5.pdf (Questão 23)"
+    },
+    {
+      "id": "CG2-4-Q19",
+      "tema": "D3",
+      "assunto": "Administração pública indireta (autarquias, fundações, empresas públicas e sociedades de economia mista)",
+      "enunciado": "No que se refere às entidades que compõem a administração pública indireta, assinale a opção correta.",
+      "alternativas": {
+        "A": "As sociedades de economia mista são inteiramente controladas pelo Estado e possuem capital exclusivamente público.",
+        "B": "As autarquias e fundações públicas são pessoas jurídicas de direito privado, razão pela qual possuem certa flexibilidade administrativa e contratual.",
+        "C": "As autarquias são criadas por lei específica, possuem personalidade jurídica própria de direito público e exercem atividades típicas da administração pública.",
+        "D": "Por serem entidades descentralizadas, as fundações públicas não se submetem à fiscalização estatal.",
+        "E": "As empresas públicas e as sociedades de economia mista exercem exclusivamente atividades econômicas e, por isso, não estão sujeitas ao controle estatal."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 2 E 4.pdf (Questão 19)"
+    },
+    {
+      "id": "CG5-Q25",
+      "tema": "D3",
+      "assunto": "Administração pública indireta (autarquias, fundações, empresas públicas e sociedades de economia mista)",
+      "enunciado": "No que se refere às entidades que compõem a administração pública indireta, assinale a opção correta.",
+      "alternativas": {
+        "A": "As sociedades de economia mista são inteiramente controladas pelo Estado e possuem capital exclusivamente público.",
+        "B": "As autarquias e fundações públicas são pessoas jurídicas de direito privado, razão pela qual possuem certa flexibilidade administrativa e contratual.",
+        "C": "As empresas públicas e as sociedades de economia mista exercem exclusivamente atividades econômicas e, por isso, não estão sujeitas ao controle estatal.",
+        "D": "As autarquias são criadas por lei específica, possuem personalidade jurídica própria de direito público e exercem atividades típicas da administração pública.",
+        "E": "Por serem entidades descentralizadas, as fundações públicas não se submetem à fiscalização estatal."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 5.pdf (Questão 25)"
+    },
+    {
+      "id": "CG2-4-Q20",
+      "tema": "D3",
+      "assunto": "Agentes públicos: vínculos, cargos e empregos públicos",
+      "enunciado": "A respeito dos agentes públicos e de suas formas de vínculo com a administração pública, assinale a opção correta.",
+      "alternativas": {
+        "A": "Somente os cargos públicos podem ser providos por concurso público, enquanto empregos públicos são destinados exclusivamente a contratações temporárias.",
+        "B": "Os empregados públicos estão sujeitos ao regime estatutário previsto na Constituição Federal de 1988 e na Lei n.º 8.112/1990.",
+        "C": "Os agentes administrativos são pessoas físicas que exercem função pública com vínculo e remuneração, por meio de cargo ou emprego público.",
+        "D": "Os agentes políticos integram exclusivamente os Poderes Executivo e Legislativo, não havendo agentes políticos no Poder Judiciário.",
+        "E": "Função pública é a atividade exercida em caráter efetivo, necessariamente remunerada, por meio de cargo ou emprego público."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 2 E 4.pdf (Questão 20)"
+    },
+    {
+      "id": "CE1-Q21",
+      "tema": "D3",
+      "assunto": "Estatuto dos Servidores do MS (Lei estadual 1.102/1990): licença e auxílio-moradia",
+      "enunciado": "José, servidor não concursado e ocupante de cargo em comissão no TCE/MS há dois anos, apresentou pedido de licença para tratar de interesses particulares. Considerando a situação hipotética apresentada, assinale a opção correta com base no disposto na Lei Estadual n.º 1.102/1990 (Estatuto dos Servidores Públicos Civis do Estado do Mato Grosso do Sul).",
+      "alternativas": {
+        "A": "É admissível a concessão de licença a José, desde que não ultrapasse o prazo máximo de 30 dias, prorrogáveis por igual período.",
+        "B": "A conduta de José está de acordo com a legislação, pois todos os servidores, efetivos ou comissionados, têm direito a licença para tratar de assuntos particulares.",
+        "C": "A concessão de licença a José é possível, mas somente após três anos de efetivo exercício no cargo comissionado.",
+        "D": "A concessão de licença a José é possível apenas se houver autorização expressa do presidente do tribunal, mesmo sem previsão legal.",
+        "E": "A referida lei veda expressamente a concessão de licença para o tratamento de interesses particulares a servidor que ocupe exclusivamente cargo em comissão."
+      },
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.pdf (Questão 21)"
+    },
+    {
+      "id": "CE1-Q22",
+      "tema": "D3",
+      "assunto": "Estatuto dos Servidores do MS (Lei estadual 1.102/1990): licença e auxílio-moradia",
+      "enunciado": "João, servidor público efetivo do estado de Mato Grosso do Sul, foi transferido de ofício para exercer suas funções em município distinto de sua lotação original, em caráter provisório, por necessidade da administração. Considerando a situação hipotética apresentada e o que dispõe a Lei Estadual n.º 1.102/1990 sobre o auxílio-moradia, assinale a opção correta.",
+      "alternativas": {
+        "A": "O pagamento do auxílio-moradia a João depende de lei específica que o autorize, sendo inaplicável a previsão da Lei Estadual n.º 1.102/1990.",
+        "B": "O auxílio-moradia deve ser pago no valor máximo de vinte por cento do vencimento do cargo efetivo de João.",
+        "C": "Por ser servidor efetivo, João não faz jus ao auxílio-moradia, que é benefício exclusivo de ocupantes de cargos em comissão ou funções de confiança.",
+        "D": "João terá direito ao auxílio-moradia se, comprovadamente, não existir imóvel funcional disponível no local de destino, sendo a despesa custeada pelo erário pelo prazo máximo de 5 anos.",
+        "E": "João terá direito ao auxílio-moradia independentemente da existência de imóvel funcional disponível para sua ocupação, sendo a despesa custeada pelo erário pelo prazo que ele estiver no exercício da função."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.pdf (Questão 22)"
+    },
+    {
+      "id": "CE3-Q42",
+      "tema": "D3",
+      "assunto": "Estatuto dos Servidores do MS (Lei estadual 1.102/1990): infração e contratação",
+      "enunciado": "Assinale a opção correta com base no estabelecido na Lei estadual n.º 1.102/1990.",
+      "alternativas": {
+        "A": "Deverá ser aplicada pena de suspensão ao servidor do estado de Mato Grosso do Sul que resida fora do território do estado, salvo quando em exercício em outra unidade da Federação, na forma da lei.",
+        "B": "Em caso de infração praticada por servidor no exercício de suas funções, caberá ao secretário de Estado, ao procurador-geral ou ao dirigente de órgão diretamente subordinados ao governador ordenar, fundamentadamente e por escrito, a suspensão preventiva do infrator por até 180 dias ou até a decisão final no processo administrativo disciplinar, o que primeiro ocorrer.",
+        "C": "É permitida a contratação temporária de estrangeiro de notória especialização para executar serviços profissionais na área de tecnologia.",
+        "D": "Função de confiança é a que envolve atribuições de comando, direção, gerência e assessoramento técnico ou especializado, de livre provimento, satisfeitos os requisitos de qualificação definidos em lei ou regulamento.",
+        "E": "Os cargos públicos são acessíveis a todos os brasileiros e estrangeiros residentes no país."
+      },
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 3.pdf (Questão 42)"
+    },
+    {
+      "id": "CE3-Q46",
+      "tema": "D3",
+      "assunto": "Centralização, descentralização, concentração e desconcentração administrativa",
+      "enunciado": "Acerca de centralização, descentralização, concentração e desconcentração de poder administrativo, assinale a opção correta.",
+      "alternativas": {
+        "A": "A criação dos entes da administração pública indireta decorre da descentralização de poder.",
+        "B": "No direito administrativo moderno, desconcentração e descentralização de poder administrativo designam situações jurídicas equivalentes.",
+        "C": "Ocorre descentralização na avocação temporária de competência atribuída a órgão hierarquicamente inferior.",
+        "D": "A desconcentração implica a transferência de poderes e atribuições para um sujeito de direito distinto e autônomo.",
+        "E": "A criação de um órgão especializado em determinada competência administrativa é um exemplo de descentralização."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 3.pdf (Questão 46)"
+    },
+    {
+      "id": "CE3-Q47",
+      "tema": "D3",
+      "assunto": "Consórcios e convênios públicos",
+      "enunciado": "Julgue os itens a seguir, relativos a consórcios e convênios públicos. I Diferentemente do que ocorre com os consórcios públicos, a viabilização dos convênios públicos prescinde da criação de uma nova pessoa jurídica. II É necessária autorização legislativa para celebração do contrato de consórcio após a ratificação do protocolo de intenções. III É vedada a criação de consórcios públicos destinados à execução de atividades permanentes e contínuas na área da saúde. Assinale a opção correta.",
+      "alternativas": {
+        "A": "Apenas o item I está certo.",
+        "B": "Apenas o item III está certo.",
+        "C": "Apenas os itens I e II estão certos.",
+        "D": "Apenas os itens II e III estão certos.",
+        "E": "Todos os itens estão certos."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 3.pdf (Questão 47)"
+    },
+    {
+      "id": "CG2-4-Q17",
+      "tema": "D4",
+      "assunto": "Abuso de poder: excesso e desvio de finalidade",
+      "enunciado": "Assinale a opção correta a respeito do abuso de poder no exercício da função administrativa.",
+      "alternativas": {
+        "A": "O agente que praticar ato com abuso de poder responderá somente na esfera administrativa.",
+        "B": "O excesso de poder acontece quando a autoridade pratica ato dentro da competência legal, mas motivado por interesse pessoal.",
+        "C": "A autoridade administrativa pode modificar a finalidade do ato, desde que persista o interesse público.",
+        "D": "O abuso de poder na prática de ato administrativo configura vício e pode ensejar sua nulidade, mesmo que formalmente o ato esteja correto.",
+        "E": "O desvio de finalidade ocorre quando o agente público extrapola os limites de sua competência legal ao praticar determinado ato."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 2 E 4.pdf (Questão 17)"
+    },
+    {
+      "id": "CG5-Q24",
+      "tema": "D4",
+      "assunto": "Abuso de poder: excesso e desvio de finalidade",
+      "enunciado": "Assinale a opção correta a respeito do abuso de poder no exercício da função administrativa.",
+      "alternativas": {
+        "A": "O excesso de poder acontece quando a autoridade pratica ato dentro da competência legal, mas motivado por interesse pessoal.",
+        "B": "A autoridade administrativa pode modificar a finalidade do ato, desde que persista o interesse público.",
+        "C": "O agente que praticar ato com abuso de poder responderá somente na esfera administrativa.",
+        "D": "O abuso de poder na prática de ato administrativo configura vício e pode ensejar sua nulidade, mesmo que formalmente o ato esteja correto.",
+        "E": "O desvio de finalidade ocorre quando o agente público extrapola os limites de sua competência legal ao praticar determinado ato."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 5.pdf (Questão 24)"
+    },
+    {
+      "id": "CG2-4-Q18",
+      "tema": "D4",
+      "assunto": "Atributos dos atos administrativos (imperatividade)",
+      "enunciado": "Assinale a opção que corresponde ao atributo dos atos administrativos que decorre do poder conferido à administração pública para impor obrigações mesmo contra a vontade do particular, desde que haja previsão legal ou interesse público.",
+      "alternativas": {
+        "A": "presunção de legitimidade",
+        "B": "tipicidade",
+        "C": "imperatividade",
+        "D": "impugnabilidade",
+        "E": "autoexecutoriedade"
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 2 E 4.pdf (Questão 18)"
+    },
+    {
+      "id": "CE3-Q41",
+      "tema": "D4",
+      "assunto": "Ato administrativo: convalidação",
+      "enunciado": "O ato administrativo praticado pela administração com a finalidade de eliminar defeitos sanáveis de um ato administrativo anteriormente praticado, como condição para que o ato produza a integralidade dos efeitos jurídicos válidos, é denominado",
+      "alternativas": {
+        "A": "exaurimento.",
+        "B": "cassação.",
+        "C": "anulação.",
+        "D": "revogação.",
+        "E": "convalidação."
+      },
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 3.pdf (Questão 41)"
+    },
+    {
+      "id": "CG2-4-Q15",
+      "tema": "D5",
+      "assunto": "Responsabilidade civil do Estado e causas excludentes",
+      "enunciado": "Acerca da responsabilidade civil do Estado e de causas excludentes e atenuantes dessa responsabilidade, assinale a opção correta.",
+      "alternativas": {
+        "A": "A existência de risco administrativo afasta a necessidade de qualquer análise do comportamento da vítima ou da presença de excludentes de responsabilidade.",
+        "B": "A ocorrência de caso fortuito ou força maior exclui automaticamente a responsabilidade do Estado, independentemente da análise do nexo causal.",
+        "C": "O Estado pode ser responsabilizado por atos de terceiros, mesmo que não exista qualquer relação entre o fato danoso e a atividade estatal.",
+        "D": "A culpa exclusiva da vítima é circunstância que pode afastar a responsabilidade do Estado, caso fique demonstrada a inexistência de nexo causal entre a conduta estatal e o dano.",
+        "E": "A responsabilidade do Estado por omissão é sempre objetiva, pois decorre do simples descumprimento do dever legal de agir."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 2 E 4.pdf (Questão 15)"
+    },
+    {
+      "id": "CG5-Q22",
+      "tema": "D5",
+      "assunto": "Responsabilidade civil do Estado e causas excludentes",
+      "enunciado": "Acerca da responsabilidade civil do Estado e de causas excludentes e atenuantes dessa responsabilidade, assinale a opção correta.",
+      "alternativas": {
+        "A": "A existência de risco administrativo afasta a necessidade de qualquer análise do comportamento da vítima ou da presença de excludentes de responsabilidade.",
+        "B": "A ocorrência de caso fortuito ou força maior exclui automaticamente a responsabilidade do Estado, independentemente da análise do nexo causal.",
+        "C": "A culpa exclusiva da vítima é circunstância que pode afastar a responsabilidade do Estado, caso fique demonstrada a inexistência de nexo causal entre a conduta estatal e o dano.",
+        "D": "A responsabilidade do Estado por omissão é sempre objetiva, pois decorre do simples descumprimento do dever legal de agir.",
+        "E": "O Estado pode ser responsabilizado por atos de terceiros, mesmo que não exista qualquer relação entre o fato danoso e a atividade estatal."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 5.pdf (Questão 22)"
+    },
+    {
+      "id": "CE1-Q23",
+      "tema": "D5",
+      "assunto": "Responsabilidade civil do Estado e causas excludentes",
+      "enunciado": "Durante o retorno de uma fiscalização, um servidor efetivo do TCE/MS dirigia uma viatura oficial quando, por distração, colidiu de forma culposa, com um veículo particular, tendo causado danos materiais ao particular. Considerando as regras de responsabilidade civil aplicáveis ao servidor público e ao Estado, assinale a opção correta.",
+      "alternativas": {
+        "A": "O Estado responde subjetivamente pelos danos causados ao particular, não sendo assegurado o direito de regresso contra o servidor visto que não houve dolo.",
+        "B": "O Estado responde objetivamente pelos danos causados ao particular, assegurado o direito de regresso contra o servidor somente no caso de dolo.",
+        "C": "O servidor não responde subjetivamente, pois a conduta foi praticada durante o exercício da função pública, o que caracteriza excludente de responsabilidade.",
+        "D": "O servidor não responde diretamente perante o particular prejudicado, ainda que tenha agido com culpa; a responsabilidade é do Estado, assegurado o direito de regresso contra o servidor.",
+        "E": "Apenas o servidor será responsabilizado civilmente, já que o dano decorreu de ato pessoal (distração) durante a condução."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.pdf (Questão 23)"
+    },
+    {
+      "id": "CE3-Q43",
+      "tema": "D5",
+      "assunto": "Responsabilidade civil do Estado e causas excludentes",
+      "enunciado": "Considerando que uma fábrica clandestina de fogos de artifício, que fabrica explosivos sem a licença necessária e sem conhecimento do poder público, exploda, com a consequente destruição de prédios vizinhos e veículos estacionados nas proximidades, julgue os seguintes itens, relativos à responsabilidade civil do Estado pelos referidos danos. I Para que fique caracterizada a responsabilidade civil do Estado por danos decorrentes do comércio de fogos de artifício, é necessário que exista a violação de um dever jurídico específico de agir. II A responsabilidade civil estatal, no caso hipotético em apreço, está condicionada à existência de prévia concessão de licença para funcionamento sem as cautelas legais ou à demonstração do prévio conhecimento pelo poder público de eventuais irregularidades praticadas pelo particular. III O poder público é civilmente corresponsável, juntamente com o proprietário da fábrica clandestina, por todos os danos ocorridos em decorrência da explosão, conforme a teoria da responsabilidade objetiva. Assinale a opção correta.",
+      "alternativas": {
+        "A": "Apenas o item II está certo.",
+        "B": "Apenas os itens I e II estão certos.",
+        "C": "Apenas os itens I e III estão certos.",
+        "D": "Apenas os itens II e III estão certos.",
+        "E": "Todos os itens estão certos."
+      },
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 3.pdf (Questão 43)"
+    },
+    {
+      "id": "CG2-4-Q21",
+      "tema": "D5",
+      "assunto": "Controle da administração pública: conceito, espécies e mecanismos",
+      "enunciado": "Considerando os mecanismos de controle da administração pública previstos no ordenamento jurídico brasileiro, assinale a opção correta.",
+      "alternativas": {
+        "A": "Os atos administrativos discricionários, por sua natureza, estão imunes a qualquer forma de controle, seja interno, externo ou judicial.",
+        "B": "O controle judicial permite ao Poder Judiciário substituir o mérito administrativo, mediante anulação ou reforma de qualquer ato discricionário da administração pública.",
+        "C": "O controle legislativo é exercido exclusivamente pelo Congresso Nacional e limita-se à fiscalização da execução orçamentária e financeira do Poder Executivo.",
+        "D": "O controle interno da administração pública é competência exclusiva dos tribunais de contas, que exercem a fiscalização dos atos de gestão de recursos públicos.",
+        "E": "O controle judicial permite ao Poder Judiciário declarar a nulidade de atos administrativos quando neles houver ilegalidade, sem que isso represente afronta à separação dos poderes."
+      },
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 2 E 4.pdf (Questão 21)"
+    },
+    {
+      "id": "CG1-Q13",
+      "tema": "D5",
+      "assunto": "Controle da administração pública: conceito, espécies e mecanismos",
+      "enunciado": "Acerca do controle da administração pública e do controle externo no Brasil, assinale a opção correta.",
+      "alternativas": {
+        "A": "A Constituição Federal de 1988 autoriza a criação de tribunais de contas municipais mediante alteração na lei orgânica do respectivo município.",
+        "B": "É constitucional norma estadual que atribui aos órgãos de controle interno o dever de atuar por determinação do tribunal de contas.",
+        "C": "A Constituição Federal de 1988 prevê expressamente o cabimento de recurso ao Tribunal de Contas da União (TCU) contra decisões proferidas pelos tribunais de contas dos estados (TCEs).",
+        "D": "O controle exercido pela administração direta sobre a indireta é denominado controle hierárquico.",
+        "E": "Quanto ao momento de sua realização, o controle da administração pública pode ser prévio, concomitante ou posterior."
+      },
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 1.pdf (Questão 13)"
+    },
+    {
+      "id": "CG3-Q25",
+      "tema": "D5",
+      "assunto": "Controle da administração pública: conceito, espécies e mecanismos",
+      "enunciado": "Assinale a opção correta acerca do controle da administração pública, considerados seu conceito, sua abrangência e suas espécies.",
+      "alternativas": {
+        "A": "Na esfera federal, o titular do controle externo é o Tribunal de Contas da União (TCU).",
+        "B": "A tutela administrativa confere à administração direta poder amplo para intervir nos atos das entidades da administração indireta.",
+        "C": "O controle judicial dos atos administrativos abrange tanto aspectos de legalidade quanto o exame do mérito administrativo, em qualquer situação.",
+        "D": "Ao tomarem conhecimento de irregularidade ou ilegalidade, os responsáveis pelo controle interno devem comunica-la ao Tribunal de Contas da União (TCU), sob pena de responsabilidade solidária.",
+        "E": "O Ministério Público não integra o sistema de controle da administração pública, pois a Constituição Federal de 1988 não lhe atribui funções voltadas à proteção do patrimônio público ou ao controle da atividade administrativa."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 3.pdf (Questão 25)"
+    },
+    {
+      "id": "CG5-Q26",
+      "tema": "D5",
+      "assunto": "Controle da administração pública: conceito, espécies e mecanismos",
+      "enunciado": "Considerando os mecanismos de controle da administração pública previstos no ordenamento jurídico brasileiro, assinale a opção correta.",
+      "alternativas": {
+        "A": "Os atos administrativos discricionários, por sua natureza, estão imunes a qualquer forma de controle, seja interno, externo ou judicial.",
+        "B": "O controle judicial permite ao Poder Judiciário substituir o mérito administrativo, mediante anulação ou reforma de qualquer ato discricionário da administração pública.",
+        "C": "O controle legislativo é exercido exclusivamente pelo Congresso Nacional e limita-se à fiscalização da execução orçamentária e financeira do Poder Executivo.",
+        "D": "O controle interno da administração pública é competência exclusiva dos tribunais de contas, que exercem a fiscalização dos atos de gestão de recursos públicos.",
+        "E": "O controle judicial permite ao Poder Judiciário declarar a nulidade de atos administrativos quando neles houver ilegalidade, sem que isso represente afronta à separação dos poderes."
+      },
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 5.pdf (Questão 26)"
+    },
+    {
+      "id": "CG1-Q14",
+      "tema": "D5",
+      "assunto": "Controle externo: tribunais de contas e Poder Legislativo",
+      "enunciado": "Assinale a opção correta, considerando as relações entre os tribunais de contas e o Poder Legislativo no âmbito do controle da administração pública.",
+      "alternativas": {
+        "A": "A fiscalização orçamentária consiste na análise dos registros contábeis da administração pública, com o objetivo de verificar sua correção.",
+        "B": "A fiscalização operacional não constitui instrumento adequado para o controle das políticas públicas.",
+        "C": "O sistema de controle interno realiza, em cooperação e harmonia com o controle externo, a fiscalização contábil, financeira, orçamentária, operacional e patrimonial da administração pública.",
+        "D": "A Constituição Federal de 1988 não permite que lei estadual de iniciativa de parlamentar altere a destinação dos recursos provenientes de multas aplicadas pelo tribunal de contas.",
+        "E": "A competência dos TCEs de negar registro de admissão de pessoal se subordina à revisão pelo Poder Legislativo do respectivo estado."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 1.pdf (Questão 14)"
+    },
+    {
+      "id": "CG1-Q15",
+      "tema": "D5",
+      "assunto": "Tribunais de contas: natureza jurídica, investidura, garantias e prerrogativas",
+      "enunciado": "Em relação à natureza jurídica dos tribunais de contas no Brasil e à forma de investidura, às garantias e às prerrogativas de seus membros, assinale a opção correta.",
+      "alternativas": {
+        "A": "Para ser nomeado ministro do TCU, o agente público deve ter mais de trinta anos e menos de sessenta anos de idade.",
+        "B": "Os ministros do TCU são equiparados aos ministros do STJ e, por isso, são considerados integrantes do Poder Judiciário.",
+        "C": "Os ministros do TCU podem exercer atividade político-partidária, desde que não estejam no exercício da presidência do órgão.",
+        "D": "No estado do Mato Grosso do Sul, cabe ao governador escolher dois conselheiros do TCE/MS, enquanto os demais cinco são escolhidos pela Assembleia Legislativa.",
+        "E": "Apenas os ministros do TCU indicados pelo presidente da República submetem-se à aprovação do Senado Federal."
+      },
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 1.pdf (Questão 15)"
+    },
+    {
+      "id": "CG2-4-Q31",
+      "tema": "D5",
+      "assunto": "Lei Orgânica do TCE/MS: instrumentos de fiscalização (monitoramento, auditoria, inspeção e acompanhamento)",
+      "enunciado": "Nos termos da Lei Orgânica do TCE/MS, monitoramento é o instrumento de fiscalização utilizado pelo tribunal para",
+      "alternativas": {
+        "A": "coletar dados preliminares para escolha do instrumento de fiscalização.",
+        "B": "avaliar o desempenho de programas governamentais quanto à eficiência e à eficácia.",
+        "C": "examinar a legalidade e a legitimidade de atos de gestão em geral.",
+        "D": "suprir omissões de informações ou esclarecer dúvidas.",
+        "E": "verificar o cumprimento de suas deliberações e os resultados delas advindos."
+      },
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 2 E 4.pdf (Questão 31)"
+    },
+    {
+      "id": "CG2-4-Q32",
+      "tema": "D5",
+      "assunto": "Lei Orgânica do TCE/MS: instrumentos de fiscalização (monitoramento, auditoria, inspeção e acompanhamento)",
+      "enunciado": "Segundo a Lei Orgânica do TCE/MS, a auditoria pode ser utilizada pelo tribunal para",
+      "alternativas": {
+        "A": "coletar informações preliminares sobre a organização das entidades jurisdicionadas.",
+        "B": "acompanhar a execução orçamentária apenas do Poder Executivo estadual.",
+        "C": "verificar o cumprimento de deliberações do TCE/MS.",
+        "D": "examinar a legalidade e a legitimidade dos atos de gestão, bem como avaliar o desempenho de órgãos, entidades e programas governamentais.",
+        "E": "suprir omissões e lacunas de informações sobre atos sujeitos ao controle do TCE/MS."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 2 E 4.pdf (Questão 32)"
+    },
+    {
+      "id": "CG2-4-Q33",
+      "tema": "D5",
+      "assunto": "Lei Orgânica do TCE/MS: instrumentos de fiscalização (monitoramento, auditoria, inspeção e acompanhamento)",
+      "enunciado": "Conforme a Lei Orgânica do TCE/MS, uma das finalidades do acompanhamento, instrumento de fiscalização utilizado pelo tribunal, é",
+      "alternativas": {
+        "A": "examinar exclusivamente os atos de gestão de pessoal praticados pelos jurisdicionados.",
+        "B": "examinar, ao longo de um período predeterminado, a legalidade e a legitimidade dos atos sujeitos ao seu controle.",
+        "C": "suprir omissões e lacunas de informações, esclarecer dúvidas ou apurar denúncias e representações.",
+        "D": "verificar o cumprimento das deliberações do TCE/MS e os resultados delas advindos.",
+        "E": "realizar análise preliminar de dados e documentos para identificar o instrumento de fiscalização adequado."
+      },
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 2 E 4.pdf (Questão 33)"
+    },
+    {
+      "id": "CG1-Q16",
+      "tema": "D5",
+      "assunto": "Lei Orgânica do TCE/MS: instrumentos de fiscalização (monitoramento, auditoria, inspeção e acompanhamento)",
+      "enunciado": "De acordo com a Lei Orgânica do TCE/MS, são instrumentos de fiscalização que podem ser utilizados pelo tribunal",
+      "alternativas": {
+        "A": "a inspeção, a auditoria, a correição e o levantamento.",
+        "B": "a auditoria, o monitoramento, o acompanhamento e o levantamento.",
+        "C": "a inspeção, o acompanhamento, o levantamento e a correição.",
+        "D": "a auditoria, a inspeção, o monitoramento e o acompanhamento.",
+        "E": "a auditoria, a inspeção, o levantamento e o acompanhamento."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 1.pdf (Questão 16)"
+    },
+    {
+      "id": "CG1-Q17",
+      "tema": "D5",
+      "assunto": "Lei Orgânica do TCE/MS: instrumentos de fiscalização (monitoramento, auditoria, inspeção e acompanhamento)",
+      "enunciado": "Conforme a Lei Orgânica do TCE/MS, a inspeção é utilizada pelo tribunal para",
+      "alternativas": {
+        "A": "levantar dados preliminares em entidades jurisdicionadas.",
+        "B": "verificar o cumprimento das deliberações do tribunal e os resultados delas advindos.",
+        "C": "examinar e avaliar atos de gestão ao longo de um período predeterminado.",
+        "D": "suprir omissões e lacunas de informações, esclarecer dúvidas ou apurar denúncias ou representações.",
+        "E": "examinar exclusivamente a legalidade da despesa pública já realizada."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 1.pdf (Questão 17)"
+    },
+    {
+      "id": "CG3-Q26",
+      "tema": "D5",
+      "assunto": "Lei Orgânica do TCE/MS: instrumentos de fiscalização (monitoramento, auditoria, inspeção e acompanhamento)",
+      "enunciado": "Nos termos da Lei Orgânica do TCE/MS, monitoramento é o instrumento de fiscalização utilizado pelo tribunal para",
+      "alternativas": {
+        "A": "suprir omissões de informações ou esclarecer dúvidas.",
+        "B": "verificar o cumprimento de suas deliberações e os resultados delas advindos.",
+        "C": "coletar dados preliminares para escolha do instrumento de fiscalização.",
+        "D": "avaliar o desempenho de programas governamentais quanto à eficiência e à eficácia.",
+        "E": "examinar a legalidade e a legitimidade de atos de gestão em geral."
+      },
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 3.pdf (Questão 26)"
+    },
+    {
+      "id": "CG3-Q27",
+      "tema": "D5",
+      "assunto": "Lei Orgânica do TCE/MS: instrumentos de fiscalização (monitoramento, auditoria, inspeção e acompanhamento)",
+      "enunciado": "Segundo a Lei Orgânica do TCE/MS, a auditoria pode ser utilizada pelo tribunal para",
+      "alternativas": {
+        "A": "coletar informações preliminares sobre a organização das entidades jurisdicionadas.",
+        "B": "examinar a legalidade e a legitimidade dos atos de gestão, bem como avaliar o desempenho de órgãos, entidades e programas governamentais.",
+        "C": "acompanhar a execução orçamentária apenas do Poder Executivo estadual.",
+        "D": "verificar o cumprimento de deliberações do TCE/MS.",
+        "E": "suprir omissões e lacunas de informações sobre atos sujeitos ao controle do TCE/MS."
+      },
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 3.pdf (Questão 27)"
+    },
+    {
+      "id": "CG3-Q28",
+      "tema": "D5",
+      "assunto": "Lei Orgânica do TCE/MS: instrumentos de fiscalização (monitoramento, auditoria, inspeção e acompanhamento)",
+      "enunciado": "Conforme a Lei Orgânica do TCE/MS, uma das finalidades do acompanhamento, instrumento de fiscalização utilizado pelo tribunal, é",
+      "alternativas": {
+        "A": "verificar o cumprimento das deliberações do TCE/MS e os resultados delas advindos.",
+        "B": "realizar análise preliminar de dados e documentos para identificar o instrumento de fiscalização adequado.",
+        "C": "examinar exclusivamente os atos de gestão de pessoal praticados pelos jurisdicionados.",
+        "D": "examinar, ao longo de um período predeterminado, a legalidade e a legitimidade dos atos sujeitos ao seu controle.",
+        "E": "suprir omissões e lacunas de informações, esclarecer dúvidas ou apurar denúncias e representações."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 3.pdf (Questão 28)"
+    },
+    {
+      "id": "CG5-Q32",
+      "tema": "D5",
+      "assunto": "Lei Orgânica do TCE/MS: instrumentos de fiscalização (monitoramento, auditoria, inspeção e acompanhamento)",
+      "enunciado": "Nos termos da Lei Orgânica do TCE/MS, monitoramento é o instrumento de fiscalização utilizado pelo tribunal para",
+      "alternativas": {
+        "A": "coletar dados preliminares para escolha do instrumento de fiscalização.",
+        "B": "avaliar o desempenho de programas governamentais quanto à eficiência e à eficácia.",
+        "C": "examinar a legalidade e a legitimidade de atos de gestão em geral.",
+        "D": "suprir omissões de informações ou esclarecer dúvidas.",
+        "E": "verificar o cumprimento de suas deliberações e os resultados delas advindos."
+      },
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 5.pdf (Questão 32)"
+    },
+    {
+      "id": "CG5-Q33",
+      "tema": "D5",
+      "assunto": "Lei Orgânica do TCE/MS: instrumentos de fiscalização (monitoramento, auditoria, inspeção e acompanhamento)",
+      "enunciado": "Segundo a Lei Orgânica do TCE/MS, a auditoria pode ser utilizada pelo tribunal para",
+      "alternativas": {
+        "A": "coletar informações preliminares sobre a organização das entidades jurisdicionadas.",
+        "B": "acompanhar a execução orçamentária apenas do Poder Executivo estadual.",
+        "C": "verificar o cumprimento de deliberações do TCE/MS.",
+        "D": "examinar a legalidade e a legitimidade dos atos de gestão, bem como avaliar o desempenho de órgãos, entidades e programas governamentais.",
+        "E": "suprir omissões e lacunas de informações sobre atos sujeitos ao controle do TCE/MS."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 5.pdf (Questão 33)"
+    },
+    {
+      "id": "CG5-Q34",
+      "tema": "D5",
+      "assunto": "Lei Orgânica do TCE/MS: instrumentos de fiscalização (monitoramento, auditoria, inspeção e acompanhamento)",
+      "enunciado": "Conforme a Lei Orgânica do TCE/MS, uma das finalidades do acompanhamento, instrumento de fiscalização utilizado pelo tribunal, é",
+      "alternativas": {
+        "A": "verificar o cumprimento das deliberações do TCE/MS e os resultados delas advindos.",
+        "B": "realizar análise preliminar de dados e documentos para identificar o instrumento de fiscalização adequado.",
+        "C": "examinar exclusivamente os atos de gestão de pessoal praticados pelos jurisdicionados.",
+        "D": "examinar, ao longo de um período predeterminado, a legalidade e a legitimidade dos atos sujeitos ao seu controle.",
+        "E": "suprir omissões e lacunas de informações, esclarecer dúvidas ou apurar denúncias e representações."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 5.pdf (Questão 34)"
+    },
+    {
+      "id": "CG1-Q18",
+      "tema": "D5",
+      "assunto": "Lei Orgânica do TCE/MS: contas de governo e sua apreciação",
+      "enunciado": "A respeito das contas de governo e da sua apreciação pelo TCE/MS, assinale a opção correta.",
+      "alternativas": {
+        "A": "O parecer prévio emitido sobre as contas do governador ou de prefeito tem natureza decisória.",
+        "B": "A competência para apreciação das contas de governo no TCE/MS é exclusiva do tribunal pleno.",
+        "C": "Não cabe pedido de reapreciação de parecer prévio sobre as contas do governador.",
+        "D": "Prestam contas de governo apenas o governador do estado e o prefeito da capital do estado.",
+        "E": "As contas de governo demonstram o grau de endividamento e o respeito, ou não, aos limites legais mínimos e máximos de despesas com saúde, educação e pessoal."
+      },
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 1.pdf (Questão 18)"
+    },
+    {
+      "id": "CG1-Q19",
+      "tema": "D5",
+      "assunto": "Lei Orgânica do TCE/MS: recursos",
+      "enunciado": "Com base nas disposições da Lei Orgânica do TCE/MS acerca dos recursos, assinale a opção correta.",
+      "alternativas": {
+        "A": "Contra acórdão de câmara, cabe recurso ordinário, no prazo de trinta dias.",
+        "B": "Contra qualquer ato decisório, cabem embargos de declaração, no prazo de dez dias.",
+        "C": "Contra despachos, cabe agravo de instrumento, no prazo de quinze dias.",
+        "D": "Contra decisão singular interlocutória, cabe agravo interno, no prazo de quinze dias.",
+        "E": "Contra decisão singular final, cabe agravo de instrumento, no prazo de quinze dias."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 1.pdf (Questão 19)"
+    },
+    {
+      "id": "CG3-Q29",
+      "tema": "D5",
+      "assunto": "Tribunais de contas: registro de admissão de pessoal e aposentadoria (STF)",
+      "enunciado": "No que se refere à competência dos tribunais de contas para apreciar, para fins de registro, os atos de admissão de pessoal e de aposentadoria, assinale a opção correta à luz do entendimento do Supremo Tribunal Federal (STF).",
+      "alternativas": {
+        "A": "Compete aos tribunais de contas apreciar, para fins de registro, as melhorias posteriores que não alterem o fundamento legal do ato concessório.",
+        "B": "O prazo para que os tribunais de contas façam o julgamento da legalidade dos atos de concessão inicial de aposentadoria, reforma ou pensão é de cinco anos, contados da chegada do processo à respectiva corte de contas.",
+        "C": "As nomeações para cargos comissionados devem ser submetidas à apreciação para fins de registro pelo tribunal de contas.",
+        "D": "O processo inicial de registro de aposentadoria deve observar o contraditório e a ampla defesa.",
+        "E": "O ato de aposentadoria é considerado composto."
+      },
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 3.pdf (Questão 29)"
+    },
+    {
+      "id": "CG3-Q30",
+      "tema": "D5",
+      "assunto": "Ministério Público de Contas do MS (MPC/MS)",
+      "enunciado": "Com base nas disposições da Lei Orgânica do TCE/MS referentes ao Ministério Público de Contas do Estado de Mato Grosso do Sul (MPC/MS), assinale a opção correta.",
+      "alternativas": {
+        "A": "O Colégio de Procuradores, órgão administrativo e deliberativo máximo do MPC/MS, é composto pela totalidade de seus membros e presidido pelo procurador-geral.",
+        "B": "O procurador-geral não pode delegar competências aos demais membros do MPC/MS.",
+        "C": "Aos procuradores de contas é dispensado tratamento jurídico e protocolar diferenciado do aplicável aos membros do MPC/MS.",
+        "D": "Ao MPC/MS aplicam-se os princípios institucionais apenas da unidade e da independência funcional.",
+        "E": "O procurador de contas substituto terá direito à vitaliciedade após três anos da posse no cargo."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 3.pdf (Questão 30)"
+    },
+    {
+      "id": "CG3-Q31",
+      "tema": "D5",
+      "assunto": "Tribunais de contas e controle de constitucionalidade (STF / Súmula 347)",
+      "enunciado": "À luz do entendimento do STF acerca do exercício do controle de constitucionalidade de leis pelos tribunais de contas, assinale a opção correta.",
+      "alternativas": {
+        "A": "O STF admite que os tribunais de contas deixem de aplicar norma legal em razão de dúvida razoável sobre sua compatibilidade com a Constituição Federal de 1988.",
+        "B": "A jurisprudência do STF superou o entendimento contido na Súmula n.º 347, que permitia aos tribunais de contas o exercício do controle de constitucionalidade.",
+        "C": "A invocação da Súmula n.º 347 do STF permite que os tribunais de contas afastem qualquer norma legal que entendam inconstitucional.",
+        "D": "Os tribunais de contas podem afastar norma legal somente quando sua aplicação resultar em violação patente à Constituição Federal de 1988 ou contrariar jurisprudência consolidada do STF.",
+        "E": "O STF reconheceu que os tribunais de contas podem exercer controle abstrato de constitucionalidade."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 3.pdf (Questão 31)"
+    },
+    {
+      "id": "CG2-4-Q34",
+      "tema": "D5",
+      "assunto": "Funções constitucionais dos tribunais de contas",
+      "enunciado": "Em relação às funções constitucionais dos tribunais de contas, assinale a opção correta.",
+      "alternativas": {
+        "A": "A função corretiva inclui ações como a emissão de determinações e recomendações aos órgãos jurisdicionados, fixação de prazos, adoção de medidas cautelares e sustação de atos irregulares.",
+        "B": "A função de ouvidoria não guarda nenhuma relação com o controle interno.",
+        "C": "No desempenho da função sancionadora, não é preciso observar o contraditório e a ampla defesa.",
+        "D": "A função fiscalizadora não engloba os registros de atos de admissão de pessoal e de concessão de aposentadorias.",
+        "E": "O desempenho da função judicante ou julgadora depende de aprovação do Poder Legislativo."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 2 E 4.pdf (Questão 34)"
+    },
+    {
+      "id": "CG3-Q32",
+      "tema": "D5",
+      "assunto": "Funções constitucionais dos tribunais de contas",
+      "enunciado": "Em relação às funções constitucionais dos tribunais de contas, assinale a opção correta.",
+      "alternativas": {
+        "A": "A função corretiva inclui ações como a emissão de determinações e recomendações aos órgãos jurisdicionados, fixação de prazos, adoção de medidas cautelares e sustação de atos irregulares.",
+        "B": "A função fiscalizadora não engloba os registros de atos de admissão de pessoal e de concessão de aposentadorias.",
+        "C": "O desempenho da função judicante ou julgadora depende de aprovação do Poder Legislativo.",
+        "D": "A função de ouvidoria não guarda nenhuma relação com o controle interno.",
+        "E": "No desempenho da função sancionadora, não é preciso observar o contraditório e a ampla defesa."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 3.pdf (Questão 32)"
+    },
+    {
+      "id": "CG5-Q35",
+      "tema": "D5",
+      "assunto": "Funções constitucionais dos tribunais de contas",
+      "enunciado": "Em relação às funções constitucionais dos tribunais de contas, assinale a opção correta.",
+      "alternativas": {
+        "A": "A função corretiva inclui ações como a emissão de determinações e recomendações aos órgãos jurisdicionados, fixação de prazos, adoção de medidas cautelares e sustação de atos irregulares.",
+        "B": "A função fiscalizadora não engloba os registros de atos de admissão de pessoal e de concessão de aposentadorias.",
+        "C": "O desempenho da função judicante ou julgadora depende de aprovação do Poder Legislativo.",
+        "D": "A função de ouvidoria não guarda nenhuma relação com o controle interno.",
+        "E": "No desempenho da função sancionadora, não é preciso observar o contraditório e a ampla defesa."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 5.pdf (Questão 35)"
+    },
+    {
+      "id": "CG3-Q33",
+      "tema": "D5",
+      "assunto": "Eficácia das decisões dos tribunais de contas e revisão judicial",
+      "enunciado": "A respeito da eficácia das decisões dos tribunais de contas e da possibilidade de revisão dessas decisões pelo Poder Judiciário, assinale a opção correta.",
+      "alternativas": {
+        "A": "O controle judicial sobre as decisões de tribunal de contas estadual é amplo e irrestrito.",
+        "B": "O Ministério Público de Contas tem legitimidade para executar decisão de tribunal de contas estadual.",
+        "C": "O Poder Judiciário pode anular decisões de tribunal de contas estadual que ofendam o contraditório ou a ampla defesa.",
+        "D": "Multas aplicadas por tribunal de contas estadual a agentes municipais por dano ao erário de município serão executadas pelo respectivo estado.",
+        "E": "Toda decisão de tribunal de contas estadual tem eficácia de título executivo."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 3.pdf (Questão 33)"
+    },
+    {
+      "id": "CG2-4-Q35",
+      "tema": "D5",
+      "assunto": "Consultas ao TCE/MS (Regimento Interno)",
+      "enunciado": "Com base no disposto no Regimento Interno do TCE/MS, assinale a opção correta a respeito das consultas formuladas a esse tribunal de contas.",
+      "alternativas": {
+        "A": "Compete ao relator fazer o juízo de admissibilidade da consulta.",
+        "B": "No processamento da consulta, não há manifestação do Ministério Público de Contas.",
+        "C": "A solução da consulta formalizada no parecer-C constitui-se em pré-julgado da tese, e não do fato ou caso concreto.",
+        "D": "Apenas os chefes dos Poderes do estado do Mato Grosso do Sul podem formular consulta ao TCE/MS.",
+        "E": "É admissível consulta sobre um caso concreto."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 2 E 4.pdf (Questão 35)"
+    },
+    {
+      "id": "CG3-Q34",
+      "tema": "D5",
+      "assunto": "Consultas ao TCE/MS (Regimento Interno)",
+      "enunciado": "Com base no disposto no Regimento Interno do TCE/MS, assinale a opção correta a respeito das consultas formuladas a esse tribunal de contas.",
+      "alternativas": {
+        "A": "A solução da consulta formalizada no parecer-C constitui-se em pré-julgado da tese, e não do fato ou caso concreto.",
+        "B": "Apenas os chefes dos Poderes do estado do Mato Grosso do Sul podem formular consulta ao TCE/MS.",
+        "C": "É admissível consulta sobre um caso concreto.",
+        "D": "Compete ao relator fazer o juízo de admissibilidade da consulta.",
+        "E": "No processamento da consulta, não há manifestação do Ministério Público de Contas."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 3.pdf (Questão 34)"
+    },
+    {
+      "id": "CG5-Q36",
+      "tema": "D5",
+      "assunto": "Consultas ao TCE/MS (Regimento Interno)",
+      "enunciado": "Com base no disposto no Regimento Interno do TCE/MS, assinale a opção correta a respeito das consultas formuladas a esse tribunal de contas.",
+      "alternativas": {
+        "A": "A solução da consulta formalizada no parecer-C constitui-se em pré-julgado da tese, e não do fato ou caso concreto.",
+        "B": "Apenas os chefes dos Poderes do estado do Mato Grosso do Sul podem formular consulta ao TCE/MS.",
+        "C": "Compete ao relator fazer o juízo de admissibilidade da consulta.",
+        "D": "No processamento da consulta, não há manifestação do Ministério Público de Contas.",
+        "E": "É admissível consulta sobre um caso concreto."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 5.pdf (Questão 36)"
+    },
+    {
+      "id": "CG3-Q35",
+      "tema": "D5",
+      "assunto": "Contas anuais dos governadores (STF)",
+      "enunciado": "A respeito das contas prestadas anualmente pelos governadores de estado, assinale a opção correta conforme a jurisprudência do STF.",
+      "alternativas": {
+        "A": "As contas anuais prestadas pelos governadores e julgadas pelo Poder Legislativo dos estados são classificadas como contas de gestão.",
+        "B": "O julgamento das contas anuais do chefe do Poder Executivo estadual é competência exclusiva do tribunal de contas do estado, mesmo quando extrapolado o prazo para emissão do parecer prévio.",
+        "C": "A emissão do parecer prévio sobre as contas anuais do governador pelo tribunal de contas do estado tem caráter vinculante para o Poder Legislativo estadual.",
+        "D": "Atraso desarrazoado do tribunal de contas do estado na emissão do parecer prévio sobre as contas anuais do governador não impede o Poder Legislativo estadual de exercer sua competência para julgá-las.",
+        "E": "A ausência de parecer prévio do tribunal de contas do estado sobre as contas anuais do governador impede o Poder Legislativo estadual de julgá-las."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 3.pdf (Questão 35)"
+    },
+    {
+      "id": "CG2-4-Q36",
+      "tema": "D5",
+      "assunto": "Estrutura do TCE/MS (Lei Orgânica)",
+      "enunciado": "Acerca da estrutura do TCE/MS, conforme o disposto em sua Lei Orgânica, assinale a opção correta.",
+      "alternativas": {
+        "A": "A Escola Superior de Controle Externo (ESCOEX) integra a Auditoria.",
+        "B": "Os auditores de controle externo compõem a Auditoria.",
+        "C": "O MPC/MS integra a estrutura do TCE/MS e está vinculado à Presidência dessa corte de contas.",
+        "D": "A estrutura funcional do TCE/MS é formada exclusivamente pelo Corpo Deliberativo, pela Presidência e pela Auditoria.",
+        "E": "O MPC/MS atua como instituição essencial à atividade de controle externo no âmbito do TCE/MS."
+      },
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 2 E 4.pdf (Questão 36)"
+    },
+    {
+      "id": "CG3-Q36",
+      "tema": "D5",
+      "assunto": "Estrutura do TCE/MS (Lei Orgânica)",
+      "enunciado": "Acerca da estrutura do TCE/MS, conforme o disposto em sua Lei Orgânica, assinale a opção correta.",
+      "alternativas": {
+        "A": "A estrutura funcional do TCE/MS é formada exclusivamente pelo Corpo Deliberativo, pela Presidência e pela Auditoria.",
+        "B": "O MPC/MS atua como instituição essencial à atividade de controle externo no âmbito do TCE/MS.",
+        "C": "A Escola Superior de Controle Externo (ESCOEX) integra a Auditoria.",
+        "D": "Os auditores de controle externo compõem a Auditoria.",
+        "E": "O MPC/MS integra a estrutura do TCE/MS e está vinculado à Presidência dessa corte de contas."
+      },
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 3.pdf (Questão 36)"
+    },
+    {
+      "id": "CG2-4-Q29",
+      "tema": "D5",
+      "assunto": "Fiscalização contábil, financeira e orçamentária (controle interno e externo, CF/88)",
+      "enunciado": "No que diz respeito à fiscalização contábil, financeira e orçamentária da administração pública, assinale a opção correta.",
+      "alternativas": {
+        "A": "A Controladoria-Geral da União realiza o controle externo no sistema de fiscalização contábil, financeira e orçamentária da União e das entidades da administração direta e indireta federal.",
+        "B": "O controle interno de cada um dos Poderes (Legislativo, Executivo e Judiciário) tem, entre outras finalidades, a de apoiar o controle externo no exercício de sua missão institucional.",
+        "C": "Compete ao TCU sustar a execução de contrato que contenha ilegalidade quando não for atendido o prazo determinado pelo tribunal para a adoção das providências necessárias ao cumprimento da lei.",
+        "D": "Compete ao TCU aplicar aos responsáveis, em caso de ilegalidade de despesa ou irregularidade de contas, as sanções previstas em lei e promover a ação de improbidade administrativa cabível, se for o caso.",
+        "E": "Não prestados os esclarecimentos solicitados pela Comissão Mista de Orçamento, esta solicitará ao TCU pronunciamento conclusivo sobre a matéria, e, caso verifique irregularidade, a corte de contas fará a sustação do gasto."
+      },
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 2 E 4.pdf (Questão 29)"
+    },
+    {
+      "id": "CG5-Q31",
+      "tema": "D5",
+      "assunto": "Fiscalização contábil, financeira e orçamentária (controle interno e externo, CF/88)",
+      "enunciado": "No que diz respeito à fiscalização contábil, financeira e orçamentária da administração pública, assinale a opção correta.",
+      "alternativas": {
+        "A": "A Controladoria-Geral da União realiza o controle externo no sistema de fiscalização contábil, financeira e orçamentária da União e das entidades da administração direta e indireta federal.",
+        "B": "Compete ao TCU sustar a execução de contrato que contenha ilegalidade quando não for atendido o prazo determinado pelo tribunal para a adoção das providências necessárias ao cumprimento da lei.",
+        "C": "Compete ao TCU aplicar aos responsáveis, em caso de ilegalidade de despesa ou irregularidade de contas, as sanções previstas em lei e promover a ação de improbidade administrativa cabível, se for o caso.",
+        "D": "O controle interno de cada um dos Poderes (Legislativo, Executivo e Judiciário) tem, entre outras finalidades, a de apoiar o controle externo no exercício de sua missão institucional.",
+        "E": "Não prestados os esclarecimentos solicitados pela Comissão Mista de Orçamento, esta solicitará ao TCU pronunciamento conclusivo sobre a matéria, e, caso verifique irregularidade, a corte de contas fará a sustação do gasto."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 5.pdf (Questão 31)"
+    },
+    {
+      "id": "CE3-Q44",
+      "tema": "D5",
+      "assunto": "Controle externo de aposentadoria de servidores públicos",
+      "enunciado": "Assinale a opção correta em relação ao controle externo que o Poder Legislativo, com auxílio do respectivo tribunal de contas, exerce sobre a administração pública, no que se refere à concessão de aposentadoria aos servidores públicos.",
+      "alternativas": {
+        "A": "Os tribunais de contas estão sujeitos ao prazo de 5 anos para o julgamento da legalidade do ato de concessão inicial de aposentadoria, a contar da data em que esta tenha sido concedida.",
+        "B": "Ato ilegal de concessão de aposentadoria praticado pela administração pública poderá ser revisto pelo Poder Legislativo, com o auxílio do respectivo tribunal de contas, a qualquer tempo.",
+        "C": "Considerados os efeitos patrimoniais contínuos da aposentadoria, o julgamento da legalidade do ato de concessão inicial de aposentadoria poderá ser sindicado pelo Poder Legislativo, com o auxílio do respectivo tribunal de contas, a qualquer tempo, mas eventual dever de devolução de benefício indevidamente percebido estará limitado aos últimos 5 anos, contados da data de início do processo de controle externo.",
+        "D": "Os tribunais de contas estão sujeitos ao prazo de 5 anos para o julgamento da legalidade do ato de concessão inicial de aposentadoria, a contar da chegada do processo à respectiva corte de contas.",
+        "E": "O controle externo poderá ser exercido em até 10 anos, contados da data de concessão da aposentadoria, salvo comprovada má-fé."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 3.pdf (Questão 44)"
+    },
+    {
+      "id": "CE5-Q69",
+      "tema": "D6",
+      "assunto": "LAI (Lei 12.527/2011): direito de acesso e hipóteses de acesso irrestrito",
+      "enunciado": "De acordo com a Lei de Acesso à Informação (Lei n.º 12.527/2011), um cidadão tem o direito de obter informações I contidas em registros ou documentos, produzidos ou acumulados por seus órgãos ou entidades. II relativas às atividades exercidas pelos órgãos e entidades, inclusive as relativas à sua política, organização e serviços. III relativas aos resultados de inspeções, auditorias, prestações e tomadas de contas realizadas pelos órgãos de controle interno e externo. Assinale a opção correta.",
+      "alternativas": {
+        "A": "Apenas o item II está certo.",
+        "B": "Apenas os itens I e II estão certos.",
+        "C": "Apenas os itens I e III estão certos.",
+        "D": "Apenas os itens II e III estão certos.",
+        "E": "Todos os itens estão certos."
+      },
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.pdf (Questão 69)"
+    },
+    {
+      "id": "CE5-Q70",
+      "tema": "D6",
+      "assunto": "LAI (Lei 12.527/2011): direito de acesso e hipóteses de acesso irrestrito",
+      "enunciado": "Conforme a Lei de Acesso à Informação (Lei n.º 12.527/2011), é concedido acesso irrestrito às informações quando os dados forem relativos a",
+      "alternativas": {
+        "A": "inteligência, investigação ou fiscalização em andamento.",
+        "B": "segurança, vida e saúde da população.",
+        "C": "violações de direitos humanos cometidas por agentes públicos.",
+        "D": "relações internacionais e negociações diplomáticas.",
+        "E": "estabilidade econômica, financeira ou monetária."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.pdf (Questão 70)"
+    },
+    {
+      "id": "CE1-Q25",
+      "tema": "D7",
+      "assunto": "LGPD (Lei 13.709/2018): sanções administrativas",
+      "enunciado": "Assinale a opção em que é citada sanção administrativa prevista na Lei Geral de Proteção de Dados Pessoais.",
+      "alternativas": {
+        "A": "advertência, com indicação de prazo para a adoção de medidas corretivas",
+        "B": "cassação definitiva do CNPJ da empresa infratora",
+        "C": "suspensão do exercício da atividade de tratamento dos dados pessoais a que se refere a infração pelo período máximo de 3 meses, prorrogável por igual período",
+        "D": "prisão do controlador de dados em caso de reincidência grave",
+        "E": "multa simples, de até 1% do faturamento da pessoa jurídica de direito privado, grupo ou conglomerado no Brasil no seu último exercício, excluídos os tributos, limitada, no total, a R$ 50.000.000"
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.pdf (Questão 25)"
+    },
+    {
+      "id": "CE5-Q46",
+      "tema": "D7",
+      "assunto": "LGPD (Lei 13.709/2018): fundamentos da proteção de dados",
+      "enunciado": "Com base na Lei Geral de Proteção de Dados Pessoais (Lei n.º 13.709/2018), a disciplina da proteção de dados pessoais tem como fundamentos I o desenvolvimento econômico e tecnológico e a inovação. II a proteção da autodeterminação informativa. III a inviolabilidade da intimidade, da honra e da imagem. IV a liberdade de expressão, de informação, de comunicação e de opinião. Assinale a opção correta.",
+      "alternativas": {
+        "A": "Apenas os itens I, II e III estão certos.",
+        "B": "Apenas os itens I, II e IV estão certos.",
+        "C": "Apenas os itens I, III e IV estão certos.",
+        "D": "Apenas os itens II, III e IV estão certos.",
+        "E": "Todos os itens estão certos."
+      },
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.pdf (Questão 46)"
+    },
+    {
+      "id": "CG2-4-Q22",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021: licitações e contratações públicas (princípios e inexigibilidade)",
+      "enunciado": "Com base na Lei n.º 14.133/2021, assinale a opção correta em relação a licitações e contratações públicas.",
+      "alternativas": {
+        "A": "O critério de julgamento do menor preço pode ser aplicado exclusivamente para contratação de obras e serviços de engenharia, sendo inaplicável à aquisição de bens e serviços em geral.",
+        "B": "As licitações públicas devem observar os princípios da legalidade, da impessoalidade e da isonomia, não sendo exigido o cumprimento do princípio da eficiência.",
+        "C": "A inexigibilidade de licitação ocorre quando a administração pública decide contratar diretamente por motivos de conveniência, desde que o valor esteja abaixo dos limites legais.",
+        "D": "A modalidade de concorrência é obrigatória para todas as compras de bens comuns, independentemente do valor, sendo vedada a utilização do pregão nesses casos.",
+        "E": "A contratação direta por inexigibilidade de licitação é admitida diante da impossibilidade de competição, como na contratação de profissional do setor artístico consagrado pela crítica ou pela opinião pública."
+      },
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 2 E 4.pdf (Questão 22)"
+    },
+    {
+      "id": "CE1-Q30",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021: dação em pagamento de bens imóveis",
+      "enunciado": "Considerando o Sistema Tributário Nacional, julgue os itens a seguir. I Cabe a lei complementar estabelecer normas gerais em matéria de decadência tributária. II É vedado aos estados instituir impostos sobre templos de qualquer culto. III Compete ao estado instituir os impostos sobre transmissão causa mortis e doação de quaisquer bens ou direitos. Assinale a opção correta.",
+      "alternativas": {
+        "A": "Apenas o item I está certo.",
+        "B": "Apenas o item III está certo.",
+        "C": "Apenas os itens I e II estão certos.",
+        "D": "Apenas os itens II e III estão certos.",
+        "E": "Todos os itens estão certos."
+      },
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.pdf (Questão 30)"
+    },
+    {
+      "id": "CE1-Q28",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021: prazos dos contratos administrativos",
+      "enunciado": "Assinale a opção correta com base no disposto na Lei n.º 14.133/2021, que disciplina os prazos dos contratos administrativos.",
+      "alternativas": {
+        "A": "É vedado em todas as hipóteses o contrato por prazo indeterminado.",
+        "B": "É de 10 anos a vigência máxima do contrato de aluguel de equipamentos e da utilização de programas de informática.",
+        "C": "Os prazos contratuais previstos na nova lei de licitações excluem os previstos em lei especial.",
+        "D": "Nos contratos de eficiência sem investimento, o prazo máximo de vigência é de 10 anos.",
+        "E": "O contrato que previr a operação continuada de sistemas estruturantes de tecnologia da informação poderá ter vigência máxima de 10 anos."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.pdf (Questão 28)"
+    },
+    {
+      "id": "CE1-Q26",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021: sanções por inadimplemento contratual",
+      "enunciado": "À luz do disposto na Lei n.º 14.133/2021, é correto afirmar que a dação em pagamento de bens imóveis pela administração pública",
+      "alternativas": {
+        "A": "é expressamente vedada em qualquer circunstância.",
+        "B": "depende de licitação na modalidade leilão.",
+        "C": "depende exclusivamente de parecer favorável do tribunal de contas competente, não havendo exigência de lei autorizativa.",
+        "D": "é livremente realizada pelo gestor público, não sendo necessária autorização legislativa, desde que haja avaliação do bem.",
+        "E": "é possível, desde que haja avaliação prévia do bem, interesse público devidamente justificado e autorização legislativa."
+      },
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.pdf (Questão 26)"
+    },
+    {
+      "id": "CE3-Q45",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021: critérios de julgamento, dispensa e irregularidades",
+      "enunciado": "Julgue os itens a seguir, referentes a licitação, de acordo com o disposto na Lei n.º 14.133/2021. I O maior retorno econômico e o maior desconto inserem-se entre os critérios de julgamento da modalidade de licitação concorrência. II A licitação será dispensável no caso de aquisição de equipamentos fornecidos exclusivamente por determinada empresa. III Constatada irregularidade no procedimento licitatório que motive a paralisação ou anulação do contrato que não se revele medida de interesse público, o poder público deverá optar pela continuidade do contrato e pela solução da irregularidade por meio de indenização por perdas e danos, sem prejuízo da apuração de responsabilidade e da aplicação das penalidades cabíveis. Assinale a opção correta.",
+      "alternativas": {
+        "A": "Apenas o item I está certo.",
+        "B": "Apenas os itens I e II estão certos.",
+        "C": "Apenas os itens I e III estão certos.",
+        "D": "Apenas os itens II e III estão certos.",
+        "E": "Todos os itens estão certos."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 3.pdf (Questão 45)"
+    },
+    {
+      "id": "CE3-Q92",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021: obras e serviços de engenharia (projeto básico e definição de obra)",
+      "enunciado": "Em relação a uma auditoria de obras públicas que vise avaliar a conformidade dos atos e contratos com os dispositivos da Lei n.º 14.133/2021, assinale a opção correta.",
+      "alternativas": {
+        "A": "O orçamento detalhado do custo global da obra integra o projeto básico.",
+        "B": "Serviços de engenharia diferem das obras pelo fato de eles não constituírem atividades estabelecidas, em lei, como privativas de determinadas profissões.",
+        "C": "Se a contratação incluir a incorporação de materiais e equipamentos à obra, dispensa-se a sua indicação no projeto básico.",
+        "D": "Sondagens e ensaios geotécnicos, quando necessários, são dispensáveis na fase de elaboração do projeto básico, mas imperativos na preparação do projeto executivo.",
+        "E": "Para ser caracterizada como obra, a atividade deve ser estabelecida, por força de lei, como privativa das profissões de engenheiro, arquiteto ou técnico em edificações."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 3.pdf (Questão 92)"
+    },
+    {
+      "id": "CE5-Q78",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021: garantias contratuais",
+      "enunciado": "A Lei n.º 14.133/2021 apresenta inovações relevantes sobre garantias em contratos administrativos, incluindo contratos de obras, serviços e fornecimentos de bens de TI. A esse respeito, julgue os itens subsequentes. I Em contratos de obras e serviços de grande vulto, a administração poderá exigir garantia de até 30% do valor inicial, desde que prevista no edital e justificada tecnicamente. II A referida lei não menciona a modalidade seguro-garantia, prevendo apenas caução em dinheiro ou títulos da dívida pública. III A garantia prestada pelo contratado deve ser restituída após a execução do contrato e o recebimento definitivo do objeto. Assinale a opção correta.",
+      "alternativas": {
+        "A": "Apenas o item I está certo.",
+        "B": "Apenas o item II está certo.",
+        "C": "Apenas os itens I e III estão certos.",
+        "D": "Apenas os itens II e III estão certos.",
+        "E": "Todos os itens estão certos."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.pdf (Questão 78)"
+    },
+    {
+      "id": "CE5-Q75",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021: matriz de riscos em contratos",
+      "enunciado": "A Instrução Normativa SGD/SEDGG/ME n.º 94/2022, que disciplina a gestão dos contratos de soluções de TIC, determina providências formais no início da execução, instrumentos padronizados para o encaminhamento de demandas e atualização contínua do gerenciamento de riscos, de modo a garantir rastreabilidade, responsabilização e conformidade ao modelo de execução aprovado. Com base nas informações precedentes, assinale a opção em que é apresentado um conjunto de providências e registros compatíveis com o início e o acompanhamento da gestão de um contrato de TIC, conforme a referida instrução normativa.",
+      "alternativas": {
+        "A": "centralizar aceite no gestor; arquivar o mapa de riscos após a seleção; trocar OS por atas; e admitir reunião informal",
+        "B": "tratar a ata sem assinaturas; permitir ordens verbais iniciais; limitar riscos a mudanças de escopo; e usar apenas email",
+        "C": "deixar a contratada indicar o gestor; dispensar OS em serviços contínuos; e registrar riscos apenas em plano de continuidade",
+        "D": "designar gestor e equipe; registrar reunião inicial em ata; emitir OS; e manter mapa de riscos atualizado",
+        "E": "reabrir documento de formalização da demanda (DFD) e estudo técnico preliminar (ETP) sem motivação; atualizar riscos semestralmente; usar email como OS; e substituir ata por relatório"
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.pdf (Questão 75)"
+    },
+    {
+      "id": "CE5-Q80",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021: matriz de riscos em contratos",
+      "enunciado": "A Instrução Normativa SEGES/ME n.º 65/2021 dispõe sobre regras e parâmetros para a pesquisa de preços nas contratações públicas, inclusive para bens e serviços de TI, estabelecendo prioridades, prazos e fontes oficiais de consulta. Segundo essa instrução normativa, entre as fontes priorizadas de pesquisa de preços estão",
+      "alternativas": {
+        "A": "as contratações similares da administração nos últimos 12 meses, adotando-se a mediana.",
+        "B": "as cotações em jornais de grande circulação, válidas até 24 meses da data de sua publicação.",
+        "C": "as propostas de fornecedores, aceitas sem exigência de prazo de validade específico.",
+        "D": "os preços de sites de comércio eletrônico, cujo uso dispensa justificativa formal.",
+        "E": "os catálogos de fabricantes de informática, que sempre substituem as demais fontes."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.pdf (Questão 80)"
+    },
+    {
+      "id": "CE5-Q81",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021: indicação de marca (padronização do objeto)",
+      "enunciado": "Durante a fase interna da aquisição de bens de tecnologia da informação, a indicação de marca pode ser excepcionalmente considerada válida quando",
+      "alternativas": {
+        "A": "estiver fundamentada em pesquisa de mercado que aponte maior participação da marca no setor.",
+        "B": "for recomendada por fornecedor que já atende a outros órgãos públicos.",
+        "C": "estiver prevista em contrato anterior firmado com o mesmo fornecedor.",
+        "D": "estiver formalmente justificada, em decorrência da necessidade de padronização do objeto.",
+        "E": "for baseada em preferência do gestor responsável pela área requisitante."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.pdf (Questão 81)"
+    },
+    {
+      "id": "CE5-Q82",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021: modelos de adjudicação",
+      "enunciado": "Assinale a opção correta quanto aos modelos de adjudicação.",
+      "alternativas": {
+        "A": "A adjudicação global é obrigatória nas contratações cujo objeto envolva serviços contínuos.",
+        "B": "É recomendada a adjudicação global quando se deseja contratar diversos fornecedores para diferentes partes do objeto.",
+        "C": "Quando demonstrada a inviabilidade da adjudicação por item, poderá ser adotado o critério de julgamento de menor preço por grupo de itens, desde que evidenciada sua vantagem técnica e econômica.",
+        "D": "É vedada a adjudicação por grupo em processos que envolvam bens de consumo duráveis.",
+        "E": "A adjudicação por grupo é utilizada quando os itens possuem características técnicas distintas e não se relacionam entre si."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.pdf (Questão 82)"
+    },
+    {
+      "id": "CE5-Q83",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021: termo de referência (elemento obrigatório)",
+      "enunciado": "Assinale a opção que apresenta um elemento obrigatório do termo de referência para a contratação de bens e serviços.",
+      "alternativas": {
+        "A": "cronograma de capacitação de usuários finais após entrega dos bens",
+        "B": "definição do objeto, incluídos sua natureza, os quantitativos, o prazo do contrato e, se for o caso, a possibilidade de sua prorrogação",
+        "C": "previsão de plano de comunicação entre as partes para acompanhamento do projeto",
+        "D": "cláusula que determine o foro de eleição para dirimir eventuais controvérsias",
+        "E": "dispositivo que preveja a correção monetária incidente sobre o valor contratual"
+      },
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.pdf (Questão 83)"
+    },
+    {
+      "id": "CE5-Q84",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021: execução indireta (terceirização)",
+      "enunciado": "Em relação à execução indireta (terceirização) de contratos administrativos na área de tecnologia da informação, assinale a opção correta, de acordo com a Lei n.º 14.133/2021.",
+      "alternativas": {
+        "A": "Durante a vigência do contrato de terceirização, os empregados da empresa contratada ficam subordinados à administração pública.",
+        "B": "A administração pública pode, mediante justificativa expressa e atendidos os requisitos legais, contratar mais de uma empresa ou instituição para executar o mesmo serviço.",
+        "C": "Uma vez que a contratação dos funcionários é incumbência da empresa terceirizada, não se aplicam aos contratos de execução indireta as regras da Lei n.º 14.133/2021 que buscam obstar o nepotismo.",
+        "D": "Serviços que envolvam tomada de decisão ou posicionamento institucional nas áreas de planejamento, coordenação, supervisão e controle devem preferencialmente ser objeto de terceirização.",
+        "E": "Nos contratos de execução indireta, ocorre a transferência, para o terceiro contratado, da responsabilidade pela realização de atos administrativos ou pela tomada de decisão."
+      },
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.pdf (Questão 84)"
+    },
+    {
+      "id": "CE5-Q85",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021: impugnações e pedidos de esclarecimento",
+      "enunciado": "São legitimadas a apresentar impugnações e pedidos de esclarecimentos na fase externa de processo licitatório para aquisição de bens e serviços de tecnologia da informação",
+      "alternativas": {
+        "A": "somente pessoas físicas administradoras de empresas que seriam prejudicadas pelo edital.",
+        "B": "quaisquer pessoas, sem restrições.",
+        "C": "somente empresas da área de tecnologia da informação.",
+        "D": "somente empresas que seriam prejudicadas pelo edital.",
+        "E": "somente pessoas físicas administradoras de empresas da área de tecnologia da informação."
+      },
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.pdf (Questão 85)"
+    },
+    {
+      "id": "CE5-Q86",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021: habilitação e análise de documentação",
+      "enunciado": "Com pertinência à análise de documentação na aquisição de bens e serviços de tecnologia da informação (TI), assinale a opção correta, conforme a Lei n.º 14.133/2021.",
+      "alternativas": {
+        "A": "Deve-se exigir a comprovação dos documentos relativos à regularidade fiscal de todos os licitantes no momento do julgamento das propostas.",
+        "B": "A apresentação de atestados que demonstrem a capacidade operacional dos licitantes deve ser exigida para todas as parcelas da aquisição de bens e serviços de TI.",
+        "C": "As sociedades empresárias estrangeiras devem atender à exigência de registro ou inscrição na entidade profissional competente, podendo fazê-lo por meio da apresentação do referido registro no país de origem.",
+        "D": "Nas contratações de projetos ou de serviços técnicos especializados de TI, inclusive naquelas cujo objeto envolva atividade de pesquisa e desenvolvimento de caráter científico e tecnológico, é obrigatória a apresentação de documento de cessão de todos os direitos patrimoniais para a administração pública.",
+        "E": "Após a entrega dos documentos para habilitação de licitante, é permitida a complementação de informações acerca dos documentos já apresentados, desde que essa complementação seja necessária para apurar fatos existentes à época da abertura do certame."
+      },
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.pdf (Questão 86)"
+    },
+    {
+      "id": "CE5-Q87",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021: solicitação e análise de amostras",
+      "enunciado": "Acerca da solicitação e da análise de amostras no âmbito dos processos licitatórios, assinale a opção correta.",
+      "alternativas": {
+        "A": "Segundo o TCU, o edital de licitação deve contemplar as condições de entrega da amostra ou de realização da prova de conceito (data, horário e local), os procedimentos para o exame da amostra (roteiro detalhado da avaliação), bem como os critérios objetivos para a sua aceitação.",
+        "B": "É vedado à administração pública oferecer protótipo do objeto pretendido para a exigência de amostras, mesmo que haja previsão expressa no edital de licitação.",
+        "C": "As amostras do objeto que se pretende contratar somente podem ser exigidas dos licitantes após a fase de julgamento das propostas.",
+        "D": "A administração pública pode exigir amostras de todos os licitantes de um certame para realizar análise e avaliação da conformidade das propostas, mediante homologação de amostras ou outros testes que sejam de seu interesse.",
+        "E": "As amostras fornecidas pelo licitante provisoriamente vencedor devem ser analisadas pela administração pública, sendo vedado o seu encaminhamento a outra instituição."
+      },
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.pdf (Questão 87)"
+    },
+    {
+      "id": "CE5-Q88",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021: recebimento e aceite do objeto",
+      "enunciado": "No que concerne às condições de recebimento e aceite do objeto de contrato firmado com a administração pública, é correto afirmar, de acordo com a Lei n.º 14.133/2021 (Lei de Licitações e Contratos Administrativos), que o recebimento",
+      "alternativas": {
+        "A": "definitivo referente a compras deve ser realizado, mediante termo detalhado, por comissão designada pela autoridade competente, com verificação posterior do atendimento das exigências contratuais.",
+        "B": "definitivo exclui a responsabilidade civil pela solidez e segurança da obra ou serviço, bem como a responsabilidade ético-profissional pela perfeita execução do contrato, nos limites estabelecidos pela lei ou pelo contrato.",
+        "C": "definitivo de projeto de obra pela administração não exime o projetista da responsabilidade objetiva por todos os danos causados por falha de projeto.",
+        "D": "provisório referente a contratação de serviços deve ser realizado pelo responsável por acompanhar os serviços, de forma sumária, de modo que se certifique o atendimento das exigências contratuais.",
+        "E": "provisório referente a compras deve ser realizado, de forma sumária, por servidor designado pela autoridade competente, com verificação posterior da conformidade do material com as exigências contratuais."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.pdf (Questão 88)"
+    },
+    {
+      "id": "CE5-Q89",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021: penalidades e sanções administrativas",
+      "enunciado": "No que se refere à aplicação das penalidades e sanções administrativas decorrentes de irregularidades em licitações e execuções contratuais, assinale a opção correta.",
+      "alternativas": {
+        "A": "A prescrição da aplicação das sanções de impedimento de licitar e contratar, bem como da sanção de declaração de inidoneidade para licitar e contratar, ocorrerá em 10 anos, contados da ciência da infração pela administração.",
+        "B": "A sanção de advertência deve ser aplicada exclusivamente em face do cometimento de infração que tenha dado causa à inexecução parcial do contrato e tenha resultado em grave dano à administração, quando não se justificar a imposição de penalidade mais grave.",
+        "C": "A sanção de impedimento de licitar e contratar, quando aplicada, impedirá o sancionado de licitar ou contratar no âmbito da administração pública direta e indireta de todos os entes federativos, pelo prazo máximo de 3 anos.",
+        "D": "A sanção de declaração de inidoneidade para licitar ou contratar, quando aplicada pelo Poder Executivo estadual, é de competência exclusiva do governador de estado, e impedirá o sancionado de licitar ou contratar no âmbito da administração pública direta e indireta do ente federativo que a aplicar, pelo prazo máximo de 6 anos.",
+        "E": "A sanção de multa, única que pode ser aplicada cumulativamente com as demais, poderá ser aplicada ao responsável por qualquer das infrações administrativas previstas na Lei de Licitações e Contratos Administrativos."
+      },
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.pdf (Questão 89)"
+    },
+    {
+      "id": "CE5-Q90",
+      "tema": "D9",
+      "assunto": "Lei 14.133/2021: formalização de aditivos contratuais",
+      "enunciado": "No que se refere à formalização de aditivos contratuais, assinale a opção correta.",
+      "alternativas": {
+        "A": "A formalização do termo aditivo é, em todos os casos, condição para a execução, pelo contratado, das prestações determinadas pela administração pública no curso da execução do contrato.",
+        "B": "Na formalização de termo aditivo destinado à prorrogação de vigência de contrato com vigência inicial de doze meses, a administração não é obrigada a verificar a regularidade fiscal e a idoneidade do contratado.",
+        "C": "Em contratações por escopo com conclusão predefinida, o prazo de vigência deverá ser prorrogado, mediante formalização de termo aditivo, quando o objeto não for concluído no período firmado no contrato.",
+        "D": "É dispensada a celebração de termo aditivo para registrar variação de valor contratual decorrente de reajuste de preços previstos no próprio contrato, podendo tal registro ser realizado por apostila.",
+        "E": "É legal a celebração de termo aditivo com efeitos retroativos para permitir o pagamento de serviços efetivamente prestados em contratos com vigência expirada."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.pdf (Questão 90)"
+    },
+    {
+      "id": "CE5-Q71",
+      "tema": "D9",
+      "assunto": "IN SGD/SEDGG/ME n.º 94/2022: planejamento e gestão de contratos de TIC",
+      "enunciado": "Considerando-se que a Instrução Normativa SGD/SEDGG/ME n.º 94/2022 determina, entre outras providências, a criação de diversos documentos durante todo o processo de contratação de bens e serviços de TIC, é correto afirmar que, na fase de gestão do contrato, deve ser produzido(a) I a ata da reunião inicial (kick-off) com pautas mínimas obrigatórias. II a ordem de serviço/ordem de fornecimento (OS/OF) contendo elementos mínimos para formalização de demandas. III o mapa de gerenciamento de riscos (MGR). Assinale a opção correta.",
+      "alternativas": {
+        "A": "Apenas o item I está certo.",
+        "B": "Apenas o item II está certo.",
+        "C": "Apenas os itens I e III estão certos.",
+        "D": "Apenas os itens II e III estão certos.",
+        "E": "Todos os itens estão certos."
+      },
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.pdf (Questão 71)"
+    },
+    {
+      "id": "CE5-Q72",
+      "tema": "D9",
+      "assunto": "IN SGD/SEDGG/ME n.º 94/2022: planejamento e gestão de contratos de TIC",
+      "enunciado": "Segundo a Instrução Normativa SGD/SEDGG/ME n.º 94/2022, o responsável por confeccionar e assinar o termo de recebimento provisório (TRP) a ser produzido durante a fase de gestão do contrato de soluções de TIC, quando da entrega do objeto constante na OS/OF, é o",
+      "alternativas": {
+        "A": "fiscal administrativo do contrato.",
+        "B": "gestor do contrato.",
+        "C": "fiscal setorial do contrato.",
+        "D": "fiscal requisitante do contrato.",
+        "E": "fiscal técnico do contrato."
+      },
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.pdf (Questão 72)"
+    },
+    {
+      "id": "CE5-Q73",
+      "tema": "D9",
+      "assunto": "IN SGD/SEDGG/ME n.º 94/2022: planejamento e gestão de contratos de TIC",
+      "enunciado": "Segundo a Instrução Normativa SGD/SEDGG/ME n.º 94/2022, na fase de gestão do contrato de soluções de TIC, existem diversas responsabilidades/atribuições inerentes aos integrantes da equipe de gestão do contrato, tais como as listadas a seguir. I formalizar demandas de correção à contratada, por comunicação oficial pertinente II verificar regularidades fiscais, trabalhistas e previdenciárias, para fins de pagamento III avaliar a qualidade dos serviços/bens conforme os critérios de aceitação, em conjunto entre fiscais IV autorizar o faturamento com base no termo de recebimento definitivo (TRD) V coordenar os atos preparatórios à prorrogação, alteração, reequilíbrio, pagamento, sanções e extinção Compete, respectivamente, ao fiscal requisitante, ao fiscal administrativo e ao gestor do contrato o que se apresenta nos itens",
+      "alternativas": {
+        "A": "I, II e IV.",
+        "B": "I, II e V.",
+        "C": "I, III e V.",
+        "D": "II, III e IV.",
+        "E": "III, IV e V."
+      },
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.pdf (Questão 73)"
+    },
+    {
+      "id": "CE5-Q74",
+      "tema": "D9",
+      "assunto": "IN SGD/SEDGG/ME n.º 94/2022: planejamento e gestão de contratos de TIC",
+      "enunciado": "No âmbito da Lei n.º 14.133/2021, o planejamento e a fiscalização dos contratos de TI devem estar de acordo com regras que tratam da matriz de riscos, da alocação de responsabilidades e da manutenção do equilíbrio econômico-financeiro. Conforme essa lei, a matriz de riscos em contratos de TI",
+      "alternativas": {
+        "A": "autoriza o contratado a revisar unilateralmente os preços do contrato sempre que houver alteração cambial ou inflacionária.",
+        "B": "serve exclusivamente para registrar falhas de execução verificadas durante a fiscalização do contrato pela administração.",
+        "C": "substitui a necessidade de manutenção do mapa de gerenciamento de riscos previsto em normas infralegais de contratações de TIC.",
+        "D": "permite que a administração transfira integralmente ao contratado todos os riscos da execução contratual, inclusive os de caso fortuito ou força maior.",
+        "E": "estabelece a alocação objetiva de riscos entre a administração e o contratado, fixando responsabilidades e impactos econômico-financeiros previstos."
+      },
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.pdf (Questão 74)"
+    },
+    {
+      "id": "CE5-Q79",
+      "tema": "D9",
+      "assunto": "IN SGD/SEDGG/ME n.º 94/2022: planejamento e gestão de contratos de TIC",
+      "enunciado": "Segundo a Instrução Normativa SGD/SEDGG/ME n.º 94/2022, um dos documentos da fase de planejamento da contratação de soluções de TIC é o",
+      "alternativas": {
+        "A": "ato de fiscalização contratual (AFC), que institui formalmente o gestor e a equipe de fiscalização do contrato antes do planejamento.",
+        "B": "relatório de execução orçamentária (REO), que demonstra a conformidade fiscal da unidade requisitante.",
+        "C": "termo de execução preliminar (TEP), que detalha as sanções aplicáveis ao fornecedor em caso de inadimplemento.",
+        "D": "documento de oficialização da demanda (DOD), que apresenta a matriz de responsabilidades da execução contratual.",
+        "E": "estudo técnico preliminar (ETP), que justifica a necessidade da contratação e avalia alternativas de solução."
+      },
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.pdf (Questão 79)"
+    },
+    {
+      "id": "CE5-Q76",
+      "tema": "D9",
+      "assunto": "IN SEGES/ME n.º 65/2021: pesquisa de preços em contratações públicas",
+      "enunciado": "Determinado órgão da administração pública precisa estimar o valor de referência para a contratação de serviços de manutenção de equipamentos de informática, e o gestor da contratação opta, com base na Instrução Normativa SEGES/ME n.º 65/2021, por utilizar diferentes parâmetros de pesquisa de preços, respeitando prioridades e prazos definidos. Nessa situação hipotética, para atender corretamente aos parâmetros estabelecidos na referida instrução normativa, o gestor deve",
+      "alternativas": {
+        "A": "adotar como regra a média aritmética simples das propostas obtidas diretamente com fornecedores, sendo desnecessária sua justificativa.",
+        "B": "utilizar exclusivamente propostas de fornecedores sem considerar sua validade temporal, desde que constem em papel timbrado.",
+        "C": "usar preços divulgados em catálogos de fabricantes e distribuidores como parâmetro prioritário, como em qualquer contratação de TIC.",
+        "D": "consultar o painel de preços do governo federal e contratações similares realizadas pela administração nos últimos 12 meses, adotando a mediana como valor estimado.",
+        "E": "basear-se em anúncios de jornais especializados de tecnologia, ainda que publicados há mais de 24 meses, se acompanhados de três cotações distintas."
+      },
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.pdf (Questão 76)"
+    },
+    {
+      "id": "CE5-Q77",
+      "tema": "D9",
+      "assunto": "IN SEGES/ME n.º 65/2021: pesquisa de preços em contratações públicas",
+      "enunciado": "No ciclo de vida das contratações de soluções de TI, a fase de gestão do contrato é essencial para a garantia de que o objeto contratado seja entregue conforme os requisitos técnicos e administrativos estabelecidos. Na gestão de contratos de TI, é atribuição típica do gestor e da equipe de fiscalização do contrato",
+      "alternativas": {
+        "A": "conduzir a análise jurídica do edital e do contrato, emitindo parecer vinculante para a administração.",
+        "B": "acompanhar a execução, emitir ordens de serviço, registrar reuniões em ata e atualizar o mapa de riscos.",
+        "C": "aprovar a pesquisa de preços como referência de valor estimado, fixando os parâmetros estatísticos a serem utilizados.",
+        "D": "elaborar o estudo técnico preliminar e o termo de referência, articulando-os ao Plano Diretor de Tecnologia da Informação e Comunicação.",
+        "E": "definir a modalidade de licitação e homologar o resultado, mediante decisão final da autoridade competente."
+      },
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.pdf (Questão 77)"
+    },
+    {
+      "id": "CE1-Q24",
+      "tema": "D10",
+      "assunto": "Lei 8.429/1992: improbidade administrativa (omissão dolosa em relatório técnico)",
+      "enunciado": "O servidor Daniel, ocupante de cargo efetivo no TCE/MS, produziu relatório técnico sobre as contas de um convênio firmado entre o estado e organizações da sociedade civil, tendo sido posteriormente constatado que o referido servidor omitira, de forma dolosa, irregularidades graves em seu relatório técnico, para favorecer determinada entidade privada com a qual ele mantinha relação pessoal. Nessa situação hipotética, de acordo com a Lei de Improbidade Administrativa (Lei n.º 8.429/1992 e alterações), a conduta do servidor",
+      "alternativas": {
+        "A": "enquadra-se como ato de improbidade administrativa que gera enriquecimento ilícito, pois o favorecimento de terceiros caracteriza, por si só, obtenção de vantagem indevida.",
+        "B": "configura ato de improbidade administrativa que causa lesão ao erário, pois a omissão de irregularidades graves compromete a efetividade do controle externo e gera presunção absoluta de dano.",
+        "C": "configura ato de improbidade administrativa que atenta contra os princípios da administração pública, já que houve dolo na omissão das irregularidades, independentemente da existência de dano ao erário ou de enriquecimento ilícito.",
+        "D": "não se enquadra como ato de improbidade administrativa, pois relatórios técnicos têm natureza meramente opinativa e não vinculam a decisão da administração.",
+        "E": "somente caracterizaria improbidade administrativa se houvesse comprovação de dano financeiro efetivo ao Estado."
+      },
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "Provas Cebraspe/tce_ms_25/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 1.pdf (Questão 24)"
+    }
+  ]
+}

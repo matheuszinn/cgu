@@ -1,0 +1,390 @@
+{
+  "concurso": "sefaz_rn_25_auditor",
+  "banca": "Cebraspe",
+  "itens": [
+    {
+      "id": 16,
+      "tema": "D1",
+      "assunto": "Controle concentrado de constitucionalidade: legitimidade para opor embargos de declaração (STF)",
+      "enunciado": "De acordo com a jurisprudência do STF, possui legitimidade para opor embargos de declaração nas ações de controle concentrado de constitucionalidade",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "SEFAZ/RN 2025 (Cebraspe) — Conhecimentos Gerais (P1) — item 16",
+      "alternativas": {
+        "A": "estado-membro da Federação, ainda que não figure como parte no processo.",
+        "B": "amicus curiae, desde que tenha sido admitido no processo de natureza objetiva.",
+        "C": "procurador-geral do estado, em nome do ente federado, ainda que sem subscrição do governador, na hipótese de a ação ter sido proposta contra norma editada pelo ente político que representa.",
+        "D": "amicus curiae, ainda que não tenha sido admitido no processo de natureza objetiva.",
+        "E": "terceiro que não tenha sido admitido nos autos da ação em curso."
+      }
+    },
+    {
+      "id": 17,
+      "tema": "D1",
+      "assunto": "Arguição de descumprimento de preceito fundamental (ADPF): hipóteses de cabimento (STF)",
+      "enunciado": "Segundo a jurisprudência do STF, é cabível a propositura de arguição de descumprimento de preceito fundamental (ADPF) perante o STF",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "SEFAZ/RN 2025 (Cebraspe) — Conhecimentos Gerais (P1) — item 17",
+      "alternativas": {
+        "A": "como sucedâneo recursal.",
+        "B": "quando, contra o mesmo ato do poder público, também for cabível ação direta de inconstitucionalidade por omissão.",
+        "C": "para impugnar decisão judicial liminar, de natureza provisória e precária, proferida em ação direta de inconstitucionalidade que tenha suspendido a eficácia de dispositivos de lei estadual.",
+        "D": "com a finalidade de rescindir decisão judicial já transitada em julgado.",
+        "E": "ainda que, contra o mesmo ato do poder público, seja cabível ação direta de inconstitucionalidade perante tribunal de justiça, desde que a ADPF envolva controvérsia constitucional relevante cuja solução transcenda o interesse local e exija a uniformização em âmbito nacional."
+      }
+    },
+    {
+      "id": 18,
+      "tema": "D1",
+      "assunto": "Ação direta de inconstitucionalidade por omissão (STF)",
+      "enunciado": "Consoante a jurisprudência do STF, a ação direta de inconstitucionalidade por omissão",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "SEFAZ/RN 2025 (Cebraspe) — Conhecimentos Gerais (P1) — item 18",
+      "alternativas": {
+        "A": "não é cabível quando houver projetos legislativos em andamento sobre a mesma matéria, pois isso demonstra a inexistência de mora do Poder Legislativo.",
+        "B": "apenas é cabível em relação a norma constitucional de eficácia plena que dependa de complementação legislativa para produzir efeitos.",
+        "C": "é instrumento destinado a suprir omissões administrativas, não sendo aplicável a omissões legislativas.",
+        "D": "é cabível quando da Constituição Federal de 1988 veicula norma de eficácia limitada dependente de regulamentação, e a mera existência de projeto de lei em tramitação não afasta a mora constitucional.",
+        "E": "é cabível sempre que houver projeto de lei em tramitação sobre norma constitucional de eficácia contida ainda não regulamentada."
+      }
+    },
+    {
+      "id": 19,
+      "tema": "D1",
+      "assunto": "Legitimidade extraordinária dos sindicatos na defesa de direitos coletivos e individuais (STF)",
+      "enunciado": "Segundo entendimento do STF, os sindicatos têm legitimidade extraordinária para defender, em juízo, os direitos e interesses",
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "SEFAZ/RN 2025 (Cebraspe) — Conhecimentos Gerais (P1) — item 19",
+      "alternativas": {
+        "A": "coletivos ou individuais dos integrantes da categoria que representam, inclusive nas fases de liquidação e execução de sentença, independentemente de autorização dos substituídos.",
+        "B": "coletivos ou individuais dos integrantes da categoria que representam, exceto nas fases de liquidação e execução de sentença, independentemente de autorização dos substituídos.",
+        "C": "coletivos ou individuais dos integrantes da categoria que representam, inclusive nas fases de liquidação e execução de sentença, desde que haja autorização dos substituídos.",
+        "D": "apenas coletivos dos integrantes da categoria que representam, inclusive nas fases de liquidação e execução de sentença, desde que haja autorização dos substituídos.",
+        "E": "coletivos ou individuais dos integrantes da categoria que representam, exceto nas fases de liquidação e execução de sentença, desde que haja autorização dos substituídos."
+      }
+    },
+    {
+      "id": 20,
+      "tema": "D1",
+      "assunto": "Direitos políticos: idade mínima como condição de elegibilidade (CF/1988)",
+      "enunciado": "De acordo com a Constituição Federal de 1988, é condição de elegibilidade a idade mínima de",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "SEFAZ/RN 2025 (Cebraspe) — Conhecimentos Gerais (P1) — item 20",
+      "alternativas": {
+        "A": "18 anos para o cargo de prefeito.",
+        "B": "30 anos para o cargo de deputado federal.",
+        "C": "21 anos para o cargo de juiz de paz.",
+        "D": "35 anos para o cargo de governador.",
+        "E": "21 anos para o cargo de vereador."
+      }
+    },
+    {
+      "id": 21,
+      "tema": "D1",
+      "assunto": "Cargos privativos de brasileiro nato (CF/1988)",
+      "enunciado": "De acordo com a Constituição Federal de 1988, é privativo de brasileiro nato o cargo de",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "SEFAZ/RN 2025 (Cebraspe) — Conhecimentos Gerais (P1) — item 21",
+      "alternativas": {
+        "A": "ministro do STJ.",
+        "B": "ministro de Estado da Justiça e Segurança Pública.",
+        "C": "senador da República.",
+        "D": "carreira diplomática.",
+        "E": "deputado federal."
+      }
+    },
+    {
+      "id": 22,
+      "tema": "D1",
+      "assunto": "Laicidade estatal, não discriminação e impessoalidade: símbolos religiosos em prédios públicos (STF)",
+      "enunciado": "O STF firmou entendimento no sentido de que a presença de símbolos religiosos em prédios públicos",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "SEFAZ/RN 2025 (Cebraspe) — Conhecimentos Gerais (P1) — item 22",
+      "alternativas": {
+        "A": "viola os princípios da laicidade estatal e da não discriminação, mas não viola o princípio da impessoalidade.",
+        "B": "viola o princípio da laicidade estatal, mas não viola os princípios da não discriminação e da impessoalidade.",
+        "C": "viola os princípios da laicidade estatal, da não discriminação e da impessoalidade, independentemente do objeto de sua exposição.",
+        "D": "não viola os princípios da não discriminação, da laicidade estatal e da impessoalidade, ainda que sua exposição não tenha o objetivo de manifestar a tradição cultural da sociedade brasileira.",
+        "E": "não viola os princípios da não discriminação, da laicidade estatal e da impessoalidade, desde que tenha o objetivo de manifestar a tradição cultural da sociedade brasileira."
+      }
+    },
+    {
+      "id": 23,
+      "tema": "D1",
+      "assunto": "Direitos políticos e posse em concurso público: condenação criminal transitada em julgado (STF)",
+      "enunciado": "Conforme o STF, a vedação a que candidato aprovado em concurso público venha a tomar posse no cargo por não preencher os requisitos de gozo dos direitos políticos e quitação eleitoral, em razão de condenação criminal transitada em julgado,\n\nI é inconstitucional, quando este for o único fundamento para sua eliminação no certame, ficando o início do efetivo exercício do cargo condicionado ao término da pena ou à decisão judicial.\nII viola os princípios da dignidade da pessoa humana e do valor social do trabalho, quando aquele for o único fundamento para a eliminação do candidato no certame.\nIII é constitucional, ficando a posse no cargo condicionada ao término da pena.\n\nAssinale a opção correta.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "SEFAZ/RN 2025 (Cebraspe) — Conhecimentos Gerais (P1) — item 23",
+      "alternativas": {
+        "A": "Nenhum item está certo.",
+        "B": "Apenas o item I está certo.",
+        "C": "Apenas o item II está certo.",
+        "D": "Apenas o item III está certo.",
+        "E": "Apenas os itens I e II estão certos."
+      }
+    },
+    {
+      "id": 24,
+      "tema": "D1",
+      "assunto": "Controle de constitucionalidade estadual × ADI com idêntico objeto no STF (STF)",
+      "enunciado": "Determinado governador de estado, ao ter conhecimento de que tramita no STF uma ação direta de inconstitucionalidade (ADI) que impugna determinada lei estadual, peticionou ao STF, informando que também está em trâmite outra ADI com idêntico objeto no tribunal de justiça de seu estado.\n\nNa situação apresentada, de acordo com o STF, a ADI em curso no tribunal de justiça do estado deve",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "SEFAZ/RN 2025 (Cebraspe) — Conhecimentos Gerais (P1) — item 24",
+      "alternativas": {
+        "A": "ser remetida obrigatoriamente ao STF, para julgamento conjunto, aplicando-se a regra da litispendência e de continência.",
+        "B": "ter seu curso suspenso até o julgamento final da ADI proposta no STF, desde que esta tenha sido proposta primeiro.",
+        "C": "ter seu curso suspenso até o julgamento final da ADI proposta no STF, independentemente de qual das ações tenha sido proposta primeiro.",
+        "D": "ser julgada normalmente, independentemente da existência de ADI idêntica em curso no STF, porquanto a competência originária do STF não exclui a competência dos tribunais de justiça para o controle concentrado de constitucionalidade estadual.",
+        "E": "ser, desde logo, extinta, a fim de que o STF examine o mérito da controvérsia constitucional."
+      }
+    },
+    {
+      "id": 25,
+      "tema": "D1",
+      "assunto": "Improbidade e limites à sanção: vedação perpétua de retorno ao serviço público (STF)",
+      "enunciado": "Suponha que determinada lei preveja que o servidor que for demitido ou destituído do cargo em comissão pela prática de improbidade administrativa não poderá retornar ao serviço público. Conforme a jurisprudência do STF, essa vedação é",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "SEFAZ/RN 2025 (Cebraspe) — Conhecimentos Gerais (P1) — item 25",
+      "alternativas": {
+        "A": "constitucional, por se tratar de requisito de idoneidade moral para o exercício de cargo público, passível de fixação permanente pelo legislador.",
+        "B": "inconstitucional, por impor sanção de caráter perpétuo.",
+        "C": "constitucional, desde que autorizada em lei complementar.",
+        "D": "inconstitucional apenas quando não tiver ocorrido o trânsito em julgado da condenação administrativa do servidor.",
+        "E": "constitucional, com fundamento no princípio da moralidade administrativa."
+      }
+    },
+    {
+      "id": 26,
+      "tema": "D4",
+      "assunto": "Atributos do ato administrativo: presunção de legitimidade",
+      "enunciado": "A noção de que os atos praticados pela administração pública são válidos perante o direito, até que se faça o contraditório, caracteriza o atributo da",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "SEFAZ/RN 2025 (Cebraspe) — Conhecimentos Gerais (P1) — item 26",
+      "alternativas": {
+        "A": "imperatividade dos atos administrativos.",
+        "B": "presunção de legitimidade dos atos administrativos.",
+        "C": "presunção de tipicidade dos atos administrativos.",
+        "D": "autoexecutoriedade dos atos administrativos.",
+        "E": "presunção de veracidade dos atos administrativos."
+      }
+    },
+    {
+      "id": 27,
+      "tema": "D4",
+      "assunto": "Espécies de atos administrativos (ato ordinatório)",
+      "enunciado": "As manifestações internas da administração pública capazes de disciplinar o funcionamento de seus órgãos e a conduta dos agentes públicos são classificadas como espécie de ato",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "SEFAZ/RN 2025 (Cebraspe) — Conhecimentos Gerais (P1) — item 27",
+      "alternativas": {
+        "A": "enunciativo.",
+        "B": "ordinário.",
+        "C": "normativo.",
+        "D": "ordinatório.",
+        "E": "negocial."
+      }
+    },
+    {
+      "id": 28,
+      "tema": "D3",
+      "assunto": "Distinção constitucional entre cargo, emprego e função pública",
+      "enunciado": "Considerando a distinção constitucional entre cargo público, emprego público e função pública, assinale a opção correta.",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "SEFAZ/RN 2025 (Cebraspe) — Conhecimentos Gerais (P1) — item 28",
+      "alternativas": {
+        "A": "Função pública confunde-se com cargo em comissão, por ser de livre nomeação e exoneração.",
+        "B": "Função de confiança é provida por livre nomeação, sem a necessidade de que o ocupante tenha sido previamente aprovado em concurso público.",
+        "C": "O exercício de função pública, ainda que transitório, exige vínculo estatutário do ocupante da função.",
+        "D": "Excepcionalmente, pode ser formalizada função pública por tempo determinado, desde que prevista em lei.",
+        "E": "Agentes temporários podem desempenhar função de confiança na administração pública, desde que haja autorização legal."
+      }
+    },
+    {
+      "id": 29,
+      "tema": "D3",
+      "assunto": "Regime jurídico da remuneração de agentes públicos",
+      "enunciado": "Considerando as disposições legais e o entendimento jurisprudencial consolidado a respeito do regramento jurídico aplicável à remuneração de agentes públicos, assinale a opção correta.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "SEFAZ/RN 2025 (Cebraspe) — Conhecimentos Gerais (P1) — item 29",
+      "alternativas": {
+        "A": "Acréscimos pecuniários percebidos pelo servidor público serão acumulados para concessão de acréscimos ulteriores.",
+        "B": "É inadmissível a redução de remuneração de servidores, ainda que ela ultrapasse o teto constitucional, haja vista o direito adquirido.",
+        "C": "É de dez anos o prazo decadencial para revisão dos atos que tenham concedido vantagens indevidas a servidores.",
+        "D": "Admite-se, em regra, a penhora de vencimentos quando resultante de determinação judicial em processo ordinário de execução.",
+        "E": "Segundo a jurisprudência do STJ, o servidor que receber pagamento indevido por erro administrativo operacional não estará obrigado a devolver os valores caso comprove boa-fé objetiva."
+      }
+    },
+    {
+      "id": 30,
+      "tema": "D5",
+      "assunto": "Responsabilidade civil do Estado (regime constitucional)",
+      "enunciado": "Em relação ao regime constitucional da responsabilidade civil do Estado e à natureza dos atos praticados pela administração pública, assinale a opção correta.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "SEFAZ/RN 2025 (Cebraspe) — Conhecimentos Gerais (P1) — item 30",
+      "alternativas": {
+        "A": "A indenização por danos decorrentes de condutas lícitas é restrita a perdas materiais.",
+        "B": "A responsabilidade é solidária quando se trata de danos causados por terceiro em nome da administração pública.",
+        "C": "A indenização devida em razão da prática de ato ilícito restringe-se a danos anormais e específicos.",
+        "D": "Para fins de responsabilidade civil do Estado, é imprescindível a análise quanto à licitude do ato lesivo.",
+        "E": "Havendo prejuízo anormal e específico por conduta de agente público, o Estado é obrigado a indenizar o prejudicado."
+      }
+    },
+    {
+      "id": 31,
+      "tema": "D5",
+      "assunto": "Excludentes da responsabilidade civil do Estado",
+      "enunciado": "A respeito do reconhecimento da responsabilidade civil do Estado e da aplicação de excludentes dessa responsabilidade, assinale a opção correta.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "SEFAZ/RN 2025 (Cebraspe) — Conhecimentos Gerais (P1) — item 31",
+      "alternativas": {
+        "A": "Mesmo na hipótese de culpa exclusiva da vítima, subsiste o requisito do nexo de causalidade para a responsabilização do Estado.",
+        "B": "A exclusão de responsabilidade do Estado exige a comprovação de dolo ou culpa do agente estatal que causou o dano.",
+        "C": "Em caso de força maior, é admissível a culpa do serviço público quando comprovada omissão específica.",
+        "D": "O Estado tem responsabilidade subsidiária por danos decorrentes de atos exclusivos de terceiros.",
+        "E": "Admite-se excludente de responsabilidade quando a vítima concorre para a ocorrência do dano."
+      }
+    },
+    {
+      "id": 32,
+      "tema": "D3",
+      "assunto": "Organização administrativa: administração direta e indireta, autarquias, órgãos e descentralização",
+      "enunciado": "Assinale a opção correta a respeito da estrutura dos entes e das entidades que compõem a administração pública.",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "SEFAZ/RN 2025 (Cebraspe) — Conhecimentos Gerais (P1) — item 32",
+      "alternativas": {
+        "A": "A autarquia fundacional difere da autarquia em regime especial por ter natureza de direito privado.",
+        "B": "Tribunais de contas são pessoas jurídicas originárias que integram a administração pública direta.",
+        "C": "É vedado ao chefe do Poder Executivo criar e extinguir órgãos da administração direta, por ser medida de iniciativa restrita ao Congresso Nacional.",
+        "D": "Órgãos autônomos dispõem de competência de planejamento, supervisão e controle da atividade pública.",
+        "E": "A descentralização representa a repartição de funções entre unidades despersonalizadas da administração pública."
+      }
+    },
+    {
+      "id": 33,
+      "tema": "D4",
+      "assunto": "Autotutela administrativa: anulação e revogação de atos",
+      "enunciado": "A capacidade atribuída à administração pública para dispor sobre os próprios atos discricionários, com poder de anulação ou revogação, refere-se ao princípio de",
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "SEFAZ/RN 2025 (Cebraspe) — Conhecimentos Gerais (P1) — item 33",
+      "alternativas": {
+        "A": "autotutela.",
+        "B": "controle ou tutela.",
+        "C": "hierarquia.",
+        "D": "moralidade.",
+        "E": "razoabilidade."
+      }
+    },
+    {
+      "id": 34,
+      "tema": "D9",
+      "assunto": "Participação de pessoas jurídicas em consórcio em licitação pública (Lei n.º 14.133/2021)",
+      "enunciado": "À luz das determinações da Lei n.º 14.133/2021 referentes à participação de pessoas jurídicas em consórcio nos processos de licitação pública, assinale a opção correta.",
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "SEFAZ/RN 2025 (Cebraspe) — Conhecimentos Gerais (P1) — item 34",
+      "alternativas": {
+        "A": "Atos praticados em consórcio geram responsabilidade solidária a seus integrantes.",
+        "B": "Exige-se comprovação de compromisso de constituição de consórcio, dispensada a subscrição.",
+        "C": "A empresa consorciada poderá participar de mais de um consórcio na mesma licitação.",
+        "D": "Qualquer integrante do consórcio poderá representá-lo perante a administração pública.",
+        "E": "Não se admite o somatório dos quantitativos de cada consorciado para efeito de habilitação técnica."
+      }
+    },
+    {
+      "id": 35,
+      "tema": "D3",
+      "assunto": "Prerrogativas e poderes da administração pública (hierárquico, disciplinar, de polícia e regulamentar)",
+      "enunciado": "A respeito das prerrogativas e dos poderes da administração pública, assinale a opção correta.",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "SEFAZ/RN 2025 (Cebraspe) — Conhecimentos Gerais (P1) — item 35",
+      "alternativas": {
+        "A": "A apuração de infrações funcionais de servidores e a aplicação de penalidades são funções típicas do poder hierárquico.",
+        "B": "O poder hierárquico da administração pública se aplica eventualmente a particulares.",
+        "C": "A edição de atos gerais abstratos decorre do poder disciplinar da administração pública.",
+        "D": "O poder de polícia reveste-se de coercibilidade, com admissão do uso da força pública.",
+        "E": "Autoexecutoriedade e discricionariedade são atributos do poder de regulamentar do Estado."
+      }
+    },
+    {
+      "id": 50,
+      "tema": "D10",
+      "assunto": "Crimes de corrupção contra a administração pública: concussão, peculato e corrupção ativa",
+      "enunciado": "João, servidor público estadual, valendo-se do cargo que ocupa, exigiu vantagem econômica indevida de particular, para deixar de praticar determinado ato de ofício. Maria, por sua vez, também servidora pública, apropriou-se, em proveito de terceiro, de valores públicos sob sua guarda, em razão do cargo. Pedro, que não é servidor público, ofereceu vantagem indevida a um agente público para que este praticasse ato contrário ao dever funcional.\n\nAcerca das condutas descritas na situação hipotética anterior, assinale a opção correta com base na legislação penal e no entendimento doutrinário vigentes.",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "SEFAZ/RN 2025 (Cebraspe) — Conhecimentos Gerais (P1) — item 50",
+      "alternativas": {
+        "A": "João praticou o crime de excesso de exação; Maria, o crime de peculato-desvio; e Pedro, o crime de tráfico de influência.",
+        "B": "João praticou o crime de concussão; Maria, o crime de peculato; e Pedro, o crime de corrupção ativa.",
+        "C": "João praticou o crime de corrupção passiva; Maria, o crime de peculato culposo; e Pedro, o crime de advocacia administrativa.",
+        "D": "João praticou o crime de prevaricação; Maria, o crime de peculato; e Pedro, o crime de corrupção passiva.",
+        "E": "João praticou o crime de corrupção passiva; Maria, o crime de concussão; e Pedro, o crime de corrupção ativa."
+      }
+    },
+    {
+      "id": 52,
+      "tema": "D5",
+      "assunto": "Fiscalização financeira e orçamentária e controle externo: parecer prévio de tribunal de contas e LRF",
+      "enunciado": "No que se refere à fiscalização financeira e orçamentária dos entes estaduais, assinale a opção correta de acordo com a Lei de Responsabilidade Fiscal (LRF) e o posicionamento do STF.",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "SEFAZ/RN 2025 (Cebraspe) — Conhecimentos Gerais (P1) — item 52",
+      "alternativas": {
+        "A": "O parecer prévio emitido pelo tribunal de contas do estado sobre as contas prestadas pelo chefe do Poder Executivo estadual terá juízo conclusivo e valor de julgamento.",
+        "B": "A LRF permite a fixação de tetos de gastos particularizados por Poder estadual, sendo a despesa total com pessoal no Poder Executivo estadual, em cada período de apuração, limitada a 49% da receita corrente líquida do estado.",
+        "C": "É indevida a inscrição de um estado federado no Cadastro Único de Convênios (SIAFI/CAUC) por irregularidades trabalhistas sem que haja decisão judicial prévia.",
+        "D": "A autonomia financeira do ente estadual é comprometida quando a legislação local fixa limites de endividamento inferiores aos nacionais, prerrogativa que é exclusiva do Senado Federal.",
+        "E": "Em nenhuma hipótese é viável o remanejamento proporcional da distribuição interna do limite global da receita corrente líquida para as despesas com pessoal entre a assembleia legislativa e o tribunal de contas do estado."
+      }
+    },
+    {
+      "id": 71,
+      "tema": "D7",
+      "assunto": "LGPD: anonimização (processo pelo qual deixa de ser possível associar um dado a um indivíduo)",
+      "enunciado": "De acordo com a Lei Geral de Proteção de Dados Pessoais (LGPD), o processo pelo qual deixa de ser possível associar um dado a um indivíduo é o de",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "SEFAZ/RN 2025 (Cebraspe) — Conhecimentos Complementares (P2) — item 71",
+      "alternativas": {
+        "A": "consentimento.",
+        "B": "tratamento de dados sensíveis.",
+        "C": "anonimização.",
+        "D": "operação.",
+        "E": "bloqueio."
+      }
+    },
+    {
+      "id": 74,
+      "tema": "D6",
+      "assunto": "Serviço de Informação ao Cidadão (SIC): objetivos — Decreto n.º 7.724/2012 (regulamento da LAI)",
+      "enunciado": "O Decreto n.º 7.724/2012 expressamente prevê como objetivo do serviço de informação ao cidadão (SIC)",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "SEFAZ/RN 2025 (Cebraspe) — Conhecimentos Complementares (P2) — item 74",
+      "alternativas": {
+        "A": "definir papéis de servidores.",
+        "B": "garantir o anonimato do solicitante das informações.",
+        "C": "informar sobre a tramitação de documentos nas unidades.",
+        "D": "estabelecer políticas de acesso à informação.",
+        "E": "armazenar dados a serem divulgados."
+      }
+    }
+  ]
+}

@@ -1,0 +1,438 @@
+{
+  "concurso": "sefaz_se_25_auditor",
+  "banca": "Cebraspe",
+  "itens": [
+    {
+      "id": 41,
+      "tema": "D2",
+      "assunto": "Código de Conduta e Integridade da SEFAZ/SE (Lei estadual 9.640/2025): assédio moral, Termo de Ciência e Compromisso e vedações (intriga/discórdia; uso do e-mail institucional)",
+      "enunciado": "Julgue os itens seguintes, à luz do disposto na Lei estadual n.º 9.640/2025 (Código de Conduta e Integridade da Secretaria de Estado da Fazenda de Sergipe). I Expor servidores a situações de incentivo a rivalidades constitui exemplo de assédio moral. II Os servidores devem, no ato da posse ou da investidura em função pública na SEFAZ/SE, assinar o Termo de Ciência e Compromisso (TCC), que, no caso do pessoal terceirizado, deve ser assinado pela empresa contratante. III É expressamente vedado ao agente público em exercício na SEFAZ/SE fomentar intriga ou discórdia entre os colegas ou entre estes e a administração fazendária. IV É vedado aos agentes públicos em exercício na SEFAZ/SE o uso do correio eletrônico institucional para fins que não sejam profissionais. Assinale a opção correta.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "SEFAZ/SE 2025 (Cebraspe) — Conhecimentos Específicos I (Manhã) — item 41",
+      "alternativas": {
+        "A": "Apenas os itens I, II e III estão certos.",
+        "B": "Apenas os itens I, II e IV estão certos.",
+        "C": "Apenas os itens I, III e IV estão certos.",
+        "D": "Apenas os itens II, III e IV estão certos.",
+        "E": "Todos os itens estão certos."
+      }
+    },
+    {
+      "id": 42,
+      "tema": "D10",
+      "assunto": "Improbidade administrativa (Lei 8.429/1992, alterada pela Lei 14.230/2021): tutela provisória de indisponibilidade, exigência de dolo e responsabilidade dos sucessores",
+      "enunciado": "Julgue os próximos itens, com base nas disposições da Lei n.º 8.429/1992 (Lei de Improbidade Administrativa), alterada pela Lei n.º 14.230/2021, e na jurisprudência dos tribunais superiores. I Aplicam-se disposições da Lei n.º 14.230/2021 aos processos em curso para regular o procedimento da tutela provisória de indisponibilidade de bens, de modo que as medidas já deferidas poderão ser reapreciadas para fins de adequação à atual redação da legislação. II O exercício de função ou o desempenho de competências públicas não afasta a responsabilidade por ato de improbidade administrativa, ainda que não se comprove a prática de ato doloso com fim ilícito. III Os sucessores e herdeiros daquele que causar dano ao erário ou que se enriquecer ilicitamente sujeitam-se à obrigação de reparar até o limite do valor da herança ou do patrimônio transferido. Assinale a opção correta.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "SEFAZ/SE 2025 (Cebraspe) — Conhecimentos Específicos I (Manhã) — item 42",
+      "alternativas": {
+        "A": "Apenas o item I está certo.",
+        "B": "Apenas o item II está certo.",
+        "C": "Apenas os itens I e III estão certos.",
+        "D": "Apenas os itens II e III estão certos.",
+        "E": "Todos os itens estão certos."
+      }
+    },
+    {
+      "id": 44,
+      "tema": "D3",
+      "assunto": "Servidores públicos e processo administrativo (LC estadual 33/1996): conceito de servidor, cadastro permanente, transformação de cargos e princípios aplicáveis a entidades estatais",
+      "enunciado": "Em relação ao processo administrativo, julgue os itens a seguir, com base na Lei Complementar estadual n.º 33/1996. I Servidor público civil é toda pessoa legalmente investida em cargo, emprego ou função pública da administração estadual direta e indireta. II No âmbito da administração direta de cada um dos Poderes, do Ministério Público estadual e do Tribunal de Contas do estado, é obrigatória a manutenção de cadastro permanente dos servidores públicos civis, do qual deve constar a indicação dos atos de criação dos correspondentes cargos ou empregos. III A transformação de cargos públicos de provimento efetivo ou de empregos públicos celetistas deve ser realizada por meio de resoluções específicas. IV Aplicam-se às entidades estatais exploradoras de atividade econômica os princípios da motivação, da revisão e da decisão executória. Assinale a opção correta.",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "SEFAZ/SE 2025 (Cebraspe) — Conhecimentos Específicos I (Manhã) — item 44",
+      "alternativas": {
+        "A": "Apenas o item I está certo.",
+        "B": "Apenas o item III está certo.",
+        "C": "Apenas os itens I e II estão certos.",
+        "D": "Apenas os itens II e III estão certos.",
+        "E": "Todos os itens estão certos."
+      }
+    },
+    {
+      "id": 45,
+      "tema": "D9",
+      "assunto": "Licitação pública (Lei 14.133/2021 e Decreto 11.462/2013): registro de preços, responsabilidade, adesão a atas, carta de solidariedade e prazo de contratos",
+      "enunciado": "Assinale a opção correta no que concerne à licitação pública, de acordo com a Lei n.º 14.133/2021 e com o Decreto n.º 11.462/2013.",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "SEFAZ/SE 2025 (Cebraspe) — Conhecimentos Específicos I (Manhã) — item 45",
+      "alternativas": {
+        "A": "O processo licitatório para registro de preços deve ser realizado por meio da modalidade pregão.",
+        "B": "É solidária a responsabilidade entre o contratado e o agente público que causarem dano ao erário em decorrência de contratação direta indevida ocorrida com dolo, fraude ou erro grosseiro.",
+        "C": "É facultado aos órgãos da administração pública federal aderir a atas de registro de preços gerenciadas pelos entes estaduais, desde que mantidas as mesmas condições de contratação.",
+        "D": "É vedado à administração pública, nas licitações que envolvam o fornecimento de bens, exigir carta de solidariedade que, emitida pelo fabricante, assegure a execução do contrato.",
+        "E": "Os contratos em que a administração pública seja usuária de serviço público oferecido em regime de monopólio terão prazo máximo de 35 anos, exigindo-se anualmente a existência de créditos orçamentários vinculados à contratação."
+      }
+    },
+    {
+      "id": 46,
+      "tema": "D3",
+      "assunto": "Agentes públicos, organização da administração e responsabilidade civil do Estado (entendimento do STJ)",
+      "enunciado": "No que diz respeito aos agentes públicos, à organização da administração pública e à responsabilidade civil do Estado, assinale a opção correta de acordo com o entendimento do STJ.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "SEFAZ/SE 2025 (Cebraspe) — Conhecimentos Específicos I (Manhã) — item 46",
+      "alternativas": {
+        "A": "É ilegal a progressão funcional com efeitos financeiros em data distinta ao início do exercício funcional do agente público.",
+        "B": "É permitido ao dependente habilitado à pensão por morte habilitar-se com exclusividade para suceder servidor público falecido no curso de processo que vise à cobrança de valores devidos em vida ao referido servidor.",
+        "C": "Em ação em que se pleiteie reparação moral decorrente de mau cheiro oriundo da prestação de serviço público de tratamento de esgoto, os juros moratórios devem ser contados desde o trânsito em julgado da decisão judicial.",
+        "D": "Não se aplica a prescrição quinquenal prevista no Decreto n.º 20.910/1932 às empresas públicas e sociedades de economia mista prestadoras de serviços públicos essenciais sem finalidade lucrativa e sem natureza concorrencial.",
+        "E": "O abono de permanência integra a base de incidência das verbas calculadas sobre a remuneração do servidor público, tais como o adicional de férias e a gratificação natalina (13.º salário)."
+      }
+    },
+    {
+      "id": 47,
+      "tema": "D3",
+      "assunto": "Poderes da administração pública: excesso de poder, poder regulamentar e autoexecutoriedade do poder de polícia",
+      "enunciado": "No que se refere aos poderes da administração pública, julgue os itens subsecutivos. I Configura-se excesso de poder quando o agente atua dentro da sua esfera de competência, mas com fim diverso ao interesse público. II O poder regulamentar é de natureza derivada e formalizado por meio de decretos e regulamentos. III A autoexecutoriedade é a característica do poder de polícia por meio da qual se demonstra o grau de imperatividade de que se revestem os atos de polícia, tendo a administração o poder de usar a força se necessária para vencer eventual resistência ao cumprimento de suas ordens. Assinale a opção correta.",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "SEFAZ/SE 2025 (Cebraspe) — Conhecimentos Específicos I (Manhã) — item 47",
+      "alternativas": {
+        "A": "Apenas o item I está certo.",
+        "B": "Apenas o item II está certo.",
+        "C": "Apenas os itens I e III estão certos.",
+        "D": "Apenas os itens II e III estão certos.",
+        "E": "Todos os itens estão certos."
+      }
+    },
+    {
+      "id": 48,
+      "tema": "D4",
+      "assunto": "Atos administrativos: reforma, exequibilidade, atos compostos, aprovação e delegação",
+      "enunciado": "Assinale a opção correta a respeito dos atos administrativos.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "SEFAZ/SE 2025 (Cebraspe) — Conhecimentos Específicos I (Manhã) — item 48",
+      "alternativas": {
+        "A": "Reforma é o ato administrativo por meio do qual o órgão competente decide sanar um ato inválido anteriormente praticado, suprindo a ilegalidade que o viciava.",
+        "B": "A exequibilidade do ato administrativo caracteriza-se como a situação jurídica que resulta da conformidade do ato com a lei ou com outro ato de grau mais elevado.",
+        "C": "Atos compostos são aqueles que exigem a intervenção de agentes ou órgãos diversos, tendo a vontade final da administração pública certa autonomia ou conteúdo próprio.",
+        "D": "O ato de aprovação é a manifestação prévia e vinculada do administrador a respeito de outro ato.",
+        "E": "O ato de delegação não exclui a competência da autoridade delegante, que permanece competente cumulativamente com a autoridade delegada."
+      }
+    },
+    {
+      "id": 49,
+      "tema": "D3",
+      "assunto": "Responsabilidade civil do Estado: teorias, rompimento de barragem, prescrição e denunciação da lide",
+      "enunciado": "A respeito da responsabilidade civil do Estado, assinale a opção correta.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "SEFAZ/SE 2025 (Cebraspe) — Conhecimentos Específicos I (Manhã) — item 49",
+      "alternativas": {
+        "A": "Atualmente, alguns doutrinadores do direito administrativo têm defendido como fundamento da responsabilidade civil do Estado a adoção da teoria do risco social, segundo a qual os atos estatais se dividem em atos de império e atos de gestão.",
+        "B": "A administração pública responde civilmente pelos danos causados por seus agentes, salvo se eles estiverem amparados por causa excludente de ilicitude penal.",
+        "C": "Em caso de responsabilidade civil do Estado por rompimento de barragem, é possível a comprovação de prejuízos de ordem material por prova exclusivamente testemunhal, diante da impossibilidade de produção ou utilização de outro meio probatório.",
+        "D": "O termo inicial da prescrição para o ajuizamento de ações de responsabilidade civil em face do Estado por ilícitos praticados por seus agentes é a data do fato.",
+        "E": "Nas ações de responsabilidade civil do Estado, é imprescindível a denunciação da lide ao suposto agente público causador do ato lesivo."
+      }
+    },
+    {
+      "id": 51,
+      "tema": "D1",
+      "assunto": "Inviolabilidade do domicílio (CF, art. 5.º, XI): ingresso de fiscais em estabelecimento industrial sem mandado em situação de desastre",
+      "enunciado": "Agentes da vigilância sanitária acompanhados por fiscais da prefeitura encaminharam-se a um depósito industrial de acesso restrito ao público após o recebimento de denúncia de que lá havia grande quantidade de produto inflamável e de que, no momento, havia um início de incêndio no local. Sem mandado judicial e antes da chegada do corpo de bombeiros, os fiscais ingressaram no estabelecimento, para verificar a denúncia e adotar medidas de contenção. Considerando essa situação hipotética e a disciplina constitucional sobre inviolabilidade do domicílio, assinale a opção correta.",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "SEFAZ/SE 2025 (Cebraspe) — Conhecimentos Específicos I (Manhã) — item 51",
+      "alternativas": {
+        "A": "A inviolabilidade do domicílio não se estende aos estabelecimentos industriais de acesso restrito ao público.",
+        "B": "Mesmo em caso de desastre, é imprescindível a expedição prévia de ordem judicial para o ingresso de fiscais em estabelecimento como o citado, a ser cumprida durante o dia.",
+        "C": "A legalidade do ingresso dos fiscais no depósito depende da caracterização de desastre mediante laudo técnico prévio emitido por órgão competente.",
+        "D": "Como se trata de situação caracterizada como desastre, é legal a entrada imediata dos fiscais no depósito, independentemente de mandado judicial, desde que amparada em fundadas razões.",
+        "E": "Os fiscais somente poderiam entrar no depósito em caso de flagrante delito ou para o cumprimento de ordem judicial."
+      }
+    },
+    {
+      "id": 52,
+      "tema": "D1",
+      "assunto": "Sigilo da fonte jornalística como garantia fundamental, quando necessário ao exercício profissional",
+      "enunciado": "João, jornalista, no exercício de sua função, obteve de fonte não identificada informações sobre irregularidades em contrato público e as publicou em matéria jornalística. Posteriormente, foi intimado em processo criminal para revelar a origem das informações, mas, em juízo, se recusou a fazê-lo. A partir da situação hipotética precedente, assinale a opção correta, à luz da disciplina constitucional dos direitos e das garantias fundamentais.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "SEFAZ/SE 2025 (Cebraspe) — Conhecimentos Específicos I (Manhã) — item 52",
+      "alternativas": {
+        "A": "João é obrigado a revelar em juízo a fonte das referidas informações, pois o interesse público prevalece automaticamente sobre o direito de sigilo da fonte.",
+        "B": "No âmbito judicial, o sigilo da fonte é restrito aos advogados particulares e aos defensores públicos.",
+        "C": "João está protegido pelo direito ao sigilo da fonte, garantido quando necessário ao exercício profissional.",
+        "D": "O direito ao sigilo da fonte é absoluto, não podendo ser relativizado em nenhuma hipótese.",
+        "E": "O sigilo da fonte não se aplica a informações relacionadas ao uso de recursos públicos."
+      }
+    },
+    {
+      "id": 53,
+      "tema": "D1",
+      "assunto": "Competência exclusiva do Congresso Nacional (CF/1988)",
+      "enunciado": "Nos termos da Constituição Federal de 1988, é competência exclusiva do Congresso Nacional",
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "SEFAZ/SE 2025 (Cebraspe) — Conhecimentos Específicos I (Manhã) — item 53",
+      "alternativas": {
+        "A": "resolver definitivamente sobre tratados, acordos ou atos internacionais que acarretem encargos ou compromissos gravosos ao patrimônio nacional.",
+        "B": "processar e julgar o presidente da República nos crimes de responsabilidade.",
+        "C": "conceder indulto e comutar penas, com audiência, se necessário, dos órgãos instituídos em lei.",
+        "D": "aprovar previamente, por voto secreto, após arguição pública, a escolha dos presidentes e diretores do Banco Central do Brasil.",
+        "E": "fixar limites globais para o montante da dívida consolidada da União, dos estados, do Distrito Federal e dos municípios, por proposta do presidente da República."
+      }
+    },
+    {
+      "id": 54,
+      "tema": "D1",
+      "assunto": "Direitos e garantias fundamentais na Constituição do Estado de Sergipe",
+      "enunciado": "Em relação aos direitos e às garantias fundamentais previstos na Constituição do Estado de Sergipe, assinale a opção correta.",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "SEFAZ/SE 2025 (Cebraspe) — Conhecimentos Específicos I (Manhã) — item 54",
+      "alternativas": {
+        "A": "É permitida a coleta de dados referentes a convicção filosófica ou religiosa, desde que para uso estatístico e com possibilidade de identificação individual.",
+        "B": "É vedada a divulgação da identidade da pessoa suspeita da prática de crime enquanto não houver seu indiciamento formal pela autoridade policial.",
+        "C": "Qualquer cidadão pode apresentar queixa contra agentes do poder público, sendo a apuração dos fatos discricionária da autoridade competente.",
+        "D": "O direito de certidão não abrange a reprodução integral dos documentos solicitados.",
+        "E": "É facultado ao Estado restringir a reunião pacífica em locais abertos ao público quando houver interesse da autoridade policial, ainda que ausente ameaça concreta à ordem pública."
+      }
+    },
+    {
+      "id": 55,
+      "tema": "D1",
+      "assunto": "Reclamação constitucional ao STF por contrariedade a enunciado de súmula vinculante",
+      "enunciado": "O tribunal de justiça de determinado estado da Federação, em decisão colegiada ainda não transitada em julgado, contrariou o enunciado de súmula vinculante do STF, o que pode gerar prejuízos imediatos à parte. Considerando a situação hipotética apresentada e as disposições legais acerca da reclamação constitucional, assinale a opção correta.",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "SEFAZ/SE 2025 (Cebraspe) — Conhecimentos Específicos I (Manhã) — item 55",
+      "alternativas": {
+        "A": "A reclamação somente pode ser utilizada para preservar a competência originária do STF, não alcançando hipóteses de descumprimento ou aplicação indevida de súmula vinculante.",
+        "B": "Não é cabível reclamação ao STF da decisão judicial, pois ainda não se esgotaram todos os meios admissíveis de impugnação.",
+        "C": "Eventual reclamação da decisão judicial deverá ser ajuizada primeiramente no tribunal prolator da decisão e, somente na hipótese de negativa, caberá reclamação ao STF.",
+        "D": "É cabível reclamação ao STF para que seja anulada ou cassada a decisão impugnada e proferida outra decisão, com ou sem aplicação da súmula.",
+        "E": "O processamento de eventual reclamação da decisão judicial competirá ao STJ, ficando o STF restrito às hipóteses em que o ato provenha de tribunal superior."
+      }
+    },
+    {
+      "id": 56,
+      "tema": "D1",
+      "assunto": "Autonomia administrativa/funcional do Ministério Público e limites da LDO na proposta orçamentária",
+      "enunciado": "O procurador-geral de justiça de determinado estado encaminhou ao Poder Executivo estadual proposta orçamentária acima dos limites previstos na lei de diretrizes orçamentárias (LDO). O governador, ao consolidar a proposta orçamentária anual, reduziu os valores para adequá-los ao teto estabelecido na LDO. Inconformado, o procurador-geral ajuizou ação direta de inconstitucionalidade (ADI) sob o argumento de que tal alteração violava a autonomia administrativa e funcional do Ministério Público (MP), além da iniciativa orçamentária do órgão. Em referência à situação hipotética apresentada, assinale a opção correta, conforme as disposições constitucionais a respeito do MP.",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "SEFAZ/SE 2025 (Cebraspe) — Conhecimentos Específicos I (Manhã) — item 56",
+      "alternativas": {
+        "A": "A iniciativa orçamentária do MP não está vinculada à LDO.",
+        "B": "No conflito entre autonomia financeira do MP e os limites orçamentários fixados na LDO, caberá ao órgão colegiado do MP decidir a questão.",
+        "C": "O governador não pode alterar a proposta orçamentária do MP, mas pode encaminhar projeto de lei complementar à assembleia legislativa para fixar novos limites orçamentários durante o exercício financeiro.",
+        "D": "A proposta orçamentária do MP deve obedecer aos limites previstos na LDO; caso contrário, o Poder Executivo procederá aos ajustes necessários para fins de consolidação da proposta orçamentária anual.",
+        "E": "A autonomia funcional do MP impede qualquer alteração do orçamento proposto."
+      }
+    },
+    {
+      "id": 57,
+      "tema": "D1",
+      "assunto": "Defensoria Pública: caráter de carreira e escolha do defensor público-geral",
+      "enunciado": "No que diz respeito à Defensoria Pública, assinale a opção correta.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "SEFAZ/SE 2025 (Cebraspe) — Conhecimentos Específicos I (Manhã) — item 57",
+      "alternativas": {
+        "A": "O governador tem competência para nomear como defensor público-geral qualquer bacharel em direito, desde que este tenha mais de trinta anos de idade, nos moldes da nomeação do procurador-geral do estado.",
+        "B": "É válida a nomeação como defensor público-geral de pessoa fora da carreira, desde que a escolha seja aprovada pela maioria absoluta do Poder Legislativo estadual.",
+        "C": "Para serem nomeados, os defensores públicos dos estados devem ser sabatinados pelos membros do Poder Legislativo.",
+        "D": "Compete ao defensor público-geral federal nomear o defensor público-geral de cada estado, entre os membros estáveis da carreira e com no mínimo trinta anos de idade, para mandato de dois anos, permitida uma recondução.",
+        "E": "A nomeação de defensor público-geral requer observância ao caráter de carreira do cargo de defensor público, cabendo a lei complementar disciplinar a forma de escolha do chefe da Defensoria Pública entre seus integrantes."
+      }
+    },
+    {
+      "id": 58,
+      "tema": "D1",
+      "assunto": "Regime constitucional das finanças públicas: créditos extraordinários, operações de crédito entre entes e vinculação de receitas",
+      "enunciado": "Com base no regime constitucional das finanças públicas, assinale a opção correta.",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "SEFAZ/SE 2025 (Cebraspe) — Conhecimentos Específicos I (Manhã) — item 58",
+      "alternativas": {
+        "A": "Créditos extraordinários somente podem ser abertos por lei ordinária, sendo vedada sua instituição por medida provisória, ainda que para atender despesas decorrentes de guerra, comoção interna ou calamidade pública.",
+        "B": "Compete privativamente à Câmara dos Deputados dispor sobre limites e condições para concessão de garantia da União em operações de crédito externo e interno.",
+        "C": "É possível a realização de operações de crédito entre órgãos e entidades da administração pública direta e indireta do mesmo ente federativo, desde que o valor seja devolvido até o término do exercício financeiro em que ocorrer a operação.",
+        "D": "Compete à União estabelecer, em lei complementar, normas gerais sobre finanças públicas, dívida pública e concessão de garantias, aplicáveis a todos os entes federativos, preservada a autonomia destes para disciplinar aspectos específicos de sua gestão financeira.",
+        "E": "É permitida a vinculação de receita de impostos a qualquer órgão, fundo ou despesa, desde que aprovada por maioria absoluta do Congresso Nacional."
+      }
+    },
+    {
+      "id": 59,
+      "tema": "D1",
+      "assunto": "Garantias, vedações e organização do Poder Judiciário",
+      "enunciado": "Acerca das garantias, vedações e organização do Poder Judiciário conforme a Constituição Federal de 1988, assinale a opção correta.",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "SEFAZ/SE 2025 (Cebraspe) — Conhecimentos Específicos I (Manhã) — item 59",
+      "alternativas": {
+        "A": "Os tribunais podem decretar sigilo de julgamentos e dispensar fundamentação de decisões quando houver risco à intimidade das partes.",
+        "B": "Admite-se a decretação de férias coletivas nos juízos e tribunais de segundo grau, desde que mantido plantão permanente.",
+        "C": "A remoção ou a disponibilidade de magistrado por interesse público exige decisão por maioria simples do respectivo tribunal ou do Conselho Nacional de Justiça (CNJ), assegurada a ampla defesa.",
+        "D": "Aos juízes é vedado exercer, ainda que em disponibilidade, outro cargo ou função, salvo uma de magistério.",
+        "E": "A garantia de irredutibilidade de subsídio dos magistrados afasta a incidência do teto constitucional."
+      }
+    },
+    {
+      "id": 60,
+      "tema": "D1",
+      "assunto": "Poder Judiciário: controle administrativo e financeiro pelo CNJ",
+      "enunciado": "Com base nas previsões constitucionais acerca do Poder Judiciário, assinale a opção correta.",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "SEFAZ/SE 2025 (Cebraspe) — Conhecimentos Específicos I (Manhã) — item 60",
+      "alternativas": {
+        "A": "É vedada a criação de órgão jurisdicional de segundo grau em município que não seja sede de tribunal, ainda que para fins de descentralização administrativa.",
+        "B": "Os atos administrativos praticados por órgãos do Poder Judiciário podem ser revistos, quanto à sua legalidade, pelo CNJ, que exerce controle da atuação administrativa e financeira do Poder Judiciário, respeitada a autonomia funcional do Tribunal de Contas da União.",
+        "C": "A autonomia administrativa e financeira dos tribunais compreende a possibilidade de eles elaborarem sua proposta orçamentária independentemente da observância aos limites da LDO.",
+        "D": "Os órgãos do Poder Judiciário não podem, em nenhuma hipótese, propor ao Poder Legislativo a criação de cargos e serviços auxiliares, por ser tal atribuição conferida exclusivamente ao presidente da República.",
+        "E": "O CNJ exerce controle jurisdicional sobre decisões judiciais e administrativas, podendo reformá-las diretamente quando verificar ilegalidade ou afronta a direitos fundamentais."
+      }
+    },
+    {
+      "id": 96,
+      "tema": "D1",
+      "assunto": "Cabimento de liminar em mandado de segurança (Lei 12.016/2009)",
+      "enunciado": "De acordo com a Lei do Mandado de Segurança (Lei n.º 12.016/2009) e o entendimento do STF, assinale a opção correta acerca do cabimento de liminar no mandado de segurança.",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "SEFAZ/SE 2025 (Cebraspe) — Conhecimentos Específicos II — Esp. 3 (Tributação) — item 96",
+      "alternativas": {
+        "A": "Deferida a liminar, os efeitos da medida, salvo se revogada ou cassada, persistirão até a prolação da sentença e, no caso, com o deferimento da medida liminar, não haverá necessidade de prioridade de julgamento do feito, visto que o objeto da ação mandamental estará resguardado.",
+        "B": "É inconstitucional o dispositivo legal que veda a concessão de liminar no mandado de segurança cujo objeto seja a entrega de mercadorias e bens provenientes do exterior.",
+        "C": "A Lei do Mandado de Segurança não prevê a concessão de liminar no mandado de segurança coletivo.",
+        "D": "É constitucional o dispositivo legal que determina que, no mandado de segurança coletivo, a liminar só pode ser concedida após a audiência do representante judicial da pessoa jurídica de direito público.",
+        "E": "É constitucional o dispositivo legal que veda a concessão de liminar em mandado de segurança cujo objeto seja a compensação de créditos tributários."
+      }
+    },
+    {
+      "id": 97,
+      "tema": "D1",
+      "assunto": "Prazo decadencial de 120 dias para impetração do mandado de segurança",
+      "enunciado": "Conforme a Lei do Mandado de Segurança e a jurisprudência do STF, o prazo para impetração do mandado de segurança é",
+      "gabarito": "B",
+      "anulado": false,
+      "fonte": "SEFAZ/SE 2025 (Cebraspe) — Conhecimentos Específicos II — Esp. 3 (Tributação) — item 97",
+      "alternativas": {
+        "A": "prescricional, de 30 dias, contados da prática do ato impugnado pela autoridade pública ou equiparada.",
+        "B": "decadencial, de 120 dias, contados da ciência do interessado sobre o ato impugnado.",
+        "C": "decadencial, de 30 dias, contados da prática do ato impugnado pela autoridade pública ou equiparada.",
+        "D": "prescricional, de 3 anos, contados da prática do ato impugnado pela autoridade pública ou equiparada.",
+        "E": "prescricional, de 120 dias, contados da ciência do interessado sobre o ato impugnado."
+      }
+    },
+    {
+      "id": 98,
+      "tema": "D1",
+      "assunto": "Controle de constitucionalidade (difuso × concentrado) e ação civil pública",
+      "enunciado": "Suponha que o Ministério Público tenha proposto ação civil pública fundamentada na defesa de direitos difusos e com pedido principal de declaração de inconstitucionalidade de lei federal, sem apresentar fatos concretos e individualizados. Nesse caso, de acordo com o entendimento do STF, trata-se de hipótese de controle de constitucionalidade",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "SEFAZ/SE 2025 (Cebraspe) — Conhecimentos Específicos II — Esp. 3 (Tributação) — item 98",
+      "alternativas": {
+        "A": "difuso, podendo o pedido ser formulado por meio de ação civil pública, que deverá ser julgada por juízo de primeiro grau.",
+        "B": "concentrado, podendo o pedido ser formulado por meio de ação civil pública, que deverá ser julgada por juízo de primeiro grau.",
+        "C": "difuso, devendo o pedido ser formulado por meio de ação direta de inconstitucionalidade, que deverá ser julgada pelo STF.",
+        "D": "concentrado, devendo o pedido ser formulado por meio de ação direta de inconstitucionalidade, que deverá ser julgada pelo STF.",
+        "E": "concentrado, devendo o pedido ser formulado por meio de ação direta de inconstitucionalidade, que deverá ser julgada por tribunal de justiça estadual."
+      }
+    },
+    {
+      "id": 109,
+      "tema": "D7",
+      "assunto": "LGPD: propósito legítimo, limitação ao mínimo necessário e informação clara ao titular (aplicação integrada à segurança da informação/ISO 27002)",
+      "enunciado": "Considerando que uma abordagem integrada de segurança da informação contempla a proteção de dados pessoais e dos ativos de informação da organização, julgue os itens a seguir, observando, no que couber, as disposições da Lei Geral de Proteção de Dados Pessoais (LGPD) e da ABNT NBR ISO/IEC 27002:2022. I O tratamento de dados pessoais deve ter propósito legítimo, limitar-se ao mínimo necessário e observar a garantia da prestação de informações claras ao titular. II A classificação dos ativos de informação de uma organização conforme seu nível de criticidade garante o controle adequado das informações. III A gestão de riscos em segurança da informação deve considerar a identificação de ameaças, vulnerabilidades e impactos para a definição das medidas de proteção. Assinale a opção correta.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "SEFAZ/SE 2025 (Cebraspe) — Conhecimentos Específicos II — Esp. 2 (TI) — item 109",
+      "alternativas": {
+        "A": "Apenas o item I está certo.",
+        "B": "Apenas o item II está certo.",
+        "C": "Apenas os itens I e III estão certos.",
+        "D": "Apenas os itens II e III estão certos.",
+        "E": "Todos os itens estão certos."
+      }
+    },
+    {
+      "id": 112,
+      "tema": "D9",
+      "assunto": "Contratações de TIC (SISP): catálogos de soluções padronizadas, fiscalização e pesquisa de preços",
+      "enunciado": "A estratégia de contratações de soluções de tecnologia da informação e comunicação (TIC) do Sistema de Administração dos Recursos de Tecnologia da Informação (SISP) estabelece diretrizes para a aquisição de software e serviços relacionados. No que se refere aos catálogos de soluções de TIC com condições padronizadas para licenciamento de software, assinale a opção correta.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "SEFAZ/SE 2025 (Cebraspe) — Conhecimentos Específicos II — Esp. 2 (TI) — item 112",
+      "alternativas": {
+        "A": "A principal vantagem desses catálogos é a padronização de licenças e a dispensa de qualquer tipo de fiscalização técnica ou de medição dos serviços, uma vez que as condições já são preestabelecidas.",
+        "B": "Todos os órgãos integrantes do SISP devem adotar um modelo de catálogo, independentemente do valor da contratação, estando, assim, dispensados da elaboração de estudo técnico preliminar.",
+        "C": "A adesão a um catálogo de soluções de TIC padronizadas isenta o órgão contratante de elaborar termo de referência, pois as especificações técnicas e métricas já estão predefinidas.",
+        "D": "Os citados catálogos aplicam-se exclusivamente a contratações de software de código aberto, não sendo permitida sua utilização para aquisição de soluções proprietárias de mercado.",
+        "E": "O uso de tais catálogos, de caráter facultativo, proporciona benefícios como agilidade no processo de contratação e maior previsibilidade orçamentária, sem, no entanto, dispensar a realização de pesquisa de preços."
+      }
+    },
+    {
+      "id": 113,
+      "tema": "D9",
+      "assunto": "Estudo técnico preliminar (ETP) para contratações de TIC (IN SGD/ME 94/2022)",
+      "enunciado": "Acerca do estudo técnico preliminar (ETP) para contratações de TIC, assinale a opção correta, com base na Instrução Normativa SGD/ME n.º 94/2022.",
+      "gabarito": "D",
+      "anulado": false,
+      "fonte": "SEFAZ/SE 2025 (Cebraspe) — Conhecimentos Específicos II — Esp. 2 (TI) — item 113",
+      "alternativas": {
+        "A": "A elaboração do ETP é dispensada nos casos de contratação de empresas públicas de TIC, sem necessidade de justificativa.",
+        "B": "A elaboração do ETP é a primeira etapa da fase de planejamento da contratação, seguida pela formulação do documento de formalização da demanda.",
+        "C": "O preço máximo de compra de item de TIC (PMC-TIC) deve ser observado obrigatoriamente nas contratações de soluções padronizadas feitas pelos órgãos do Poder Executivo federal, sejam eles integrantes do SISP ou não.",
+        "D": "O ETP deve apresentar definição e especificação dos requisitos necessários e suficientes à escolha da solução de TIC, contendo, de forma detalhada, motivada e justificada, inclusive quanto à forma de cálculo, o quantitativo de bens e serviços necessários para sua composição.",
+        "E": "O ETP é elaborado exclusivamente pela área de TIC do órgão, sem necessidade de envolvimento das áreas requisitantes da solução ou dos setores administrativos."
+      }
+    },
+    {
+      "id": 114,
+      "tema": "D9",
+      "assunto": "Fiscalização da execução de contratos e figura do fiscal de contrato (Lei 14.133/2021)",
+      "enunciado": "De acordo com a Lei n.º 14.133/2021, assinale a opção correta no que concerne à fiscalização da execução dos contratos e à figura do fiscal de contrato.",
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "SEFAZ/SE 2025 (Cebraspe) — Conhecimentos Específicos II — Esp. 2 (TI) — item 114",
+      "alternativas": {
+        "A": "É permitida a designação de dois ou mais fiscais para o mesmo contrato, bem como a contratação de terceiros para assisti-los e subsidiá-los com informações pertinentes a essa atribuição.",
+        "B": "Incumbe ao fiscal do contrato o acompanhamento da execução do contrato, enquanto a manutenção de registro de ocorrências é de competência do gestor contratual.",
+        "C": "A vedação quanto ao vínculo de parentesco, colateral ou por afinidade, entre o fiscal do contrato e o contratado se estende até o segundo grau, não podendo o fiscal, ainda, ser cônjuge ou companheiro do contratado.",
+        "D": "A execução do contrato pode ser fiscalizada por terceiros contratados, sem necessidade de designação de servidor ou empregado público.",
+        "E": "O fiscal do contrato pode exercer simultaneamente as funções de gestor contratual e ordenador de despesas, sem restrições."
+      }
+    },
+    {
+      "id": 115,
+      "tema": "D9",
+      "assunto": "Pesquisa de preços para aquisição de bens e serviços (IN SEGES/ME 65/2021)",
+      "enunciado": "Com base na Instrução Normativa SEGES/ME n.º 65/2021, que dispõe sobre o procedimento administrativo para a realização de pesquisa de preços para aquisição de bens e contratação de serviços no âmbito da administração pública federal, assinale a opção correta.",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "SEFAZ/SE 2025 (Cebraspe) — Conhecimentos Específicos II — Esp. 2 (TI) — item 115",
+      "alternativas": {
+        "A": "É vedada a utilização de preços de contratações anteriores de objetos similares para a pesquisa de preços de novas contratações diretas.",
+        "B": "A pesquisa direta a ser realizada com os fornecedores no âmbito da pesquisa de preços deve ser feita mediante solicitação formal de cotação por meio de ofício ou email, acompanhada de justificativa para a escolha dos fornecedores.",
+        "C": "Na contratação direta, a escolha do fornecedor pode ser baseada na preferência do gestor responsável, desde que se trate de fornecedor já conhecido pela administração pública.",
+        "D": "Na pesquisa de preços, deverão ser obrigatoriamente observadas as condições comerciais praticadas, inclusive prazos e locais de entrega, instalação e montagem do bem ou execução do serviço.",
+        "E": "Para a contratação direta por dispensa de licitação, é obrigatório obter, na pesquisa de preços, orçamentos válidos de, no mínimo, cinco fornecedores."
+      }
+    },
+    {
+      "id": 116,
+      "tema": "D9",
+      "assunto": "Contratos baseados em unidade de serviço técnico (UST): renovação, escopo e memória de cálculo",
+      "enunciado": "As orientações para novas contratações e renovações de contratos baseados em unidade de serviço técnico (UST), da Secretaria de Governo Digital, visam, entre outros objetivos, orientar a renovação de contratos remunerados por UST, com foco na economicidade e na eficiência. Considerando as referidas orientações, assinale a opção correta.",
+      "gabarito": "A",
+      "anulado": false,
+      "fonte": "SEFAZ/SE 2025 (Cebraspe) — Conhecimentos Específicos II — Esp. 2 (TI) — item 116",
+      "alternativas": {
+        "A": "Devem ser claramente definidos os elementos que compõem a UST, os padrões de qualidade exigidos e as tarefas necessárias, com memória de cálculo que justifique quantitativo de esforço, unidades previstas e fatores de ponderação.",
+        "B": "É permitido prorrogar contratos com base em UST sem necessidade de revisão do planejamento inicial, caso o fornecedor mantenha os mesmos profissionais e o mesmo escopo.",
+        "C": "Não é necessário considerar níveis de complexidade das tarefas ou níveis mínimos de serviço na definição de equivalência em UST, bastando estimativas genéricas de esforço.",
+        "D": "Uma das vantagens da adoção da métrica UST é que a sua forma de remuneração por volume de unidade técnica dispensa o planejamento prévio do escopo e a mensuração dos resultados.",
+        "E": "É dispensável a existência de memória de cálculo detalhada para cada item do catálogo, desde que a adoção da métrica UST seja consensual entre os órgãos envolvidos."
+      }
+    }
+  ]
+}

@@ -1,0 +1,1131 @@
+{
+  "concurso": "tce_rn_25",
+  "banca": "Cebraspe",
+  "itens": [
+    {
+      "id": "C14ESP-82",
+      "tema": "D1",
+      "assunto": "CNJ — composição e competências",
+      "enunciado": "Compete ao CNJ apreciar, de ofício ou mediante provocação, a legalidade dos atos administrativos praticados por órgãos do Poder Judiciário, podendo desconstituí-los, revê-los ou fixar prazo para que se adotem providências necessárias ao exato cumprimento da lei.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14 — item 82"
+    },
+    {
+      "id": "C14ESP-83",
+      "tema": "D1",
+      "assunto": "CNJ — composição e competências",
+      "enunciado": "Os advogados que integram o CNJ são indicados pelo STF, sendo tal indicação ainda submetida à aprovação do Senado Federal.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14 — item 83"
+    },
+    {
+      "id": "C14ESP-84",
+      "tema": "D1",
+      "assunto": "Mandato eletivo e vínculo com cargo público (direitos políticos)",
+      "enunciado": "Ao ser investida no mandato de prefeita, Maria poderá permanecer no exercício do cargo público, desde que opte pela remuneração correspondente ao mandato eletivo.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14 — item 84"
+    },
+    {
+      "id": "C14ESP-85",
+      "tema": "D1",
+      "assunto": "Mandato eletivo e vínculo com cargo público (direitos políticos)",
+      "enunciado": "Caso haja compatibilidade de horários entre o cargo público e o mandato eletivo, João poderá perceber simultaneamente as vantagens de seu cargo público e a remuneração do cargo de vereador.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14 — item 85"
+    },
+    {
+      "id": "C14ESP-87",
+      "tema": "D1",
+      "assunto": "Suspensão de direitos políticos por condenação criminal",
+      "enunciado": "A condenação criminal transitada em julgado enseja a suspensão dos direitos políticos do condenado enquanto durarem os efeitos da condenação, sendo vedada, nessa hipótese, a cassação desses direitos.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14 — item 87"
+    },
+    {
+      "id": "C14ESP-88",
+      "tema": "D1",
+      "assunto": "Partidos políticos",
+      "enunciado": "É assegurada a liberdade de criação, fusão, incorporação e extinção de partidos políticos, sendo permitido o recebimento de recursos financeiros de entidades estrangeiras, desde que não haja subordinação a governo estrangeiro.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14 — item 88"
+    },
+    {
+      "id": "C14ESP-90",
+      "tema": "D1",
+      "assunto": "Advocacia pública — autonomia funcional",
+      "enunciado": "A CF assegura à advocacia pública a mesma autonomia funcional e administrativa conferida ao Ministério Público e à Defensoria Pública, em razão de sua qualificação como função essencial à justiça.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14 — item 90"
+    },
+    {
+      "id": "C9ESP-57",
+      "tema": "D1",
+      "assunto": "Repartição de competências constitucionais (PPP municipal; LRF estadual)",
+      "enunciado": "É constitucional lei municipal que cria hipótese de parceria público-privada unicamente para a execução de obra pública, sem vinculação da prestação de serviço público ou social, uma vez que encontra amparo na competência do município para legislar sobre matéria de interesse local.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 9 — item 57"
+    },
+    {
+      "id": "C9ESP-58",
+      "tema": "D1",
+      "assunto": "Repartição de competências constitucionais (PPP municipal; LRF estadual)",
+      "enunciado": "É inconstitucional lei estadual que exclui dos limites de despesa total com pessoal definidos na Lei de Responsabilidade Fiscal gastos com contratos de terceirização na área da saúde pública, por violar a competência legislativa da União para editar normas gerais sobre direito financeiro e orçamentário.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 9 — item 58"
+    },
+    {
+      "id": "C9ESP-61",
+      "tema": "D1",
+      "assunto": "Direitos das populações indígenas e comunidades quilombolas",
+      "enunciado": "A CF assegura aos remanescentes das comunidades dos quilombos o reconhecimento estatal da propriedade sobre as terras que histórica e tradicionalmente ocupam, garantia que representa direito fundamental de grupo étnico-racial minoritário dotado de eficácia plena e aplicação imediata.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 9 — item 61"
+    },
+    {
+      "id": "C9ESP-62",
+      "tema": "D1",
+      "assunto": "Direitos das populações indígenas e comunidades quilombolas",
+      "enunciado": "A pesquisa e a lavra das riquezas minerais em terras indígenas devem ser autorizadas previamente pelo Poder Legislativo municipal, uma vez que as terras tradicionalmente ocupadas pelos povos indígenas se destinam a sua posse permanente, cabendo-lhes o usufruto exclusivo das riquezas do solo.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 9 — item 62"
+    },
+    {
+      "id": "C12GER-29",
+      "tema": "D1",
+      "assunto": "Ação popular",
+      "enunciado": "Qualquer cidadão é parte legítima para propor ação popular que vise a anular ato lesivo ao patrimônio público, devendo o autor, se comprovada sua má-fé, pagar as custas judiciais e arcar com o ônus da sucumbência.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 12 — item 29"
+    },
+    {
+      "id": "C12GER-30",
+      "tema": "D1",
+      "assunto": "Aplicabilidade das normas constitucionais (normas programáticas)",
+      "enunciado": "As normas definidoras dos direitos e garantias fundamentais são programáticas, pois estipulam metas a serem implementadas e alcançadas pelo Estado.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 12 — item 30"
+    },
+    {
+      "id": "C13GER-34",
+      "tema": "D1",
+      "assunto": "Processo legislativo — reserva de iniciativa e veto",
+      "enunciado": "A reserva constitucional da iniciativa para deflagrar o processo legislativo não poderá ser considerada atendida caso parlamentar proponha projeto de lei acerca de matéria de competência privativa do chefe do Poder Executivo, ainda que, simultaneamente, este envie ao Congresso Nacional projeto de lei substancialmente idêntico.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 13 — item 34"
+    },
+    {
+      "id": "C13GER-37",
+      "tema": "D1",
+      "assunto": "Processo legislativo — reserva de iniciativa e veto",
+      "enunciado": "O veto presidencial a projeto de lei prescinde da exposição das razões que o fundamentaram.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 13 — item 37"
+    },
+    {
+      "id": "C13GER-35",
+      "tema": "D1",
+      "assunto": "Direitos e garantias fundamentais (manifestação do pensamento; direito à saúde)",
+      "enunciado": "A CF, ao prever a liberdade de manifestação do pensamento como garantia fundamental, veda o anonimato.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 13 — item 35"
+    },
+    {
+      "id": "C13GER-36",
+      "tema": "D1",
+      "assunto": "Direitos e garantias fundamentais (manifestação do pensamento; direito à saúde)",
+      "enunciado": "O direito à saúde é absoluto, não sendo possível a recusa a tratamento de saúde por motivos religiosos, quando presente risco iminente de morte do paciente.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 13 — item 36"
+    },
+    {
+      "id": "C13GER-40",
+      "tema": "D1",
+      "assunto": "Responsabilidade civil do Estado",
+      "enunciado": "De acordo com o entendimento do STF, o Estado responde objetivamente pelos danos ocasionados a vítima de disparo de arma de fogo no contexto de operação policial, ainda que a perícia quanto à origem do projétil seja inconclusiva.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 13 — item 40"
+    },
+    {
+      "id": "C13GER-41",
+      "tema": "D1",
+      "assunto": "Responsabilidade civil do Estado",
+      "enunciado": "Segundo a teoria do risco integral, adotada pela Constituição Federal de 1988 para embasar a responsabilidade civil do Estado, no caso de erro médico imputado a conduta negligente de servidor público do SUS, que se omita em seu dever de prestar atendimento, deve o Estado responder objetivamente perante a vítima.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 13 — item 41"
+    },
+    {
+      "id": "C13GER-42",
+      "tema": "D1",
+      "assunto": "Responsabilidade civil do Estado",
+      "enunciado": "A aferição da responsabilidade civil do Estado admite o sistema de compensação de culpas, de modo que, se tiver havido participação da pessoa lesada no evento que lhe ocasionou danos, o dever do Estado em reparar os prejuízos deve ser atenuado.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 13 — item 42"
+    },
+    {
+      "id": "C14ESP-52",
+      "tema": "D3",
+      "assunto": "Autarquias e administração indireta",
+      "enunciado": "As autarquias, integrantes da administração indireta, possuem personalidade jurídica de direito público e patrimônio próprio, e exercem atividades típicas de Estado, sendo criadas por lei específica.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14 — item 52"
+    },
+    {
+      "id": "C14ESP-100",
+      "tema": "D3",
+      "assunto": "Autarquias e administração indireta",
+      "enunciado": "As autarquias são pessoas jurídicas de direito público, criadas por lei específica, com capacidade de autoadministração e sujeitas ao controle finalístico do ente que as tenha instituído.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14 — item 100"
+    },
+    {
+      "id": "C6ESP-65",
+      "tema": "D3",
+      "assunto": "Reformas administrativas e modelos de administração pública",
+      "enunciado": "As recentes reformas administrativas no Brasil têm buscado modernizar a gestão pública, com ênfase na integração de novas tecnologias e no fortalecimento dos mecanismos de participação cidadã.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6 — item 65"
+    },
+    {
+      "id": "C6ESP-66",
+      "tema": "D3",
+      "assunto": "Reformas administrativas e modelos de administração pública",
+      "enunciado": "A proliferação de conselhos, agências reguladoras, consórcios públicos e parcerias com organizações sociais (OS) e organizações da sociedade civil de interesse público (OSCIP) reflete um movimento de modernização e aprimoramento da governança estatal, na medida em que esses instrumentos de gestão compartilhada e cooperação interinstitucional têm como objetivo otimizar a execução de políticas públicas, melhorar a prestação de serviços e aumentar a eficiência administrativa.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6 — item 66"
+    },
+    {
+      "id": "C6ESP-67",
+      "tema": "D3",
+      "assunto": "Reformas administrativas e modelos de administração pública",
+      "enunciado": "As reformas administrativas implementadas no Brasil a partir da década de 90 do século XX buscaram redefinir o papel do Estado, substituindo parcialmente o modelo burocrático tradicional por práticas gerenciais mais orientadas para resultados.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6 — item 67"
+    },
+    {
+      "id": "C6ESP-81",
+      "tema": "D3",
+      "assunto": "Reformas administrativas e modelos de administração pública",
+      "enunciado": "A administração pública gerencial considera o indivíduo como consumidor (ou usuário), sob o ponto de vista econômico, e como cidadão, sob o ponto de vista político.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6 — item 81"
+    },
+    {
+      "id": "C9ESP-53",
+      "tema": "D3",
+      "assunto": "Administração pública em sentido objetivo",
+      "enunciado": "Em sentido objetivo, a administração pública circunscreve-se à função administrativa exercida pelos integrantes do Poder Executivo incumbidos de atender concretamente ao interesse público.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 9 — item 53"
+    },
+    {
+      "id": "C12GER-35",
+      "tema": "D3",
+      "assunto": "Órgão administrativo e descentralização",
+      "enunciado": "Órgão administrativo é a unidade descentralizada, com personalidade jurídica própria, integrante da estrutura da administração direta.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 12 — item 35"
+    },
+    {
+      "id": "C13GER-38",
+      "tema": "D3",
+      "assunto": "Agentes públicos e poderes administrativos",
+      "enunciado": "O poder hierárquico da administração pública se manifesta por meio das sanções que agentes superiores aplicam, quando constatam ilegalidades ou desvios funcionais, aos seus subordinados.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 13 — item 38"
+    },
+    {
+      "id": "C13GER-39",
+      "tema": "D3",
+      "assunto": "Agentes públicos e poderes administrativos",
+      "enunciado": "A possibilidade admitida pelo texto constitucional quanto à cumulação de dois cargos públicos para profissionais da saúde restringe-se às atividades privativas de médico.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 13 — item 39"
+    },
+    {
+      "id": "C123GER-36",
+      "tema": "D3",
+      "assunto": "Agentes públicos e poderes administrativos (recurso hierárquico, autarquia, cargo em comissão)",
+      "enunciado": "A possibilidade de recurso ao chefe de Caio decorre do poder administrativo hierárquico, já que se trata de uma relação revisional inerente à subordinação administrativa entre agentes públicos.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 1 2 E 3 — item 36"
+    },
+    {
+      "id": "C123GER-37",
+      "tema": "D3",
+      "assunto": "Agentes públicos e poderes administrativos (recurso hierárquico, autarquia, cargo em comissão)",
+      "enunciado": "Autarquia é pessoa jurídica de direito público criada por lei e integrante da administração pública indireta.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 1 2 E 3 — item 37"
+    },
+    {
+      "id": "C123GER-38",
+      "tema": "D3",
+      "assunto": "Agentes públicos e poderes administrativos (recurso hierárquico, autarquia, cargo em comissão)",
+      "enunciado": "Cargo em comissão é cargo público de livre nomeação e exoneração, destinado a funções de direção, chefia ou assessoramento, sem exigência de concurso público.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 1 2 E 3 — item 38"
+    },
+    {
+      "id": "C45GER-34",
+      "tema": "D3",
+      "assunto": "Agentes públicos e poderes administrativos",
+      "enunciado": "Autarquia é pessoa jurídica de direito público criada por lei e integrante da administração pública indireta.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 4 E 5 — item 34"
+    },
+    {
+      "id": "C45GER-36",
+      "tema": "D3",
+      "assunto": "Agentes públicos e poderes administrativos",
+      "enunciado": "Cargo em comissão é cargo público de livre nomeação e exoneração, destinado a funções de direção, chefia ou assessoramento, sem exigência de concurso público.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 4 E 5 — item 36"
+    },
+    {
+      "id": "C45GER-38",
+      "tema": "D3",
+      "assunto": "Agentes públicos e poderes administrativos",
+      "enunciado": "A possibilidade de recurso ao chefe de Caio decorre do poder administrativo hierárquico, já que se trata de uma relação revisional inerente à subordinação administrativa entre agentes públicos.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 4 E 5 — item 38"
+    },
+    {
+      "id": "C6781011GER-38",
+      "tema": "D3",
+      "assunto": "Órgão administrativo e descentralização",
+      "enunciado": "Órgão administrativo é a unidade descentralizada, com personalidade jurídica própria, integrante da estrutura da administração direta.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 6 7 8 10 E 11 — item 38"
+    },
+    {
+      "id": "C9ESP-51",
+      "tema": "D4",
+      "assunto": "Indisponibilidade do interesse público e interpretação das normas de gestão",
+      "enunciado": "Os obstáculos reais do gestor e as exigências das políticas públicas a seu cargo não são parâmetros que devem ser considerados na interpretação das normas sobre gestão pública, em razão da incidência do princípio da indisponibilidade do interesse público.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 9 — item 51"
+    },
+    {
+      "id": "C9ESP-54",
+      "tema": "D4",
+      "assunto": "Invalidação de ato administrativo e dever de motivação",
+      "enunciado": "A decisão que decretar a invalidação de ato administrativo, seja na esfera administrativa, seja na judicial, seja na controladora, deverá indicar, de modo expresso, suas consequências jurídicas e administrativas.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 9 — item 54"
+    },
+    {
+      "id": "C123GER-35",
+      "tema": "D4",
+      "assunto": "Recurso administrativo e ato administrativo",
+      "enunciado": "O recurso apresentado ao chefe de Caio configura controle judicial.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 1 2 E 3 — item 35"
+    },
+    {
+      "id": "C123GER-39",
+      "tema": "D4",
+      "assunto": "Recurso administrativo e ato administrativo",
+      "enunciado": "Licença é considerada ato administrativo discricionário que reconhece o direito do particular ao exercício de determinada atividade.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 1 2 E 3 — item 39"
+    },
+    {
+      "id": "C45GER-33",
+      "tema": "D4",
+      "assunto": "Ato administrativo (recurso, licença, motivo)",
+      "enunciado": "O recurso apresentado ao chefe de Caio configura controle judicial.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 4 E 5 — item 33"
+    },
+    {
+      "id": "C45GER-35",
+      "tema": "D4",
+      "assunto": "Ato administrativo (recurso, licença, motivo)",
+      "enunciado": "Licença é considerada ato administrativo discricionário que reconhece o direito do particular ao exercício de determinada atividade.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 4 E 5 — item 35"
+    },
+    {
+      "id": "C45GER-37",
+      "tema": "D4",
+      "assunto": "Ato administrativo (recurso, licença, motivo)",
+      "enunciado": "O motivo, que expõe a situação de fato ou de direito que serve de fundamento para a atuação administrativa, é requisito indispensável do ato administrativo.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 4 E 5 — item 37"
+    },
+    {
+      "id": "C14ESP-111",
+      "tema": "D5",
+      "assunto": "Controle interno, externo e social; conformidade documental",
+      "enunciado": "A conformidade documental substitui os mecanismos de controle interno e externo, sendo suficiente para atestar a regularidade da gestão administrativa.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14 — item 111"
+    },
+    {
+      "id": "C6ESP-68",
+      "tema": "D5",
+      "assunto": "Accountability horizontal e controle social",
+      "enunciado": "No campo da accountability democrática, os mecanismos de controle social exercidos pelos cidadãos e pela sociedade civil organizada correspondem a formas de accountability horizontal, pois implicam fiscalização das ações governamentais por agentes externos ao Estado.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6 — item 68"
+    },
+    {
+      "id": "C9ESP-52",
+      "tema": "D5",
+      "assunto": "Sanções administrativas e competência dos tribunais de contas",
+      "enunciado": "Na aplicação de sanções administrativas, serão considerados a natureza e a gravidade da infração cometida, os danos que dela provierem para a administração pública, as circunstâncias agravantes ou atenuantes e os antecedentes do agente.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 9 — item 52"
+    },
+    {
+      "id": "C9ESP-59",
+      "tema": "D5",
+      "assunto": "Sanções administrativas e competência dos tribunais de contas",
+      "enunciado": "De acordo com o entendimento do STF, câmara municipal não detém competência para rever ato do tribunal de contas do estado que nega registro de admissão de pessoal.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 9 — item 59"
+    },
+    {
+      "id": "C9ESP-60",
+      "tema": "D5",
+      "assunto": "Sanções administrativas e competência dos tribunais de contas",
+      "enunciado": "A CF admite a criação de tribunal de contas municipal.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 9 — item 60"
+    },
+    {
+      "id": "C12GER-18",
+      "tema": "D5",
+      "assunto": "Tribunais de contas e controle externo",
+      "enunciado": "Compete ao estado ao qual está vinculado o tribunal de contas a execução de multa aplicada a agente público municipal, ainda que o débito decorra de dano causado ao erário municipal.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 12 — item 18"
+    },
+    {
+      "id": "C12GER-19",
+      "tema": "D5",
+      "assunto": "Tribunais de contas e controle externo",
+      "enunciado": "Os tribunais de contas, no exercício do controle externo, podem determinar aos órgãos de controle interno a realização de auditorias, em razão da subordinação deste sistema de controle àquele.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 12 — item 19"
+    },
+    {
+      "id": "C12GER-20",
+      "tema": "D5",
+      "assunto": "Tribunais de contas e controle externo",
+      "enunciado": "O Ministério Público de Contas não tem legitimidade para a execução de crédito decorrente de multa aplicada por tribunal de contas estadual a agente público municipal em razão de danos causados ao erário municipal.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 12 — item 20"
+    },
+    {
+      "id": "C12GER-21",
+      "tema": "D5",
+      "assunto": "Tribunais de contas e controle externo",
+      "enunciado": "O direito brasileiro adota o sistema da jurisdição una, no qual o Poder Judiciário detém o monopólio da função jurisdicional, o que afasta a existência de contencioso administrativo com função jurisdicional.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 12 — item 21"
+    },
+    {
+      "id": "C12GER-23",
+      "tema": "D5",
+      "assunto": "Tribunais de contas e controle externo",
+      "enunciado": "Sindicatos e partidos políticos são partes legítimas para denunciar ao TCE/RN irregularidades ou ilegalidades atribuídas a administrador sujeito à sua jurisdição, não se estendendo essa legitimidade ao cidadão em geral.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 12 — item 23"
+    },
+    {
+      "id": "C12GER-32",
+      "tema": "D5",
+      "assunto": "Tribunais de contas e controle externo",
+      "enunciado": "Ao tomar conhecimento de ilegalidades, qualquer cidadão tem o dever legal de denunciá-las perante o Tribunal de Contas da União.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 12 — item 32"
+    },
+    {
+      "id": "C12GER-33",
+      "tema": "D5",
+      "assunto": "Tribunais de contas e controle externo",
+      "enunciado": "Ao tomarem conhecimento de qualquer irregularidade ou ilegalidade, os responsáveis pelo controle interno deverão dar ciência ao Tribunal de Contas da União, sob pena de responsabilidade solidária.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 12 — item 33"
+    },
+    {
+      "id": "C13GER-20",
+      "tema": "D5",
+      "assunto": "Controle de mérito, autotutela e controle externo",
+      "enunciado": "O controle de mérito, fundamentado no princípio da autotutela, permite que a administração pública revogue atos legítimos por razões de conveniência e oportunidade, sendo tal prerrogativa extensível ao Poder Judiciário no exercício de sua função jurisdicional.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 13 — item 20"
+    },
+    {
+      "id": "C13GER-21",
+      "tema": "D5",
+      "assunto": "Controle de mérito, autotutela e controle externo",
+      "enunciado": "A sustação cautelar de procedimento licitatório pelo tribunal de contas, antes da prolação da decisão de mérito, é exemplo de controle prévio e legítimo, fundamentado no poder geral de cautela inerente às funções constitucionais dos tribunais de contas.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 13 — item 21"
+    },
+    {
+      "id": "C13GER-22",
+      "tema": "D5",
+      "assunto": "Controle de mérito, autotutela e controle externo",
+      "enunciado": "No âmbito da fiscalização da atividade financeira do Estado, compete ao Tribunal de Contas da União realizar a fiscalização contábil, financeira e orçamentária das renúncias de receitas concedidas pela União.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 13 — item 22"
+    },
+    {
+      "id": "C13GER-23",
+      "tema": "D5",
+      "assunto": "Controle de mérito, autotutela e controle externo",
+      "enunciado": "Os tribunais de contas têm competência para aplicar multas a prefeitos que atuem como ordenadores de despesas, independentemente do julgamento das contas anuais pelo Poder Legislativo.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 13 — item 23"
+    },
+    {
+      "id": "C13GER-24",
+      "tema": "D5",
+      "assunto": "Controle de mérito, autotutela e controle externo",
+      "enunciado": "Compete ao TCE/RN suspender a execução de ato ou procedimento diante da iminência de lesão grave e de difícil reparação ao patrimônio público, sendo vedada, contudo, a concessão da medida cautelar sem a prévia oitiva do gestor público responsável pelo ato ou procedimento.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 13 — item 24"
+    },
+    {
+      "id": "C14GER-22",
+      "tema": "D5",
+      "assunto": "Controle externo e sistemas de controle jurisdicional",
+      "enunciado": "A eficácia da atuação fiscalizatória do TCU pressupõe a outorga concomitante de competência sancionadora.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 14 — item 22"
+    },
+    {
+      "id": "C14GER-23",
+      "tema": "D5",
+      "assunto": "Controle externo e sistemas de controle jurisdicional",
+      "enunciado": "No exercício de sua função jurisdicional típica, o Poder Judiciário é incompetente para revogar atos administrativos do Poder Executivo sob o fundamento de oportunidade e conveniência, limitando-se à anulação daqueles que apresentem vícios de legalidade ou legitimidade.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 14 — item 23"
+    },
+    {
+      "id": "C14GER-24",
+      "tema": "D5",
+      "assunto": "Controle externo e sistemas de controle jurisdicional",
+      "enunciado": "No exercício do controle externo, compete ao tribunal de contas o julgamento definitivo das contas anuais de governo prestadas pelo chefe do Poder Executivo, as quais englobam o balanço geral e o relatório sobre a execução dos planos de governo e programas de trabalho.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 14 — item 24"
+    },
+    {
+      "id": "C14GER-25",
+      "tema": "D5",
+      "assunto": "Controle externo e sistemas de controle jurisdicional",
+      "enunciado": "As decisões do tribunal de contas de que resulte imputação de débito ou multa terão eficácia de título executivo, cabendo à corte de contas postular, em nome próprio, a respectiva ação de execução no Poder Judiciário em caso de inadimplência.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 14 — item 25"
+    },
+    {
+      "id": "C14GER-26",
+      "tema": "D5",
+      "assunto": "Controle externo e sistemas de controle jurisdicional",
+      "enunciado": "No sistema do contencioso administrativo, também conhecido como modelo francês, adota-se a dualidade de jurisdição, em que coexistem duas esferas jurisdicionais independentes: a comum e a administrativa.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 14 — item 26"
+    },
+    {
+      "id": "C14GER-27",
+      "tema": "D5",
+      "assunto": "Controle externo e sistemas de controle jurisdicional",
+      "enunciado": "No sistema de jurisdição una, cabe exclusivamente aos juízes e aos tribunais da jurisdição comum o julgamento definitivo de lides com a administração pública, salvo as decisões do TCU, que fazem coisa julgada material.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 14 — item 27"
+    },
+    {
+      "id": "C9GER-18",
+      "tema": "D5",
+      "assunto": "Tribunais de contas (execução de multa, OAB, prazos, MPC)",
+      "enunciado": "Compete ao estado ao qual está vinculado o tribunal de contas a execução de multa aplicada a agente público municipal, ainda que o débito decorra de dano causado ao erário municipal.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 9 — item 18"
+    },
+    {
+      "id": "C9GER-19",
+      "tema": "D5",
+      "assunto": "Tribunais de contas (execução de multa, OAB, prazos, MPC)",
+      "enunciado": "O Conselho Federal da Ordem dos Advogados do Brasil bem como seus conselhos seccionais não estão obrigados a prestar contas ao Tribunal de Contas da União.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 9 — item 19"
+    },
+    {
+      "id": "C9GER-20",
+      "tema": "D5",
+      "assunto": "Tribunais de contas (execução de multa, OAB, prazos, MPC)",
+      "enunciado": "Os tribunais de contas, no exercício do controle externo, podem determinar aos órgãos de controle interno a realização de auditorias, em razão da subordinação deste sistema de controle àquele.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 9 — item 20"
+    },
+    {
+      "id": "C9GER-21",
+      "tema": "D5",
+      "assunto": "Tribunais de contas (execução de multa, OAB, prazos, MPC)",
+      "enunciado": "Os tribunais de contas não estão sujeitos a prazo para o julgamento da legalidade dos atos de concessão inicial de aposentadoria, reforma ou pensão, por estes serem atos complexos que somente se aperfeiçoam com o registro pela corte de contas.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 9 — item 21"
+    },
+    {
+      "id": "C9GER-22",
+      "tema": "D5",
+      "assunto": "Tribunais de contas (execução de multa, OAB, prazos, MPC)",
+      "enunciado": "O Ministério Público de Contas não tem legitimidade para a execução de crédito decorrente de multa aplicada por tribunal de contas estadual a agente público municipal em razão de danos causados ao erário municipal.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 9 — item 22"
+    },
+    {
+      "id": "C123GER-17",
+      "tema": "D5",
+      "assunto": "Lei Orgânica do TCE/RN e controle da administração",
+      "enunciado": "Conforme a Lei Orgânica do TCE/RN, se, em tomada de contas especial, for apurado dano ao erário em valor inferior ao fixado anualmente pelo TCE/RN para fins de julgamento por esta corte de contas, o respectivo processo será anexado à tomada ou prestação de contas anual do administrador ou ordenador de despesa, para julgamento em conjunto.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 1 2 E 3 — item 17"
+    },
+    {
+      "id": "C123GER-18",
+      "tema": "D5",
+      "assunto": "Lei Orgânica do TCE/RN e controle da administração",
+      "enunciado": "Quanto ao momento, o controle da administração pública pode classificar-se em prévio, concomitante ou posterior.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 1 2 E 3 — item 18"
+    },
+    {
+      "id": "C123GER-19",
+      "tema": "D5",
+      "assunto": "Lei Orgânica do TCE/RN e controle da administração",
+      "enunciado": "De acordo com a Constituição Federal de 1988, os tribunais de contas apreciam, para fins de registro, a legalidade dos atos de nomeação de pessoal em cargos em comissão.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 1 2 E 3 — item 19"
+    },
+    {
+      "id": "C123GER-20",
+      "tema": "D5",
+      "assunto": "Lei Orgânica do TCE/RN e controle da administração",
+      "enunciado": "A Constituição Federal de 1988 exige quórum qualificado de dois terços da câmara municipal para que o parecer prévio emitido pelo tribunal de contas competente deixe de prevalecer.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 1 2 E 3 — item 20"
+    },
+    {
+      "id": "C12ESP-86",
+      "tema": "D6",
+      "assunto": "LAI — integridade e acesso à informação",
+      "enunciado": "De acordo com a Lei de Acesso à Informação, é dever do Estado garantir o direito de acesso à informação íntegra, sendo a integridade definida como a qualidade da informação coletada na fonte, com o máximo de detalhamento possível, sem modificações.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 12 — item 86"
+    },
+    {
+      "id": "C14ESP-115",
+      "tema": "D6",
+      "assunto": "Transparência, controle social e sistemas de informação",
+      "enunciado": "Os sistemas de informações utilizados na gestão orçamentária e financeira são essenciais para a transparência da gestão pública e para o exercício do controle social, na medida em que permitem o registro, o acompanhamento e a divulgação dos atos relacionados à execução orçamentária, financeira e patrimonial.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14 — item 115"
+    },
+    {
+      "id": "C6ESP-70",
+      "tema": "D6",
+      "assunto": "LAI e Política Nacional de Governo Aberto (CGU)",
+      "enunciado": "A Lei de Acesso à Informação, marco institucional na política de transparência pública brasileira, estabelece que o acesso à informação é a regra, e o sigilo, exceção, consolidando um modelo de administração pública orientado pela publicidade e pelo controle social.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6 — item 70"
+    },
+    {
+      "id": "C6ESP-74",
+      "tema": "D6",
+      "assunto": "LAI e Política Nacional de Governo Aberto (CGU)",
+      "enunciado": "Cabe à Controladoria-Geral da União (CGU) exercer a Secretaria Executiva do Comitê Interministerial de Governo Aberto.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6 — item 74"
+    },
+    {
+      "id": "C6ESP-75",
+      "tema": "D6",
+      "assunto": "LAI e Política Nacional de Governo Aberto (CGU)",
+      "enunciado": "O aumento da disponibilidade de informações sobre as atividades governamentais e o fomento à participação social em processos decisórios são diretrizes da Política Nacional de Governo Aberto.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6 — item 75"
+    },
+    {
+      "id": "C9GER-43",
+      "tema": "D6",
+      "assunto": "Transparência na atuação do tribunal de contas",
+      "enunciado": "Um tribunal de contas que implementa um sistema integrado com visualizações gráficas, análises comparativas e contextualizações está cumprindo as obrigações legais e, simultaneamente, elevando o padrão de transparência.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 9 — item 43"
+    },
+    {
+      "id": "C6781011GER-44",
+      "tema": "D6",
+      "assunto": "Transparência na atuação do tribunal de contas",
+      "enunciado": "Um tribunal de contas que implementa um sistema integrado com visualizações gráficas, análises comparativas e contextualizações está cumprindo as obrigações legais e, simultaneamente, elevando o padrão de transparência.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 6 7 8 10 E 11 — item 44"
+    },
+    {
+      "id": "C12ESP-85",
+      "tema": "D7",
+      "assunto": "LGPD — direitos do titular (bloqueio e eliminação)",
+      "enunciado": "A Lei Geral de Proteção de Dados Pessoais determina que o titular dos dados pessoais tem direito de obter do controlador tanto o bloqueio quanto a eliminação de dados desnecessários ou tratados em desconformidade com a referida lei.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 12 — item 85"
+    },
+    {
+      "id": "C4ESP-113",
+      "tema": "D7",
+      "assunto": "LGPD — anonimização",
+      "enunciado": "Consoante disposto na norma ABNT NBR ISO/IEC 27002:2022, anonimização consiste na alteração irreversível de dados pessoais de forma tal que o titular dos dados não pode mais ser identificado direta ou indiretamente; consoante o disposto na LGPD, anonimização consiste na utilização de meios técnicos por meio dos quais um dado perde a possibilidade de associação, direta ou indireta, a um indivíduo.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 4 — item 113"
+    },
+    {
+      "id": "C5ESP-113",
+      "tema": "D7",
+      "assunto": "LGPD — anonimização",
+      "enunciado": "Consoante disposto na norma ABNT NBR ISO/IEC 27002:2022, anonimização consiste na alteração irreversível de dados pessoais de forma tal que o titular dos dados não pode mais ser identificado direta ou indiretamente; consoante o disposto na LGPD, anonimização consiste na utilização de meios técnicos por meio dos quais um dado perde a possibilidade de associação, direta ou indireta, a um indivíduo.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5 — item 113"
+    },
+    {
+      "id": "C13GER-25",
+      "tema": "D7",
+      "assunto": "LGPD — controlador e operador",
+      "enunciado": "De acordo com a Lei Geral de Proteção de Dados Pessoais (LGPD), tanto o controlador — a quem competem as decisões referentes ao tratamento de dados pessoais —, quanto o operador — que realiza o tratamento de dados pessoais em nome do controlador — podem ser pessoas jurídicas de direito público ou privado.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 13 — item 25"
+    },
+    {
+      "id": "C14ESP-101",
+      "tema": "D9",
+      "assunto": "Fiscalização e gestão de contratos; responsabilidade por encargos trabalhistas",
+      "enunciado": "A retenção parcial do pagamento pela gestora contratual ante o inadimplemento salarial pela contratada configuraria enriquecimento ilícito da administração pública, pois houve a prestação do serviço.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14 — item 101"
+    },
+    {
+      "id": "C14ESP-102",
+      "tema": "D9",
+      "assunto": "Fiscalização e gestão de contratos; responsabilidade por encargos trabalhistas",
+      "enunciado": "Caso seja comprovado que a gestora do contrato agiu diligentemente ao fiscalizar e notificar a empresa W, o TCE não poderá ser responsabilizado subsidiariamente pelas verbas trabalhistas.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14 — item 102"
+    },
+    {
+      "id": "C14ESP-103",
+      "tema": "D9",
+      "assunto": "Fiscalização e gestão de contratos; responsabilidade por encargos trabalhistas",
+      "enunciado": "A responsabilidade pelos encargos trabalhistas, previdenciários, comerciais e fiscais decorrentes da execução do contrato administrativo é, em regra, da empresa W.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14 — item 103"
+    },
+    {
+      "id": "C14ESP-104",
+      "tema": "D9",
+      "assunto": "Fiscalização e gestão de contratos; responsabilidade por encargos trabalhistas",
+      "enunciado": "Eventual falta de repasse de verbas pelo TCE à empresa W justificaria o não pagamento dos salários, hipótese em que ao órgão seria transferida a responsabilidade integral pelos encargos trabalhistas relativos ao contrato.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14 — item 104"
+    },
+    {
+      "id": "C14ESP-105",
+      "tema": "D9",
+      "assunto": "Fiscalização e gestão de contratos; responsabilidade por encargos trabalhistas",
+      "enunciado": "O TCE pode condicionar o pagamento à empresa W à comprovação de quitação das obrigações trabalhistas vencidas relativas ao contrato.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14 — item 105"
+    },
+    {
+      "id": "C14ESP-106",
+      "tema": "D9",
+      "assunto": "Serviços contínuos com dedicação exclusiva de mão de obra (TR, ETP, garantia, fiscalização)",
+      "enunciado": "O termo de referência da contratação deve incluir a declaração do objeto, os critérios de seleção do fornecedor e os critérios de medição e pagamento.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14 — item 106"
+    },
+    {
+      "id": "C14ESP-107",
+      "tema": "D9",
+      "assunto": "Serviços contínuos com dedicação exclusiva de mão de obra (TR, ETP, garantia, fiscalização)",
+      "enunciado": "Na fase de planejamento da contratação de serviços contínuos com dedicação exclusiva de mão de obra, quando se tratar de renovação de vigência, é dispensável a elaboração de estudos técnicos preliminares.",
+      "gabarito": null,
+      "anulado": true,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14 — item 107"
+    },
+    {
+      "id": "C14ESP-108",
+      "tema": "D9",
+      "assunto": "Serviços contínuos com dedicação exclusiva de mão de obra (TR, ETP, garantia, fiscalização)",
+      "enunciado": "Durante a execução contratual, o contratante poderá solicitar à contratada a substituição de um vigilante, direcionando a respectiva vaga para pessoa específica, sob o argumento de que a pessoa é mais qualificada.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14 — item 108"
+    },
+    {
+      "id": "C14ESP-109",
+      "tema": "D9",
+      "assunto": "Serviços contínuos com dedicação exclusiva de mão de obra (TR, ETP, garantia, fiscalização)",
+      "enunciado": "No contrato em questão, haja vista o objeto ser a prestação de serviços contínuos com dedicação exclusiva de mão de obra, é obrigatória a exigência de garantia contratual.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14 — item 109"
+    },
+    {
+      "id": "C14ESP-110",
+      "tema": "D9",
+      "assunto": "Serviços contínuos com dedicação exclusiva de mão de obra (TR, ETP, garantia, fiscalização)",
+      "enunciado": "É permitida a designação de um gestor do contrato, de um fiscal técnico e de um fiscal administrativo, todos com atribuições distintas, garantindo-se a adequada segregação de funções na fiscalização contratual.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 14 — item 110"
+    },
+    {
+      "id": "C4ESP-114",
+      "tema": "D9",
+      "assunto": "Contratação de soluções de TI — propriedade intelectual",
+      "enunciado": "Ao final do contrato, os módulos implementados serão de propriedade da empresa contratada, que poderá repassar, mediante compensação financeira, os direitos de propriedade intelectual para o contratante.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 4 — item 114"
+    },
+    {
+      "id": "C4ESP-115",
+      "tema": "D9",
+      "assunto": "Gestor de contrato e apoio terceirizado",
+      "enunciado": "Na administração estadual, o gestor de contrato pode ser auxiliado, no cumprimento das atribuições do cargo, por recursos terceirizados.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 4 — item 115"
+    },
+    {
+      "id": "C4ESP-116",
+      "tema": "D9",
+      "assunto": "Responsabilidade por testes e provas técnicas",
+      "enunciado": "A menos que esteja expresso de forma diferente no edital, os testes e demais provas exigidos por normas técnicas são de responsabilidade do contratante, quando entidade pública.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 4 — item 116"
+    },
+    {
+      "id": "C4ESP-117",
+      "tema": "D9",
+      "assunto": "Critérios de julgamento em licitação",
+      "enunciado": "Estão entre os critérios de julgamento no modelo de licitação por concorrência: menor preço, melhor técnica, maior retorno econômico.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 4 — item 117"
+    },
+    {
+      "id": "C4ESP-118",
+      "tema": "D9",
+      "assunto": "Pesquisa de preços (IN SEGES/ME 65/2021)",
+      "enunciado": "Para fins de obtenção de preço estimado, a Instrução Normativa SEGES/ME n.º 65/2021 estipula como único método o cálculo da média a partir de um conjunto de três ou mais preços.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 4 — item 118"
+    },
+    {
+      "id": "C4ESP-119",
+      "tema": "D9",
+      "assunto": "Renovação de datacenter e priorização de nuvem (IN SGD/ME 94/2022)",
+      "enunciado": "Nos termos da Instrução Normativa SGD/ME n.º 94/2022, na renovação de centro de dados, deve-se priorizar a contratação de serviços em nuvem.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 4 — item 119"
+    },
+    {
+      "id": "C4ESP-120",
+      "tema": "D9",
+      "assunto": "Cooperação estrangeira e acordos internacionais",
+      "enunciado": "Em contratações que envolvam recursos de cooperação estrangeira, serão admitidas condições decorrentes de acordos internacionais desde que aprovadas pelo presidente da República.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 4 — item 120"
+    },
+    {
+      "id": "C5ESP-114",
+      "tema": "D9",
+      "assunto": "Contratação de soluções de TI — propriedade intelectual",
+      "enunciado": "Ao final do contrato, os módulos implementados serão de propriedade da empresa contratada, que poderá repassar, mediante compensação financeira, os direitos de propriedade intelectual para o contratante.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5 — item 114"
+    },
+    {
+      "id": "C5ESP-115",
+      "tema": "D9",
+      "assunto": "Gestor de contrato e apoio terceirizado",
+      "enunciado": "Na administração estadual, o gestor de contrato pode ser auxiliado, no cumprimento das atribuições do cargo, por recursos terceirizados.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5 — item 115"
+    },
+    {
+      "id": "C5ESP-116",
+      "tema": "D9",
+      "assunto": "Responsabilidade por testes e provas técnicas",
+      "enunciado": "A menos que esteja expresso de forma diferente no edital, os testes e demais provas exigidos por normas técnicas são de responsabilidade do contratante, quando entidade pública.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5 — item 116"
+    },
+    {
+      "id": "C5ESP-117",
+      "tema": "D9",
+      "assunto": "Pesquisa de preços (IN SEGES/ME 65/2021)",
+      "enunciado": "Para fins de obtenção de preço estimado, a Instrução Normativa SEGES/ME n.º 65/2021 estipula como único método o cálculo da média a partir de um conjunto de três ou mais preços.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5 — item 117"
+    },
+    {
+      "id": "C5ESP-118",
+      "tema": "D9",
+      "assunto": "Critérios de julgamento em licitação",
+      "enunciado": "Estão entre os critérios de julgamento no modelo de licitação por concorrência: menor preço, melhor técnica, maior retorno econômico.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5 — item 118"
+    },
+    {
+      "id": "C5ESP-119",
+      "tema": "D9",
+      "assunto": "Cooperação estrangeira e acordos internacionais",
+      "enunciado": "Em contratações que envolvam recursos de cooperação estrangeira, serão admitidas condições decorrentes de acordos internacionais desde que aprovadas pelo presidente da República.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5 — item 119"
+    },
+    {
+      "id": "C5ESP-120",
+      "tema": "D9",
+      "assunto": "Renovação de datacenter e priorização de nuvem (IN SGD/ME 94/2022)",
+      "enunciado": "Nos termos da Instrução Normativa SGD/ME n.º 94/2022, na renovação de centro de dados, deve-se priorizar a contratação de serviços em nuvem.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5 — item 120"
+    },
+    {
+      "id": "C6ESP-69",
+      "tema": "D9",
+      "assunto": "Planejamento de contratações e compras públicas",
+      "enunciado": "O planejamento prévio das contratações públicas e a adoção de mecanismos eletrônicos de compras públicas tendem a aumentar a eficiência das aquisições públicas; entretanto, na gestão de materiais do setor público, a mera existência de estoques não representa, por si só, evidência de ineficiência logística.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6 — item 69"
+    },
+    {
+      "id": "C9ESP-55",
+      "tema": "D9",
+      "assunto": "Modalidades de licitação e nulidade do contrato",
+      "enunciado": "O diálogo competitivo somente pode ser utilizado quando o objeto a ser contratado envolver, simultaneamente, as três seguintes condições: inovação tecnológica; inexistência de soluções disponíveis no mercado para atender a necessidade do contratante; e capacidade da administração pública de definir, com precisão suficiente, as especificações técnicas.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 9 — item 55"
+    },
+    {
+      "id": "C9ESP-56",
+      "tema": "D9",
+      "assunto": "Modalidades de licitação e nulidade do contrato",
+      "enunciado": "Caso não seja possível o saneamento de irregularidade constatada durante a execução contratual, a decisão sobre a declaração de nulidade do respectivo contrato administrativo somente será adotada na hipótese em que se revelar medida de interesse público, com avaliação, entre outros aspectos, dos riscos ambientais decorrentes do atraso na fruição dos benefícios do objeto do contrato.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 9 — item 56"
+    },
+    {
+      "id": "C12GER-34",
+      "tema": "D9",
+      "assunto": "Contratação direta e princípio da competitividade",
+      "enunciado": "Na hipótese de contratação direta indevida ocorrida com erro grosseiro, o contratado e o agente público responsável devem responder solidariamente pelo dano causado ao erário.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 12 — item 34"
+    },
+    {
+      "id": "C12GER-36",
+      "tema": "D9",
+      "assunto": "Contratação direta e princípio da competitividade",
+      "enunciado": "Previsto expressamente na vigente Lei de Licitações e Contratos, o princípio da competitividade garante a participação do maior número de licitantes qualificados possível, com vistas à obtenção da proposta mais vantajosa para a administração pública.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 12 — item 36"
+    },
+    {
+      "id": "C12GER-37",
+      "tema": "D9",
+      "assunto": "Contratação direta e princípio da competitividade",
+      "enunciado": "A contratação pública direta realizada com base no baixo valor do produto a ser adquirido é feita por inexigibilidade de licitação.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 12 — item 37"
+    },
+    {
+      "id": "C12GER-38",
+      "tema": "D9",
+      "assunto": "Contratação direta e princípio da competitividade",
+      "enunciado": "O processo de contratação direta deve ser instruído com autorização da autoridade competente e com justificativa de preço, sendo facultativa a apresentação da razão da escolha do contratado.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 12 — item 38"
+    },
+    {
+      "id": "C6781011GER-37",
+      "tema": "D9",
+      "assunto": "Contratação direta e princípio da competitividade",
+      "enunciado": "Na hipótese de contratação direta indevida ocorrida com erro grosseiro, o contratado e o agente público responsável devem responder solidariamente pelo dano causado ao erário.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 6 7 8 10 E 11 — item 37"
+    },
+    {
+      "id": "C6781011GER-39",
+      "tema": "D9",
+      "assunto": "Contratação direta e princípio da competitividade",
+      "enunciado": "A contratação pública direta realizada com base no baixo valor do produto a ser adquirido é feita por inexigibilidade de licitação.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 6 7 8 10 E 11 — item 39"
+    },
+    {
+      "id": "C6781011GER-40",
+      "tema": "D9",
+      "assunto": "Contratação direta e princípio da competitividade",
+      "enunciado": "Previsto expressamente na vigente Lei de Licitações e Contratos, o princípio da competitividade garante a participação do maior número de licitantes qualificados possível, com vistas à obtenção da proposta mais vantajosa para a administração pública.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 6 7 8 10 E 11 — item 40"
+    },
+    {
+      "id": "C6781011GER-41",
+      "tema": "D9",
+      "assunto": "Contratação direta e princípio da competitividade",
+      "enunciado": "O processo de contratação direta deve ser instruído com autorização da autoridade competente e com justificativa de preço, sendo facultativa a apresentação da razão da escolha do contratado.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA OS CARGOS 6 7 8 10 E 11 — item 41"
+    },
+    {
+      "id": "C6ESP-83",
+      "tema": "D10",
+      "assunto": "Combate à corrupção e dispersão dos mecanismos de controle",
+      "enunciado": "Uma das principais dificuldades no combate à corrupção na administração pública é a dispersão dos mecanismos de controle entre diferentes entidades e órgãos.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 6 — item 83"
+    },
+    {
+      "id": "C12GER-22",
+      "tema": "D10",
+      "assunto": "Improbidade administrativa e competência do tribunal de contas",
+      "enunciado": "No âmbito de tomada de contas especial, não compete ao tribunal de contas a aferição de dolo para fins de caracterização de ato de improbidade administrativa, devendo a corte de contas realizar o julgamento técnico das contas e a apuração de dano ao erário.",
+      "gabarito": "C",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 12 — item 22"
+    },
+    {
+      "id": "C12GER-31",
+      "tema": "D10",
+      "assunto": "Improbidade administrativa e direitos políticos",
+      "enunciado": "A condenação por improbidade administrativa tem como consequência inerente a cassação dos direitos políticos.",
+      "gabarito": "E",
+      "anulado": false,
+      "fonte": "PROVA OBJETIVA CONHECIMENTOS GERAIS PARA O CARGO 12 — item 31"
+    }
+  ]
+}
