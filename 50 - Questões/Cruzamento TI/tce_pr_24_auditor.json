@@ -1,0 +1,51 @@
+{
+  "concurso": "tce_pr_24_auditor",
+  "arquivos": [
+    "Provas relevantes (CGU AFFC)/tce_pr_24_auditor/PROVA OBJETIVA CONHECIMENTOS ESPECIFICOS CARGO 5.md"
+  ],
+  "total_itens_ti": 38,
+  "por_tema": {
+    "E1.1": 2,
+    "E2.2": 1,
+    "E2.4": 5,
+    "E2.5": 5,
+    "E3.1": 4,
+    "E3.4": 5,
+    "E4.1": 4,
+    "E4.2": 1,
+    "E4.4": 6,
+    "E4.5": 5
+  },
+  "assuntos": [
+    { "tema": "E1.1", "assunto": "Tarefas da engenharia de requisitos (elaboração)", "itens": [51] },
+    { "tema": "E1.1", "assunto": "Técnicas de elicitação de requisitos (etnografia)", "itens": [52] },
+    { "tema": "E2.2", "assunto": "Gestão de identidades atribuídas a várias pessoas (ISO/IEC 27002:2022)", "itens": [83] },
+    { "tema": "E2.4", "assunto": "Aprendizado de máquina: etapa inicial do processo de classificação", "itens": [96] },
+    { "tema": "E2.4", "assunto": "Aprendizado ativo (seleção de dados de treinamento)", "itens": [97] },
+    { "tema": "E2.4", "assunto": "Técnica de agrupamento (clusterização) sem base de referência", "itens": [98] },
+    { "tema": "E2.4", "assunto": "Análise de regressão entre variáveis", "itens": [99] },
+    { "tema": "E2.4", "assunto": "Redução de dimensionalidade em data lake / Big Data", "itens": [100] },
+    { "tema": "E2.5", "assunto": "Computação em nuvem: modelos de serviço IaaS, PaaS e SaaS", "itens": [63, 64] },
+    { "tema": "E2.5", "assunto": "Continuidade de negócios e estratégias de continuidade (ISO/IEC 22301)", "itens": [91, 94] },
+    { "tema": "E2.5", "assunto": "Protocolo SYSLOG: níveis de severidade", "itens": [95] },
+    { "tema": "E3.1", "assunto": "SQL Server 2022: recursos, edições e atualização de versões", "itens": [72, 73] },
+    { "tema": "E3.1", "assunto": "Bancos NoSQL (Azure Cosmos DB e MongoDB Atlas): adequação e recursos", "itens": [74, 75] },
+    { "tema": "E3.4", "assunto": "Classificação das informações (ISO/IEC 27002:2022)", "itens": [81] },
+    { "tema": "E3.4", "assunto": "Proteção dos registros organizacionais (ISO/IEC 27002:2022)", "itens": [82] },
+    { "tema": "E3.4", "assunto": "Estrutura do padrão AES de criptografia", "itens": [84] },
+    { "tema": "E3.4", "assunto": "Ataque contra o RSA (chosen ciphertext / criptoanálise)", "itens": [85] },
+    { "tema": "E3.4", "assunto": "Escolha de algoritmo de hash para verificação de integridade", "itens": [86] },
+    { "tema": "E4.1", "assunto": "Registros e correlação de eventos de segurança (ISO/IEC 27002:2022)", "itens": [88] },
+    { "tema": "E4.1", "assunto": "Ataque DoS na camada MAC de redes 802.11 (inundação de autenticação)", "itens": [89] },
+    { "tema": "E4.1", "assunto": "Exploração de SQL injection", "itens": [92] },
+    { "tema": "E4.1", "assunto": "Malware do tipo rootkit", "itens": [93] },
+    { "tema": "E4.2", "assunto": "Modelo de qualidade de produto de software (ISO/IEC 25010:2011)", "itens": [53] },
+    { "tema": "E4.4", "assunto": "COBIT 2019: princípios de governança e de framework", "itens": [68] },
+    { "tema": "E4.4", "assunto": "COBIT 2019: fases da abordagem de implementação", "itens": [69] },
+    { "tema": "E4.4", "assunto": "ITIL 4: SVS, princípios, dimensões e práticas", "itens": [70, 71] },
+    { "tema": "E4.4", "assunto": "Auditoria interna do sistema de gestão de segurança da informação (ISO/IEC 27001:2022)", "itens": [87] },
+    { "tema": "E4.4", "assunto": "Gestão de riscos de segurança (ISO/IEC 27005)", "itens": [90] },
+    { "tema": "E4.5", "assunto": "Lei n.º 14.133/2021: critérios de julgamento e modalidades de licitação", "itens": [76, 79] },
+    { "tema": "E4.5", "assunto": "IN SGD/ME n.º 94/2022: habilitação técnica, julgamento, gestão e fiscalização de contratos de TI", "itens": [77, 78, 80] }
+  ]
+}
