@@ -130,7 +130,7 @@ No plano das interpretações, **Gilberto Freyre** (*Casa-Grande & Senzala*, 193
 - **Estigma de programas focalizados:** a exigência de comprovação de pobreza e o desenho dos programas podem **estigmatizar** beneficiários, funcionando como barreira simbólica.
 - **Informalidade como exclusão:** quem está fora do mercado formal fica, historicamente, fora de direitos (cidadania regulada) — a **inclusão** exige universalizar a proteção.
 
-## Detalhes que merecem destaque — esta é a chave da análise de Florestan Fernandes e das desigualdades raciais atuais.
+## Detalhes que merecem destaque
 - **"Homem cordial" (Sérgio Buarque) NÃO é "pessoa simpática/educada"** — é a primazia do **afetivo e do pessoal** sobre a impessoalidade da lei.
 - **Cidadania regulada (Wanderley G. dos Santos):** direitos sociais atrelados à **carteira de trabalho**, não à condição de cidadão — explica a exclusão dos informais.
 - **Patrimonialismo ≠ corrupção** (sinônimo aproximado, mas tecnicamente é a confusão público/privado; a corrupção é uma de suas manifestações).

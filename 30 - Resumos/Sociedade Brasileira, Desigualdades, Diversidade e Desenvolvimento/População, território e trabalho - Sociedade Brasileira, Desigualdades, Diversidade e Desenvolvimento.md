@@ -116,7 +116,7 @@ A população se distribui de forma **territorialmente desigual**: as regiões *
 | Idosos | cresce (37,8% em 2070) | saúde, cuidado, acessibilidade, combate ao idadismo |
 | Território | envelhecimento desigual | planejamento regional diferenciado |
 
-## Detalhes que merecem destaque — depende de emprego, educação e poupança; sem políticas, perde-se.
+## Detalhes que merecem destaque
 - Números que caem em prova: **fecundidade 1,57 (2023)**; **idosos 15,6% (2023)** e **37,8% (2070)**; **população para de crescer em 2041**; **índice de envelhecimento 80,0 (2022)**; **expectativa de vida 75,5 anos (2022)**.
 - **Feminização da velhice** e **feminização do cuidado** — o trabalho de cuidado (não remunerado) é desproporcionalmente feminino.
 - **Informalidade 31,77% (2024, Ipea)** — mas com enormes diferenças regionais e demográficas (mulheres, negros, jovens, rurais).

@@ -21,7 +21,7 @@ tags: [resumo, etica-publica, cgu-2026]
 
 ## Resumo
 
-A **integridade** deixa de ser apenas uma virtude individual e passa a ser **responsabilidade institucional**: cabe à organização pública criar condições para que as pessoas ajam de forma íntegra, e não apenas puni-las quando falham. A **integridade pública** é definida como o **alinhamento consistente e a aderência a valores, princípios e normas éticas** para proteger o interesse público — conceito adotado pela OCDE e incorporado pela CGU. No Brasil, o marco normativo é o **Decreto nº 9.203/2017** (política de governança da administração pública federal), que eleva a **integridade à condição de princípio da governança** (art. 3º, II) e torna **obrigatória a instituição de programa de integridade** (art. 19), regulamentado pela **Portaria CGU nº 57/2019** (que alterou a Portaria nº 1.089/2018).
+A **integridade** deixa de ser apenas uma virtude individual e passa a ser **responsabilidade institucional**: cabe à organização pública criar condições para que as pessoas ajam de forma íntegra, e não apenas puni-las quando falham. A **integridade pública** é definida como o **alinhamento consistente e a aderência a valores, princípios e normas éticas** para proteger o interesse público — conceito adotado pela OCDE e incorporado pela CGU. No Brasil, o marco normativo é o **Decreto nº 9.203/2017** (política de governança da administração pública federal), que eleva a **integridade à condição de princípio da governança** (art. 3º, II) e torna **obrigatória a instituição de programa de integridade** (art. 19), regulamentado pela **Portaria CGU nº 57/2019** (que alterou a Portaria nº 1.089/2018) — normas hoje **revogadas pela Portaria Normativa CGU nº 234/2025**, que aprovou o **Referencial Técnico da Atividade de Gestão da Integridade** do Poder Executivo federal.
 
 O programa de integridade estrutura-se em **quatro eixos** (Decreto nº 9.203/2017, art. 19): (1) **comprometimento e apoio da alta administração**; (2) **existência de unidade responsável** pela implementação; (3) **análise, avaliação e gestão dos riscos** associados à integridade; e (4) **monitoramento contínuo**. Esses eixos materializam os quatro temas do edital: a **coerência entre regras e práticas** (códigos, padrões de conduta e sua efetiva aplicação), o **ambiente organizacional e incentivos** (tone at the top, liderança, capacitação), os **canais de orientação e relato** (comissões de ética, ouvidoria, Fala.BR) e o **papel do exemplo, da confiança e da prestação de contas** (accountability, transparência, responsabilização).
 
@@ -130,6 +130,7 @@ Na Cebraspe, os erros típicos são: confundir os **quatro eixos** do programa d
 - O **"tone at the top"** e a **coerência regras-práticas** são centrais: norma sem aplicação efetiva não gera integridade.
 - **Canais**: orientação (comissão de ética, CEP/CGU, UGI) × relato (ouvidoria/Fala.BR, com anonimato e proteção ao denunciante).
 - **Prestação de contas** (accountability), **confiança** e **exemplo** da liderança completam o tripé da integridade institucional.
+- **Atualização normativa:** a **Portaria CGU nº 57/2019** (e a nº 1.089/2018) foram **revogadas** pela **Portaria Normativa CGU nº 234/2025**, que aprovou o Referencial Técnico da Atividade de Gestão da Integridade; a unidade responsável passou a ser chamada de **Unidade Setorial de Integridade (USI)** — o eixo "existência de unidade responsável" (Decreto nº 9.203/2017, art. 19) permanece o mesmo.
 
 ## Base normativa (mapa rápido)
 
@@ -184,6 +185,7 @@ SORT file.name ASC
 - Decreto nº 9.203/2017 (política de governança da administração pública federal): <https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/decreto/D9203.htm>
 - Portaria CGU nº 57/2019 (programas de integridade — altera a Portaria nº 1.089/2018): <https://www.gov.br/cgu/pt-br/assuntos/integridade-publica/programa-de-integridade>
 - Portaria CGU nº 1.089/2018 (orientações para estruturação dos programas de integridade): <https://basedeconhecimento.cgu.gov.br/items/d5c6a3b6-843e-4d39-93c9-21f00fbd0936>
+- Portaria Normativa CGU nº 234/2025 (Referencial Técnico da Atividade de Gestão da Integridade; revoga as Portarias nº 1.089/2018 e nº 57/2019): <https://basedeconhecimento.cgu.gov.br/items/3fed789e-de40-4e2b-834e-e1924e5ea31c>
 - Decreto nº 6.029/2007 (Sistema de Gestão da Ética): <https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6029.htm>
 - Decreto nº 10.153/2019 (proteção à identidade do denunciante): <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/D10153.htm>
 - Lei nº 13.608/2018 (proteção contra retaliação): <https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13608.htm>

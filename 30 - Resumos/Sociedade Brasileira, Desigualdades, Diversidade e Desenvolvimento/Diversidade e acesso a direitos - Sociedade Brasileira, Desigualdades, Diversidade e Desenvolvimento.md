@@ -130,7 +130,7 @@ Para as **pessoas com deficiência**, a **Lei Brasileira de Inclusão (Lei nº 1
 - **Convenção Interamericana contra o Racismo** e **Convenção de Belém do Pará** (violência contra a mulher): parâmetros regionais incorporados à interpretação dos direitos.
 - **Importância para prova:** normas internacionais com status constitucional ou supralegal orientam a **interpretação** da CF e das leis ordinárias (ex.: Convenção da ONU sobre PCD fundamenta a plena capacidade civil).
 
-## Detalhes que merecem destaque (modelo social) — não é doença nem incapacidade intrínseca.
+## Detalhes que merecem destaque
 - **A deficiência NÃO afeta a plena capacidade civil** (art. 6º da LBI) — pegadinha clássica contra o antigo regime de interdição.
 - **Acessibilidade (art. 3º, I) = alcance com segurança e autonomia**; barreiras incluem as **atitudinais** e **tecnológicas**, não só arquitetônicas.
 - **Racismo = inafiançável e imprescritível**; **injúria racial** tornou-se também imprescritível com a **Lei 14.532/2023**.
