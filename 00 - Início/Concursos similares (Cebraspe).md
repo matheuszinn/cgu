@@ -1,6 +1,6 @@
 # Concursos similares ao CGU AFFC (mesma banca: Cebraspe)
 
-> **Objetivo:** reunir concursos da **Cebraspe** parecidos com o **CGU 2026 – AFFC (Cargo 4 – TI/Desenvolvimento de Sistemas)**, para usar como fonte de **provas, gabaritos e padrões de questão**.
+> **Objetivo:** reunir concursos da **Cebraspe** parecidos com o **CGU 2026 – AFFC (Cargo 2 – TI/Ciência de Dados)**, para usar como fonte de **provas, gabaritos e padrões de questão**.
 > Todas as páginas oficiais ficam no padrão `https://www.cebraspe.org.br/concursos/<slug>` e trazem **edital, provas, gabaritos e comunicados**.
 > Página geral de concursos da banca: <https://www.cebraspe.org.br/concursos>
 
@@ -51,7 +51,7 @@ Mesma banca/estilo (Certo/Errado) e alto nível — úteis para treinar o format
 
 ## Como aproveitar essas provas
 1. **Prioridade máxima:** **TCU 25 AUFC (Auditoria de TI)** e **TCE-RN 25 / TCE-RS 25** — mesma área, mesma banca e formato idêntico.
-2. Para **específicos de TI**, use **BCB 24** e **FUNPRESP-JUD 26 (Desenvolvimento de Sistemas)**.
+2. Para **específicos de TI e Dados**, use **BCB 24**, **Telebrás 25** e concursos correlatos.
 3. Para **Direito/controle/integridade**, use **CGE-CE 18**, **SEPLAD-DF 22 (CGDF)** e as **SEFAZs**.
 4. Em cada página há **edital + caderno de prova + gabarito** — resolva no formato **Certo/Errado com penalização** (uma errada anula uma certa).
 

@@ -1,7 +1,7 @@
-# Provas/Relevantes (CGU AFFC) para o CGU AFFC (Cargo 4 – TI/Desenvolvimento de Sistemas)
+# Provas/Relevantes (CGU AFFC) para o CGU AFFC (Cargo 2 – TI/Ciência de Dados)
 
-Estas são as provas (formato `.md`) cujo conteúdo se aproxima do **edital da CGU 2026 – Cargo 4**
-(TI/Desenvolvimento de Sistemas). Incluídas:
+Estas são as provas (formato `.md`) cujo conteúdo se aproxima do **edital da CGU 2026 – Cargo 2**
+(TI/Ciência de Dados). Incluídas:
 
 - **Conhecimentos básicos/gerais** de todos os concursos de controle/auditoria/TI (português, direito, administração pública, ética…);
 - **Conhecimentos específicos** dos cargos de **TI**, **Direito**, **Controle/Auditoria/Fiscal** e **Administração/Gestão/Políticas Públicas**.

@@ -10,7 +10,7 @@ tags:
 
 # Análise — Modelo e pontuação da prova (CGU 2026)
 
-> Base: **Edital nº 1/2026 – CGU – AFFC, de 8/10/2026** (itens 7, 8, 9, 11 e 12) — **Cargo 4: TI / Desenvolvimento de Sistemas**.
+> Base: **Edital nº 1/2026 – CGU – AFFC, de 8/10/2026** (itens 7, 8, 9, 11 e 12) — **Cargo 2: TI / Ciência de Dados**.
 > Banca: **Cebraspe**. Provas: **13/12/2026**.
 
 ## 1. Modelo da prova (estrutura)
@@ -21,7 +21,7 @@ O exame de habilidades e conhecimentos é composto por **provas objetivas + prov
 | ------ | --------------------------------------- | :----: | :--------------: | ----- |
 | **P1** | Conhecimentos **básicos**               | **40** |      40,00       | manhã |
 | **P2** | Conhecimentos **complementares**        | **40** |      40,00       | manhã |
-| **P3** | Conhecimentos **específicos** (Cargo 4) | **90** |      180,00      | manhã |
+| **P3** | Conhecimentos **específicos** (Cargo 2) | **90** |      180,00      | manhã |
 | **P4** | **Discursiva** (2 questões)             |   2    |      100,00      | tarde |
 
 - **Formato dos itens:** todos os itens das provas objetivas são de **julgamento CERTO/ERRADO** (não há alternativas A–E na prova).
@@ -58,7 +58,7 @@ A nota de **cada item** depende da prova (vale a regra “**uma errada anula uma
 
 ### Aprovação nas objetivas (8.11.5)
 
-São aprovados os **não eliminados** e **mais bem classificados** por `cargo/especialidade/lotação` até os quantitativos do edital. Para o **Cargo 4 (Órgão Central – DF)**: **36 candidatos por modalidade** (AC, PcD, PP, PI, PQ) → até **180** têm a discursiva corrigida. (Há ainda regras de ações afirmativas e de equiparação de gênero — 8.11.5.2.)
+São aprovados os **não eliminados** e **mais bem classificados** por `cargo/especialidade/lotação` até os quantitativos do edital. Para o **Cargo 2 (Órgão Central – DF)**: **36 candidatos por modalidade** (AC, PcD, PP, PI, PQ) → até **180** têm a discursiva corrigida. (Há ainda regras de ações afirmativas e de equiparação de gênero — 8.11.5.2.)
 
 ## 3. Prova discursiva (item 9)
 
@@ -84,7 +84,7 @@ São aprovados os **não eliminados** e **mais bem classificados** por `cargo/es
 
 > **Ponto-chave:** na nota final, **a discursiva (100 pts → 10) pesa o mesmo que TODA a prova objetiva (260 pts → 10)** — ou seja, **50% da classificação final** depende de 2 questões discursivas. Os resultados são expressos até a 2ª casa decimal.
 
-A classificação é feita por `cargo/especialidade/lotação`, em ordem **decrescente da NFC**, até o **limite de aprovados** (subitem 4.1; para o Cargo 4: **10 vagas imediatas + cadastro de reserva, limite de 54**).
+A classificação é feita por `cargo/especialidade/lotação`, em ordem **decrescente da NFC**, até o **limite de aprovados** (subitem 4.1; para o Cargo 2: **10 vagas imediatas + cadastro de reserva, limite de 54**).
 
 ## 5. Critérios de desempate (item 12) — ordem de preferência
 
@@ -103,7 +103,7 @@ A classificação é feita por `cargo/especialidade/lotação`, em ordem **decre
 1. **Peso:** o objetivo pesa 260 (P3 sozinha = 180, ~69% do objetivo) e a discursiva pesa 100 — mas, na **NFC**, ambos valem **10 cada** (50/50). **A discursiva é decisiva.**
 2. **Penalização (net scoring):** erro **anula** acerto. **Chutar é caro**; em dúvida, **deixar em branco = 0** (nem ganha nem perde). O candidato deve **só marcar o que tem convicção**.
 3. **Mínimos eliminatórios:** garantir com folga `P1 ≥ 8`, `P2 ≥ 12`, `P3 ≥ 54`, `NFPO ≥ 78` e `NFPD ≥ 50`.
-4. **Específicos (P3):** 90 itens × 2 = o **maior volume de pontos objetivos**; é o núcleo técnico (Cargo 4).
+4. **Específicos (P3):** 90 itens × 2 = o **maior volume de pontos objetivos**; é o núcleo técnico (Cargo 2).
 5. **Discursiva:** treinar **texto dissertativo** (30 linhas de complementares + situação-problema de 60 linhas), com **coerência/coesão** e **norma culta** — cada erro gramatical **desconta** (fórmula NQ).
 6. **Balanço da banca:** a Cebraspe equilibra itens **certos/errados** (~50/50) e usa **pegadinhas** (termos absolutos, inversão de conceitos) → treine no formato Certo/Errado com **gestão de risco**.
 

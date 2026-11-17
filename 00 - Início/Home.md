@@ -8,7 +8,7 @@ tags:
 # CGU 2026 — Auditor Federal de Finanças e Controle (AFFC)
 
 > Painel inicial do vault para o **Edital nº 1 – CGU – AFFC, de 8 de outubro de 2026**.
-> Alvo: **Cargo 4 — TI / Desenvolvimento de Sistemas**.
+> Alvo: **Cargo 2 — TI / Ciência de Dados**.
 
 ## 📄 Edital
 
@@ -21,7 +21,7 @@ tags:
 | Item | Informação |
 |---|---|
 | Cargo | Auditor Federal de Finanças e Controle (AFFC) |
-| Especialidade | Tecnologia da Informação – **Desenvolvimento de Sistemas** (Cargo 4) |
+| Especialidade | Tecnologia da Informação – **Ciência de Dados** (Cargo 2) |
 | Requisito | Curso superior em qualquer área |
 | Subsídio inicial | R$ 20.000,00 |
 | Jornada | 40 horas semanais |
@@ -73,12 +73,12 @@ tags:
 - Fundamentos de Evidências, Dados e Inteligência Artificial
 - Fundamentos de Auditoria Governamental e Atuação Integrada da CGU
 
-### Conhecimentos específicos — Desenvolvimento de Sistemas
+### Conhecimentos específicos — Ciência de Dados
 
-- Engenharia de Software e Programação
-- Arquitetura e Integração de Sistemas
-- Persistência, Integração e Proteção de Dados
-- Desenvolvimento Seguro, Qualidade e Gestão da Entrega
+- Estatística, Programação e Análise de Dados
+- Engenharia, Arquitetura e Governança de Dados
+- Aprendizado de Máquina e Inteligência Artificial
+- Operação, Governança e Gestão de Soluções de Dados e IA
 
 ## Disciplinas (MOCs)
 

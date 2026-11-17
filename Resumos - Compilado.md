@@ -4873,7 +4873,7 @@ Concursos correlatos também da Cebraspe: **TCE-PR, TCE-AC, TCE-MA, TCE-MG, CGE-
 | **Lei 13.844/2019** | Competências das secretarias da CGU | Governança, Riscos e Integridade |
 | **LC 101/2000 (LRF)** | Responsabilidade fiscal (limites, controle) | (AFO) |
 
-### 5. Traduzindo para o seu edital (CGU 2026 – Cargo 4)
+### 5. Traduzindo para o seu edital (CGU 2026 – Cargo 2)
 
 Prioridades de estudo no bloco jurídico, em ordem prática:
 

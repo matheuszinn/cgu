@@ -8,7 +8,7 @@ tags: [analise, cebraspe, cgu-2026]
 
 # Incidência CEBRASPE — Conhecimentos Complementares (CGU 2026)
 
-> **Escopo:** Edital nº 1/2026 – CGU – AFFC (Cargo 4 – Tecnologia da Informação / Desenvolvimento de Sistemas).
+> **Escopo:** Edital nº 1/2026 – CGU – AFFC (Cargo 2 – Tecnologia da Informação / Ciência de Dados).
 > Bloco **P2 – Conhecimentos Complementares** (40 itens, 1 ponto por item, modelo Certo/Errado).
 > Esta análise usa como base **provas da banca Cebraspe (CESPE/UnB)** em concursos de **controle, auditoria, tribunais de contas e gestão** (CGU, TCU, TCEs/TCMs, TCDF, CGDF, AGU, CGEs, área "Controle"), além do levantamento de incidência por assunto e por artigo de lei publicado por cursos e plataformas de questões. Como o bloco "Conhecimentos Complementares" com esta nomenclatura é **novo no edital da CGU 2026**, a incidência é **inferida** a partir de disciplinas/temas equivalentes historicamente cobrados pela banca.
 

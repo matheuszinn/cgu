@@ -8,7 +8,7 @@ tags: [analise, cebraspe, cgu-2026]
 
 # Incidência CEBRASPE — Conhecimentos Básicos (CGU 2026)
 
-**Escopo:** Edital nº 1/2026 – CGU – AFFC, de 8 de outubro de 2026, **Cargo 4 – Auditor Federal de Finanças e Controle (AFFC) – Tecnologia da Informação – Desenvolvimento de Sistemas**. Este estudo analisa exclusivamente os quatro itens de **Conhecimentos Básicos (P1 – 40 itens)**.
+**Escopo:** Edital nº 1/2026 – CGU – AFFC, de 8 de outubro de 2026, **Cargo 2 – Auditor Federal de Finanças e Controle (AFFC) – Tecnologia da Informação – Ciência de Dados**. Este estudo analisa exclusivamente os quatro itens de **Conhecimentos Básicos (P1 – 40 itens)**.
 
 > [!info] Nota metodológica
 > Como o concurso CGU 2026 ainda **não teve prova aplicada** (provas em 13/12/2026), esta análise usa como base **provas e estatísticas de incidência de exames da Cebraspe** já realizados, com foco no perfil de **controle, auditoria, gestão, tribunais de contas e controladorias (CGU, TCU, TCEs, CGDF/CGEs)**. O conteúdo de "Conhecimentos Básicos" do edital 2026 é interdisciplinar e não corresponde 1:1 às disciplinas tradicionais dos bancos de questões; por isso, cada item foi mapeado para as matérias mais próximas (Administração Pública, Ciência Política, Ética, Sociologia, Direito Constitucional).

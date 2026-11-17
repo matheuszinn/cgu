@@ -11,7 +11,7 @@ tags:
 
 # Fundamentos de Evidências, Dados e Inteligência Artificial
 
-> **Conhecimentos complementares** — Edital nº 1/2026 – CGU – AFFC (Cargo 4 – TI/Desenvolvimento de Sistemas).
+> **Conhecimentos complementares** — Edital nº 1/2026 – CGU – AFFC (Cargo 2 – TI/Ciência de Dados).
 > Texto integral do edital: [[Edital CGU 2026 (texto integral)]].
 
 ## Itens do edital (checklist)

@@ -8,7 +8,7 @@ tags:
 # Índice de Disciplinas (MOCs)
 
 > Conteúdo programático do **Edital nº 1/2026 – CGU – AFFC** organizado em MOCs.
-> Alvo: **Cargo 4 – TI / Desenvolvimento de Sistemas**. Texto integral: [[Edital CGU 2026 (texto integral)]].
+> Alvo: **Cargo 2 – TI / Ciência de Dados**. Texto integral: [[Edital CGU 2026 (texto integral)]].
 
 ## Conhecimentos básicos
 
@@ -25,12 +25,12 @@ tags:
 - [[Fundamentos de Evidências, Dados e Inteligência Artificial]]
 - [[Fundamentos de Auditoria Governamental e Atuação Integrada da CGU]]
 
-## Conhecimentos específicos — Desenvolvimento de Sistemas
+## Conhecimentos específicos — Ciência de Dados (Cargo 2)
 
-- [[Engenharia de Software e Programação]]
-- [[Arquitetura e Integração de Sistemas]]
-- [[Persistência, Integração e Proteção de Dados]]
-- [[Desenvolvimento Seguro, Qualidade e Gestão da Entrega]]
+- [[Estatística, Programação e Análise de Dados]]
+- [[Engenharia, Arquitetura e Governança de Dados]]
+- [[Aprendizado de Máquina e Inteligência Artificial]]
+- [[Operação, Governança e Gestão de Soluções de Dados e IA]]
 
 ## Todas as disciplinas (automático)
 
