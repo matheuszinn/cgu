@@ -1,9 +1,0 @@
-{
-  "autoSaveInterval": 10,
-  "autoBackup": false,
-  "commitMessage": "vault backup: {{date}}",
-  "pullOnPush": true,
-  "pushOnCommit": true,
-  "syncMethod": "merge",
-  "gitLanguage": "en"
-}

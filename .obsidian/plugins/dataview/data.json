@@ -1,8 +1,0 @@
-{
-  "renderNullAs": "—",
-  "enableDataviewJs": false,
-  "enableInlineDataviewJs": false,
-  "prettyRenderInlineFields": true,
-  "defaultDateFormat": "yyyy-MM-dd",
-  "defaultTimeFormat": "HH:mm"
-}
